@@ -1,0 +1,20 @@
+#+title: A TEI XML file for the Kokinwakashu combined from lexically annotated sources and bibliographically annotated sources
+
+This repository combines two sources of TEI XML files for the Kokinwakashu, a classical Japanese poetry anthology.
+
+The first source is a lexically annotated TEI XML file, which is a subset of the [[https://github.com/yamagen/hachidaishu][Hachidaishu Vocabulary Dateset]].
+
+The second source is a bibliographically annotated TEI XML file, which is a digitalized version of the Karoku 2 Manuscript of the Kokinwakashu, provided by the [[https://github.com/kokubunken/kokinwakashu][嘉禄二年本『古今和歌集』の翻刻およびTEI/XMLデータ]] repository.
+
+Note: The process of combining is assisted by Large Language Models.
+
+* TODO list
+- [] Separate embedded lexical and morphological information from the lexical DB into a word list and put it in the TEI header. Tokens in the text body should be linked to the word list by their IDs with the tag =<w ref="wordlist#id">=.
+  + [] Design the ontology for the word objects in the wordlist. Maybe as a word entry in a dictionary, with multiple senses and possible decompositions.
+  + [] Transform the morphological information into the designed ontology for the word objects in the wordlist.
+- [] Add the word list to the bibliographical DB's TEI header.
+- [] Add the word reference tags to the text body of the bibliographical DB's TEI XML file, linking to the word list in the header.
+  + [] Design a tool to query the same poem in the modified lexical DB (with word reference tags) and the bibliographical DB;
+  + [] Use agents to use the tool to check the queried poem in both DBs, and report ideal taggings for the poem in the bibliographical DB, and ask me to confirm the tagging suggestions.
+  + [] Record the queried pairs and the tagging results and the updated results as an example dataset for few-shot prompting of the agents.
+  + [] Program the process as an application written in Go: 1. input prompt and poem ID; 2. return suggested tagging results for the poem in the bibliographical DB in a helix editor; 3. modify in the editor and save then update the merged TEI XML file.

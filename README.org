@@ -8,6 +8,76 @@ The second source is a bibliographically annotated TEI XML file, which is a digi
 
 Note: The process of combining is assisted by Large Language Models.
 
+* Tools
+
+** wordlist — Extract lexical dictionary from Hachidaishu
+
+Extracts all =<w>= token annotations from =data/hachidaishu-patched.xml= and
+restructures them into a TEI =<back>= dictionary plus WLSPH/WLSP classification
+lists.
+
+#+begin_src sh
+cd tools/wordlist
+go run ./cmd/wordlist \
+  -input  ../../data/hachidaishu-patched.xml \
+  -output ../../data/hachidaishu-wordlist.xml \
+  -wlsph  ../../data/wlsph.json
+#+end_src
+
+Output: =data/hachidaishu-wordlist.xml= — body =<w>= elements carry only a
+=lemmaRef= attribute; all lexical/morphological information moves to the
+back-matter =<div type="dictionary">= (1,605 entries) and two classification
+=<div>= elements (WLSPH and WLSP).
+
+** query — Display poem side-by-side for alignment review
+
+Given a poem number, prints the Hachidaishu annotated tokens and the Karoku 2
+surface segments in parallel, to support token alignment review.
+
+#+begin_src sh
+cd tools/query
+go run . -n 1 \
+  -hachi  ../../data/hachidaishu-wordlist.xml \
+  -karoku ../../data/Kokinwakashu_200003050_20240922.xml
+#+end_src
+
+Output for poem #1:
+#+begin_example
+Poem #1
+────────────────────────────────────────────────────────────
+Hachidaishu (annotated tokens):
+  年             #w.年
+  の             #w.の.h1
+  ...
+Karoku 2 (surface segments):
+  [1] 年の内に
+  [2] 春はきにけり
+  [3] ひとゝせを
+  [4] こそとやいはむ
+  [5] ことしとやいはむ
+────────────────────────────────────────────────────────────
+#+end_example
+
+Poems 1–1000 have Hachidaishu annotations; poems 1001–1111 (Karoku 2 only)
+show =(not found)= on the Hachidaishu side.
+
+** merge — Embed wordlist into Karoku 2
+
+Takes Karoku 2 as the base file and prepends the Hachidaishu dictionary and
+classification lists to its existing =<back>= element.
+
+#+begin_src sh
+cd tools/merge
+go run ./cmd/merge \
+  -wordlist ../../data/hachidaishu-wordlist.xml \
+  -base     ../../data/Kokinwakashu_200003050_20240922.xml \
+  -output   ../../data/kokin-merged.xml
+#+end_src
+
+Output: =data/kokin-merged.xml= — Karoku 2 with the Hachidaishu dictionary
+embedded in =<back>=, and WLSP/WLSPH taxonomy declarations added to
+=<encodingDesc>=.
+
 * TODO list
 - [] Separate embedded lexical and morphological information from the lexical DB into a word list and put it in the TEI header. Tokens in the text body should be linked to the word list by their IDs with the tag =<w ref="wordlist#id">=.
   + [] Design the ontology for the word objects in the wordlist. Maybe as a word entry in a dictionary, with multiple senses and possible decompositions.

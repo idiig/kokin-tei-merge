@@ -18,6 +18,8 @@
             gopls
             gotools       # goimports etc.
             libxml2       # xmllint for validation
+            helix         # interactive alignment editor (align-review)
+            tmux          # new-window for align-review prepare
             direnv
           ];
 

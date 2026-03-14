@@ -99,7 +99,7 @@ func runPrepare(args []string) {
 	segTexts := make([]string, len(segs))
 	splits := make([]int, len(segs))
 	for i, seg := range segs {
-		segTexts[i] = seg.Text()
+		segTexts[i] = annotate.SegText(seg)
 		ws := seg.SelectElements("w")
 		if segTexts[i] == "" && len(ws) > 0 {
 			// Already annotated: reconstruct text and splits from existing <w>.
@@ -158,7 +158,7 @@ func runApply(args []string) {
 	segs := lElem.SelectElements("seg")
 	segTexts := make([]string, len(segs))
 	for i, seg := range segs {
-		segTexts[i] = seg.Text()
+		segTexts[i] = annotate.SegText(seg)
 		if segTexts[i] == "" {
 			// Reconstruct from existing <w> children.
 			var concat string

@@ -6,56 +6,117 @@ import (
 	"github.com/beevik/etree"
 )
 
-// --- ApplyAlignment ---
+// --- SegText ---
 
-func TestApplyAlignment_Basic(t *testing.T) {
+func TestSegText_PlainText(t *testing.T) {
 	doc := etree.NewDocument()
-	root := doc.CreateElement("l")
-	seg1 := root.CreateElement("seg")
-	seg1.SetText("春は")
-	seg2 := root.CreateElement("seg")
-	seg2.SetText("けり")
-
-	aligned := [][]Token{
-		{{Surface: "春", LemmaRef: "#w.春.h1"}, {Surface: "は", LemmaRef: "#w.は"}},
-		{{Surface: "けり", LemmaRef: "#w.けり"}},
-	}
-	ApplyAlignment([]*etree.Element{seg1, seg2}, aligned)
-
-	ws1 := seg1.SelectElements("w")
-	if len(ws1) != 2 {
-		t.Fatalf("seg1: got %d <w> elements, want 2", len(ws1))
-	}
-	if ws1[0].Text() != "春" || ws1[0].SelectAttrValue("lemmaRef", "") != "#w.春.h1" {
-		t.Errorf("seg1[0] wrong: text=%q lemmaRef=%q", ws1[0].Text(), ws1[0].SelectAttrValue("lemmaRef", ""))
-	}
-
-	ws2 := seg2.SelectElements("w")
-	if len(ws2) != 1 {
-		t.Fatalf("seg2: got %d <w> elements, want 1", len(ws2))
-	}
-	if ws2[0].Text() != "けり" {
-		t.Errorf("seg2[0] text wrong: %q", ws2[0].Text())
+	seg := doc.CreateElement("seg")
+	seg.SetText("年の内に")
+	if got := SegText(seg); got != "年の内に" {
+		t.Errorf("got %q, want %q", got, "年の内に")
 	}
 }
 
-func TestApplyAlignment_ClearsExistingContent(t *testing.T) {
+func TestSegText_WithApp(t *testing.T) {
+	// <seg>花とや<app><lem wit="#国">見らむ</lem><rdg wit="#前">みえん</rdg></app></seg>
+	doc := etree.NewDocument()
+	seg := doc.CreateElement("seg")
+	seg.CreateCharData("花とや")
+	app := seg.CreateElement("app")
+	lem := app.CreateElement("lem")
+	lem.CreateAttr("wit", "#国")
+	lem.SetText("見らむ")
+	rdg := app.CreateElement("rdg")
+	rdg.CreateAttr("wit", "#前")
+	rdg.SetText("みえん")
+
+	if got := SegText(seg); got != "花とや見らむ" {
+		t.Errorf("got %q, want %q", got, "花とや見らむ")
+	}
+}
+
+func TestSegText_SkipsRdg(t *testing.T) {
+	doc := etree.NewDocument()
+	seg := doc.CreateElement("seg")
+	app := seg.CreateElement("app")
+	lem := app.CreateElement("lem")
+	lem.SetText("正")
+	rdg := app.CreateElement("rdg")
+	rdg.SetText("副")
+
+	if got := SegText(seg); got != "正" {
+		t.Errorf("got %q, want %q (rdg should be excluded)", got, "正")
+	}
+}
+
+// --- ApplyAlignment ---
+
+func TestApplyAlignment_PlainText(t *testing.T) {
 	doc := etree.NewDocument()
 	root := doc.CreateElement("l")
 	seg := root.CreateElement("seg")
-	// Pre-existing <w> element.
-	old := seg.CreateElement("w")
-	old.SetText("old")
+	seg.SetText("春は")
 
-	aligned := [][]Token{{{Surface: "新", LemmaRef: "#w.新"}}}
+	aligned := [][]Token{
+		{{Surface: "春", LemmaRef: "#w.春.h1"}, {Surface: "は", LemmaRef: "#w.は"}},
+	}
 	ApplyAlignment([]*etree.Element{seg}, aligned)
 
 	ws := seg.SelectElements("w")
-	if len(ws) != 1 {
-		t.Fatalf("got %d <w> elements, want 1", len(ws))
+	if len(ws) != 2 {
+		t.Fatalf("got %d <w> elements, want 2", len(ws))
 	}
-	if ws[0].Text() != "新" {
-		t.Errorf("expected '新', got %q", ws[0].Text())
+	if ws[0].Text() != "春" || ws[1].Text() != "は" {
+		t.Errorf("unexpected token text: %q %q", ws[0].Text(), ws[1].Text())
+	}
+}
+
+func TestApplyAlignment_PreservesApp(t *testing.T) {
+	// <seg>花とや<app><lem>見らむ</lem><rdg>みえん</rdg></app></seg>
+	// tokens: 花, とや, 見らむ
+	doc := etree.NewDocument()
+	root := doc.CreateElement("l")
+	seg := root.CreateElement("seg")
+	seg.CreateCharData("花とや")
+	app := seg.CreateElement("app")
+	lem := app.CreateElement("lem")
+	lem.SetText("見らむ")
+	rdg := app.CreateElement("rdg")
+	rdg.SetText("みえん")
+
+	aligned := [][]Token{{
+		{Surface: "花", LemmaRef: "#w.花"},
+		{Surface: "とや", LemmaRef: "#w.とや"},
+		{Surface: "見らむ", LemmaRef: "#w.見る"},
+	}}
+	ApplyAlignment([]*etree.Element{seg}, aligned)
+
+	// <app> must still be present.
+	apps := seg.SelectElements("app")
+	if len(apps) != 1 {
+		t.Fatalf("got %d <app> elements, want 1", len(apps))
+	}
+
+	// <rdg> inside <app> must be unchanged.
+	rdgEl := apps[0].SelectElement("rdg")
+	if rdgEl == nil || rdgEl.Text() != "みえん" {
+		t.Errorf("<rdg> missing or changed")
+	}
+
+	// <lem> must contain <w> elements.
+	lemEl := apps[0].SelectElement("lem")
+	ws := lemEl.SelectElements("w")
+	if len(ws) != 1 || ws[0].Text() != "見らむ" {
+		t.Errorf("<lem> should contain <w>見らむ</w>, got %v", ws)
+	}
+
+	// Direct <w> children of <seg> before <app>.
+	directWs := seg.SelectElements("w")
+	if len(directWs) != 2 {
+		t.Fatalf("got %d direct <w> before <app>, want 2", len(directWs))
+	}
+	if directWs[0].Text() != "花" || directWs[1].Text() != "とや" {
+		t.Errorf("unexpected direct tokens: %q %q", directWs[0].Text(), directWs[1].Text())
 	}
 }
 

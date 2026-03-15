@@ -111,13 +111,13 @@ func runPrepare(args []string) {
 			splits[i] = len(ws)
 		}
 	}
-	// If splits are all zero (not yet annotated), drop the hint.
+	// If splits are all zero (not yet annotated), estimate from rune counts.
 	total := 0
 	for _, s := range splits {
 		total += s
 	}
 	if total == 0 {
-		splits = nil
+		splits = annotate.EstimateSplits(tokens, segTexts)
 	}
 
 	draft := annotate.GenerateDraft(*poemN, tokens, segTexts, splits)

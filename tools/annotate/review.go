@@ -3,6 +3,7 @@ package annotate
 import (
 	"fmt"
 	"strings"
+	"unicode/utf8"
 )
 
 // GenerateDraft produces the editable draft file content for one unmatched poem.
@@ -34,16 +35,29 @@ func GenerateDraft(n int, tokens []Token, segTexts []string, splits []int) strin
 			fmt.Fprintf(&sb, "# — seg %d [%s]\n", si+1, status)
 
 			// Emit tokens with per-token match hint.
-			pos := 0
 			segText := segTexts[si]
+			segMatched := (concat == segText)
+			var surfaces []string
+			if segMatched {
+				// Exact match: use Hachidaishu surfaces directly.
+				for k := 0; k < count && ti+k < len(tokens); k++ {
+					surfaces = append(surfaces, tokens[ti+k].Surface)
+				}
+			} else {
+				// Mismatch: split Karoku seg text proportionally by token rune counts.
+				tokSlice := tokens[ti : ti+count]
+				surfaces = splitSegByRunes(segText, tokSlice)
+			}
 			for k := 0; k < count && ti < len(tokens); k++ {
 				tok := tokens[ti]
-				marker := "? check surface"
-				if pos < len(segText) && strings.HasPrefix(segText[pos:], tok.Surface) {
+				surf := surfaces[k]
+				var marker string
+				if surf == tok.Surface {
 					marker = "✓"
-					pos += len(tok.Surface)
+				} else {
+					marker = fmt.Sprintf("was: %s", tok.Surface)
 				}
-				fmt.Fprintf(&sb, "%s\t%s\t# %s\n", tok.Surface, tok.LemmaRef, marker)
+				fmt.Fprintf(&sb, "%s\t%s\t# %s\n", surf, tok.LemmaRef, marker)
 				ti++
 			}
 			sb.WriteString("\n")
@@ -55,6 +69,40 @@ func GenerateDraft(n int, tokens []Token, segTexts []string, splits []int) strin
 		}
 	}
 	return sb.String()
+}
+
+// splitSegByRunes splits segText into len(tokens) parts proportional to each
+// token's rune count, using rounding to distribute any remainder.
+func splitSegByRunes(segText string, tokens []Token) []string {
+	segRunes := []rune(segText)
+	totalSegRunes := len(segRunes)
+	totalTokenRunes := 0
+	for _, tok := range tokens {
+		totalTokenRunes += utf8.RuneCountInString(tok.Surface)
+	}
+	if totalTokenRunes == 0 || totalSegRunes == 0 {
+		result := make([]string, len(tokens))
+		return result
+	}
+	result := make([]string, len(tokens))
+	segPos := 0
+	tokenCum := 0
+	for i, tok := range tokens {
+		tokenCum += utf8.RuneCountInString(tok.Surface)
+		var endPos int
+		if i == len(tokens)-1 {
+			endPos = totalSegRunes
+		} else {
+			// Round to nearest: (tokenCum * totalSegRunes + totalTokenRunes/2) / totalTokenRunes
+			endPos = (tokenCum*totalSegRunes + totalTokenRunes/2) / totalTokenRunes
+			if endPos > totalSegRunes {
+				endPos = totalSegRunes
+			}
+		}
+		result[i] = string(segRunes[segPos:endPos])
+		segPos = endPos
+	}
+	return result
 }
 
 // ParseDraft parses a user-edited draft file. It returns per-segment token

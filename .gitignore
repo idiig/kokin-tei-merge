@@ -1,3 +1,5 @@
 /.direnv/
 /.emacs-lsp-paths
 /.go/
+/tools/annotate/.go/
+/tools/merge/.go/

@@ -4,6 +4,7 @@ package merge
 
 import (
 	"fmt"
+	"strings"
 
 	"github.com/beevik/etree"
 )
@@ -46,6 +47,40 @@ func PrependToBack(doc *etree.Document, divs []*etree.Element) error {
 	}
 
 	// Insert in reverse order at position 0 so they end up in original order.
+	for i := len(divs) - 1; i >= 0; i-- {
+		div := divs[i].Copy()
+		back.InsertChildAt(0, div)
+	}
+	return nil
+}
+
+// ReplaceBackDivs removes any existing wordlist divs (type="dictionary" or
+// type="classification") from <back>, then prepends the new divs from the
+// updated wordlist. Safe to run on both freshly-merged and already-annotated
+// files without producing duplicate entries.
+func ReplaceBackDivs(doc *etree.Document, divs []*etree.Element) error {
+	tei := doc.SelectElement("TEI")
+	if tei == nil {
+		return fmt.Errorf("no <TEI> root element")
+	}
+	text := tei.SelectElement("text")
+	if text == nil {
+		return fmt.Errorf("no <text> element")
+	}
+	back := text.SelectElement("back")
+	if back == nil {
+		back = text.CreateElement("back")
+	}
+
+	// Remove existing wordlist divs.
+	for _, div := range back.SelectElements("div") {
+		t := div.SelectAttrValue("type", "")
+		if t == "dictionary" || t == "classification" {
+			back.RemoveChild(div)
+		}
+	}
+
+	// Insert new divs in reverse order at position 0.
 	for i := len(divs) - 1; i >= 0; i-- {
 		div := divs[i].Copy()
 		back.InsertChildAt(0, div)
@@ -122,9 +157,39 @@ func ReadDocument(path string) (*etree.Document, error) {
 
 // WriteDocument writes an etree Document with canonical formatting.
 func WriteDocument(doc *etree.Document, path string) error {
+	trimMixedContentWhitespace(doc.Root())
 	doc.Indent(2)
 	doc.WriteSettings.CanonicalAttrVal = true
 	doc.WriteSettings.CanonicalEndTags = false
 	doc.WriteSettings.CanonicalText = true
 	return doc.WriteToFile(path)
+}
+
+// trimMixedContentWhitespace walks the element tree and strips trailing
+// whitespace from CharData nodes that have element siblings. This prevents
+// Indent(2) from producing large gaps in mixed-content elements like
+// <seg>花と\n               <app>...</app></seg>.
+func trimMixedContentWhitespace(el *etree.Element) {
+	if el == nil {
+		return
+	}
+	hasElementSibling := false
+	for _, child := range el.Child {
+		if _, ok := child.(*etree.Element); ok {
+			hasElementSibling = true
+			break
+		}
+	}
+	if hasElementSibling {
+		for _, child := range el.Child {
+			if cd, ok := child.(*etree.CharData); ok {
+				cd.Data = strings.TrimRight(cd.Data, " \t\n\r")
+			}
+		}
+	}
+	for _, child := range el.Child {
+		if e, ok := child.(*etree.Element); ok {
+			trimMixedContentWhitespace(e)
+		}
+	}
 }

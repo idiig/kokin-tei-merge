@@ -36,6 +36,17 @@ func ExtractTokens(doc *etree.Document) ([]Token, map[string][]CompoundPart, map
 		}
 	}
 
+	// Mark <w> elements inside 2nd+ <rdg> of any <app>.
+	secondRdgWs := make(map[*etree.Element]bool)
+	for _, app := range doc.FindElements("//app") {
+		rdgs := app.SelectElements("rdg")
+		for _, rdg := range rdgs[1:] {
+			for _, w := range rdg.SelectElements("w") {
+				secondRdgWs[w] = true
+			}
+		}
+	}
+
 	// Collect all <w> elements.
 	for _, w := range doc.FindElements("//w") {
 		pos := w.SelectAttrValue("pos", "")
@@ -45,10 +56,11 @@ func ExtractTokens(doc *etree.Document) ([]Token, map[string][]CompoundPart, map
 		surface := w.Text()
 
 		tokens = append(tokens, Token{
-			Pos:     pos,
-			Lemma:   lemma,
-			MSD:     msd,
-			Surface: surface,
+			Pos:         pos,
+			Lemma:       lemma,
+			MSD:         msd,
+			Surface:     surface,
+			InSecondRdg: secondRdgWs[w],
 		})
 	}
 
@@ -170,12 +182,19 @@ func TransformBody(doc *etree.Document, entries []*Entry) {
 	for _, w := range doc.FindElements("//w") {
 		lemma := w.SelectAttrValue("lemma", "")
 		pos := w.SelectAttrValue("pos", "")
+		msdStr := w.SelectAttrValue("msd", "")
+		msd := ParseMSD(msdStr)
 
 		key := TokenRefKey{Lemma: lemma, Pos: pos}
 		if id, ok := refMap[key]; ok {
 			w.CreateAttr("lemmaRef", "#"+id)
 		} else {
 			log.Printf("warning: no entry for lemma=%q pos=%q", lemma, pos)
+		}
+
+		// Preserve KanjiReading for inflected-form resolution during alignment.
+		if msd.KanjiReading != "" && msd.KanjiReading != "???" {
+			w.CreateAttr("kanjiReading", msd.KanjiReading)
 		}
 
 		w.RemoveAttr("pos")
@@ -213,6 +232,17 @@ func BuildBackDiv(entries []*Entry, classWLSPH, classWLSP *etree.Element) *etree
 			pron := form.CreateElement("pron")
 			pron.CreateAttr("notation", "kana")
 			pron.SetText(reading)
+		}
+
+		// <form type="inflected"> for each attested surface form (only when multiple forms exist).
+		if len(e.InflectedForms) > 1 {
+			for _, surf := range e.InflectedForms {
+				inf := entry.CreateElement("form")
+				inf.CreateAttr("type", "inflected")
+				inf.CreateAttr("xml:id", e.InflectedFormID(surf))
+				infOrth := inf.CreateElement("orth")
+				infOrth.SetText(surf)
+			}
 		}
 
 		// <form type="compound"> for compound entries.

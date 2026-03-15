@@ -14,6 +14,7 @@ type Token struct {
 	MSD        MSD    // parsed msd attribute
 	Surface    string // text content of <w>
 	InCompound bool   // true if this <w> is inside an <app><rdg> with siblings
+	InSecondRdg bool  // true if this <w> is inside the 2nd or later <rdg> of an <app>
 }
 
 // SenseKey uniquely identifies a sense within an entry.
@@ -60,14 +61,15 @@ type ModernRef struct {
 // Entry represents a dictionary <entry> in <back>.
 // Keyed by Lemma alone; an entry may have multiple readings.
 type Entry struct {
-	ID            string   // xml:id, e.g. "w.年"
-	Lemma         string
-	LemmaReadings []string // unique readings, sorted
-	Grams         []GramInfo
-	Senses        []Sense
-	IsCompound    bool
-	Parts         []CompoundPart // only if IsCompound
-	Modern        *ModernRef     // modern form cross-reference, if any
+	ID             string   // xml:id, e.g. "w.年"
+	Lemma          string
+	LemmaReadings  []string // unique readings, sorted
+	InflectedForms []string // unique attested surface forms, sorted (excludes "???")
+	Grams          []GramInfo
+	Senses         []Sense
+	IsCompound     bool
+	Parts          []CompoundPart // only if IsCompound
+	Modern         *ModernRef     // modern form cross-reference, if any
 }
 
 // EntryID returns the xml:id for an entry given its lemma.
@@ -123,6 +125,7 @@ func BuildEntries(tokens []Token) []*Entry {
 	gramSeen := make(map[string]map[GramKey]bool)
 	senseSeen := make(map[string]map[SenseKey]bool)
 	readingSeen := make(map[string]map[string]bool)
+	surfaceSeen := make(map[string]map[string]bool)
 
 	for _, tok := range tokens {
 		key := tok.Lemma
@@ -137,6 +140,13 @@ func BuildEntries(tokens []Token) []*Entry {
 			gramSeen[key] = make(map[GramKey]bool)
 			senseSeen[key] = make(map[SenseKey]bool)
 			readingSeen[key] = make(map[string]bool)
+			surfaceSeen[key] = make(map[string]bool)
+		}
+
+		// Collect unique attested inflected forms from KanjiReading (excluding placeholder and 2nd+ rdg).
+		if !tok.InSecondRdg && tok.MSD.KanjiReading != "" && tok.MSD.KanjiReading != "???" && !surfaceSeen[key][tok.MSD.KanjiReading] {
+			surfaceSeen[key][tok.MSD.KanjiReading] = true
+			e.InflectedForms = append(e.InflectedForms, tok.MSD.KanjiReading)
 		}
 
 		// Collect unique readings.
@@ -180,10 +190,11 @@ func BuildEntries(tokens []Token) []*Entry {
 		}
 	}
 
-	// Collect entries, sort readings, number senses.
+	// Collect entries, sort readings and inflected forms, number senses.
 	entries := make([]*Entry, 0, len(entryMap))
 	for _, e := range entryMap {
 		sort.Strings(e.LemmaReadings)
+		sort.Strings(e.InflectedForms)
 		for i := range e.Senses {
 			e.Senses[i].N = i + 1
 		}
@@ -240,4 +251,9 @@ func (e *Entry) SenseID(n int) string {
 // HomID returns the xml:id for the nth hom of this entry (1-based).
 func (e *Entry) HomID(n int) string {
 	return fmt.Sprintf("%s.h%d", e.ID, n)
+}
+
+// InflectedFormID returns the xml:id for an inflected form of this entry.
+func (e *Entry) InflectedFormID(orth string) string {
+	return e.ID + "." + sanitizeNCName(orth)
 }

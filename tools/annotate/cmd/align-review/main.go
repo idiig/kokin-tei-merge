@@ -96,20 +96,26 @@ func runPrepare(args []string) {
 		log.Fatalf("poem %d not found in merged XML", *poemN)
 	}
 	segs := lElem.SelectElements("seg")
-	segTexts := make([]string, len(segs))
+	metas := annotate.ExtractSegMetas(segs)
 	splits := make([]int, len(segs))
 	for i, seg := range segs {
-		segTexts[i] = annotate.SegText(seg)
-		ws := seg.SelectElements("w")
-		if segTexts[i] == "" && len(ws) > 0 {
+		if metas[i].Text == "" {
 			// Already annotated: reconstruct text and splits from existing <w>.
-			var concat string
-			for _, w := range ws {
-				concat += w.Text()
+			ws := seg.SelectElements("w")
+			if len(ws) > 0 {
+				var concat string
+				for _, w := range ws {
+					concat += w.Text()
+				}
+				metas[i].Text = concat
+				splits[i] = len(ws)
 			}
-			segTexts[i] = concat
-			splits[i] = len(ws)
 		}
+	}
+	// Plain segTexts slice for functions that don't need apparatus metadata.
+	segTexts := make([]string, len(metas))
+	for i, m := range metas {
+		segTexts[i] = m.Text
 	}
 	// If splits are all zero (not yet annotated), estimate from rune counts.
 	total := 0
@@ -117,17 +123,87 @@ func runPrepare(args []string) {
 		total += s
 	}
 	if total == 0 {
-		splits = annotate.EstimateSplits(tokens, segTexts)
+		splits = nil
 	}
 
-	draft := annotate.GenerateDraft(*poemN, tokens, segTexts, splits)
+	// Effective token list may be replaced when an existing draft is re-used.
+	effectiveTokens := tokens
+
 	path := draftPath(*poemN)
+	if splits == nil {
+		// Check for an existing draft to preserve confirmed segments.
+		if existing, readErr := os.ReadFile(path); readErr == nil {
+			if et, es, ok := mergeWithExistingDraft(existing, tokens, segTexts); ok {
+				effectiveTokens = et
+				splits = es
+			}
+		}
+	}
+	if splits == nil {
+		splits = annotate.EstimateSplits(effectiveTokens, segTexts)
+	}
+
+	draft := annotate.GenerateDraft(*poemN, effectiveTokens, metas, splits)
 	if err := os.WriteFile(path, []byte(draft), 0644); err != nil {
 		log.Fatalf("writing draft: %v", err)
 	}
 
 	openInTmux(*poemN, path)
 	fmt.Printf("Run /apply-poem %d when done.\n", *poemN)
+}
+
+// mergeWithExistingDraft reads a previous draft and preserves the leading run
+// of confirmed segments (groups whose surfaces concatenate to the Karoku text).
+// It returns a merged token list (draft tokens for confirmed segs, original
+// tokens for the rest), the corresponding splits, and true on success.
+// Returns false if there are no confirmed segs or the draft is unusable.
+func mergeWithExistingDraft(content []byte, tokens []annotate.Token, segTexts []string) ([]annotate.Token, []int, bool) {
+	groups := annotate.ParseDraftGroups(string(content))
+	if groups == nil || len(groups) != len(segTexts) {
+		return nil, nil, false
+	}
+
+	// Find the longest confirmed prefix (groups whose surfaces match segTexts).
+	confirmedUntil := 0
+	consumed := 0
+	for i, group := range groups {
+		var concat string
+		for _, tok := range group {
+			concat += tok.Surface
+		}
+		if concat == segTexts[i] {
+			confirmedUntil = i + 1
+			consumed += len(group)
+		} else {
+			break
+		}
+	}
+	if confirmedUntil == 0 {
+		return nil, nil, false
+	}
+	if consumed > len(tokens) {
+		return nil, nil, false
+	}
+
+	splits := make([]int, len(segTexts))
+	var merged []annotate.Token
+
+	// Confirmed segs: keep draft tokens (user-edited surfaces).
+	for i := 0; i < confirmedUntil; i++ {
+		merged = append(merged, groups[i]...)
+		splits[i] = len(groups[i])
+	}
+
+	// Unconfirmed segs: use original Hachidaishu tokens with fresh estimates.
+	remTokens := tokens[consumed:]
+	remSegTexts := segTexts[confirmedUntil:]
+	remSplits := annotate.EstimateSplits(remTokens, remSegTexts)
+	merged = append(merged, remTokens...)
+	for i, s := range remSplits {
+		splits[confirmedUntil+i] = s
+	}
+
+	return merged, splits, true
 }
 
 // runApply reads /tmp/kokin-align-N.txt, validates, and writes <w> into the XML.
@@ -156,13 +232,16 @@ func runApply(args []string) {
 		log.Fatalf("poem %d not found in merged XML", *poemN)
 	}
 	segs := lElem.SelectElements("seg")
-	segTexts := make([]string, len(segs))
-	for i, seg := range segs {
-		segTexts[i] = annotate.SegText(seg)
+	metas := annotate.ExtractSegMetas(segs)
+	segTexts := make([]string, len(metas))
+	rdgTexts := make([]string, len(metas))
+	for i, m := range metas {
+		segTexts[i] = m.Text
+		rdgTexts[i] = m.RdgText
 		if segTexts[i] == "" {
 			// Reconstruct from existing <w> children.
 			var concat string
-			for _, w := range seg.SelectElements("w") {
+			for _, w := range segs[i].SelectElements("w") {
 				concat += w.Text()
 			}
 			segTexts[i] = concat
@@ -175,7 +254,7 @@ func runApply(args []string) {
 		log.Fatalf("reading draft %s: %v (run prepare first)", path, err)
 	}
 
-	aligned, parseErr := annotate.ParseDraft(string(content), segTexts)
+	aligned, parseErr := annotate.ParseDraft(string(content), segTexts, rdgTexts)
 	if parseErr != nil {
 		// Inject error into draft and reopen Helix.
 		injectError(path, parseErr)

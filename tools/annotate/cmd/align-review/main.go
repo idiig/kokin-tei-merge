@@ -96,38 +96,29 @@ func runPrepare(args []string) {
 		log.Fatalf("poem %d not found in merged XML", *poemN)
 	}
 	segs := lElem.SelectElements("seg")
-	metas := annotate.ExtractSegMetas(segs)
-	splits := make([]int, len(segs))
-	for i, seg := range segs {
-		if metas[i].Text == "" {
-			// Already annotated: reconstruct text and splits from existing <w>.
-			ws := seg.SelectElements("w")
-			if len(ws) > 0 {
-				var concat string
-				for _, w := range ws {
-					concat += w.Text()
-				}
-				metas[i].Text = concat
-				splits[i] = len(ws)
-			}
-		}
+
+	// If the poem is already annotated, reconstruct tokens and metas directly
+	// from the existing <w> elements — this preserves inflected form refs and
+	// any manual edits made during previous alignment sessions.
+	var effectiveTokens []annotate.Token
+	var splits []int
+	var metas []annotate.SegMeta
+
+	if annToks, annSplits, annMetas := annotate.TokensFromAnnotatedSegs(segs); annToks != nil {
+		effectiveTokens = annToks
+		splits = annSplits
+		metas = annMetas
+	} else {
+		// Not yet annotated: use Hachidaishu tokens and estimate splits.
+		metas = annotate.ExtractSegMetas(segs)
+		effectiveTokens = tokens
 	}
+
 	// Plain segTexts slice for functions that don't need apparatus metadata.
 	segTexts := make([]string, len(metas))
 	for i, m := range metas {
 		segTexts[i] = m.Text
 	}
-	// If splits are all zero (not yet annotated), estimate from rune counts.
-	total := 0
-	for _, s := range splits {
-		total += s
-	}
-	if total == 0 {
-		splits = nil
-	}
-
-	// Effective token list may be replaced when an existing draft is re-used.
-	effectiveTokens := tokens
 
 	path := draftPath(*poemN)
 	if splits == nil {
@@ -138,9 +129,9 @@ func runPrepare(args []string) {
 				splits = es
 			}
 		}
-	}
-	if splits == nil {
-		splits = annotate.EstimateSplits(effectiveTokens, segTexts)
+		if splits == nil {
+			splits = annotate.EstimateSplits(effectiveTokens, segTexts)
+		}
 	}
 
 	draft := annotate.GenerateDraft(*poemN, effectiveTokens, metas, splits)

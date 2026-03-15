@@ -80,11 +80,14 @@ func SegText(seg *etree.Element) string {
 
 // SegMeta holds the canonical text of one <seg> and any variant readings
 // found inside <app> elements. LemText and RdgText are empty when no <app>
-// is present.
+// is present. RdgTokens is populated only when the seg is already annotated
+// (has <w> elements inside <rdg>) and is used by GenerateDraft to show
+// individual rdg token rows instead of a placeholder.
 type SegMeta struct {
-	Text    string // SegText(seg): lem-canonical, whitespace-stripped
-	LemText string // concatenated <lem> text from all <app> children
-	RdgText string // concatenated <rdg> text from all <app> children
+	Text      string  // SegText(seg): lem-canonical, whitespace-stripped
+	LemText   string  // concatenated <lem> text from all <app> children
+	RdgText   string  // concatenated <rdg> text from all <app> children
+	RdgTokens []Token // non-nil when rdg is already annotated with <w> elements
 }
 
 // ExtractSegMetas extracts canonical text and apparatus metadata for each
@@ -109,6 +112,86 @@ func ExtractSegMetas(segs []*etree.Element) []SegMeta {
 		}
 	}
 	return metas
+}
+
+// TokensFromAnnotatedSegs extracts Token slices from segs that have already
+// been annotated with <w> elements. It returns:
+//   - lemTokens: flat list of all lem <w> tokens across all segs (direct + inside <app><lem>)
+//   - splits: number of lem tokens per seg
+//   - metas: SegMeta for each seg, with RdgTokens populated from existing <rdg><w> elements
+//
+// Returns (nil, nil, nil) if the segs are not annotated (no <w> elements found).
+func TokensFromAnnotatedSegs(segs []*etree.Element) (lemTokens []Token, splits []int, metas []SegMeta) {
+	// Check if any seg has <w> children.
+	hasAnnotation := false
+	for _, seg := range segs {
+		if len(seg.FindElements(".//w")) > 0 {
+			hasAnnotation = true
+			break
+		}
+	}
+	if !hasAnnotation {
+		return nil, nil, nil
+	}
+
+	for _, seg := range segs {
+		var segLemToks []Token
+		collectLemTokens(seg, &segLemToks)
+		lemTokens = append(lemTokens, segLemToks...)
+		splits = append(splits, len(segLemToks))
+
+		// Build meta from existing structure.
+		meta := SegMeta{}
+		// Reconstruct text from lem tokens.
+		for _, t := range segLemToks {
+			meta.Text += t.Surface
+		}
+		// Collect rdg tokens from <app><rdg><w>.
+		for _, app := range seg.SelectElements("app") {
+			if lem := app.SelectElement("lem"); lem != nil {
+				var sb strings.Builder
+				collectLemText(lem, &sb)
+				meta.LemText += stripSpace(sb.String())
+			}
+			if rdg := app.SelectElement("rdg"); rdg != nil {
+				var sb strings.Builder
+				collectLemText(rdg, &sb)
+				meta.RdgText += stripSpace(sb.String())
+				for _, w := range rdg.FindElements(".//w") {
+					meta.RdgTokens = append(meta.RdgTokens, Token{
+						Surface:  w.Text(),
+						LemmaRef: w.SelectAttrValue("lemmaRef", ""),
+					})
+				}
+			}
+		}
+		metas = append(metas, meta)
+	}
+	return
+}
+
+// collectLemTokens walks el and appends <w> tokens found in lem positions:
+// direct <w> children, and <w> inside <app><lem>. <rdg> content is skipped.
+func collectLemTokens(el *etree.Element, tokens *[]Token) {
+	for _, child := range el.Child {
+		e, ok := child.(*etree.Element)
+		if !ok {
+			continue
+		}
+		switch e.Tag {
+		case "w":
+			*tokens = append(*tokens, Token{
+				Surface:  e.Text(),
+				LemmaRef: e.SelectAttrValue("lemmaRef", ""),
+			})
+		case "app":
+			if lem := e.SelectElement("lem"); lem != nil {
+				collectLemTokens(lem, tokens)
+			}
+		default:
+			collectLemTokens(e, tokens)
+		}
+	}
 }
 
 // collectLemText recursively collects text content, treating <app><lem> as the

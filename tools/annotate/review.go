@@ -74,9 +74,12 @@ func GenerateDraft(n int, tokens []Token, metas []SegMeta, splits []int) string 
 				fmt.Fprintf(&sb, "%s\t%s\t# %s\n", surf, tok.LemmaRef, marker)
 				ti++
 			}
-			// Emit a single rdg row as a starting point for the user to edit.
-			// The user can split it into multiple rows and fill in lemmaRefs.
-			if metas[si].RdgText != "" {
+			// Emit rdg rows: individual tokens when already annotated, placeholder otherwise.
+			if len(metas[si].RdgTokens) > 0 {
+				for _, rt := range metas[si].RdgTokens {
+					fmt.Fprintf(&sb, "rdg\t%s\t%s\n", rt.Surface, rt.LemmaRef)
+				}
+			} else if metas[si].RdgText != "" {
 				fmt.Fprintf(&sb, "rdg\t%s\t#rdg.?\n", metas[si].RdgText)
 			}
 			sb.WriteString("\n")

@@ -8,26 +8,101 @@ The second source is a bibliographically annotated TEI XML file, which is a digi
 
 Note: The process of combining is assisted by Large Language Models.
 
+* Data Files
+
+| File | Description |
+|---|---|
+| =data/hachidaishu-patched.xml= | Hachidaishu lexical annotations (source) |
+| =data/Kokinwakashu_200003050_20240922.xml= | Karoku 2 manuscript transcription (source) |
+| =data/hachidaishu-wordlist.xml= | Extracted wordlist with dictionary entries |
+| =data/kokin-merged.xml= | Karoku 2 with Hachidaishu dictionary in =<back>= |
+| =data/kokin-annotated.xml= | Merged file with =<w lemmaRef>= token annotations in body |
+
 * Tools
 
 ** wordlist — Extract lexical dictionary from Hachidaishu
 
 Extracts all =<w>= token annotations from =data/hachidaishu-patched.xml= and
 restructures them into a TEI =<back>= dictionary plus WLSPH/WLSP classification
-lists.
+lists. Each entry includes =<form type="inflected">= elements for all attested
+conjugated forms (verbs/adjectives with 2+ distinct forms).
 
 #+begin_src sh
 cd tools/wordlist
 go run ./cmd/wordlist \
   -input  ../../data/hachidaishu-patched.xml \
-  -output ../../data/hachidaishu-wordlist.xml \
-  -wlsph  ../../data/wlsph.json
+  -output ../../data/hachidaishu-wordlist.xml
 #+end_src
 
-Output: =data/hachidaishu-wordlist.xml= — body =<w>= elements carry only a
-=lemmaRef= attribute; all lexical/morphological information moves to the
-back-matter =<div type="dictionary">= (1,605 entries) and two classification
-=<div>= elements (WLSPH and WLSP).
+Output: =data/hachidaishu-wordlist.xml= — body =<w>= elements carry =lemmaRef=
+and =kanjiReading= attributes; all lexical/morphological information moves to
+the back-matter =<div type="dictionary">= (1,822 entries, 314 compounds) and
+two classification =<div>= elements (WLSPH and WLSP).
+
+** merge — Embed wordlist into Karoku 2
+
+Takes Karoku 2 as the base file and prepends the Hachidaishu dictionary and
+classification lists to its existing =<back>= element. The =-sync= flag
+additionally updates the =<back>= of an already-annotated file without touching
+its body annotations.
+
+#+begin_src sh
+cd tools/merge
+go run ./cmd/merge \
+  -wordlist ../../data/hachidaishu-wordlist.xml \
+  -base     ../../data/Kokinwakashu_200003050_20240922.xml \
+  -output   ../../data/kokin-merged.xml \
+  -sync     ../../data/kokin-annotated.xml
+#+end_src
+
+Output: =data/kokin-merged.xml= — Karoku 2 with the Hachidaishu dictionary
+embedded in =<back>=, and WLSP/WLSPH taxonomy declarations added to
+=<encodingDesc>=. The =-sync= target gets an updated =<back>= while preserving
+all =<w lemmaRef>= body annotations.
+
+** annotate — Batch token alignment
+
+Walks all poems in =kokin-merged.xml=, aligns Hachidaishu tokens to Karoku 2
+segment texts by exact string match, and writes =<w lemmaRef="…">= elements
+into the output. Poems that cannot be fully matched are written to
+=unmatched.json= for manual review.
+
+#+begin_src sh
+cd tools/annotate
+go run ./cmd/annotate \
+  -hachi   ../../data/hachidaishu-wordlist.xml \
+  -input   ../../data/kokin-merged.xml \
+  -output  ../../data/kokin-annotated.xml \
+  -unmatched ../../data/unmatched.json
+#+end_src
+
+** align-review — Interactive alignment for unmatched poems
+
+Two-subcommand tool for manually aligning poems that the batch annotator could
+not match. Generates an editable draft file, opens it in Helix, then validates
+and applies the alignment to the XML.
+
+#+begin_src sh
+cd tools/annotate
+
+# Step 1: generate draft and open in Helix
+go run ./cmd/align-review prepare \
+  -hachi ../../data/hachidaishu-wordlist.xml \
+  -input ../../data/kokin-annotated.xml \
+  -poem  33
+
+# Step 2: after editing in Helix (:wq), apply the draft
+go run ./cmd/align-review apply \
+  -hachi  ../../data/hachidaishu-wordlist.xml \
+  -input  ../../data/kokin-annotated.xml \
+  -output ../../data/kokin-annotated.xml \
+  -poem   33
+#+end_src
+
+The =prepare= step reconstructs the draft from existing =<w>= annotations when
+a poem has already been aligned, so re-opening a poem is safe. =lemmaRef=
+values are resolved to the most specific inflected form available (e.g.
+=#w.立つ.たて=).
 
 ** query — Display poem side-by-side for alignment review
 
@@ -41,50 +116,10 @@ go run . -n 1 \
   -karoku ../../data/Kokinwakashu_200003050_20240922.xml
 #+end_src
 
-Output for poem #1:
-#+begin_example
-Poem #1
-────────────────────────────────────────────────────────────
-Hachidaishu (annotated tokens):
-  年             #w.年
-  の             #w.の.h1
-  ...
-Karoku 2 (surface segments):
-  [1] 年の内に
-  [2] 春はきにけり
-  [3] ひとゝせを
-  [4] こそとやいはむ
-  [5] ことしとやいはむ
-────────────────────────────────────────────────────────────
-#+end_example
-
 Poems 1–1000 have Hachidaishu annotations; poems 1001–1111 (Karoku 2 only)
 show =(not found)= on the Hachidaishu side.
 
-** merge — Embed wordlist into Karoku 2
-
-Takes Karoku 2 as the base file and prepends the Hachidaishu dictionary and
-classification lists to its existing =<back>= element.
-
-#+begin_src sh
-cd tools/merge
-go run ./cmd/merge \
-  -wordlist ../../data/hachidaishu-wordlist.xml \
-  -base     ../../data/Kokinwakashu_200003050_20240922.xml \
-  -output   ../../data/kokin-merged.xml
-#+end_src
-
-Output: =data/kokin-merged.xml= — Karoku 2 with the Hachidaishu dictionary
-embedded in =<back>=, and WLSP/WLSPH taxonomy declarations added to
-=<encodingDesc>=.
-
 * TODO list
-- [] Separate embedded lexical and morphological information from the lexical DB into a word list and put it in the TEI header. Tokens in the text body should be linked to the word list by their IDs with the tag =<w ref="wordlist#id">=.
-  + [] Design the ontology for the word objects in the wordlist. Maybe as a word entry in a dictionary, with multiple senses and possible decompositions.
-  + [] Transform the morphological information into the designed ontology for the word objects in the wordlist.
-- [] Add the word list to the bibliographical DB's TEI header.
-- [] Add the word reference tags to the text body of the bibliographical DB's TEI XML file, linking to the word list in the header.
-  + [] Design a tool to query the same poem in the modified lexical DB (with word reference tags) and the bibliographical DB;
-  + [] Use agents to use the tool to check the queried poem in both DBs, and report ideal taggings for the poem in the bibliographical DB, and ask me to confirm the tagging suggestions.
-  + [] Record the queried pairs and the tagging results and the updated results as an example dataset for few-shot prompting of the agents.
-  + [] Program the process as an application written in Go: 1. input prompt and poem ID; 2. return suggested tagging results for the poem in the bibliographical DB in a helix editor; 3. modify in the editor and save then update the merged TEI XML file.
+- [] Extend =<form type="inflected">= with kanji surface forms in addition to kana readings.
+- [] Run batch annotator on all poems and review =unmatched.json= systematically.
+- [] Add =<rdg>= annotation support to the batch annotator (currently interactive only).

@@ -16,8 +16,14 @@ Token alignment is a two-pass process:
 | `/align-poem N` | Generate draft for poem N, open Helix in tmux window `align-N` |
 | `/apply-poem N` | Parse draft, validate, write `<w>` into `data/kokin-annotated.xml` |
 
-On validation failure, `apply` injects the error into the draft and reopens
-Helix automatically — user fixes and runs `/apply-poem N` again.
+Before executing `/apply-poem N`, always ask:
+> "Apply alignment for poem N to kokin-annotated.xml? (y/n)"
+Proceed only on explicit confirmation. On validation failure, `apply` injects
+the error into the draft and reopens Helix automatically — user fixes and runs
+`/apply-poem N` again.
+
+After a successful `/apply-poem N`, ask:
+> "Open the next poem for alignment? If so, which poem number?"
 
 ## Draft File Format
 

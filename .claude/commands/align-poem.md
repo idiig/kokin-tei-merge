@@ -12,4 +12,8 @@ go run ./cmd/align-review \
   -poem  $ARGUMENTS
 ```
 
-After running, tell the user: "Helix is open in tmux window align-$ARGUMENTS. Edit the draft, then run /apply-poem $ARGUMENTS when done."
+After running, tell the user: "Helix is open in tmux window align-$ARGUMENTS. Edit the draft when ready."
+
+Then ask the user: "Apply alignment for poem $ARGUMENTS to kokin-annotated.xml? (y/n)"
+
+Only if the user confirms, execute /apply-poem $ARGUMENTS.

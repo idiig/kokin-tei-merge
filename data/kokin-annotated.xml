@@ -2465,11 +2465,32 @@
           </note>
           <lb/>
           <l n="14" xml:id="n14" resp="#大江千里">
-            <seg>うくひすの</seg>
-            <seg>谷よりいつる</seg>
-            <seg>こゑなくは</seg>
-            <seg>春くることを</seg>
-            <seg>たれかしらまし</seg>
+            <seg>
+              <w lemmaRef="#w.鴬">うくひす</w>
+              <w lemmaRef="#w.の.h1">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.谷">谷</w>
+              <w lemmaRef="#w.より">より</w>
+              <w lemmaRef="#w.出づ.いづる">いつる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.声">こゑ</w>
+              <w lemmaRef="#w.無し.なく">なく</w>
+              <w lemmaRef="#w.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.春.h1">春</w>
+              <w lemmaRef="#w.来.くる">くる</w>
+              <w lemmaRef="#w.事">こと</w>
+              <w lemmaRef="#w.を.h1">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.誰.たれ">たれ</w>
+              <w lemmaRef="#w.か.h1">か</w>
+              <w lemmaRef="#w.知る.しら">しら</w>
+              <w lemmaRef="#w.まし.まし">まし</w>
+            </seg>
           </l>
         </div>
         <lb/>

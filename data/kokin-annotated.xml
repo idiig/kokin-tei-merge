@@ -2388,11 +2388,31 @@
           <pb n="1-10v" facs="#p019"/>
           <lb/>
           <l n="12" xml:id="n12" resp="#源当純">
-            <seg>谷風に</seg>
-            <seg>とくる氷の</seg>
-            <seg>ひまことに</seg>
-            <seg>打いつる浪や</seg>
-            <seg>春のはつ花</seg>
+            <seg>
+              <w lemmaRef="#w.谷風">谷風</w>
+              <w lemmaRef="#w.に.h1">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.解く.とくる">とくる</w>
+              <w lemmaRef="#w.氷">氷</w>
+              <w lemmaRef="#w.の.h1">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.隙">ひま</w>
+              <w lemmaRef="#w.毎">こと</w>
+              <w lemmaRef="#w.に.h1">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.打つ.うち">打</w>
+              <w lemmaRef="#w.出づ.いづる">いつる</w>
+              <w lemmaRef="#w.波">浪</w>
+              <w lemmaRef="#w.や.h1">や</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.春.h1">春</w>
+              <w lemmaRef="#w.の.h1">の</w>
+              <w lemmaRef="#w.初花">はつ花</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -2609,11 +2609,32 @@
         <lb/>
         <div type="和歌">
           <l n="18" xml:id="n18" resp="#よみ人知らず">
-            <seg>春日野ゝ</seg>
-            <seg>とふひのゝもり</seg>
-            <seg>いてゝ見よ</seg>
-            <seg>今いくかありて</seg>
-            <seg>わかなつみてむ</seg>
+            <seg>
+              <w lemmaRef="#w.春日野">春日野</w>
+              <w lemmaRef="#w.の.h1">ゝ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.飛火">とふひ</w>
+              <w lemmaRef="#w.の.h1">の</w>
+              <w lemmaRef="#w.野守">ゝもり</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.出づ.いで">いて</w>
+              <w lemmaRef="#w.て">ゝ</w>
+              <w lemmaRef="#w.見る.みよ">見よ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.今.h1">今</w>
+              <w lemmaRef="#w.幾日">いくか</w>
+              <w lemmaRef="#w.有り.あり">あり</w>
+              <w lemmaRef="#w.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.若菜">わかな</w>
+              <w lemmaRef="#w.摘む.つみ">つみ</w>
+              <w lemmaRef="#w.つ.h1">て</w>
+              <w lemmaRef="#w.む.む">む</w>
+            </seg>
           </l>
         </div>
         <lb/>

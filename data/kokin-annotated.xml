@@ -2332,11 +2332,36 @@
           </note>
           <lb/>
           <l n="11" xml:id="n11" resp="#壬生忠岑">
-            <seg>はるきぬと</seg>
-            <seg>人はいへとも</seg>
-            <seg>うくひすの</seg>
-            <seg>なかぬかきりは</seg>
-            <seg>あらしとそ思</seg>
+            <seg>
+              <w lemmaRef="#w.春.h1">はる</w>
+              <w lemmaRef="#w.来.き">き</w>
+              <w lemmaRef="#w.ぬ.ぬ">ぬ</w>
+              <w lemmaRef="#w.と.h1">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.人.h1">人</w>
+              <w lemmaRef="#w.は">は</w>
+              <w lemmaRef="#w.言ふ.いへ">いへ</w>
+              <w lemmaRef="#w.ど">と</w>
+              <w lemmaRef="#w.も.h1">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.鶯">うくひす</w>
+              <w lemmaRef="#w.の.h1">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.鳴く.なか">なか</w>
+              <w lemmaRef="#w.ず.ぬ">ぬ</w>
+              <w lemmaRef="#w.限る">かきり</w>
+              <w lemmaRef="#w.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.有り.あら">あら</w>
+              <w lemmaRef="#w.じ">し</w>
+              <w lemmaRef="#w.と.h1">と</w>
+              <w lemmaRef="#w.ぞ">そ</w>
+              <w lemmaRef="#w.思ふ.おもふ">思</w>
+            </seg>
           </l>
         </div>
         <lb/>

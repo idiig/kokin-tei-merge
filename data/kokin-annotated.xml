@@ -3318,11 +3318,34 @@
           </note>
           <lb/>
           <l n="36" xml:id="n36" resp="#源常">
-            <seg>鶯の</seg>
-            <seg>笠にぬふといふ</seg>
-            <seg>梅花</seg>
-            <seg>折てかさゝむ</seg>
-            <seg>おいかくるやと</seg>
+            <seg>
+              <w lemmaRef="#w.鶯">鶯</w>
+              <w lemmaRef="#w.の.h1">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.笠">笠</w>
+              <w lemmaRef="#w.に.h1">に</w>
+              <w lemmaRef="#w.縫ふ.ぬふ">ぬふ</w>
+              <w lemmaRef="#w.と.h1">と</w>
+              <w lemmaRef="#w.いふ.いふ">いふ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.梅">梅</w>
+              <w lemmaRef="#w.の.h1"/>
+              <w lemmaRef="#w.花">花</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.折る.をり">折</w>
+              <w lemmaRef="#w.て">て</w>
+              <w lemmaRef="#w.挿頭す.かざさ">かさゝ</w>
+              <w lemmaRef="#w.む.む">む</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.老ゆ">おい</w>
+              <w lemmaRef="#w.隠る.かくる">かくる</w>
+              <w lemmaRef="#w.や.h1">や</w>
+              <w lemmaRef="#w.と.h1">と</w>
+            </seg>
           </l>
         </div>
         <lb/>

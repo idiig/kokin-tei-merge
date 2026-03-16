@@ -2798,11 +2798,31 @@
           </note>
           <lb/>
           <l n="23" xml:id="n23" resp="#在原行平">
-            <seg>春のきる</seg>
-            <seg>霞の衣</seg>
-            <seg>ぬきをうすみ</seg>
-            <seg>山かせにこそ</seg>
-            <seg>みたるへらなれ</seg>
+            <seg>
+              <w lemmaRef="#w.春.h1">春</w>
+              <w lemmaRef="#w.の.h1">の</w>
+              <w lemmaRef="#w.着る.きる">きる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.霞">霞</w>
+              <w lemmaRef="#w.の.h1">の</w>
+              <w lemmaRef="#w.衣.ころも">衣</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.緯">ぬき</w>
+              <w lemmaRef="#w.を.h1">を</w>
+              <w lemmaRef="#w.薄し.うす">うす</w>
+              <w lemmaRef="#w.み.h1">み</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.山風">山かせ</w>
+              <w lemmaRef="#w.に.h1">に</w>
+              <w lemmaRef="#w.こそ">こそ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.乱る.みだる">みたる</w>
+              <w lemmaRef="#w.べらなり.べらなれ">へらなれ</w>
+            </seg>
           </l>
         </div>
         <lb/>

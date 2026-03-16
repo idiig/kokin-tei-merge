@@ -2294,11 +2294,34 @@
           </note>
           <lb/>
           <l n="10" xml:id="n10" resp="#藤原言直">
-            <seg>春やとき</seg>
-            <seg>花やをそきと</seg>
-            <seg>きゝわかむ</seg>
-            <seg>鶯たにも</seg>
-            <seg>なかすもある哉</seg>
+            <seg>
+              <w lemmaRef="#w.春.h1">春</w>
+              <w lemmaRef="#w.や.h1">や</w>
+              <w lemmaRef="#w.疾し.とき">とき</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.花">花</w>
+              <w lemmaRef="#w.や.h1">や</w>
+              <w lemmaRef="#w.遅し.おそき">をそき</w>
+              <w lemmaRef="#w.と.h1">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.聞く.きき">きゝ</w>
+              <w lemmaRef="#w.分く.わか">わか</w>
+              <w lemmaRef="#w.む.む">む</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.鶯">鶯</w>
+              <w lemmaRef="#w.だに">たに</w>
+              <w lemmaRef="#w.も.h1">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.鳴く.なか">なか</w>
+              <w lemmaRef="#w.ず.ず">す</w>
+              <w lemmaRef="#w.も.h1">も</w>
+              <w lemmaRef="#w.有り.ある">ある</w>
+              <w lemmaRef="#w.哉">哉</w>
+            </seg>
           </l>
         </div>
         <lb/>

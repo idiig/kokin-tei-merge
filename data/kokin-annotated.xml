@@ -3169,11 +3169,33 @@
           </note>
           <lb/>
           <l n="32" xml:id="n32" resp="#よみ人知らず">
-            <seg>折つれは</seg>
-            <seg>袖こそにほへ</seg>
-            <seg>梅花</seg>
-            <seg>ありとやこゝに</seg>
-            <seg>うくひすのなく</seg>
+            <seg>
+              <w lemmaRef="#w.折る.をり">折</w>
+              <w lemmaRef="#w.つ.つれ #w.つ.h1">つれ</w>
+              <w lemmaRef="#w.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.袖">袖</w>
+              <w lemmaRef="#w.こそ">こそ</w>
+              <w lemmaRef="#w.匂ふ.にほへ">にほへ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.梅.うめ">梅</w>
+              <w lemmaRef="#w.の.h1"/>
+              <w lemmaRef="#w.花">花</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.有り.あり">あり</w>
+              <w lemmaRef="#w.と.h1">と</w>
+              <w lemmaRef="#w.や.h1">や</w>
+              <w lemmaRef="#w.此処">こゝ</w>
+              <w lemmaRef="#w.に.h1">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.鶯">うくひす</w>
+              <w lemmaRef="#w.の.h1">の</w>
+              <w lemmaRef="#w.鳴く.なく">なく</w>
+            </seg>
           </l>
         </div>
         <lb/>

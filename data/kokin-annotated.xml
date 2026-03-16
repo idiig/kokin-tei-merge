@@ -3098,11 +3098,30 @@
           <pb n="1-12r" facs="#p020"/>
           <lb/>
           <l n="30" xml:id="n30" resp="#凡河内躬恒">
-            <seg>春くれは</seg>
-            <seg>鳫帰なり</seg>
-            <seg>白雲の</seg>
-            <seg>道ゆきふりに</seg>
-            <seg>事やつてまし</seg>
+            <seg>
+              <w lemmaRef="#w.春.h1">春</w>
+              <w lemmaRef="#w.来.くれ">くれ</w>
+              <w lemmaRef="#w.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.雁.かり">鳫</w>
+              <w lemmaRef="#w.帰る.かへる">帰</w>
+              <w lemmaRef="#w.なり.なり">なり</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.白雲">白雲</w>
+              <w lemmaRef="#w.の.h1">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.道行振り">道ゆきふり</w>
+              <w lemmaRef="#w.に.h1">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.事">事</w>
+              <w lemmaRef="#w.や.h1">や</w>
+              <w lemmaRef="#w.伝つ">つて</w>
+              <w lemmaRef="#w.まし.まし">まし</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -21,7 +21,7 @@ func GenerateDraft(n int, tokens []Token, metas []SegMeta, splits []int) string 
 	sb.WriteString("# Rules:\n")
 	sb.WriteString("#   - Each blank-line group = one segment (exactly one group per segment).\n")
 	sb.WriteString("#   - Surfaces in each group must concatenate to the segment text exactly.\n")
-	sb.WriteString("#   - A token elided in Karoku: leave the surface column empty (just TAB then lemmaRef).\n")
+	sb.WriteString("#   - A token elided in Karoku (only の/が/か): leave surface empty (TAB then lemmaRef).\n")
 	sb.WriteString("#   - Delete all non-comment lines to skip this poem.\n")
 	sb.WriteString("#\n")
 
@@ -212,6 +212,23 @@ func ParseDraftGroups(content string) [][]Token {
 	return groups
 }
 
+// elideableParticles lists the lemma prefixes (without leading "#") whose
+// tokens may have an empty surface (elided in Karoku but present in Hachidaishu).
+// Only の (no), が (ga), and か (ka) are allowed.
+var elideableParticles = []string{"w.の", "w.が", "w.か"}
+
+// isElideableParticle reports whether lemmaRef (e.g. "#w.の.h1") refers to
+// one of the permitted elideable particles.
+func isElideableParticle(lemmaRef string) bool {
+	ref := strings.TrimPrefix(lemmaRef, "#")
+	for _, p := range elideableParticles {
+		if ref == p || strings.HasPrefix(ref, p+".") || strings.HasPrefix(ref, p+"h") {
+			return true
+		}
+	}
+	return false
+}
+
 // ParseDraft parses a user-edited draft file. It returns per-segment SegGroups
 // when the draft is valid, nil (no error) when the user skipped the poem
 // (deleted all data lines), or an error when the draft is malformed.
@@ -278,8 +295,13 @@ func ParseDraft(content string, segTexts []string, rdgTexts []string) ([]SegGrou
 		}
 		surface := col0
 		lemmaRef := strings.TrimSpace(parts[1])
-		if surface == "" && lemmaRef == "" {
-			return nil, fmt.Errorf("empty surface and lemmaRef on line: %q", line)
+		if surface == "" {
+			if lemmaRef == "" {
+				return nil, fmt.Errorf("empty surface and lemmaRef on line: %q", line)
+			}
+			if !isElideableParticle(lemmaRef) {
+				return nil, fmt.Errorf("empty surface only allowed for の/が/か particles, got %q: %q", lemmaRef, line)
+			}
 		}
 		curLem = append(curLem, Token{Surface: surface, LemmaRef: lemmaRef})
 	}

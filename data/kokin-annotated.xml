@@ -2640,11 +2640,34 @@
         <lb/>
         <div type="和歌">
           <l n="19" xml:id="n19" resp="#よみ人知らず">
-            <seg>み山には</seg>
-            <seg>松の雪たに</seg>
-            <seg>きえなくに</seg>
-            <seg>宮こはのへの</seg>
-            <seg>わかなつみけり</seg>
+            <seg>
+              <w lemmaRef="#w.深山">み山</w>
+              <w lemmaRef="#w.に.h1">に</w>
+              <w lemmaRef="#w.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.松">松</w>
+              <w lemmaRef="#w.の.h1">の</w>
+              <w lemmaRef="#w.雪">雪</w>
+              <w lemmaRef="#w.だに">たに</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.消ゆ.きえ">きえ</w>
+              <w lemmaRef="#w.ず.な">な</w>
+              <w lemmaRef="#w.く.h1">く</w>
+              <w lemmaRef="#w.に.h1">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.都">宮こ</w>
+              <w lemmaRef="#w.は">は</w>
+              <w lemmaRef="#w.野辺">のへ</w>
+              <w lemmaRef="#w.の.h1">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.若菜">わかな</w>
+              <w lemmaRef="#w.摘む.つみ">つみ</w>
+              <w lemmaRef="#w.けり.けり">けり</w>
+            </seg>
           </l>
         </div>
         <pb n="1-11r" facs="#p019"/>

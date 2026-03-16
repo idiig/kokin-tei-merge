@@ -3397,14 +3397,42 @@
           </note>
           <lb/>
           <l n="38" xml:id="n38" resp="#紀友則">
-            <seg>君ならて</seg>
-            <seg>誰にか見せむ</seg>
-            <seg>梅花</seg>
-            <seg>色をもかをも</seg>
-            <seg>しる人そ
+            <seg>
+              <w lemmaRef="#w.君.h2">君</w>
+              <w lemmaRef="#w.なり.なら">なら</w>
+              <w lemmaRef="#w.で">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.誰.たれ">誰</w>
+              <w lemmaRef="#w.に.h1">に</w>
+              <w lemmaRef="#w.か.h1">か</w>
+              <w lemmaRef="#w.見す">見せ</w>
+              <w lemmaRef="#w.む.む">む</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.梅.うめ">梅</w>
+              <w lemmaRef="#w.の.h1"/>
+              <w lemmaRef="#w.花">花</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.色">色</w>
+              <w lemmaRef="#w.を.h1">を</w>
+              <w lemmaRef="#w.も.h1">も</w>
+              <w lemmaRef="#w.香">か</w>
+              <w lemmaRef="#w.を.h1">を</w>
+              <w lemmaRef="#w.も.h1">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.知る.しる">しる</w>
+              <w lemmaRef="#w.人.h1">人</w>
+              <w lemmaRef="#w.ぞ">そ</w>
               <app>
-                <lem wit="#国">しる</lem>
-                <rdg wit="#前">みる</rdg>
+                <lem wit="#国">
+                  <w lemmaRef="#w.知る.しる">しる</w>
+                </lem>
+                <rdg wit="#前">
+                  <w lemmaRef="#w.見る.みる">みる</w>
+                </rdg>
               </app>
             </seg>
           </l>

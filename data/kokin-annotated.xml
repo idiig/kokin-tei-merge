@@ -3445,20 +3445,41 @@
           </note>
           <lb/>
           <l n="39" xml:id="n39" resp="#紀貫之">
-            <seg>梅花</seg>
-            <seg>にほふ春へは</seg>
-            <seg>くらふ山</seg>
-            <seg>やみに
+            <seg>
+              <w lemmaRef="#w.梅.うめ">梅</w>
+              <w lemmaRef="#w.の.h1"/>
+              <w lemmaRef="#w.花">花</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.匂ふ.にほふ">にほふ</w>
+              <w lemmaRef="#w.春辺">春へ</w>
+              <w lemmaRef="#w.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.暗部山">くらふ山</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.闇">やみ</w>
+              <w lemmaRef="#w.に.h1">に</w>
               <app>
-                <lem wit="#国">こゆれ</lem>
+                <lem wit="#国">
+                  <w lemmaRef="#w.越ゆ.こゆれ">こゆれ</w>
+                </lem>
                 <rdg wit="#前">こゆ
                   <ruby>
                     <rb>れ</rb>
                     <rt>け</rt>
                   </ruby>
                 </rdg>
-              </app>と</seg>
-            <seg>しるくそ有ける</seg>
+              </app>
+              <w lemmaRef="#w.ど">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.著し.しるく">しるく</w>
+              <w lemmaRef="#w.ぞ">そ</w>
+              <w lemmaRef="#w.有り.あり">有</w>
+              <w lemmaRef="#w.けり.ける">ける</w>
+            </seg>
           </l>
         </div>
         <lb/>

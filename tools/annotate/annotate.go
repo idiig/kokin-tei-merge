@@ -464,16 +464,38 @@ func rewriteChildren(children []etree.Token, tokens []Token, ti *int) []etree.To
 			result = append(result, child)
 		}
 	}
+	// Flush any empty-surface tokens that trail after all text is consumed
+	// (e.g. an elided token at the very end of a segment).
+	for *ti < len(tokens) && tokens[*ti].Surface == "" {
+		w := etree.NewElement("w")
+		w.CreateAttr("lemmaRef", tokens[*ti].LemmaRef)
+		result = append(result, w)
+		(*ti)++
+	}
 	return result
 }
 
 // wrapText consumes tokens from tokens[*ti:] that match the leading text and
 // returns a slice of <w> elements. Any remaining text that is not consumed by
 // tokens (e.g. whitespace) is emitted as CharData.
+//
+// Tokens with an empty Surface (elided in Karoku but present in Hachidaishu)
+// are emitted as empty <w> elements (no text content) at the current position.
 func wrapText(text string, tokens []Token, ti *int) []etree.Token {
 	var result []etree.Token
 	pos := 0
+
+	drainEmpty := func() {
+		for *ti < len(tokens) && tokens[*ti].Surface == "" {
+			w := etree.NewElement("w")
+			w.CreateAttr("lemmaRef", tokens[*ti].LemmaRef)
+			result = append(result, w)
+			(*ti)++
+		}
+	}
+
 	for pos < len(text) {
+		drainEmpty()
 		if *ti >= len(tokens) {
 			break
 		}
@@ -488,6 +510,7 @@ func wrapText(text string, tokens []Token, ti *int) []etree.Token {
 		pos += len(surf)
 		(*ti)++
 	}
+	drainEmpty() // flush any trailing empty-surface tokens
 	// Any unconsumed text (e.g. whitespace between elements) passes through.
 	if pos < len(text) {
 		result = append(result, &etree.CharData{Data: text[pos:]})

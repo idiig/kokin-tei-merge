@@ -21,6 +21,7 @@ func GenerateDraft(n int, tokens []Token, metas []SegMeta, splits []int) string 
 	sb.WriteString("# Rules:\n")
 	sb.WriteString("#   - Each blank-line group = one segment (exactly one group per segment).\n")
 	sb.WriteString("#   - Surfaces in each group must concatenate to the segment text exactly.\n")
+	sb.WriteString("#   - A token elided in Karoku: leave the surface column empty (just TAB then lemmaRef).\n")
 	sb.WriteString("#   - Delete all non-comment lines to skip this poem.\n")
 	sb.WriteString("#\n")
 
@@ -197,7 +198,7 @@ func ParseDraftGroups(content string) [][]Token {
 		}
 		surface := strings.TrimSpace(parts[0])
 		lemmaRef := strings.TrimSpace(parts[1])
-		if surface == "" {
+		if surface == "" && lemmaRef == "" {
 			continue
 		}
 		current = append(current, Token{Surface: surface, LemmaRef: lemmaRef})
@@ -277,8 +278,8 @@ func ParseDraft(content string, segTexts []string, rdgTexts []string) ([]SegGrou
 		}
 		surface := col0
 		lemmaRef := strings.TrimSpace(parts[1])
-		if surface == "" {
-			return nil, fmt.Errorf("empty surface on line: %q", line)
+		if surface == "" && lemmaRef == "" {
+			return nil, fmt.Errorf("empty surface and lemmaRef on line: %q", line)
 		}
 		curLem = append(curLem, Token{Surface: surface, LemmaRef: lemmaRef})
 	}

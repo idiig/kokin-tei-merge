@@ -17,7 +17,7 @@ func GenerateDraft(n int, tokens []Token, metas []SegMeta, splits []int) string 
 	var sb strings.Builder
 	fmt.Fprintf(&sb, "# Poem %d\n", n)
 	sb.WriteString("#\n")
-	sb.WriteString("# Columns: surface (edit this) | lemmaRef (do not edit)\n")
+	sb.WriteString("# Columns: surface (edit this) | lemmaRef (space-separated list OK, e.g. #w.つ.つれ #w.つ.h1)\n")
 	sb.WriteString("# Rules:\n")
 	sb.WriteString("#   - Each blank-line group = one segment (exactly one group per segment).\n")
 	sb.WriteString("#   - Surfaces in each group must concatenate to the segment text exactly.\n")

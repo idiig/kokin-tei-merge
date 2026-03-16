@@ -64,6 +64,16 @@ lemmaRef now resolves to the most specific inflected form when available:
 Resolution is automatic during draft generation (layer 1: exact `kanjiReading`
 match; layer 2: last-rune match). Do not manually construct inflected form IDs.
 
+**Multiple refs** are supported as a space-separated list in the second column:
+
+```
+つれ	#w.つ.つれ #w.つ.h1	# inflected form + homograph disambiguation
+```
+
+This is useful when a token needs both an inflected form ref and a homograph
+ref (e.g. `つ` has `h1`=Aux and `h2`=particle, but inflected forms are at the
+lemma level). The list is written verbatim into `lemmaRef="…"` in the XML.
+
 ## Already-Annotated Poems
 
 When `/align-poem N` is run on a poem that already has `<w>` elements in

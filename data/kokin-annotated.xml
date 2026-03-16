@@ -3030,11 +3030,30 @@
           </note>
           <lb/>
           <l n="28" xml:id="n28" resp="#よみ人知らず">
-            <seg>もゝちとり</seg>
-            <seg>さへつる春は</seg>
-            <seg>物ことに</seg>
-            <seg>あらたまれとも</seg>
-            <seg>我そふりゆく</seg>
+            <seg>
+              <w lemmaRef="#w.百千鳥">もゝちとり</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.囀る">さへつる</w>
+              <w lemmaRef="#w.春.h1">春</w>
+              <w lemmaRef="#w.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.物.h1">物</w>
+              <w lemmaRef="#w.毎">こと</w>
+              <w lemmaRef="#w.に.h1">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.改まる.あらたまれ">あらたまれ</w>
+              <w lemmaRef="#w.ど">と</w>
+              <w lemmaRef="#w.も.h1">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.我.われ">我</w>
+              <w lemmaRef="#w.ぞ">そ</w>
+              <w lemmaRef="#w.古る.ふり">ふり</w>
+              <w lemmaRef="#w.行く.ゆく">ゆく</w>
+            </seg>
           </l>
         </div>
         <lb/>

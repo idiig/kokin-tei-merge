@@ -1889,9 +1889,9 @@
             <seg>
               <w lemmaRef="#w.春.h1">春</w>
               <w lemmaRef="#w.は">は</w>
-              <w lemmaRef="#w.来">き</w>
-              <w lemmaRef="#w.ぬ">に</w>
-              <w lemmaRef="#w.けり">けり</w>
+              <w lemmaRef="#w.来.き">き</w>
+              <w lemmaRef="#w.ぬ.に">に</w>
+              <w lemmaRef="#w.けり.けり">けり</w>
             </seg>
             <seg>
               <w lemmaRef="#w.一年">ひとゝせ</w>
@@ -1901,15 +1901,15 @@
               <w lemmaRef="#w.去年">こそ</w>
               <w lemmaRef="#w.と.h1">と</w>
               <w lemmaRef="#w.や.h1">や</w>
-              <w lemmaRef="#w.言ふ">いは</w>
-              <w lemmaRef="#w.む">む</w>
+              <w lemmaRef="#w.言ふ.いは">いは</w>
+              <w lemmaRef="#w.む.む">む</w>
             </seg>
             <seg>
               <w lemmaRef="#w.今年">ことし</w>
               <w lemmaRef="#w.と.h1">と</w>
               <w lemmaRef="#w.や.h1">や</w>
-              <w lemmaRef="#w.言ふ">いは</w>
-              <w lemmaRef="#w.む">む</w>
+              <w lemmaRef="#w.言ふ.いは">いは</w>
+              <w lemmaRef="#w.む.む">む</w>
             </seg>
           </l>
         </div>

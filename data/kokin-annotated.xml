@@ -2757,11 +2757,32 @@
           </note>
           <lb/>
           <l n="22" xml:id="n22" resp="#紀貫之">
-            <seg>かすかのゝ</seg>
-            <seg>わかなつみにや</seg>
-            <seg>白妙の</seg>
-            <seg>袖ふりはへて</seg>
-            <seg>人のゆくらむ</seg>
+            <seg>
+              <w lemmaRef="#w.春日野">かすかの</w>
+              <w lemmaRef="#w.の.h1">ゝ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.若菜">わかな</w>
+              <w lemmaRef="#w.摘む.つみ">つみ</w>
+              <w lemmaRef="#w.に.h1">に</w>
+              <w lemmaRef="#w.や.h1">や</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.白妙">白妙</w>
+              <w lemmaRef="#w.の.h1">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.袖">袖</w>
+              <w lemmaRef="#w.振る.ふり">ふり</w>
+              <w lemmaRef="#w.延ふ">はへ</w>
+              <w lemmaRef="#w.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.人.h1">人</w>
+              <w lemmaRef="#w.の.h1">の</w>
+              <w lemmaRef="#w.行く.ゆく">ゆく</w>
+              <w lemmaRef="#w.らむ.らむ">らむ</w>
+            </seg>
           </l>
         </div>
         <lb/>

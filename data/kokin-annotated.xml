@@ -2674,11 +2674,30 @@
         <lb/>
         <div>
           <l n="20" xml:id="n20" resp="#よみ人知らず">
-            <seg>梓弓</seg>
-            <seg>をしてはるさめ</seg>
-            <seg>けふふりぬ</seg>
-            <seg>あすさへふらは</seg>
-            <seg>わかなつみてむ</seg>
+            <seg>
+              <w lemmaRef="#w.梓弓">梓弓</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.押す">をし</w>
+              <w lemmaRef="#w.て">て</w>
+              <w lemmaRef="#w.春雨">はるさめ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.今日">けふ</w>
+              <w lemmaRef="#w.降る.ふり">ふり</w>
+              <w lemmaRef="#w.ぬ.ぬ">ぬ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.明日">あすさへ</w>
+              <w lemmaRef="#w.降る.ふら">ふら</w>
+              <w lemmaRef="#w.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.若菜">わかな</w>
+              <w lemmaRef="#w.摘む.つみ">つみ</w>
+              <w lemmaRef="#w.つ.h1">て</w>
+              <w lemmaRef="#w.む.む">む</w>
+            </seg>
           </l>
         </div>
         <lb/>

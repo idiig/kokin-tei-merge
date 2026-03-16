@@ -2190,17 +2190,39 @@
           </note>
           <lb/>
           <l n="8" xml:id="n8" resp="#文屋康秀">
-            <seg>春の日の</seg>
-            <seg>ひかりにあたる</seg>
+            <seg>
+              <w lemmaRef="#w.春.h1">春</w>
+              <w lemmaRef="#w.の.h1">の</w>
+              <w lemmaRef="#w.日.h1">日</w>
+              <w lemmaRef="#w.の.h1">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.光">ひかり</w>
+              <w lemmaRef="#w.に.h1">に</w>
+              <w lemmaRef="#w.当たる">あたる</w>
+            </seg>
             <seg>
               <app>
-                <lem wit="#国">我</lem>
-                <rdg wit="#前">はな</rdg>
-              </app>なれと</seg>
-            <seg>かしらの
+                <lem wit="#国">
+                  <w lemmaRef="#w.我.われ">我</w>
+                </lem>
+                <rdg wit="#前">
+                  <w lemmaRef="#w.花">はな</w>
+                </rdg>
+              </app>
+              <w lemmaRef="#w.なり.なれ">なれ</w>
+              <w lemmaRef="#w.ど">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.頭">かしら</w>
+              <w lemmaRef="#w.の.h1">の</w>
               <app>
-                <lem wit="#国">雪と</lem>
-                <rdg wit="#前">ゆき
+                <lem wit="#国">
+                  <w lemmaRef="#w.雪">雪</w>
+                  <w lemmaRef="#w.と.h1">と</w>
+                </lem>
+                <rdg wit="#前">
+                  <w lemmaRef="#w.雪">ゆき</w>
                   <ruby>
                     <rb>の</rb>
                     <rt>と</rt>
@@ -2208,7 +2230,11 @@
                 </rdg>
               </app>
             </seg>
-            <seg>なるそわひしき</seg>
+            <seg>
+              <w lemmaRef="#w.成る.なる">なる</w>
+              <w lemmaRef="#w.ぞ">そ</w>
+              <w lemmaRef="#w.侘し.わびしき">わひしき</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -2537,19 +2537,41 @@
           </note>
           <lb/>
           <l n="16" xml:id="n16" resp="#よみ人知らず">
-            <seg>野邊ちかく</seg>
+            <seg>
+              <w lemmaRef="#w.野辺">野邊</w>
+              <w lemmaRef="#w.近し.ちかく">ちかく</w>
+            </seg>
             <seg>
               <app>
-                <lem wit="#国">いへゐし</lem>
+                <lem wit="#国">
+                  <w lemmaRef="#w.家">いへ</w>
+                  <w lemmaRef="#w.居る.ゐ">ゐ</w>
+                  <w lemmaRef="#w.し">し</w>
+                </lem>
                 <rdg wit="#前">い
                   <ruby>
                     <rb>ゑ</rb>
                     <rt>へ</rt>
                   </ruby>ゐし</rdg>
-              </app>せれは</seg>
-            <seg>鶯の</seg>
-            <seg>なくなるこゑは</seg>
-            <seg>あさな〳〵きく</seg>
+              </app>
+              <w lemmaRef="#w.す.せ">せ</w>
+              <w lemmaRef="#w.り.れ">れ</w>
+              <w lemmaRef="#w.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.鶯">鶯</w>
+              <w lemmaRef="#w.の.h1">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.鳴く.なく">なく</w>
+              <w lemmaRef="#w.なり.なる">なる</w>
+              <w lemmaRef="#w.声">こゑ</w>
+              <w lemmaRef="#w.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.朝な朝な">あさな〳〵</w>
+              <w lemmaRef="#w.聞く.きく">きく</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -2251,11 +2251,35 @@
           </note>
           <lb/>
           <l n="9" xml:id="n9" resp="#紀貫之">
-            <seg>霞たち</seg>
-            <seg>このめもはるの</seg>
-            <seg>雪ふれは</seg>
-            <seg>花なきさとも</seg>
-            <seg>花そちりける</seg>
+            <seg>
+              <w lemmaRef="#w.霞">霞</w>
+              <w lemmaRef="#w.立つ.たち">たち</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.木.こ">こ</w>
+              <w lemmaRef="#w.の.h1">の</w>
+              <w lemmaRef="#w.芽">め</w>
+              <w lemmaRef="#w.も.h1">も</w>
+              <w lemmaRef="#w.春.h1">はる</w>
+              <w lemmaRef="#w.の.h1">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.雪">雪</w>
+              <w lemmaRef="#w.降る.ふれ">ふれ</w>
+              <w lemmaRef="#w.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.花">花</w>
+              <w lemmaRef="#w.無し.なき">なき</w>
+              <w lemmaRef="#w.里">さと</w>
+              <w lemmaRef="#w.も.h1">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.花">花</w>
+              <w lemmaRef="#w.ぞ">そ</w>
+              <w lemmaRef="#w.散る.ちり">ちり</w>
+              <w lemmaRef="#w.けり.ける">ける</w>
+            </seg>
           </l>
         </div>
         <lb/>

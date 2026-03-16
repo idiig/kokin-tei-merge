@@ -2921,15 +2921,41 @@
         <lb/>
         <div type="和歌">
           <l n="26" xml:id="n26" resp="#紀貫之">
-            <seg>あをやきの</seg>
-            <seg>いとよりかくる</seg>
+            <seg>
+              <w lemmaRef="#w.青柳">あをやき</w>
+              <w lemmaRef="#w.の.h1">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.糸">いと</w>
+              <w lemmaRef="#w.撚る.より">より</w>
+              <w lemmaRef="#w.掛く.かくる">かくる</w>
+            </seg>
             <seg>
               <app>
-                <lem wit="#国">春しも</lem>
-                <rdg wit="#前">ときしも</rdg>
-              </app>そ</seg>
-            <seg>みたれて花の</seg>
-            <seg>ほころひにける</seg>
+                <lem wit="#国">
+                  <w lemmaRef="#w.春.h1">春</w>
+                  <w lemmaRef="#w.し">し</w>
+                  <w lemmaRef="#w.も.h1">も</w>
+                </lem>
+                <rdg wit="#前">
+                  <w lemmaRef="#w.とき">とき</w>
+                  <w lemmaRef="#w.し">し</w>
+                  <w lemmaRef="#w.も.h1">も</w>
+                </rdg>
+              </app>
+              <w lemmaRef="#w.ぞ">そ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.乱る.みだれ">みたれ</w>
+              <w lemmaRef="#w.て">て</w>
+              <w lemmaRef="#w.花">花</w>
+              <w lemmaRef="#w.の.h1">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.綻ぶ">ほころひ</w>
+              <w lemmaRef="#w.ぬ.に">に</w>
+              <w lemmaRef="#w.けり.ける">ける</w>
+            </seg>
           </l>
         </div>
         <lb/>

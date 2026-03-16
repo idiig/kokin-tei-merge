@@ -2976,19 +2976,48 @@
           </note>
           <lb/>
           <l n="27" xml:id="n27" resp="#遍昭">
-            <seg>あさみとり</seg>
-            <seg>いとよりかけて</seg>
-            <seg>しらつゆを</seg>
+            <seg>
+              <w lemmaRef="#w.浅緑">あさみとり</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.糸">いと</w>
+              <w lemmaRef="#w.撚る.より">より</w>
+              <w lemmaRef="#w.掛く.かけ">かけ</w>
+              <w lemmaRef="#w.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.白露">しらつゆ</w>
+              <w lemmaRef="#w.を.h1">を</w>
+            </seg>
             <seg>
               <app>
-                <lem wit="#国">玉にもぬける</lem>
-                <rdg wit="#前">たまにもぬくか</rdg>
+                <lem wit="#国">
+                  <w lemmaRef="#w.珠">玉</w>
+                  <w lemmaRef="#w.に.h1">に</w>
+                  <w lemmaRef="#w.も.h1">も</w>
+                  <w lemmaRef="#w.貫く.ぬけ">ぬけ</w>
+                  <w lemmaRef="#w.り.る">る</w>
+                </lem>
+                <rdg wit="#前">
+                  <w lemmaRef="#w.珠">たま</w>
+                  <w lemmaRef="#w.に.h1">に</w>
+                  <w lemmaRef="#w.も.h1">も</w>
+                  <w lemmaRef="#w.貫く.ぬく">ぬく</w>
+                  <w lemmaRef="#w.か.h1">か</w>
+                </rdg>
               </app>
             </seg>
-            <seg>春の
+            <seg>
+              <w lemmaRef="#w.春.h1">春</w>
+              <w lemmaRef="#w.の.h1">の</w>
               <app>
-                <lem wit="#国">柳か</lem>
-                <rdg wit="#前">あをやき</rdg>
+                <lem wit="#国">
+                  <w lemmaRef="#w.柳">柳</w>
+                  <w lemmaRef="#w.か.h1">か</w>
+                </lem>
+                <rdg wit="#前">
+                  <w lemmaRef="#w.柳">あをやき</w>
+                </rdg>
               </app>
             </seg>
           </l>

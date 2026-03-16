@@ -2717,11 +2717,35 @@
             <lb/>まひける御うた</note>
           <lb/>
           <l n="21" xml:id="n21" resp="#光孝天皇">
-            <seg>君かため</seg>
-            <seg>はるのゝにいてゝ</seg>
-            <seg>わかなつむ</seg>
-            <seg>わか衣手に</seg>
-            <seg>雪はふりつゝ</seg>
+            <seg>
+              <w lemmaRef="#w.君.h1">君</w>
+              <w lemmaRef="#w.が.h1">か</w>
+              <w lemmaRef="#w.為">ため</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.春.h1">はる</w>
+              <w lemmaRef="#w.の.h1">の</w>
+              <w lemmaRef="#w.野">ゝ</w>
+              <w lemmaRef="#w.に.h1">に</w>
+              <w lemmaRef="#w.出づ.いで">いて</w>
+              <w lemmaRef="#w.て">ゝ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.若菜">わかな</w>
+              <w lemmaRef="#w.摘む.つむ">つむ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.我.わ">わ</w>
+              <w lemmaRef="#w.が.h1">か</w>
+              <w lemmaRef="#w.衣手">衣手</w>
+              <w lemmaRef="#w.に.h1">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.雪">雪</w>
+              <w lemmaRef="#w.は">は</w>
+              <w lemmaRef="#w.降る.ふり">ふり</w>
+              <w lemmaRef="#w.つつ">つゝ</w>
+            </seg>
           </l>
         </div>
         <lb/>

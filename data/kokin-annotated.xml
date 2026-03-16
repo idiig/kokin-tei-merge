@@ -2501,11 +2501,32 @@
           </note>
           <lb/>
           <l n="15" xml:id="n15" resp="#在原棟梁">
-            <seg>春たてと</seg>
-            <seg>花もにほはぬ</seg>
-            <seg>山里は</seg>
-            <seg>物うかるねに</seg>
-            <seg>鶯そなく</seg>
+            <seg>
+              <w lemmaRef="#w.春.h1">春</w>
+              <w lemmaRef="#w.立つ.たて">たて</w>
+              <w lemmaRef="#w.ど">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.花">花</w>
+              <w lemmaRef="#w.も.h1">も</w>
+              <w lemmaRef="#w.匂ふ.にほは">にほは</w>
+              <w lemmaRef="#w.ず.ぬ">ぬ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.山里">山里</w>
+              <w lemmaRef="#w.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.物.h1">物</w>
+              <w lemmaRef="#w.憂し.うかる">うかる</w>
+              <w lemmaRef="#w.音.ね">ね</w>
+              <w lemmaRef="#w.に.h1">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.鶯">鶯</w>
+              <w lemmaRef="#w.ぞ">そ</w>
+              <w lemmaRef="#w.鳴く.なく">なく</w>
+            </seg>
           </l>
         </div>
         <lb/>

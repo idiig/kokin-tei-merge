@@ -3213,10 +3213,10 @@
               <w lemmaRef="#w.と.h1">と</w>
             </seg>
             <seg>
-              <w lemmaRef="#w.思ほゆ">おもほゆれ</w>
+              <w lemmaRef="#w.思ほゆ.おもほゆれ">おもほゆれ</w>
             </seg>
             <seg>
-              <w lemmaRef="#w.誰">た</w>
+              <w lemmaRef="#w.誰.た">た</w>
               <w lemmaRef="#w.が.h1">か</w>
               <w lemmaRef="#w.袖">袖</w>
               <w lemmaRef="#w.触る">ふれ</w>

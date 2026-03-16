@@ -2839,11 +2839,31 @@
           </note>
           <lb/>
           <l n="24" xml:id="n24" resp="#源宗于">
-            <seg>ときはなる</seg>
-            <seg>松のみとりも</seg>
-            <seg>春くれは</seg>
-            <seg>いまひとしほの</seg>
-            <seg>色まさりけり</seg>
+            <seg>
+              <w lemmaRef="#w.常磐">ときは</w>
+              <w lemmaRef="#w.なり.なる">なる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.松">松</w>
+              <w lemmaRef="#w.の.h1">の</w>
+              <w lemmaRef="#w.緑">みとり</w>
+              <w lemmaRef="#w.も.h1">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.春.h1">春</w>
+              <w lemmaRef="#w.来.くれ">くれ</w>
+              <w lemmaRef="#w.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.今.h1">いま</w>
+              <w lemmaRef="#w.一染">ひとしほ</w>
+              <w lemmaRef="#w.の.h1">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.色">色</w>
+              <w lemmaRef="#w.増さる.まさり">まさり</w>
+              <w lemmaRef="#w.けり.けり">けり</w>
+            </seg>
           </l>
         </div>
         <pb n="1-11v" facs="#p020"/>

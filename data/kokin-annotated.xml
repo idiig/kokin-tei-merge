@@ -2037,11 +2037,34 @@
           </note>
           <lb/>
           <l n="5" xml:id="n5" resp="#よみ人知らず">
-            <seg>梅かえに</seg>
-            <seg>きゐるうくひす</seg>
-            <seg>春かけて</seg>
-            <seg>なけともいまた</seg>
-            <seg>雪はふりつゝ</seg>
+            <seg>
+              <w lemmaRef="#w.梅.うめ">梅</w>
+              <w lemmaRef="#w.が.h1">か</w>
+              <w lemmaRef="#w.枝.え">え</w>
+              <w lemmaRef="#w.に.h1">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.来.き">き</w>
+              <w lemmaRef="#w.居る.ゐる">ゐる</w>
+              <w lemmaRef="#w.鴬">うくひす</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.春.h1">春</w>
+              <w lemmaRef="#w.掛く.かけ">かけ</w>
+              <w lemmaRef="#w.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.鳴く.なけ">なけ</w>
+              <w lemmaRef="#w.ど">と</w>
+              <w lemmaRef="#w.も.h1">も</w>
+              <w lemmaRef="#w.未だ">いまた</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.雪">雪</w>
+              <w lemmaRef="#w.は">は</w>
+              <w lemmaRef="#w.降る.ふり">ふり</w>
+              <w lemmaRef="#w.つつ">つゝ</w>
+            </seg>
           </l>
         </div>
         <lb/>

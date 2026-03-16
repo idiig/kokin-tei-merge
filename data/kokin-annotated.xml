@@ -3132,11 +3132,33 @@
           </note>
           <lb/>
           <l n="31" xml:id="n31" resp="#伊勢">
-            <seg>はる霞</seg>
-            <seg>立を見すてゝ</seg>
-            <seg>行鳫は</seg>
-            <seg>花なきさとに</seg>
-            <seg>すみやならへる</seg>
+            <seg>
+              <w lemmaRef="#w.春霞">はる霞</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.立つ.たつ">立</w>
+              <w lemmaRef="#w.を.h1">を</w>
+              <w lemmaRef="#w.見る.み">見</w>
+              <w lemmaRef="#w.捨つ">すて</w>
+              <w lemmaRef="#w.て">ゝ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.行く.ゆく">行</w>
+              <w lemmaRef="#w.雁.かり">鳫</w>
+              <w lemmaRef="#w.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.花">花</w>
+              <w lemmaRef="#w.無し.なき">なき</w>
+              <w lemmaRef="#w.里">さと</w>
+              <w lemmaRef="#w.に.h1">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.住む.すみ">すみ</w>
+              <w lemmaRef="#w.や.h1">や</w>
+              <w lemmaRef="#w.慣らふ.ならへ">ならへ</w>
+              <w lemmaRef="#w.り.る">る</w>
+            </seg>
           </l>
         </div>
         <lb/>

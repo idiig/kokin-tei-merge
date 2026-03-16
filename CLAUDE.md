@@ -47,6 +47,10 @@ tools/
 docs/         — Project documentation (English)
 ```
 
+## Session Initialization
+
+At the start of each conversation, run `nix-shell` in the project root to load the environment. All tool commands must be run inside the nix shell (prefix with `nix develop --command bash -c "..."`).
+
 ## Important Constraints
 
 - Do not modify original text content in XML; only add structural annotations

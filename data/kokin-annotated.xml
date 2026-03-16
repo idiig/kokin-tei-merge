@@ -3357,11 +3357,35 @@
           <pb n="1-12v" facs="#p021"/>
           <lb/>
           <l n="37" xml:id="n37" resp="#素性法師">
-            <seg>よそにのみ</seg>
-            <seg>あはれとそ見し</seg>
-            <seg>梅花</seg>
-            <seg>あかぬ色かは</seg>
-            <seg>折てなりけり</seg>
+            <seg>
+              <w lemmaRef="#w.余所">よそ</w>
+              <w lemmaRef="#w.に.h1">に</w>
+              <w lemmaRef="#w.のみ">のみ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.哀れ.h1">あはれ</w>
+              <w lemmaRef="#w.と.h1">と</w>
+              <w lemmaRef="#w.ぞ">そ</w>
+              <w lemmaRef="#w.見る.み">見</w>
+              <w lemmaRef="#w.き.し">し</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.梅.うめ">梅</w>
+              <w lemmaRef="#w.の.h1"/>
+              <w lemmaRef="#w.花">花</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.飽く.あか">あか</w>
+              <w lemmaRef="#w.ず.ぬ">ぬ</w>
+              <w lemmaRef="#w.色香">色か</w>
+              <w lemmaRef="#w.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.折る.をり">折</w>
+              <w lemmaRef="#w.て">て</w>
+              <w lemmaRef="#w.なり.なり">なり</w>
+              <w lemmaRef="#w.けり.けり">けり</w>
+            </seg>
           </l>
         </div>
         <lb/>

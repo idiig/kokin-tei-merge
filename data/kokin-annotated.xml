@@ -1880,11 +1880,37 @@
           </note>
           <lb/>
           <l n="1" xml:id="n1" resp="#在原元方">
-            <seg>年の内に</seg>
-            <seg>春はきにけり</seg>
-            <seg>ひとゝせを</seg>
-            <seg>こそとやいはむ</seg>
-            <seg>ことしとやいはむ</seg>
+            <seg>
+              <w lemmaRef="#w.年">年</w>
+              <w lemmaRef="#w.の.h1">の</w>
+              <w lemmaRef="#w.内">内</w>
+              <w lemmaRef="#w.に.h1">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.春.h1">春</w>
+              <w lemmaRef="#w.は">は</w>
+              <w lemmaRef="#w.来">き</w>
+              <w lemmaRef="#w.ぬ">に</w>
+              <w lemmaRef="#w.けり">けり</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.一年">ひとゝせ</w>
+              <w lemmaRef="#w.を.h1">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.去年">こそ</w>
+              <w lemmaRef="#w.と.h1">と</w>
+              <w lemmaRef="#w.や.h1">や</w>
+              <w lemmaRef="#w.言ふ">いは</w>
+              <w lemmaRef="#w.む">む</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.今年">ことし</w>
+              <w lemmaRef="#w.と.h1">と</w>
+              <w lemmaRef="#w.や.h1">や</w>
+              <w lemmaRef="#w.言ふ">いは</w>
+              <w lemmaRef="#w.む">む</w>
+            </seg>
           </l>
         </div>
         <lb/>
@@ -1900,11 +1926,34 @@
           </note>
           <lb/>
           <l n="2" xml:id="n2" resp="#紀貫之">
-            <seg>袖ひちて</seg>
-            <seg>むすひし水の</seg>
-            <seg>こほれるを</seg>
-            <seg>春立けふの</seg>
-            <seg>風やとくらむ</seg>
+            <seg>
+              <w lemmaRef="#w.袖">袖</w>
+              <w lemmaRef="#w.漬つ.ひち">ひち</w>
+              <w lemmaRef="#w.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.掬ぶ">むすひ</w>
+              <w lemmaRef="#w.き.し">し</w>
+              <w lemmaRef="#w.水.みづ">水</w>
+              <w lemmaRef="#w.の.h1">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.凍る.こほれ">こほれ</w>
+              <w lemmaRef="#w.り.る">る</w>
+              <w lemmaRef="#w.を.h1">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.春.h1">春</w>
+              <w lemmaRef="#w.立つ.たつ">立</w>
+              <w lemmaRef="#w.今日">けふ</w>
+              <w lemmaRef="#w.の.h1">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.風">風</w>
+              <w lemmaRef="#w.や.h1">や</w>
+              <w lemmaRef="#w.解く.とく">とく</w>
+              <w lemmaRef="#w.らむ.らむ">らむ</w>
+            </seg>
           </l>
         </div>
         <lb/>
@@ -1915,11 +1964,31 @@
           </note>
           <lb/>
           <l n="3" xml:id="n3" resp="#よみ人知らず">
-            <seg>春霞</seg>
-            <seg>たてるやいつこ</seg>
-            <seg>みよしのゝ</seg>
-            <seg>よしのゝ山に</seg>
-            <seg>雪はふりつゝ</seg>
+            <seg>
+              <w lemmaRef="#w.春霞">春霞</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.立つ.たて">たて</w>
+              <w lemmaRef="#w.り.る">る</w>
+              <w lemmaRef="#w.や.h1">や</w>
+              <w lemmaRef="#w.何処.いづこ">いつこ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.み吉野">みよしの</w>
+              <w lemmaRef="#w.の.h1">ゝ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.吉野">よしの</w>
+              <w lemmaRef="#w.の.h1">ゝ</w>
+              <w lemmaRef="#w.山">山</w>
+              <w lemmaRef="#w.に.h1">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.雪">雪</w>
+              <w lemmaRef="#w.は">は</w>
+              <w lemmaRef="#w.降る.ふり">ふり</w>
+              <w lemmaRef="#w.つつ">つゝ</w>
+            </seg>
           </l>
         </div>
         <lb/>
@@ -1929,11 +1998,34 @@
             <persName type="作者" corresp="#藤原高子">二条のきさき</persName>のはるのはしめの御うた</note>
           <lb/>
           <l n="4" xml:id="n4" resp="#藤原高子">
-            <seg>雪の内に</seg>
-            <seg>春はきにけり</seg>
-            <seg>うくひすの</seg>
-            <seg>こほれるなみた</seg>
-            <seg>今やとくらむ</seg>
+            <seg>
+              <w lemmaRef="#w.雪">雪</w>
+              <w lemmaRef="#w.の.h1">の</w>
+              <w lemmaRef="#w.内">内</w>
+              <w lemmaRef="#w.に.h1">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.春.h1">春</w>
+              <w lemmaRef="#w.は">は</w>
+              <w lemmaRef="#w.来.き">き</w>
+              <w lemmaRef="#w.ぬ.に">に</w>
+              <w lemmaRef="#w.けり.けり">けり</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.鶯">うくひす</w>
+              <w lemmaRef="#w.の.h1">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.凍る.こほれ">こほれ</w>
+              <w lemmaRef="#w.り.る">る</w>
+              <w lemmaRef="#w.涙">なみた</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.今.h1">今</w>
+              <w lemmaRef="#w.や.h1">や</w>
+              <w lemmaRef="#w.解く.とく">とく</w>
+              <w lemmaRef="#w.らむ.らむ">らむ</w>
+            </seg>
           </l>
         </div>
         <pb n="1-9v" facs="#p018"/>

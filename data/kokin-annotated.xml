@@ -3234,16 +3234,40 @@
         <lb/>
         <div type="和歌">
           <l n="34" xml:id="n34" resp="#よみ人知らず">
-            <seg>やとちかく</seg>
-            <seg>梅花うへし</seg>
-            <seg>あちきなく</seg>
-            <seg>松人の
+            <seg>
+              <w lemmaRef="#w.宿">やと</w>
+              <w lemmaRef="#w.近し.ちかく">ちかく</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.梅.うめ">梅</w>
+              <w lemmaRef="#w.の.h1"/>
+              <w lemmaRef="#w.花">花</w>
+              <w lemmaRef="#w.植う">うへ</w>
+              <w lemmaRef="#w.じ">し</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.味気無し.あぢきなく">あちきなく</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.待つ.h1 #w.松">松</w>
+              <w lemmaRef="#w.人.h1">人</w>
+              <w lemmaRef="#w.の.h1">の</w>
               <app>
-                <lem wit="#国">かに</lem>
-                <rdg wit="#前">かと</rdg>
+                <lem wit="#国">
+                  <w lemmaRef="#w.香">か</w>
+                  <w lemmaRef="#w.に.h1">に</w>
+                </lem>
+                <rdg wit="#前">
+                  <w lemmaRef="#w.香">か</w>
+                  <w lemmaRef="#w.と.h1">と</w>
+                </rdg>
               </app>
             </seg>
-            <seg>あやまたれけり</seg>
+            <seg>
+              <w lemmaRef="#w.誤つ">あやまた</w>
+              <w lemmaRef="#w.る.れ">れ</w>
+              <w lemmaRef="#w.けり.けり">けり</w>
+            </seg>
           </l>
         </div>
         <lb/>

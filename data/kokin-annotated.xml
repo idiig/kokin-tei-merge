@@ -2121,14 +2121,40 @@
           </note>
           <lb/>
           <l n="7" xml:id="n7" resp="#よみ人知らず">
-            <seg>心さし</seg>
-            <seg>ふかくそめてし</seg>
-            <seg>おりけれは</seg>
-            <seg>きえあへぬ雪の</seg>
-            <seg>花と
+            <seg>
+              <w lemmaRef="#w.心.こころ">心</w>
+              <w lemmaRef="#w.指す">さし</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.深し.ふかく">ふかく</w>
+              <w lemmaRef="#w.染む.そめ">そめ</w>
+              <w lemmaRef="#w.つ.h1">て</w>
+              <w lemmaRef="#w.き.し">し</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.折る.をり">おり</w>
+              <w lemmaRef="#w.けり.けれ">けれ</w>
+              <w lemmaRef="#w.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.消ゆ.きえ">きえ</w>
+              <w lemmaRef="#w.敢ふ">あへ</w>
+              <w lemmaRef="#w.ず.ぬ">ぬ</w>
+              <w lemmaRef="#w.雪">雪</w>
+              <w lemmaRef="#w.の.h1">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.花">花</w>
+              <w lemmaRef="#w.と.h1">と</w>
               <app>
-                <lem wit="#国">見ゆらむ</lem>
-                <rdg wit="#前">みゆるか</rdg>
+                <lem wit="#国">
+                  <w lemmaRef="#w.見ゆ.みゆ">見ゆ</w>
+                  <w lemmaRef="#w.らむ.らむ">らむ</w>
+                </lem>
+                <rdg wit="#前">
+                  <w lemmaRef="#w.見ゆる">みゆる</w>
+                  <w lemmaRef="#w.か">か</w>
+                </rdg>
               </app>
             </seg>
           </l>

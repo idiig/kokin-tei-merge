@@ -4991,7 +4991,34 @@
             <persName type="作者" corresp="#承均法師">承均</persName>
           </note>
           <lb/>
-          <l n="75" xml:id="n75" resp="#承均法師">さくらちる花の所は春なから雪そふりつゝきえかてにする</l>
+          <l n="75" xml:id="n75" resp="#承均法師">
+            <seg>
+              <w lemmaRef="#w.桜">さくら</w>
+              <w lemmaRef="#w.散る.ちる">ちる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.花">花</w>
+              <w lemmaRef="#w.の.h1">の</w>
+              <w lemmaRef="#w.所.h1">所</w>
+              <w lemmaRef="#w.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.春.h1">春</w>
+              <w lemmaRef="#w.ながら">なから</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.雪">雪</w>
+              <w lemmaRef="#w.ぞ">そ</w>
+              <w lemmaRef="#w.降る.ふり">ふり</w>
+              <w lemmaRef="#w.つつ">つゝ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.消ゆ.きえ">きえ</w>
+              <w lemmaRef="#w.勝つ">かて</w>
+              <w lemmaRef="#w.ず.に">に</w>
+              <w lemmaRef="#w.す.する">する</w>
+            </seg>
+          </l>
         </div>
         <lb/>
         <div type="和歌">

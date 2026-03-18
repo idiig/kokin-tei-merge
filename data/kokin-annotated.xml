@@ -4395,11 +4395,31 @@
           </note>
           <lb/>
           <l n="60" xml:id="n60" resp="#紀友則">
-            <seg>みよしのゝ</seg>
-            <seg>山邊にさける</seg>
-            <seg>櫻花</seg>
-            <seg>雪かとのみそ</seg>
-            <seg>あやまたれける</seg>
+            <seg>
+              <w lemmaRef="#w.み吉野">みよしの</w>
+              <w lemmaRef="#w.の.h1">ゝ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.山辺">山邊</w>
+              <w lemmaRef="#w.に.h1">に</w>
+              <w lemmaRef="#w.咲く.さけ">さけ</w>
+              <w lemmaRef="#w.り.る">る</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.桜花">櫻花</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.雪">雪</w>
+              <w lemmaRef="#w.か.h1">か</w>
+              <w lemmaRef="#w.と.h1">と</w>
+              <w lemmaRef="#w.のみ">のみ</w>
+              <w lemmaRef="#w.ぞ">そ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.誤つ">あやまた</w>
+              <w lemmaRef="#w.る.れ">れ</w>
+              <w lemmaRef="#w.けり.ける">ける</w>
+            </seg>
           </l>
         </div>
         <lb/>

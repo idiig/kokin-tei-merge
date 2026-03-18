@@ -4846,11 +4846,29 @@
         <lb/>
         <div type="和歌">
           <l n="71" xml:id="n71" resp="#よみ人知らず">
-            <seg>残なく</seg>
-            <seg>ちるそめてたき</seg>
-            <seg>櫻花</seg>
-            <seg>有て世中</seg>
-            <seg>はてのうけれは</seg>
+            <seg>
+              <w lemmaRef="#w.残る.のこり">残</w>
+              <w lemmaRef="#w.無し.なく">なく</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.散る.ちる">ちる</w>
+              <w lemmaRef="#w.ぞ">そ</w>
+              <w lemmaRef="#w.愛でたし">めてたき</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.桜花">櫻花</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.有り.あり">有</w>
+              <w lemmaRef="#w.て">て</w>
+              <w lemmaRef="#w.世の中">世中</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.果つ.はて">はて</w>
+              <w lemmaRef="#w.の.h1">の</w>
+              <w lemmaRef="#w.憂し.うけれ">うけれ</w>
+              <w lemmaRef="#w.ば">は</w>
+            </seg>
           </l>
         </div>
         <lb/>

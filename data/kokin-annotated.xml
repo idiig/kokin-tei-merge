@@ -4524,16 +4524,47 @@
           </note>
           <lb/>
           <l n="63" xml:id="n63">
-            <seg>けふこすは</seg>
-            <seg>あすは雪とそ</seg>
-            <seg>ふりなまし</seg>
-            <seg>きえすは
+            <seg>
+              <w lemmaRef="#w.今日">けふ</w>
+              <w lemmaRef="#w.来.こ">こ</w>
+              <w lemmaRef="#w.ず.ず">す</w>
+              <w lemmaRef="#w.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.明日">あす</w>
+              <w lemmaRef="#w.は">は</w>
+              <w lemmaRef="#w.雪">雪</w>
+              <w lemmaRef="#w.と.h1">と</w>
+              <w lemmaRef="#w.ぞ">そ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.降る.ふり">ふり</w>
+              <w lemmaRef="#w.ぬ.な">な</w>
+              <w lemmaRef="#w.まし.まし">まし</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.消ゆ.きえ">きえ</w>
+              <w lemmaRef="#w.ず.ず">す</w>
+              <w lemmaRef="#w.は">は</w>
               <app>
-                <lem wit="#国">有とも</lem>
-                <rdg wit="#前">ありと</rdg>
+                <lem wit="#国">
+                  <w lemmaRef="#w.有り.あり">有</w>
+                  <w lemmaRef="#w.と.h1">と</w>
+                  <w lemmaRef="#w.も.h1">も</w>
+                </lem>
+                <rdg wit="#前">
+                  <w lemmaRef="#w.有り.あり">あり</w>
+                  <w lemmaRef="#w.と.h1">と</w>
+                </rdg>
               </app>
             </seg>
-            <seg>花と見ましや</seg>
+            <seg>
+              <w lemmaRef="#w.花">花</w>
+              <w lemmaRef="#w.と.h1">と</w>
+              <w lemmaRef="#w.見る.み">見</w>
+              <w lemmaRef="#w.まし.まし">まし</w>
+              <w lemmaRef="#w.や.h1">や</w>
+            </seg>
           </l>
         </div>
         <lb/>

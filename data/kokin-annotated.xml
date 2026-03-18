@@ -4289,7 +4289,7 @@
             </seg>
             <seg>
               <w lemmaRef="#w.年">年</w>
-              <w lemmaRef="#w.経.h1">ふる</w>
+              <w lemmaRef="#w.経.h1 #w.経.ふる">ふる</w>
               <w lemmaRef="#w.人.h1">人</w>
               <w lemmaRef="#w.ぞ">そ</w>
             </seg>
@@ -4318,7 +4318,7 @@
               <w lemmaRef="#w.尋む">とめ</w>
               <w lemmaRef="#w.て">て</w>
               <w lemmaRef="#w.折る.をり">折</w>
-              <w lemmaRef="#w.つ.h1">つる</w>
+              <w lemmaRef="#w.つ.h1 #w.つ.つる">つる</w>
             </seg>
             <seg>
               <w lemmaRef="#w.春霞">春かすみ</w>
@@ -5178,11 +5178,34 @@
           <note type="勘物" style="margin-top: 1em" resp="#藤原定家" target="#s80">典侍貞観寛平延喜</note>
           <lb/>
           <l n="80" xml:id="n80" resp="#藤原因香">
-            <seg>たれこめて</seg>
-            <seg>春のゆくゑも</seg>
-            <seg>しらぬまに</seg>
-            <seg>まちし櫻も</seg>
-            <seg>うつろひにけり</seg>
+            <seg>
+              <w lemmaRef="#w.垂る">たれ</w>
+              <w lemmaRef="#w.籠む">こめ</w>
+              <w lemmaRef="#w.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.春.h1">春</w>
+              <w lemmaRef="#w.の.h1">の</w>
+              <w lemmaRef="#w.行方">ゆくゑ</w>
+              <w lemmaRef="#w.も.h1">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.知る.しら">しら</w>
+              <w lemmaRef="#w.ず.ぬ">ぬ</w>
+              <w lemmaRef="#w.間">ま</w>
+              <w lemmaRef="#w.に.h1">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.待つ.h1 #w.待つ.まち">まち</w>
+              <w lemmaRef="#w.き.し">し</w>
+              <w lemmaRef="#w.桜">櫻</w>
+              <w lemmaRef="#w.も.h1">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.移ろふ.うつろひ">うつろひ</w>
+              <w lemmaRef="#w.ぬ.に">に</w>
+              <w lemmaRef="#w.けり.けり">けり</w>
+            </seg>
           </l>
         </div>
         <lb/>

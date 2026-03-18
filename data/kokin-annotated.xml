@@ -5589,11 +5589,35 @@
           </note>
           <lb/>
           <l n="91" xml:id="n91" resp="#遍昭">
-            <seg>花の色は</seg>
-            <seg>霞にこめて</seg>
-            <seg>見せすとも</seg>
-            <seg>かをたにぬすめ</seg>
-            <seg>春の山かせ</seg>
+            <seg>
+              <w lemmaRef="#w.花">花</w>
+              <w lemmaRef="#w.の.h1">の</w>
+              <w lemmaRef="#w.色">色</w>
+              <w lemmaRef="#w.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.霞">霞</w>
+              <w lemmaRef="#w.に.h1">に</w>
+              <w lemmaRef="#w.込む">こめ</w>
+              <w lemmaRef="#w.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.見す">見せ</w>
+              <w lemmaRef="#w.ず.ず">す</w>
+              <w lemmaRef="#w.と.h1">と</w>
+              <w lemmaRef="#w.も.h1">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.香">か</w>
+              <w lemmaRef="#w.を.h1">を</w>
+              <w lemmaRef="#w.だに">たに</w>
+              <w lemmaRef="#w.盗む">ぬすめ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.春.h1">春</w>
+              <w lemmaRef="#w.の.h1">の</w>
+              <w lemmaRef="#w.山風">山かせ</w>
+            </seg>
           </l>
         </div>
         <lb/>

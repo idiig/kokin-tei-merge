@@ -4224,11 +4224,32 @@
             </app>さかりに京を見やりてよめる</note>
           <lb/>
           <l n="56" xml:id="n56" resp="#素性法師">
-            <seg>見渡せは</seg>
-            <seg>柳櫻を</seg>
-            <seg>こきませて</seg>
-            <seg>宮こそ春の</seg>
-            <seg>錦なりける</seg>
+            <seg>
+              <w lemmaRef="#w.見る.み">見</w>
+              <w lemmaRef="#w.渡す.わたせ">渡せ</w>
+              <w lemmaRef="#w.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.柳">柳</w>
+              <w lemmaRef="#w.桜">櫻</w>
+              <w lemmaRef="#w.を.h1">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.扱く">こき</w>
+              <w lemmaRef="#w.雑ず">ませ</w>
+              <w lemmaRef="#w.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.都">宮こ</w>
+              <w lemmaRef="#w.ぞ">そ</w>
+              <w lemmaRef="#w.春.h1">春</w>
+              <w lemmaRef="#w.の.h1">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.錦">錦</w>
+              <w lemmaRef="#w.なり.なり">なり</w>
+              <w lemmaRef="#w.けり.ける">ける</w>
+            </seg>
           </l>
         </div>
         <lb/>

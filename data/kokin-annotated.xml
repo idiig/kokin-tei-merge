@@ -4125,7 +4125,10 @@
           <l n="54" xml:id="n54" resp="#よみ人知らず">
             <seg>
               <app>
-                <lem wit="#国">いしはしる</lem>
+                <lem wit="#国">
+                  <w lemmaRef="#w.石">いし</w>
+                  <w lemmaRef="#w.走る">はしる</w>
+                </lem>
                 <rdg wit="#前">い
                   <ruby>
                     <rb>はゝ</rb>
@@ -4133,11 +4136,24 @@
                   </ruby>しる</rdg>
               </app>
             </seg>
-            <seg>たきなくも哉</seg>
-            <seg>さくら花</seg>
-            <seg>たおりても
+            <seg>
+              <w lemmaRef="#w.滝">たき</w>
+              <w lemmaRef="#w.無し.なく">なく</w>
+              <w lemmaRef="#w.もがな">も哉</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.桜花">さくら花</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.手.た">た</w>
+              <w lemmaRef="#w.折る.をり">おり</w>
+              <w lemmaRef="#w.て">て</w>
+              <w lemmaRef="#w.も.h1">も</w>
               <app>
-                <lem wit="#国">こむ</lem>
+                <lem wit="#国">
+                  <w lemmaRef="#w.来.こ">こ</w>
+                  <w lemmaRef="#w.む.む">む</w>
+                </lem>
                 <rdg wit="#前">
                   <ruby>
                     <rb>こん</rb>
@@ -4146,7 +4162,13 @@
                 </rdg>
               </app>
             </seg>
-            <seg>見ぬ人のため</seg>
+            <seg>
+              <w lemmaRef="#w.見る.み">見</w>
+              <w lemmaRef="#w.ず.ぬ">ぬ</w>
+              <w lemmaRef="#w.人.h1">人</w>
+              <w lemmaRef="#w.の.h1">の</w>
+              <w lemmaRef="#w.為">ため</w>
+            </seg>
           </l>
         </div>
         <lb/>

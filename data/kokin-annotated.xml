@@ -5105,11 +5105,34 @@
           </note>
           <lb/>
           <l n="78" xml:id="n78" resp="#紀貫之">
-            <seg>ひとめ見し</seg>
-            <seg>君もやくると</seg>
-            <seg>櫻花</seg>
-            <seg>けふはまち見て</seg>
-            <seg>ちらはちら南</seg>
+            <seg>
+              <w lemmaRef="#w.一目">ひとめ</w>
+              <w lemmaRef="#w.見る.み">見</w>
+              <w lemmaRef="#w.き.し">し</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.君.h2">君</w>
+              <w lemmaRef="#w.も.h1">も</w>
+              <w lemmaRef="#w.や.h1">や</w>
+              <w lemmaRef="#w.来.くる">くる</w>
+              <w lemmaRef="#w.と.h1">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.桜花">櫻花</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.今日">けふ</w>
+              <w lemmaRef="#w.は">は</w>
+              <w lemmaRef="#w.待つ.h1">まち</w>
+              <w lemmaRef="#w.見る.み">見</w>
+              <w lemmaRef="#w.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.散る.ちら">ちら</w>
+              <w lemmaRef="#w.ば">は</w>
+              <w lemmaRef="#w.散る.ちら">ちら</w>
+              <w lemmaRef="#w.なむ.h1">南</w>
+            </seg>
           </l>
         </div>
         <pb n="1-17r" facs="#p025"/>

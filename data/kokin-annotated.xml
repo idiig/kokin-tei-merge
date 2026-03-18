@@ -5369,11 +5369,31 @@
           </note>
           <lb/>
           <l n="85" xml:id="n85" resp="#藤原好風">
-            <seg>春風は</seg>
-            <seg>花のあたりを</seg>
-            <seg>よきてふけ</seg>
-            <seg>心つからや</seg>
-            <seg>うつろふと見む</seg>
+            <seg>
+              <w lemmaRef="#w.春風">春風</w>
+              <w lemmaRef="#w.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.花">花</w>
+              <w lemmaRef="#w.の.h1">の</w>
+              <w lemmaRef="#w.辺.あたり">あたり</w>
+              <w lemmaRef="#w.を.h1">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.避く.よき">よき</w>
+              <w lemmaRef="#w.て">て</w>
+              <w lemmaRef="#w.吹く.ふけ">ふけ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.心づから">心つから</w>
+              <w lemmaRef="#w.や.h1">や</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.移ろふ.うつろふ">うつろふ</w>
+              <w lemmaRef="#w.と.h1">と</w>
+              <w lemmaRef="#w.見る.み">見</w>
+              <w lemmaRef="#w.む.む">む</w>
+            </seg>
           </l>
         </div>
         <lb/>

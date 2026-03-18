@@ -3658,11 +3658,35 @@
         <lb/>
         <div type="和歌" resp="#伊勢">
           <l n="44" xml:id="n44">
-            <seg>年をへて</seg>
-            <seg>花の鏡と</seg>
-            <seg>なる水は</seg>
-            <seg>ちりかゝるをや</seg>
-            <seg>くもるといふらむ</seg>
+            <seg>
+              <w lemmaRef="#w.年">年</w>
+              <w lemmaRef="#w.を.h1">を</w>
+              <w lemmaRef="#w.経.h1">へ</w>
+              <w lemmaRef="#w.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.花">花</w>
+              <w lemmaRef="#w.の.h1">の</w>
+              <w lemmaRef="#w.鏡">鏡</w>
+              <w lemmaRef="#w.と.h1">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.成る.なる">なる</w>
+              <w lemmaRef="#w.水.みづ">水</w>
+              <w lemmaRef="#w.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.散る.ちり">ちり</w>
+              <w lemmaRef="#w.掛かる.かかる">かゝる</w>
+              <w lemmaRef="#w.を.h1">を</w>
+              <w lemmaRef="#w.や.h1">や</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.曇る.くもる">くもる</w>
+              <w lemmaRef="#w.と.h1">と</w>
+              <w lemmaRef="#w.言ふ.いふ">いふ</w>
+              <w lemmaRef="#w.らむ.らむ">らむ</w>
+            </seg>
           </l>
         </div>
         <lb/>

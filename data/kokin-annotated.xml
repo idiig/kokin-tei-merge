@@ -5514,11 +5514,32 @@
           </note>
           <lb/>
           <l n="89" xml:id="n89" resp="#紀貫之">
-            <seg>櫻花</seg>
-            <seg>ちりぬるかせの</seg>
-            <seg>なこりには</seg>
-            <seg>水なきそらに</seg>
-            <seg>浪そ立ける</seg>
+            <seg>
+              <w lemmaRef="#w.桜花">櫻花</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.散る.ちり">ちり</w>
+              <w lemmaRef="#w.ぬ.ぬる">ぬる</w>
+              <w lemmaRef="#w.風">かせ</w>
+              <w lemmaRef="#w.の.h1">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.名残">なこり</w>
+              <w lemmaRef="#w.に.h1">に</w>
+              <w lemmaRef="#w.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.水.みづ">水</w>
+              <w lemmaRef="#w.無し.なき">なき</w>
+              <w lemmaRef="#w.空">そら</w>
+              <w lemmaRef="#w.に.h1">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.浪">浪</w>
+              <w lemmaRef="#w.ぞ">そ</w>
+              <w lemmaRef="#w.立つ.たち">立</w>
+              <w lemmaRef="#w.けり.ける">ける</w>
+            </seg>
           </l>
         </div>
         <lb/>

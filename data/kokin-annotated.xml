@@ -5293,11 +5293,33 @@
           <note type="詞書" style="margin-top: 2em" target="#n83">さくらのことゝくちる物はなしと人のいひけれはよめる</note>
           <lb/>
           <l n="83" xml:id="n83" resp="#紀貫之">
-            <seg>さくら花</seg>
-            <seg>とくちりぬとも</seg>
-            <seg>おもほえす</seg>
-            <seg>人の心そ</seg>
-            <seg>風も吹あへぬ</seg>
+            <seg>
+              <w lemmaRef="#w.桜花">さくら花</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.疾し.とく">とく</w>
+              <w lemmaRef="#w.散る.ちり">ちり</w>
+              <w lemmaRef="#w.ぬ.ぬ">ぬ</w>
+              <w lemmaRef="#w.と.h1">と</w>
+              <w lemmaRef="#w.も.h1">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.思ほゆ.おもほえ">おもほえ</w>
+              <w lemmaRef="#w.ず.ず">す</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.人.h1">人</w>
+              <w lemmaRef="#w.の.h1">の</w>
+              <w lemmaRef="#w.心.こころ">心</w>
+              <w lemmaRef="#w.ぞ">そ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.風">風</w>
+              <w lemmaRef="#w.も.h1">も</w>
+              <w lemmaRef="#w.吹く.ふき">吹</w>
+              <w lemmaRef="#w.敢ふ">あへ</w>
+              <w lemmaRef="#w.ず.ぬ">ぬ</w>
+            </seg>
           </l>
         </div>
         <lb/>

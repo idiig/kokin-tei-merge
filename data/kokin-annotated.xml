@@ -5442,11 +5442,32 @@
           <pb n="1-18r" facs="#p026"/>
           <lb/>
           <l n="87" xml:id="n87" resp="#紀貫之">
-            <seg>山たかみ</seg>
-            <seg>ゝつゝわかこし</seg>
-            <seg>櫻花</seg>
-            <seg>風は心に</seg>
-            <seg>まかすへらなり</seg>
+            <seg>
+              <w lemmaRef="#w.山">山</w>
+              <w lemmaRef="#w.高し.たか">たか</w>
+              <w lemmaRef="#w.み.h1">み</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.見る.み">ゝ</w>
+              <w lemmaRef="#w.つつ">つゝ</w>
+              <w lemmaRef="#w.我.わ">わ</w>
+              <w lemmaRef="#w.が.h1">か</w>
+              <w lemmaRef="#w.来.こ">こ</w>
+              <w lemmaRef="#w.き.し">し</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.桜花">櫻花</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.風">風</w>
+              <w lemmaRef="#w.は">は</w>
+              <w lemmaRef="#w.心.こころ">心</w>
+              <w lemmaRef="#w.に.h1">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.任す.まかす">まかす</w>
+              <w lemmaRef="#w.べらなり.べらなり">へらなり</w>
+            </seg>
           </l>
         </div>
         <lb/>

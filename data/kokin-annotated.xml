@@ -4038,11 +4038,36 @@
           </note>
           <lb/>
           <l n="52" xml:id="n52" resp="#藤原良房">
-            <seg>年ふれは</seg>
-            <seg>よはひはおいぬ</seg>
-            <seg>しかはあれと</seg>
-            <seg>花をし見れは</seg>
-            <seg>物思もなし</seg>
+            <seg>
+              <w lemmaRef="#w.年">年</w>
+              <w lemmaRef="#w.経.h1">ふれ</w>
+              <w lemmaRef="#w.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.齢">よはひ</w>
+              <w lemmaRef="#w.は">は</w>
+              <w lemmaRef="#w.老ゆ">おい</w>
+              <w lemmaRef="#w.ぬ.ぬ">ぬ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.然.しか">しか</w>
+              <w lemmaRef="#w.は">は</w>
+              <w lemmaRef="#w.有り.あれ">あれ</w>
+              <w lemmaRef="#w.ど">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.花">花</w>
+              <w lemmaRef="#w.を.h1">を</w>
+              <w lemmaRef="#w.し">し</w>
+              <w lemmaRef="#w.見る.みれ">見れ</w>
+              <w lemmaRef="#w.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.物.h1">物</w>
+              <w lemmaRef="#w.思ふ.おもひ">思</w>
+              <w lemmaRef="#w.も.h1">も</w>
+              <w lemmaRef="#w.無し.なし">なし</w>
+            </seg>
           </l>
         </div>
         <lb/>

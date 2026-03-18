@@ -5141,11 +5141,30 @@
           <note type="詞書" style="margin-top: 2em" target="#n79">山のさくらを見てよめる</note>
           <lb/>
           <l n="79" xml:id="n79" resp="#紀貫之">
-            <seg>春霞</seg>
-            <seg>なにかくす覧</seg>
-            <seg>さくら花</seg>
-            <seg>ちるまをたにも</seg>
-            <seg>見るへき物を</seg>
+            <seg>
+              <w lemmaRef="#w.春霞">春霞</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.何">なに</w>
+              <w lemmaRef="#w.隠す.h1">かくす</w>
+              <w lemmaRef="#w.らむ.らむ">覧</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.桜花">さくら花</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.散る.ちる">ちる</w>
+              <w lemmaRef="#w.間">ま</w>
+              <w lemmaRef="#w.を.h1">を</w>
+              <w lemmaRef="#w.だに">たに</w>
+              <w lemmaRef="#w.も.h1">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.見る.みる">見る</w>
+              <w lemmaRef="#w.べし.べき">へき</w>
+              <w lemmaRef="#w.物.h1">物</w>
+              <w lemmaRef="#w.を.h1">を</w>
+            </seg>
           </l>
         </div>
         <lb/>

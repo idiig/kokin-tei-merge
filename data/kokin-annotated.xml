@@ -4701,11 +4701,33 @@
           </note>
           <lb/>
           <l n="67" xml:id="n67" resp="#凡河内躬恒">
-            <seg>わかやとの</seg>
-            <seg>花見かてらに</seg>
-            <seg>くる人は</seg>
-            <seg>ちりなむのちそ</seg>
-            <seg>こひしかるへき</seg>
+            <seg>
+              <w lemmaRef="#w.我.わ">わ</w>
+              <w lemmaRef="#w.が.h1">か</w>
+              <w lemmaRef="#w.宿">やと</w>
+              <w lemmaRef="#w.の.h1">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.花見">花見</w>
+              <w lemmaRef="#w.がてら">かてら</w>
+              <w lemmaRef="#w.に.h1">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.来.くる">くる</w>
+              <w lemmaRef="#w.人.h1">人</w>
+              <w lemmaRef="#w.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.散る.ちり">ちり</w>
+              <w lemmaRef="#w.ぬ.な">な</w>
+              <w lemmaRef="#w.む.む">む</w>
+              <w lemmaRef="#w.後">のち</w>
+              <w lemmaRef="#w.ぞ">そ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.恋し.こひしかる">こひしかる</w>
+              <w lemmaRef="#w.べし.べき">へき</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -4658,11 +4658,34 @@
           </note>
           <lb/>
           <l n="66" xml:id="n66" resp="#紀有朋">
-            <seg>櫻色に</seg>
-            <seg>衣は深く</seg>
-            <seg>染てきむ</seg>
-            <seg>花のちりなむ</seg>
-            <seg>のちのかたみに</seg>
+            <seg>
+              <w lemmaRef="#w.桜色">櫻色</w>
+              <w lemmaRef="#w.に.h1">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.衣.ころも">衣</w>
+              <w lemmaRef="#w.は">は</w>
+              <w lemmaRef="#w.深し.ふかく">深く</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.染む.そめ">染</w>
+              <w lemmaRef="#w.て">て</w>
+              <w lemmaRef="#w.着る.き">き</w>
+              <w lemmaRef="#w.む.む">む</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.花">花</w>
+              <w lemmaRef="#w.の.h1">の</w>
+              <w lemmaRef="#w.散る.ちり">ちり</w>
+              <w lemmaRef="#w.ぬ.な">な</w>
+              <w lemmaRef="#w.む.む">む</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.後">のち</w>
+              <w lemmaRef="#w.の.h1">の</w>
+              <w lemmaRef="#w.形見">かたみ</w>
+              <w lemmaRef="#w.に.h1">に</w>
+            </seg>
           </l>
         </div>
         <lb/>

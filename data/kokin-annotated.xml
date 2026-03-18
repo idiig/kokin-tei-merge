@@ -3698,14 +3698,40 @@
           </note>
           <lb/>
           <l n="45" xml:id="n45" resp="#紀貫之">
-            <seg>くるとあくと</seg>
-            <seg>めかれぬ物を</seg>
-            <seg>梅花</seg>
-            <seg>いつの人まに</seg>
+            <seg>
+              <w lemmaRef="#w.暮る.くる">くる</w>
+              <w lemmaRef="#w.と.h1">と</w>
+              <w lemmaRef="#w.明く.あく">あく</w>
+              <w lemmaRef="#w.と.h1">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.目">め</w>
+              <w lemmaRef="#w.離る.かれ">かれ</w>
+              <w lemmaRef="#w.ず.ぬ">ぬ</w>
+              <w lemmaRef="#w.物.h1">物</w>
+              <w lemmaRef="#w.を.h1">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.梅.うめ">梅</w>
+              <w lemmaRef="#w.の.h1"/>
+              <w lemmaRef="#w.花">花</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.何時">いつ</w>
+              <w lemmaRef="#w.の.h1">の</w>
+              <w lemmaRef="#w.人間">人ま</w>
+              <w lemmaRef="#w.に.h1">に</w>
+            </seg>
             <seg>
               <app>
-                <lem wit="#国">うつろひぬらむ</lem>
-                <rdg wit="#前">うつろひにけ
+                <lem wit="#国">
+                  <w lemmaRef="#w.移ろふ.うつろひ">うつろひ</w>
+                  <w lemmaRef="#w.ぬ.ぬ">ぬ</w>
+                  <w lemmaRef="#w.らむ.らむ">らむ</w>
+                </lem>
+                <rdg wit="#前">
+                  <w lemmaRef="#w.移ろふ.うつろひ">うつろひ</w>
+                  <w lemmaRef="#w.ぬ.に">に</w>け
                   <ruby>
                     <rb>る</rb>
                     <rt>む</rt>

@@ -5708,11 +5708,32 @@
           </note>
           <lb/>
           <l n="94" xml:id="n94" resp="#紀貫之">
-            <seg>みわ山を</seg>
-            <seg>しかもかくすか</seg>
-            <seg>春霞</seg>
-            <seg>人にしられぬ</seg>
-            <seg>花やさく覧</seg>
+            <seg>
+              <w lemmaRef="#w.三輪山">みわ山</w>
+              <w lemmaRef="#w.を.h1">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.然.しか">しか</w>
+              <w lemmaRef="#w.も.h1">も</w>
+              <w lemmaRef="#w.隠す.h1">かくす</w>
+              <w lemmaRef="#w.か.h1">か</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.春霞">春霞</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.人.h1">人</w>
+              <w lemmaRef="#w.に.h1">に</w>
+              <w lemmaRef="#w.知る.しら">しら</w>
+              <w lemmaRef="#w.る.れ">れ</w>
+              <w lemmaRef="#w.ず.ぬ">ぬ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.花">花</w>
+              <w lemmaRef="#w.や.h1">や</w>
+              <w lemmaRef="#w.咲く.さく">さく</w>
+              <w lemmaRef="#w.らむ.らむ">覧</w>
+            </seg>
           </l>
         </div>
         <lb/>

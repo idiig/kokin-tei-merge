@@ -4948,7 +4948,34 @@
             <persName type="作者" corresp="#惟喬親王">惟高</persName>
             <persName corresp="#文徳天皇">文徳</persName>第一</note>
           <lb/>
-          <l n="74" xml:id="n74" resp="#惟喬親王">櫻花ちらはちら南ちらすとてふるさと人のきても見なくに</l>
+          <l n="74" xml:id="n74" resp="#惟喬親王">
+            <seg>
+              <w lemmaRef="#w.桜花">櫻花</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.散る.ちら">ちら</w>
+              <w lemmaRef="#w.ば">は</w>
+              <w lemmaRef="#w.散る.ちら">ちら</w>
+              <w lemmaRef="#w.なむ.h1">南</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.散る.ちら">ちら</w>
+              <w lemmaRef="#w.ず.ず">す</w>
+              <w lemmaRef="#w.とて">とて</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.古里人">ふるさと人</w>
+              <w lemmaRef="#w.の.h1">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.来.き">き</w>
+              <w lemmaRef="#w.て">て</w>
+              <w lemmaRef="#w.も.h1">も</w>
+              <w lemmaRef="#w.見る.み">見</w>
+              <w lemmaRef="#w.ず.なく">なく</w>
+              <w lemmaRef="#w.に.h1">に</w>
+            </seg>
+          </l>
         </div>
         <lb/>
         <div type="和歌">

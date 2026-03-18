@@ -5858,11 +5858,34 @@
         <lb/>
         <div type="和歌">
           <l n="98" xml:id="n98" resp="#よみ人知らず">
-            <seg>花のこと</seg>
-            <seg>世のつねならは</seg>
-            <seg>すくしてし</seg>
-            <seg>昔は又も</seg>
-            <seg>かへりきなまし</seg>
+            <seg>
+              <w lemmaRef="#w.花">花</w>
+              <w lemmaRef="#w.の.h1">の</w>
+              <w lemmaRef="#w.如.h2">こと</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.世">世</w>
+              <w lemmaRef="#w.の.h1">の</w>
+              <w lemmaRef="#w.常なり.つねなら">つねなら</w>
+              <w lemmaRef="#w.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.過ぐす.すぐし">すくし</w>
+              <w lemmaRef="#w.つ.h1">て</w>
+              <w lemmaRef="#w.き.し">し</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.昔">昔</w>
+              <w lemmaRef="#w.は">は</w>
+              <w lemmaRef="#w.又">又</w>
+              <w lemmaRef="#w.も.h1">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.帰る.かへり">かへり</w>
+              <w lemmaRef="#w.来.き">き</w>
+              <w lemmaRef="#w.ぬ.な">な</w>
+              <w lemmaRef="#w.まし.まし">まし</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -3809,11 +3809,34 @@
           </note>
           <lb/>
           <l n="47" xml:id="n47" resp="#素性法師">
-            <seg>ちると見て</seg>
-            <seg>あるへき物を</seg>
-            <seg>梅花</seg>
-            <seg>うたて匂の</seg>
-            <seg>袖にとまれる</seg>
+            <seg>
+              <w lemmaRef="#w.散る.ちる">ちる</w>
+              <w lemmaRef="#w.と.h1">と</w>
+              <w lemmaRef="#w.見る.み">見</w>
+              <w lemmaRef="#w.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.有り.ある">ある</w>
+              <w lemmaRef="#w.べし.べき">へき</w>
+              <w lemmaRef="#w.物.h1">物</w>
+              <w lemmaRef="#w.を.h1">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.梅.うめ">梅</w>
+              <w lemmaRef="#w.の.h1"/>
+              <w lemmaRef="#w.花">花</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.転">うたて</w>
+              <w lemmaRef="#w.匂ふ.にほひ">匂</w>
+              <w lemmaRef="#w.の.h1">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.袖">袖</w>
+              <w lemmaRef="#w.に.h1">に</w>
+              <w lemmaRef="#w.止まる.とまれ">とまれ</w>
+              <w lemmaRef="#w.り.る">る</w>
+            </seg>
           </l>
         </div>
         <lb/>

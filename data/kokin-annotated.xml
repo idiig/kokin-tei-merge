@@ -3757,14 +3757,43 @@
           <l n="46" xml:id="n46" resp="#よみ人知らず">
             <seg>
               <app>
-                <lem wit="#国">梅かゝを</lem>
-                <rdg wit="#前">むめのかを</rdg>
+                <lem wit="#国">
+                  <w lemmaRef="#w.梅.うめ">梅</w>
+                  <w lemmaRef="#w.が.h1">か</w>
+                  <w lemmaRef="#w.香">ゝ</w>
+                  <w lemmaRef="#w.を.h1">を</w>
+                </lem>
+                <rdg wit="#前">
+                  <w lemmaRef="#w.梅.むめ">むめ</w>
+                  <w lemmaRef="#w.の.h1">の</w>
+                  <w lemmaRef="#w.香">か</w>
+                  <w lemmaRef="#w.を.h1">を</w>
+                </rdg>
               </app>
             </seg>
-            <seg>袖にうつして</seg>
-            <seg>とゝめては</seg>
-            <seg>春はすくとも</seg>
-            <seg>かたみならまし</seg>
+            <seg>
+              <w lemmaRef="#w.袖">袖</w>
+              <w lemmaRef="#w.に.h1">に</w>
+              <w lemmaRef="#w.移す.うつし">うつし</w>
+              <w lemmaRef="#w.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.留む.とどめ">とゝめ</w>
+              <w lemmaRef="#w.つ.h1">て</w>
+              <w lemmaRef="#w.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.春.h1">春</w>
+              <w lemmaRef="#w.は">は</w>
+              <w lemmaRef="#w.過ぐ.すぐ">すく</w>
+              <w lemmaRef="#w.と.h1">と</w>
+              <w lemmaRef="#w.も.h1">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.形見">かたみ</w>
+              <w lemmaRef="#w.なり.なら">なら</w>
+              <w lemmaRef="#w.まし.まし">まし</w>
+            </seg>
           </l>
         </div>
         <lb/>

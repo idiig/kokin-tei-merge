@@ -5123,7 +5123,7 @@
             <seg>
               <w lemmaRef="#w.今日">けふ</w>
               <w lemmaRef="#w.は">は</w>
-              <w lemmaRef="#w.待つ.h1">まち</w>
+              <w lemmaRef="#w.待つ.h1 #w.待つ.まち">まち</w>
               <w lemmaRef="#w.見る.み">見</w>
               <w lemmaRef="#w.て">て</w>
             </seg>

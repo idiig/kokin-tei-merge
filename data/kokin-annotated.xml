@@ -3531,11 +3531,34 @@
             </app>梅花をよめる</note>
           <lb/>
           <l n="41" xml:id="n41" resp="#凡河内躬恒">
-            <seg>春の夜の</seg>
-            <seg>やみはあやなし</seg>
-            <seg>梅花</seg>
-            <seg>色こそ見えね</seg>
-            <seg>かやはかくるゝ</seg>
+            <seg>
+              <w lemmaRef="#w.春.h1">春</w>
+              <w lemmaRef="#w.の.h1">の</w>
+              <w lemmaRef="#w.夜.よ">夜</w>
+              <w lemmaRef="#w.の.h1">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.闇">やみ</w>
+              <w lemmaRef="#w.は">は</w>
+              <w lemmaRef="#w.文無し.あやなし">あやなし</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.梅.うめ">梅</w>
+              <w lemmaRef="#w.の.h1"/>
+              <w lemmaRef="#w.花">花</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.色">色</w>
+              <w lemmaRef="#w.こそ">こそ</w>
+              <w lemmaRef="#w.見ゆ.みえ">見え</w>
+              <w lemmaRef="#w.ず.ね">ね</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.香">か</w>
+              <w lemmaRef="#w.や.h1">や</w>
+              <w lemmaRef="#w.は">は</w>
+              <w lemmaRef="#w.隠る.かくるる">かくるゝ</w>
+            </seg>
           </l>
         </div>
         <lb/>

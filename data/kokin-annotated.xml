@@ -5824,11 +5824,35 @@
           <pb n="1-19r" facs="#p027"/>
           <lb/>
           <l n="97" xml:id="n97" resp="#よみ人知らず">
-            <seg>春ことに</seg>
-            <seg>花のさかりは</seg>
-            <seg>有なめと</seg>
-            <seg>あひ見む事は</seg>
-            <seg>いのちなりけり</seg>
+            <seg>
+              <w lemmaRef="#w.春.h1">春</w>
+              <w lemmaRef="#w.毎">こと</w>
+              <w lemmaRef="#w.に.h1">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.花">花</w>
+              <w lemmaRef="#w.の.h1">の</w>
+              <w lemmaRef="#w.盛る">さかり</w>
+              <w lemmaRef="#w.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.有り.あり">有</w>
+              <w lemmaRef="#w.ぬ.な">な</w>
+              <w lemmaRef="#w.む.め">め</w>
+              <w lemmaRef="#w.ど">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.逢ふ.あひ">あひ</w>
+              <w lemmaRef="#w.見る.み">見</w>
+              <w lemmaRef="#w.む.む">む</w>
+              <w lemmaRef="#w.事">事</w>
+              <w lemmaRef="#w.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.命">いのち</w>
+              <w lemmaRef="#w.なり.なり">なり</w>
+              <w lemmaRef="#w.けり.けり">けり</w>
+            </seg>
           </l>
         </div>
         <lb/>

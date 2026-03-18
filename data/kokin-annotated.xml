@@ -5066,11 +5066,33 @@
           </note>
           <lb/>
           <l n="77" xml:id="n77" resp="#承均法師">
-            <seg>いさゝくら</seg>
-            <seg>我もちり南</seg>
-            <seg>ひとさかり</seg>
-            <seg>有なは人に</seg>
-            <seg>うきめ見え南</seg>
+            <seg>
+              <w lemmaRef="#w.いざ.いさ">いさ</w>
+              <w lemmaRef="#w.桜">ゝくら</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.我.われ">我</w>
+              <w lemmaRef="#w.も.h1">も</w>
+              <w lemmaRef="#w.散る.ちり">ち</w>
+              <w lemmaRef="#w.ぬ.な">り</w>
+              <w lemmaRef="#w.む.む">南</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.一盛り">ひとさかり</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.有り.あり">有</w>
+              <w lemmaRef="#w.ぬ.な">な</w>
+              <w lemmaRef="#w.ば">は</w>
+              <w lemmaRef="#w.人.h1">人</w>
+              <w lemmaRef="#w.に.h1">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.憂し.うき">うき</w>
+              <w lemmaRef="#w.目">め</w>
+              <w lemmaRef="#w.見ゆ.みえ">見え</w>
+              <w lemmaRef="#w.なむ.なむ">南</w>
+            </seg>
           </l>
         </div>
         <lb/>

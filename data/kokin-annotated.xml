@@ -5331,11 +5331,30 @@
           </note>
           <lb/>
           <l n="84" xml:id="n84" resp="#紀友則">
-            <seg>久方の</seg>
-            <seg>ひかりのとけき</seg>
-            <seg>春の日に</seg>
-            <seg>しつ心なく</seg>
-            <seg>花のちるらむ</seg>
+            <seg>
+              <w lemmaRef="#w.久方">久方</w>
+              <w lemmaRef="#w.の.h1">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.光">ひかり</w>
+              <w lemmaRef="#w.長閑けし.のどけき">のとけき</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.春.h1">春</w>
+              <w lemmaRef="#w.の.h1">の</w>
+              <w lemmaRef="#w.日.h1">日</w>
+              <w lemmaRef="#w.に.h1">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.静心">しつ心</w>
+              <w lemmaRef="#w.無し.なく">なく</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.花">花</w>
+              <w lemmaRef="#w.の.h1">の</w>
+              <w lemmaRef="#w.散る.ちる">ちる</w>
+              <w lemmaRef="#w.らむ.らむ">らむ</w>
+            </seg>
           </l>
         </div>
         <lb/>

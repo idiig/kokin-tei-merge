@@ -3847,11 +3847,35 @@
           </note>
           <lb/>
           <l n="48" xml:id="n48" resp="#よみ人知らず">
-            <seg>ちりぬとも</seg>
-            <seg>かをたにのこせ</seg>
-            <seg>梅花</seg>
-            <seg>こひしき時の</seg>
-            <seg>思いてにせむ</seg>
+            <seg>
+              <w lemmaRef="#w.散る.ちり">ちり</w>
+              <w lemmaRef="#w.ぬ.ぬ">ぬ</w>
+              <w lemmaRef="#w.と.h1">と</w>
+              <w lemmaRef="#w.も.h1">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.香">か</w>
+              <w lemmaRef="#w.を.h1">を</w>
+              <w lemmaRef="#w.だに">たに</w>
+              <w lemmaRef="#w.残す.のこせ">のこせ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.梅.むめ">梅</w>
+              <w lemmaRef="#w.の.h1"/>
+              <w lemmaRef="#w.花">花</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.恋し.こひしき">こひしき</w>
+              <w lemmaRef="#w.時.h1">時</w>
+              <w lemmaRef="#w.の.h1">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.思ふ.おもひ">思</w>
+              <w lemmaRef="#w.出づ.いで">いて</w>
+              <w lemmaRef="#w.に.h1">に</w>
+              <w lemmaRef="#w.す.せ">せ</w>
+              <w lemmaRef="#w.む.む">む</w>
+            </seg>
           </l>
         </div>
         <lb/>

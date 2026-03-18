@@ -3887,11 +3887,20 @@
           </note>
           <lb/>
           <l n="49" xml:id="n49" resp="#紀貫之">
-            <seg>ことしより</seg>
-            <seg>春しりそむる</seg>
+            <seg>
+              <w lemmaRef="#w.今年">ことし</w>
+              <w lemmaRef="#w.より">より</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.春.h1">春</w>
+              <w lemmaRef="#w.知る.しり">しり</w>
+              <w lemmaRef="#w.初む.そむる">そむる</w>
+            </seg>
             <seg>
               <app>
-                <lem wit="#国">櫻花</lem>
+                <lem wit="#国">
+                  <w lemmaRef="#w.桜花">櫻花</w>
+                </lem>
                 <rdg wit="#前">
                   <ruby>
                     <rb>むめのはな</rb>
@@ -3902,15 +3911,26 @@
             </seg>
             <seg>
               <app>
-                <lem wit="#国">ちると</lem>
+                <lem wit="#国">
+                  <w lemmaRef="#w.散る.ちる">ちる</w>
+                  <w lemmaRef="#w.と.h1">と</w>
+                </lem>
                 <rdg wit="#前">ち
                   <ruby>
                     <rb>とる</rb>
                     <rt>ると</rt>
                   </ruby>
                 </rdg>
-              </app>いふ事は</seg>
-            <seg>ならはさら南</seg>
+              </app>
+              <w lemmaRef="#w.言ふ.いふ">いふ</w>
+              <w lemmaRef="#w.事">事</w>
+              <w lemmaRef="#w.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.慣らふ.ならは">ならは</w>
+              <w lemmaRef="#w.ず.ざら">さら</w>
+              <w lemmaRef="#w.なむ.h1">南</w>
+            </seg>
           </l>
         </div>
         <lb/>

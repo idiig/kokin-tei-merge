@@ -4079,16 +4079,40 @@
           </note>
           <lb/>
           <l n="53" xml:id="n53" resp="#在原業平">
-            <seg>世中に</seg>
-            <seg>たえてさくらの</seg>
+            <seg>
+              <w lemmaRef="#w.世の中">世中</w>
+              <w lemmaRef="#w.に.h1">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.絶ゆ.たえ">たえ</w>
+              <w lemmaRef="#w.て">て</w>
+              <w lemmaRef="#w.桜">さくら</w>
+              <w lemmaRef="#w.の.h1">の</w>
+            </seg>
             <seg>
               <app>
-                <lem wit="#国">なかりせは</lem>
-                <rdg wit="#前">さかさらは</rdg>
+                <lem wit="#国">
+                  <w lemmaRef="#w.無し.なかり">なかり</w>
+                  <w lemmaRef="#w.き.せ">せ</w>
+                  <w lemmaRef="#w.ば">は</w>
+                </lem>
+                <rdg wit="#前">
+                  <w lemmaRef="#w.咲く.さか">さか</w>
+                  <w lemmaRef="#w.ず.ざら">さら</w>
+                  <w lemmaRef="#w.ば">は</w>
+                </rdg>
               </app>
             </seg>
-            <seg>春の心は</seg>
-            <seg>のとけからまし</seg>
+            <seg>
+              <w lemmaRef="#w.春.h1">春</w>
+              <w lemmaRef="#w.の.h1">の</w>
+              <w lemmaRef="#w.心.こころ">心</w>
+              <w lemmaRef="#w.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.長閑けし.のどけから">のとけから</w>
+              <w lemmaRef="#w.まし.まし">まし</w>
+            </seg>
           </l>
         </div>
         <lb/>

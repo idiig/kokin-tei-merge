@@ -4743,11 +4743,32 @@
           </note>
           <lb/>
           <l n="68" xml:id="n68" resp="#伊勢">
-            <seg>見る人も</seg>
-            <seg>なき山里の</seg>
-            <seg>櫻花</seg>
-            <seg>外のちりなむ</seg>
-            <seg>のちそさかまし</seg>
+            <seg>
+              <w lemmaRef="#w.見る.みる">見る</w>
+              <w lemmaRef="#w.人.h1">人</w>
+              <w lemmaRef="#w.も.h1">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.無し.なき">なき</w>
+              <w lemmaRef="#w.山里">山里</w>
+              <w lemmaRef="#w.の.h1">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.桜花">櫻花</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.外">外</w>
+              <w lemmaRef="#w.の.h1">の</w>
+              <w lemmaRef="#w.散る.ちり">ちり</w>
+              <w lemmaRef="#w.ぬ.な">な</w>
+              <w lemmaRef="#w.む.む">む</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.後">のち</w>
+              <w lemmaRef="#w.ぞ">そ</w>
+              <w lemmaRef="#w.咲く.さか">さか</w>
+              <w lemmaRef="#w.まし.まし">まし</w>
+            </seg>
           </l>
         </div>
       </div>

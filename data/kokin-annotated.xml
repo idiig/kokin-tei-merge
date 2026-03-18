@@ -4351,16 +4351,38 @@
           <note type="詞書" style="margin-top: 2em" target="#n59">哥たてまつれとおほせられし時によみてたてまつれる</note>
           <lb/>
           <l n="59" xml:id="n59" resp="#紀貫之">
-            <seg>櫻花</seg>
-            <seg>さきに
+            <seg>
+              <w lemmaRef="#w.桜花">櫻花</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.咲く.さき">さき</w>
+              <w lemmaRef="#w.ぬ.に">に</w>
               <app>
-                <lem wit="#国">けらしな</lem>
-                <rdg wit="#前">けらしも</rdg>
+                <lem wit="#国">
+                  <w lemmaRef="#w.けらし">けらし</w>
+                  <w lemmaRef="#w.な.h2">な</w>
+                </lem>
+                <rdg wit="#前">
+                  <w lemmaRef="#w.けらし">けらし</w>
+                  <w lemmaRef="#w.も.h1">も</w>
+                </rdg>
               </app>
             </seg>
-            <seg>あしひきの</seg>
-            <seg>山のかひより</seg>
-            <seg>見ゆる白雲</seg>
+            <seg>
+              <w lemmaRef="#w.足">あし</w>
+              <w lemmaRef="#w.曳く">ひき</w>
+              <w lemmaRef="#w.の.h1">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.山">山</w>
+              <w lemmaRef="#w.の.h1">の</w>
+              <w lemmaRef="#w.峡">かひ</w>
+              <w lemmaRef="#w.より">より</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.見ゆ.みゆる">見ゆる</w>
+              <w lemmaRef="#w.白雲">白雲</w>
+            </seg>
           </l>
         </div>
         <pb n="1-15r" facs="#p023"/>

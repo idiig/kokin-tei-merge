@@ -5479,11 +5479,31 @@
           <note type="勘物" style="margin-top: 1em" resp="#藤原定家" target="#s88">一本</note>
           <lb/>
           <l n="88" xml:id="n88" resp="#紀貫之">
-            <seg>春雨の</seg>
-            <seg>ふるは涙か</seg>
-            <seg>さくら花</seg>
-            <seg>ちるをゝしまぬ</seg>
-            <seg>人しなけれは</seg>
+            <seg>
+              <w lemmaRef="#w.春雨">春雨</w>
+              <w lemmaRef="#w.の.h1">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.降る.ふる">ふる</w>
+              <w lemmaRef="#w.は">は</w>
+              <w lemmaRef="#w.涙">涙</w>
+              <w lemmaRef="#w.か.h1">か</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.桜花">さくら花</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.散る.ちる">ちる</w>
+              <w lemmaRef="#w.を.h1">を</w>
+              <w lemmaRef="#w.惜しむ.をしま">ゝしま</w>
+              <w lemmaRef="#w.ず.ぬ">ぬ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.人.h1">人</w>
+              <w lemmaRef="#w.し">し</w>
+              <w lemmaRef="#w.無し.なけれ">なけれ</w>
+              <w lemmaRef="#w.ば">は</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -4608,13 +4608,32 @@
         <lb/>
         <div type="和歌">
           <l n="65" xml:id="n65" resp="#よみ人知らず">
-            <seg>折とらは</seg>
-            <seg>おしけにもあるか</seg>
-            <seg>櫻花</seg>
-            <seg>いさ
+            <seg>
+              <w lemmaRef="#w.折る.をり">折</w>
+              <w lemmaRef="#w.取る.とら">とら</w>
+              <w lemmaRef="#w.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.惜し.をし">おし</w>
+              <w lemmaRef="#w.げ">け</w>
+              <w lemmaRef="#w.なり.に">に</w>
+              <w lemmaRef="#w.も.h1">も</w>
+              <w lemmaRef="#w.有り.ある">ある</w>
+              <w lemmaRef="#w.か.h1">か</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.桜花">櫻花</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.いざ.いさ">いさ</w>
               <app>
-                <lem wit="#国">やとかりて</lem>
-                <rdg wit="#前">やと
+                <lem wit="#国">
+                  <w lemmaRef="#w.宿">やと</w>
+                  <w lemmaRef="#w.借る.かり">かり</w>
+                  <w lemmaRef="#w.て">て</w>
+                </lem>
+                <rdg wit="#前">
+                  <w lemmaRef="#w.宿">やと</w>
                   <ruby>
                     <rb>かりて</rb>
                     <rt>リシテ</rt>
@@ -4622,7 +4641,13 @@
                 </rdg>
               </app>
             </seg>
-            <seg>ちるまては見む</seg>
+            <seg>
+              <w lemmaRef="#w.散る.ちる">ちる</w>
+              <w lemmaRef="#w.まで">まて</w>
+              <w lemmaRef="#w.は">は</w>
+              <w lemmaRef="#w.見る.み">見</w>
+              <w lemmaRef="#w.む.む">む</w>
+            </seg>
           </l>
         </div>
         <lb/>

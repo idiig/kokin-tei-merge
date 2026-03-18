@@ -3941,16 +3941,42 @@
           </note>
           <lb/>
           <l n="50" xml:id="n50" resp="#よみ人知らず">
-            <seg>山高み</seg>
-            <seg>人もすさめぬ</seg>
-            <seg>さくら花</seg>
+            <seg>
+              <w lemmaRef="#w.山">山</w>
+              <w lemmaRef="#w.高し.たか">高</w>
+              <w lemmaRef="#w.み.h1">み</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.人.h1">人</w>
+              <w lemmaRef="#w.も.h1">も</w>
+              <w lemmaRef="#w.荒む">すさめ</w>
+              <w lemmaRef="#w.ず.ぬ">ぬ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.桜花">さくら花</w>
+            </seg>
             <seg>
               <app>
-                <lem wit="#国">いたくなわひそ</lem>
-                <rdg wit="#前">ものなおもひそ</rdg>
+                <lem wit="#国">
+                  <w lemmaRef="#w.痛し.いたく">いたく</w>
+                  <w lemmaRef="#w.な.h1">な</w>
+                  <w lemmaRef="#w.侘ぶ.わび">わひ</w>
+                  <w lemmaRef="#w.そ">そ</w>
+                </lem>
+                <rdg wit="#前">
+                  <w lemmaRef="#w.物.h1">もの</w>
+                  <w lemmaRef="#w.な.h1">な</w>
+                  <w lemmaRef="#w.思ふ.おもひ">おもひ</w>
+                  <w lemmaRef="#w.そ">そ</w>
+                </rdg>
               </app>
             </seg>
-            <seg>我見はやさむ</seg>
+            <seg>
+              <w lemmaRef="#w.我.われ">我</w>
+              <w lemmaRef="#w.見る.み">見</w>
+              <w lemmaRef="#w.栄す">はやさ</w>
+              <w lemmaRef="#w.む.む">む</w>
+            </seg>
           </l>
         </div>
         <pb n="1-14r" facs="#p022"/>

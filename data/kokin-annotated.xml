@@ -4186,11 +4186,33 @@
           </note>
           <lb/>
           <l n="55" xml:id="n55" resp="#素性法師">
-            <seg>見てのみや</seg>
-            <seg>人にかたらむ</seg>
-            <seg>櫻花</seg>
-            <seg>手ことに折て</seg>
-            <seg>家つとにせむ</seg>
+            <seg>
+              <w lemmaRef="#w.見る.み">見</w>
+              <w lemmaRef="#w.て">て</w>
+              <w lemmaRef="#w.のみ">のみ</w>
+              <w lemmaRef="#w.や.h1">や</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.人.h1">人</w>
+              <w lemmaRef="#w.に.h1">に</w>
+              <w lemmaRef="#w.語る.かたら">かたら</w>
+              <w lemmaRef="#w.む.む">む</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.桜花">櫻花</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.手.て">手</w>
+              <w lemmaRef="#w.毎">こと</w>
+              <w lemmaRef="#w.に.h1">に</w>
+              <w lemmaRef="#w.折る.をり">折て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.家苞">家つと</w>
+              <w lemmaRef="#w.に.h1">に</w>
+              <w lemmaRef="#w.す.せ">せ</w>
+              <w lemmaRef="#w.む.む">む</w>
+            </seg>
           </l>
         </div>
         <lb/>

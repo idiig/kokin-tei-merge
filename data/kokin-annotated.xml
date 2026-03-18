@@ -5784,11 +5784,35 @@
           <note type="詞書" style="margin-top: 2em" target="#n96">春のうたとてよめる</note>
           <lb/>
           <l n="96" xml:id="n96" resp="#素性法師">
-            <seg>いつまてか</seg>
-            <seg>のへに心の</seg>
-            <seg>あくかれむ</seg>
-            <seg>花しちらすは</seg>
-            <seg>ちよもへぬへし</seg>
+            <seg>
+              <w lemmaRef="#w.何時">いつ</w>
+              <w lemmaRef="#w.まで">まて</w>
+              <w lemmaRef="#w.か.h1">か</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.野辺">のへ</w>
+              <w lemmaRef="#w.に.h1">に</w>
+              <w lemmaRef="#w.心.こころ">心</w>
+              <w lemmaRef="#w.の.h1">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.憧る">あくかれ</w>
+              <w lemmaRef="#w.む.む">む</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.花">花</w>
+              <w lemmaRef="#w.し">し</w>
+              <w lemmaRef="#w.散る.ちら">ちら</w>
+              <w lemmaRef="#w.ず.ず">す</w>
+              <w lemmaRef="#w.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.千世">ちよ</w>
+              <w lemmaRef="#w.も.h1">も</w>
+              <w lemmaRef="#w.経.h1">へ</w>
+              <w lemmaRef="#w.ぬ.ぬ">ぬ</w>
+              <w lemmaRef="#w.べし.べし">へし</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -5404,11 +5404,32 @@
           </note>
           <lb/>
           <l n="86" xml:id="n86" resp="#凡河内躬恒">
-            <seg>雪とのみ</seg>
-            <seg>ふるたにあるを</seg>
-            <seg>さくら花</seg>
-            <seg>いかにちれとか</seg>
-            <seg>風の吹らむ</seg>
+            <seg>
+              <w lemmaRef="#w.雪">雪</w>
+              <w lemmaRef="#w.と.h1">と</w>
+              <w lemmaRef="#w.のみ">のみ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.降る.ふる">ふる</w>
+              <w lemmaRef="#w.だに">たに</w>
+              <w lemmaRef="#w.有り.ある">ある</w>
+              <w lemmaRef="#w.を.h1">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.桜花">さくら花</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.如何に">いかに</w>
+              <w lemmaRef="#w.散る.ちれ">ちれ</w>
+              <w lemmaRef="#w.と.h1">と</w>
+              <w lemmaRef="#w.か.h1">か</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.風">風</w>
+              <w lemmaRef="#w.の.h1">の</w>
+              <w lemmaRef="#w.吹く.ふく">吹</w>
+              <w lemmaRef="#w.らむ.らむ">らむ</w>
+            </seg>
           </l>
         </div>
         <lb/>

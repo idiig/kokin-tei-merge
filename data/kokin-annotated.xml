@@ -4576,11 +4576,33 @@
           <pb n="1-15v" facs="#p024"/>
           <lb/>
           <l n="64" xml:id="n64" resp="#よみ人知らず">
-            <seg>ちりぬれは</seg>
-            <seg>こふれとしるし</seg>
-            <seg>なき物を</seg>
-            <seg>けふこそ櫻</seg>
-            <seg>おらはおりてめ</seg>
+            <seg>
+              <w lemmaRef="#w.散る.ちり">ちり</w>
+              <w lemmaRef="#w.ぬ.ぬれ">ぬれ</w>
+              <w lemmaRef="#w.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.恋ふ.こふれ">こふれ</w>
+              <w lemmaRef="#w.ど">と</w>
+              <w lemmaRef="#w.標す">しるし</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.無し.なき">なき</w>
+              <w lemmaRef="#w.物.h1">物</w>
+              <w lemmaRef="#w.を.h1">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.今日">けふ</w>
+              <w lemmaRef="#w.こそ">こそ</w>
+              <w lemmaRef="#w.桜">櫻</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.折る.をら">おら</w>
+              <w lemmaRef="#w.ば">は</w>
+              <w lemmaRef="#w.折る.をり">おり</w>
+              <w lemmaRef="#w.つ.h1">て</w>
+              <w lemmaRef="#w.む.め">め</w>
+            </seg>
           </l>
         </div>
         <lb/>

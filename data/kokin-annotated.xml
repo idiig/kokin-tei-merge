@@ -4786,11 +4786,28 @@
           </note>
           <lb/>
           <l n="69" xml:id="n69" resp="#よみ人知らず">
-            <seg>春霞</seg>
-            <seg>たなひく山の</seg>
-            <seg>さくら花</seg>
-            <seg>うつろはむとや</seg>
-            <seg>色かはり行</seg>
+            <seg>
+              <w lemmaRef="#w.春霞">春霞</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.棚引く.たなびく">たなひく</w>
+              <w lemmaRef="#w.山">山</w>
+              <w lemmaRef="#w.の.h1">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.桜花">さくら花</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.移ろふ.うつろは">うつろは</w>
+              <w lemmaRef="#w.む.む">む</w>
+              <w lemmaRef="#w.と.h1">と</w>
+              <w lemmaRef="#w.や.h1">や</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.色">色</w>
+              <w lemmaRef="#w.変はる.かはり">かはり</w>
+              <w lemmaRef="#w.行く.ゆく">行</w>
+            </seg>
           </l>
         </div>
         <lb/>

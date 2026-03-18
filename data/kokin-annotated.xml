@@ -4489,11 +4489,31 @@
           </note>
           <lb/>
           <l n="62" xml:id="n62" resp="#よみ人知らず">
-            <seg>あたなりと</seg>
-            <seg>なにこそたてれ</seg>
-            <seg>さくら花</seg>
-            <seg>年にまれなる</seg>
-            <seg>人もまちけり</seg>
+            <seg>
+              <w lemmaRef="#w.徒なり.あだなり">あたなり</w>
+              <w lemmaRef="#w.と.h1">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.名.h1">な</w>
+              <w lemmaRef="#w.に.h1">に</w>
+              <w lemmaRef="#w.こそ">こそ</w>
+              <w lemmaRef="#w.立つ.たて">たて</w>
+              <w lemmaRef="#w.り.れ">れ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.桜花">さくら花</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.年">年</w>
+              <w lemmaRef="#w.に.h1">に</w>
+              <w lemmaRef="#w.稀なり.まれなる">まれなる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.人.h1">人</w>
+              <w lemmaRef="#w.も.h1">も</w>
+              <w lemmaRef="#w.待つ.h1">まち</w>
+              <w lemmaRef="#w.けり.けり">けり</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -5891,11 +5891,32 @@
         <lb/>
         <div type="和歌">
           <l n="99" xml:id="n99" resp="#よみ人知らず">
-            <seg>吹風に</seg>
-            <seg>あつらへつくる</seg>
-            <seg>物ならは</seg>
-            <seg>このひと本は</seg>
-            <seg>よきよといはまし</seg>
+            <seg>
+              <w lemmaRef="#w.吹く.ふく">吹</w>
+              <w lemmaRef="#w.風">風</w>
+              <w lemmaRef="#w.に.h1">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.誂ふ">あつらへ</w>
+              <w lemmaRef="#w.付く.つくる">つくる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.物.h1">物</w>
+              <w lemmaRef="#w.なり.なら">なら</w>
+              <w lemmaRef="#w.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.此">こ</w>
+              <w lemmaRef="#w.の.h1">の</w>
+              <w lemmaRef="#w.一本">ひと本</w>
+              <w lemmaRef="#w.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.避く.よきよ">よきよ</w>
+              <w lemmaRef="#w.と.h1">と</w>
+              <w lemmaRef="#w.言ふ.いは">いは</w>
+              <w lemmaRef="#w.まし.まし">まし</w>
+            </seg>
           </l>
         </div>
         <lb/>

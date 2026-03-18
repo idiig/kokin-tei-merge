@@ -4308,12 +4308,28 @@
           </note>
           <lb/>
           <l n="58" xml:id="n58" resp="#紀貫之">
-            <seg>誰しかも</seg>
-            <seg>とめて折つる</seg>
-            <seg>春かすみ</seg>
-            <seg>立
+            <seg>
+              <w lemmaRef="#w.誰.たれ">誰</w>
+              <w lemmaRef="#w.し">し</w>
+              <w lemmaRef="#w.か.h1">か</w>
+              <w lemmaRef="#w.も.h1">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.尋む">とめ</w>
+              <w lemmaRef="#w.て">て</w>
+              <w lemmaRef="#w.折る.をり">折</w>
+              <w lemmaRef="#w.つ.h1">つる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.春霞">春かすみ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.立つ.たち">立</w>
               <app>
-                <lem wit="#国">かくすらむ</lem>
+                <lem wit="#国">
+                  <w lemmaRef="#w.隠す.h1">かくす</w>
+                  <w lemmaRef="#w.らむ.らむ">らむ</w>
+                </lem>
                 <rdg wit="#前">かく
                   <ruby>
                     <rb>もつら</rb>
@@ -4322,7 +4338,12 @@
                 </rdg>
               </app>
             </seg>
-            <seg>山のさくらを</seg>
+            <seg>
+              <w lemmaRef="#w.山">山</w>
+              <w lemmaRef="#w.の.h1">の</w>
+              <w lemmaRef="#w.桜">さくら</w>
+              <w lemmaRef="#w.を.h1">を</w>
+            </seg>
           </l>
         </div>
         <lb/>

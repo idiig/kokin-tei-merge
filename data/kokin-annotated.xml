@@ -3559,11 +3559,33 @@
           </note>
           <lb/>
           <l n="42" xml:id="n42" resp="#紀貫之">
-            <seg>人はいさ</seg>
-            <seg>心もしらす</seg>
-            <seg>ふるさとは</seg>
-            <seg>花そ昔の</seg>
-            <seg>かにゝほひける</seg>
+            <seg>
+              <w lemmaRef="#w.人.h1">人</w>
+              <w lemmaRef="#w.は">は</w>
+              <w lemmaRef="#w.いさ">いさ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.心.こころ">心</w>
+              <w lemmaRef="#w.も.h1">も</w>
+              <w lemmaRef="#w.知る.しら">しら</w>
+              <w lemmaRef="#w.ず.ず">す</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.古里">ふるさと</w>
+              <w lemmaRef="#w.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.花">花</w>
+              <w lemmaRef="#w.ぞ">そ</w>
+              <w lemmaRef="#w.昔">昔</w>
+              <w lemmaRef="#w.の.h1">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.香">か</w>
+              <w lemmaRef="#w.に.h1">に</w>
+              <w lemmaRef="#w.匂ふ.にほひ">ゝほひ</w>
+              <w lemmaRef="#w.けり.ける">ける</w>
+            </seg>
           </l>
         </div>
         <lb/>

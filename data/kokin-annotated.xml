@@ -7275,11 +7275,33 @@
           </note>
           <lb/>
           <l n="136" xml:id="n136" resp="#紀利貞">
-            <seg>あはれてふ</seg>
-            <seg>［事］をあまたに</seg>
-            <seg>やらしとや</seg>
-            <seg>春にをくれて</seg>
-            <seg>ひとりさくらむ</seg>
+            <seg>
+              <w lemmaRef="#w.哀れ.h1">あはれ</w>
+              <w lemmaRef="#w.てふ">てふ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.事">［事］</w>
+              <w lemmaRef="#w.を.h1">を</w>
+              <w lemmaRef="#w.数多.h1">あまた</w>
+              <w lemmaRef="#w.に.h1">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.遣る.やら">やら</w>
+              <w lemmaRef="#w.じ">し</w>
+              <w lemmaRef="#w.と.h1">と</w>
+              <w lemmaRef="#w.や.h1">や</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.春.h1">春</w>
+              <w lemmaRef="#w.に.h1">に</w>
+              <w lemmaRef="#w.後る">をくれ</w>
+              <w lemmaRef="#w.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.一人">ひとり</w>
+              <w lemmaRef="#w.咲く.さく">さく</w>
+              <w lemmaRef="#w.らむ.らむ">らむ</w>
+            </seg>
           </l>
         </div>
         <lb/>

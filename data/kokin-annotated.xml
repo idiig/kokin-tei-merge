@@ -6445,11 +6445,34 @@
           </note>
           <lb/>
           <l n="114" xml:id="n114" resp="#素性法師">
-            <seg>おしと思</seg>
-            <seg>心はいとに</seg>
-            <seg>よられ南</seg>
-            <seg>ちる花ことに</seg>
-            <seg>ぬきてとゝめむ</seg>
+            <seg>
+              <w lemmaRef="#w.惜し.をし">おし</w>
+              <w lemmaRef="#w.と.h1">と</w>
+              <w lemmaRef="#w.思ふ.おもふ">思</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.心.こころ">心</w>
+              <w lemmaRef="#w.は">は</w>
+              <w lemmaRef="#w.糸">いと</w>
+              <w lemmaRef="#w.に.h1">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.撚る.よら">よら</w>
+              <w lemmaRef="#w.る.れ">れ</w>
+              <w lemmaRef="#w.なむ.h1">南</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.散る.ちる">ちる</w>
+              <w lemmaRef="#w.花">花</w>
+              <w lemmaRef="#w.毎">こと</w>
+              <w lemmaRef="#w.に.h1">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.貫く.ぬき">ぬき</w>
+              <w lemmaRef="#w.て">て</w>
+              <w lemmaRef="#w.止む.とどめ">とゝめ</w>
+              <w lemmaRef="#w.む.む">む</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -6556,11 +6556,36 @@
           <note type="詞書" style="margin-top: 2em" target="#n117">山てらにまうてたりけるによめる</note>
           <lb/>
           <l n="117" xml:id="n117" resp="#紀貫之">
-            <seg>やとりして</seg>
-            <seg>春の山へに</seg>
-            <seg>ねたる夜は</seg>
-            <seg>夢の内にも</seg>
-            <seg>花そちりける</seg>
+            <seg>
+              <w lemmaRef="#w.宿る.やどり">やとり</w>
+              <w lemmaRef="#w.す.し">し</w>
+              <w lemmaRef="#w.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.春.h1">春</w>
+              <w lemmaRef="#w.の.h1">の</w>
+              <w lemmaRef="#w.山辺">山へ</w>
+              <w lemmaRef="#w.に.h1">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.寝.h1">ね</w>
+              <w lemmaRef="#w.たり.たる">たる</w>
+              <w lemmaRef="#w.夜.よ">夜</w>
+              <w lemmaRef="#w.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.夢">夢</w>
+              <w lemmaRef="#w.の.h1">の</w>
+              <w lemmaRef="#w.内">内</w>
+              <w lemmaRef="#w.に.h1">に</w>
+              <w lemmaRef="#w.も.h1">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.花">花</w>
+              <w lemmaRef="#w.ぞ">そ</w>
+              <w lemmaRef="#w.散る.ちり">ちり</w>
+              <w lemmaRef="#w.けり.ける">ける</w>
+            </seg>
           </l>
         </div>
         <lb/>

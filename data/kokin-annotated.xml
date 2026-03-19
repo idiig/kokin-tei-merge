@@ -6997,11 +6997,34 @@
           </note>
           <lb/>
           <l n="129" xml:id="n129" resp="#清原深養父">
-            <seg>花ちれる</seg>
-            <seg>水のまに〳〵</seg>
-            <seg>とめくれは</seg>
-            <seg>山には春も</seg>
-            <seg>なくなりにけり</seg>
+            <seg>
+              <w lemmaRef="#w.花">花</w>
+              <w lemmaRef="#w.散る.ちれ">ちれ</w>
+              <w lemmaRef="#w.り.る">る</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.水.みづ">水</w>
+              <w lemmaRef="#w.の.h1">の</w>
+              <w lemmaRef="#w.随に">まに〳〵</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.尋む">とめ</w>
+              <w lemmaRef="#w.来.くれ">くれ</w>
+              <w lemmaRef="#w.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.山">山</w>
+              <w lemmaRef="#w.に.h1">に</w>
+              <w lemmaRef="#w.は">は</w>
+              <w lemmaRef="#w.春.h1">春</w>
+              <w lemmaRef="#w.も.h1">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.無し.なく">なく</w>
+              <w lemmaRef="#w.成る.なり">なり</w>
+              <w lemmaRef="#w.ぬ.に">に</w>
+              <w lemmaRef="#w.けり.けり">けり</w>
+            </seg>
           </l>
         </div>
         <pb n="1-22r" facs="#p030"/>

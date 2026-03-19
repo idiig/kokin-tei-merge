@@ -6961,11 +6961,31 @@
           </note>
           <lb/>
           <l n="128" xml:id="n128" resp="#紀貫之">
-            <seg>なきとむる</seg>
-            <seg>花しなけれは</seg>
-            <seg>鶯も</seg>
-            <seg>はては物うく</seg>
-            <seg>なりぬへら也</seg>
+            <seg>
+              <w lemmaRef="#w.鳴く.なき">なき</w>
+              <w lemmaRef="#w.止む.とむる">とむる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.花">花</w>
+              <w lemmaRef="#w.し">し</w>
+              <w lemmaRef="#w.無し.なけれ">なけれ</w>
+              <w lemmaRef="#w.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.鴬">鶯</w>
+              <w lemmaRef="#w.も.h1">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.果つ.はて">はて</w>
+              <w lemmaRef="#w.は">は</w>
+              <w lemmaRef="#w.物.h1">物</w>
+              <w lemmaRef="#w.憂し.うく">うく</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.成る.なり">なり</w>
+              <w lemmaRef="#w.ぬ.ぬ">ぬ</w>
+              <w lemmaRef="#w.べらなり.べらなり">へら也</w>
+            </seg>
           </l>
         </div>
         <lb/>

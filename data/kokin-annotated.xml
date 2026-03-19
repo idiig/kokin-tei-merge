@@ -6022,11 +6022,33 @@
           </note>
           <lb/>
           <l n="103" xml:id="n103" resp="#在原元方">
-            <seg>霞立</seg>
-            <seg>春の山邊は</seg>
-            <seg>とをけれと</seg>
-            <seg>吹くる風は</seg>
-            <seg>花のかそする</seg>
+            <seg>
+              <w lemmaRef="#w.霞">霞</w>
+              <w lemmaRef="#w.立つ.たつ">立</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.春.h1">春</w>
+              <w lemmaRef="#w.の.h1">の</w>
+              <w lemmaRef="#w.山辺">山邊</w>
+              <w lemmaRef="#w.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.遠し.とほけれ">とをけれ</w>
+              <w lemmaRef="#w.ど">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.吹く.ふき">吹</w>
+              <w lemmaRef="#w.来.くる">くる</w>
+              <w lemmaRef="#w.風">風</w>
+              <w lemmaRef="#w.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.花">花</w>
+              <w lemmaRef="#w.の.h1">の</w>
+              <w lemmaRef="#w.香">か</w>
+              <w lemmaRef="#w.ぞ">そ</w>
+              <w lemmaRef="#w.す.する">する</w>
+            </seg>
           </l>
         </div>
         <lb/>

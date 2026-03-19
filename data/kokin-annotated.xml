@@ -6099,11 +6099,33 @@
           </note>
           <lb/>
           <l n="105" xml:id="n105" resp="#よみ人知らず">
-            <seg>鶯の</seg>
-            <seg>鳴野邊ことに</seg>
-            <seg>きて見れは</seg>
-            <seg>うつろふ花に</seg>
-            <seg>風そ吹ける</seg>
+            <seg>
+              <w lemmaRef="#w.鶯">鶯</w>
+              <w lemmaRef="#w.の.h1">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.鳴く.なく">鳴</w>
+              <w lemmaRef="#w.野辺">野邊</w>
+              <w lemmaRef="#w.毎">こと</w>
+              <w lemmaRef="#w.に.h1">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.来.き">き</w>
+              <w lemmaRef="#w.て">て</w>
+              <w lemmaRef="#w.見る.みれ">見れ</w>
+              <w lemmaRef="#w.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.移ろふ.うつろふ">うつろふ</w>
+              <w lemmaRef="#w.花">花</w>
+              <w lemmaRef="#w.に.h1">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.風">風</w>
+              <w lemmaRef="#w.ぞ">そ</w>
+              <w lemmaRef="#w.吹く.ふき">吹</w>
+              <w lemmaRef="#w.けり.ける">ける</w>
+            </seg>
           </l>
         </div>
         <lb/>

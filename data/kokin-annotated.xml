@@ -7445,11 +7445,29 @@
         <lb/>
         <div type="和歌">
           <l n="141" xml:id="n141" resp="#よみ人知らず">
-            <seg>けさきなき</seg>
-            <seg>いまた旅なる</seg>
-            <seg>郭公</seg>
-            <seg>花橘に</seg>
-            <seg>やとはから南</seg>
+            <seg>
+              <w lemmaRef="#w.今朝">けさ</w>
+              <w lemmaRef="#w.来.き">き</w>
+              <w lemmaRef="#w.鳴く.なき">なき</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.未だ">いまた</w>
+              <w lemmaRef="#w.旅.h1">旅</w>
+              <w lemmaRef="#w.なり.なる">なる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.郭公">郭公</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.花橘">花橘</w>
+              <w lemmaRef="#w.に.h1">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.宿">やと</w>
+              <w lemmaRef="#w.は">は</w>
+              <w lemmaRef="#w.借る.から">から</w>
+              <w lemmaRef="#w.なむ.h1">南</w>
+            </seg>
           </l>
         </div>
         <lb/>

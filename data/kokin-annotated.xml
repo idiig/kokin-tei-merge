@@ -6331,11 +6331,34 @@
           </note>
           <lb/>
           <l n="111" xml:id="n111" resp="#よみ人知らず">
-            <seg>こまなめて</seg>
-            <seg>いさ見にゆかむ</seg>
-            <seg>故郷は</seg>
-            <seg>雪とのみこそ</seg>
-            <seg>花はちるらめ</seg>
+            <seg>
+              <w lemmaRef="#w.駒">こま</w>
+              <w lemmaRef="#w.並む.なめ">なめ</w>
+              <w lemmaRef="#w.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.いざ.いさ">いさ</w>
+              <w lemmaRef="#w.見る.み">見</w>
+              <w lemmaRef="#w.に.h1">に</w>
+              <w lemmaRef="#w.行く.ゆか">ゆか</w>
+              <w lemmaRef="#w.む.む">む</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.古里">故郷</w>
+              <w lemmaRef="#w.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.雪">雪</w>
+              <w lemmaRef="#w.と.h1">と</w>
+              <w lemmaRef="#w.のみ">のみ</w>
+              <w lemmaRef="#w.こそ">こそ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.花">花</w>
+              <w lemmaRef="#w.は">は</w>
+              <w lemmaRef="#w.散る.ちる">ちる</w>
+              <w lemmaRef="#w.らむ.らめ">らめ</w>
+            </seg>
           </l>
         </div>
         <lb/>

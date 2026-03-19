@@ -6773,11 +6773,35 @@
         <lb/>
         <div type="和歌">
           <l n="123" xml:id="n123" resp="#よみ人知らず">
-            <seg>山吹は</seg>
-            <seg>あやなゝさきそ</seg>
-            <seg>花見むと</seg>
-            <seg>うへけむ君か</seg>
-            <seg>こよひこなくに</seg>
+            <seg>
+              <w lemmaRef="#w.山吹">山吹</w>
+              <w lemmaRef="#w.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.文無し.あやな">あやな</w>
+              <w lemmaRef="#w.な.h1">ゝ</w>
+              <w lemmaRef="#w.咲く.さき">さき</w>
+              <w lemmaRef="#w.そ">そ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.花">花</w>
+              <w lemmaRef="#w.見る.み">見</w>
+              <w lemmaRef="#w.む.む">む</w>
+              <w lemmaRef="#w.と.h1">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.植う">うへ</w>
+              <w lemmaRef="#w.けむ.けむ">けむ</w>
+              <w lemmaRef="#w.君.h1">君</w>
+              <w lemmaRef="#w.が.h1">か</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.今宵">こよひ</w>
+              <w lemmaRef="#w.来.こ">こ</w>
+              <w lemmaRef="#w.ず.な">な</w>
+              <w lemmaRef="#w.く.h1">く</w>
+              <w lemmaRef="#w.に.h1">に</w>
+            </seg>
           </l>
         </div>
         <lb/>

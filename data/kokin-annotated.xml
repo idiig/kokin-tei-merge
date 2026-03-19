@@ -7312,11 +7312,29 @@
           </note>
           <lb/>
           <l n="137" xml:id="n137" resp="#よみ人知らず">
-            <seg>さ月まつ</seg>
-            <seg>山郭公</seg>
-            <seg>うちはふき</seg>
-            <seg>今もなか南</seg>
-            <seg>こそのふるこゑ</seg>
+            <seg>
+              <w lemmaRef="#w.五月">さ月</w>
+              <w lemmaRef="#w.待つ.h1">まつ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.山郭公">山郭公</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.打つ.うち">うち</w>
+              <w lemmaRef="#w.羽振く">はふき</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.今.h1">今</w>
+              <w lemmaRef="#w.も.h1">も</w>
+              <w lemmaRef="#w.鳴く.なか">なか</w>
+              <w lemmaRef="#w.なむ.h1">南</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.去年">こそ</w>
+              <w lemmaRef="#w.の.h1">の</w>
+              <w lemmaRef="#w.降る.ふる">ふる</w>
+              <w lemmaRef="#w.声">こゑ</w>
+            </seg>
           </l>
         </div>
         <lb/>

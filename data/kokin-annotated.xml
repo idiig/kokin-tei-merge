@@ -6255,11 +6255,33 @@
           </note>
           <lb/>
           <l n="109" xml:id="n109" resp="#素性法師">
-            <seg>こつたへは</seg>
-            <seg>をのかは風に</seg>
-            <seg>ちる花を</seg>
-            <seg>誰におほせて</seg>
-            <seg>こゝらなくらむ</seg>
+            <seg>
+              <w lemmaRef="#w.木.こ">こ</w>
+              <w lemmaRef="#w.伝ふ">つたへ</w>
+              <w lemmaRef="#w.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.己.をの">をの</w>
+              <w lemmaRef="#w.が.h1">か</w>
+              <w lemmaRef="#w.羽風">は風</w>
+              <w lemmaRef="#w.に.h1">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.散る.ちる">ちる</w>
+              <w lemmaRef="#w.花">花</w>
+              <w lemmaRef="#w.を.h1">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.誰.たれ">誰</w>
+              <w lemmaRef="#w.に.h1">に</w>
+              <w lemmaRef="#w.負ほす">おほせ</w>
+              <w lemmaRef="#w.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.幾許.h1">こゝら</w>
+              <w lemmaRef="#w.鳴く.なく">なく</w>
+              <w lemmaRef="#w.らむ.らむ">らむ</w>
+            </seg>
           </l>
         </div>
         <pb n="1-20r" facs="#p028"/>

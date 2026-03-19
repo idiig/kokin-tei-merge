@@ -7345,11 +7345,32 @@
           </note>
           <lb/>
           <l n="138" xml:id="n138" resp="#伊勢">
-            <seg>五月こは</seg>
-            <seg>鳴もふり南</seg>
-            <seg>郭公</seg>
-            <seg>またしきほとの</seg>
-            <seg>こゑをきかはや</seg>
+            <seg>
+              <w lemmaRef="#w.五月">五月</w>
+              <w lemmaRef="#w.来.こ">こ</w>
+              <w lemmaRef="#w.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.鳴く.なき">鳴</w>
+              <w lemmaRef="#w.も.h1">も</w>
+              <w lemmaRef="#w.古る.ふり">ふり</w>
+              <w lemmaRef="#w.なむ.h1">南</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.郭公">郭公</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.未だし">またしき</w>
+              <w lemmaRef="#w.程">ほと</w>
+              <w lemmaRef="#w.の.h1">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.声">こゑ</w>
+              <w lemmaRef="#w.を.h1">を</w>
+              <w lemmaRef="#w.聞く.きか">きか</w>
+              <w lemmaRef="#w.ば">は</w>
+              <w lemmaRef="#w.や.h1">や</w>
+            </seg>
           </l>
         </div>
         <pb n="1-23v" facs="#p032"/>

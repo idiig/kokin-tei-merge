@@ -7414,11 +7414,32 @@
         <lb/>
         <div type="和歌">
           <l n="140" xml:id="n140" resp="#よみ人知らず">
-            <seg>いつのまに</seg>
-            <seg>五月きぬ覧</seg>
-            <seg>葦引の</seg>
-            <seg>山郭公</seg>
-            <seg>今そなくなる</seg>
+            <seg>
+              <w lemmaRef="#w.何時">いつ</w>
+              <w lemmaRef="#w.の.h1">の</w>
+              <w lemmaRef="#w.間">ま</w>
+              <w lemmaRef="#w.に.h1">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.五月">五月</w>
+              <w lemmaRef="#w.来.き">き</w>
+              <w lemmaRef="#w.ぬ.ぬ">ぬ</w>
+              <w lemmaRef="#w.らむ.らむ">覧</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.足 #w.葦">葦</w>
+              <w lemmaRef="#w.引く.ひき">引</w>
+              <w lemmaRef="#w.の.h1">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.山郭公">山郭公</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.今.h1">今</w>
+              <w lemmaRef="#w.ぞ">そ</w>
+              <w lemmaRef="#w.鳴く.なく">なく</w>
+              <w lemmaRef="#w.なり.なる">なる</w>
+            </seg>
           </l>
         </div>
         <lb/>

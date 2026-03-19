@@ -6404,11 +6404,36 @@
           </note>
           <lb/>
           <l n="113" xml:id="n113" resp="#小野小町">
-            <seg>花の色は</seg>
-            <seg>うつりにけりな</seg>
-            <seg>いたつらに</seg>
-            <seg>わか身世にふる</seg>
-            <seg>なかめせしまに</seg>
+            <seg>
+              <w lemmaRef="#w.花">花</w>
+              <w lemmaRef="#w.の.h1">の</w>
+              <w lemmaRef="#w.色">色</w>
+              <w lemmaRef="#w.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.移る">うつり</w>
+              <w lemmaRef="#w.ぬ.に">に</w>
+              <w lemmaRef="#w.けり.けり">けり</w>
+              <w lemmaRef="#w.な.h2">な</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.徒なり.いたづらに">いたつらに</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.我.われ">わ</w>
+              <w lemmaRef="#w.が.h1">か</w>
+              <w lemmaRef="#w.身">身</w>
+              <w lemmaRef="#w.世">世</w>
+              <w lemmaRef="#w.に.h1">に</w>
+              <w lemmaRef="#w.経.h1">ふる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.眺む.ながめ">なかめ</w>
+              <w lemmaRef="#w.す.せ">せ</w>
+              <w lemmaRef="#w.き.し">し</w>
+              <w lemmaRef="#w.間">ま</w>
+              <w lemmaRef="#w.に.h1">に</w>
+            </seg>
           </l>
         </div>
         <lb/>

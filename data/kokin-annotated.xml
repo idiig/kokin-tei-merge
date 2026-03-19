@@ -6711,11 +6711,32 @@
           </note>
           <lb/>
           <l n="121" xml:id="n121" resp="#よみ人知らず">
-            <seg>今もかも</seg>
-            <seg>さきにほふ覧</seg>
-            <seg>橘の</seg>
-            <seg>こしまのさきの</seg>
-            <seg>山吹の花</seg>
+            <seg>
+              <w lemmaRef="#w.今.h2">今</w>
+              <w lemmaRef="#w.も.h1">も</w>
+              <w lemmaRef="#w.彼">か</w>
+              <w lemmaRef="#w.も.h1">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.咲く.さき">さき</w>
+              <w lemmaRef="#w.匂ふ.にほふ">にほふ</w>
+              <w lemmaRef="#w.らむ.らむ">覧</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.橘">橘</w>
+              <w lemmaRef="#w.の.h1">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.小島">こしま</w>
+              <w lemmaRef="#w.の.h1">の</w>
+              <w lemmaRef="#w.崎">さき</w>
+              <w lemmaRef="#w.の.h1">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.山吹">山吹</w>
+              <w lemmaRef="#w.の.h1">の</w>
+              <w lemmaRef="#w.花">花</w>
+            </seg>
           </l>
         </div>
         <lb/>

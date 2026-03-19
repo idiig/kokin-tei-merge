@@ -7149,11 +7149,35 @@
           </note>
           <lb/>
           <l n="133" xml:id="n133" resp="#在原業平">
-            <seg>ぬれつゝそ</seg>
-            <seg>しゐて折つる</seg>
-            <seg>年の内に</seg>
-            <seg>春はいくかも</seg>
-            <seg>あらしとおもへは</seg>
+            <seg>
+              <w lemmaRef="#w.濡る.ぬれ">ぬれ</w>
+              <w lemmaRef="#w.つつ">つゝ</w>
+              <w lemmaRef="#w.ぞ">そ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.強ひて">しゐて</w>
+              <w lemmaRef="#w.折る.をり">折</w>
+              <w lemmaRef="#w.つ.h1">つる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.年">年</w>
+              <w lemmaRef="#w.の.h1">の</w>
+              <w lemmaRef="#w.内">内</w>
+              <w lemmaRef="#w.に.h1">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.春.h1">春</w>
+              <w lemmaRef="#w.は">は</w>
+              <w lemmaRef="#w.幾日">いくか</w>
+              <w lemmaRef="#w.も.h1">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.有り.あら">あら</w>
+              <w lemmaRef="#w.じ">し</w>
+              <w lemmaRef="#w.と.h1">と</w>
+              <w lemmaRef="#w.思ふ.おもへ">おもへ</w>
+              <w lemmaRef="#w.ば">は</w>
+            </seg>
           </l>
         </div>
         <pb n="1-22v" facs="#p031"/>

@@ -7037,11 +7037,33 @@
           </note>
           <lb/>
           <l n="130" xml:id="n130" resp="#在原元方">
-            <seg>おしめとも</seg>
-            <seg>とゝまらなくに</seg>
-            <seg>春霞</seg>
-            <seg>帰道にし</seg>
-            <seg>立ぬと思へは</seg>
+            <seg>
+              <w lemmaRef="#w.惜しむ.をしめ">おしめ</w>
+              <w lemmaRef="#w.ど">と</w>
+              <w lemmaRef="#w.も.h1">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.留まる">とゝまら</w>
+              <w lemmaRef="#w.ず.な">な</w>
+              <w lemmaRef="#w.く.h1">く</w>
+              <w lemmaRef="#w.に.h1">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.春霞">春霞</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.帰る.かへる">帰</w>
+              <w lemmaRef="#w.道">道</w>
+              <w lemmaRef="#w.に.h1">に</w>
+              <w lemmaRef="#w.し">し</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.立つ.たち">立</w>
+              <w lemmaRef="#w.ぬ.ぬ">ぬ</w>
+              <w lemmaRef="#w.と.h1">と</w>
+              <w lemmaRef="#w.思ふ.おもへ">思へ</w>
+              <w lemmaRef="#w.ば">は</w>
+            </seg>
           </l>
         </div>
         <lb/>

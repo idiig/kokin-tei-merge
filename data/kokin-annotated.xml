@@ -6131,11 +6131,33 @@
         <lb/>
         <div type="和歌">
           <l n="106" xml:id="n106" resp="#よみ人知らず">
-            <seg>吹風を</seg>
-            <seg>鳴て怨よ</seg>
-            <seg>鶯は</seg>
-            <seg>我やは花に</seg>
-            <seg>手たにふれたる</seg>
+            <seg>
+              <w lemmaRef="#w.吹く.ふく">吹</w>
+              <w lemmaRef="#w.風">風</w>
+              <w lemmaRef="#w.を.h1">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.鳴く.なき">鳴</w>
+              <w lemmaRef="#w.て">て</w>
+              <w lemmaRef="#w.恨む.うらみよ">怨よ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.鴬">鶯</w>
+              <w lemmaRef="#w.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.我.われ">我</w>
+              <w lemmaRef="#w.や.h1">や</w>
+              <w lemmaRef="#w.は">は</w>
+              <w lemmaRef="#w.花">花</w>
+              <w lemmaRef="#w.に.h1">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.手.て">手</w>
+              <w lemmaRef="#w.だに">たに</w>
+              <w lemmaRef="#w.触る">ふれ</w>
+              <w lemmaRef="#w.たり.たる">たる</w>
+            </seg>
           </l>
         </div>
         <lb/>

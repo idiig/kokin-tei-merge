@@ -5990,11 +5990,30 @@
         <lb/>
         <div type="和歌">
           <l n="102" xml:id="n102" resp="#藤原興風">
-            <seg>春霞</seg>
-            <seg>色のちくさに</seg>
-            <seg>見えつるは</seg>
-            <seg>たなひく山の</seg>
-            <seg>花の影かも</seg>
+            <seg>
+              <w lemmaRef="#w.春霞">春霞</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.色">色</w>
+              <w lemmaRef="#w.の.h1">の</w>
+              <w lemmaRef="#w.千種なり">ちくさに</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.見ゆ.みえ">見え</w>
+              <w lemmaRef="#w.つ.h1 #w.つる">つる</w>
+              <w lemmaRef="#w.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.棚引く.たなびく">たなひく</w>
+              <w lemmaRef="#w.山">山</w>
+              <w lemmaRef="#w.の.h1">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.花">花</w>
+              <w lemmaRef="#w.の.h1">の</w>
+              <w lemmaRef="#w.影">影</w>
+              <w lemmaRef="#w.かも.h1">かも</w>
+            </seg>
           </l>
           <lb/>
           <note type="詞書" style="margin-top: 2em" target="#n103"/>

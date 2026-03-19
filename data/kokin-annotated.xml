@@ -6634,11 +6634,34 @@
           </note>
           <lb/>
           <l n="119" xml:id="n119" resp="#遍昭">
-            <seg>よそに見て</seg>
-            <seg>かへらむ人に</seg>
-            <seg>藤花</seg>
-            <seg>はひまつはれよ</seg>
-            <seg>枝は折とも</seg>
+            <seg>
+              <w lemmaRef="#w.余所">よそ</w>
+              <w lemmaRef="#w.に.h1">に</w>
+              <w lemmaRef="#w.見る.み">見</w>
+              <w lemmaRef="#w.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.帰る.かへら">かへら</w>
+              <w lemmaRef="#w.む.む">む</w>
+              <w lemmaRef="#w.人.h1">人</w>
+              <w lemmaRef="#w.に.h1">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.藤">藤</w>
+              <w lemmaRef="#w.の.h1"/>
+              <w lemmaRef="#w.花">花</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.這ふ.はひ">はひ</w>
+              <w lemmaRef="#w.纏はる.まつはれよ">まつはれよ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.枝.えだ">枝</w>
+              <w lemmaRef="#w.は">は</w>
+              <w lemmaRef="#w.折る.をる">折</w>
+              <w lemmaRef="#w.と.h1">と</w>
+              <w lemmaRef="#w.も.h1">も</w>
+            </seg>
           </l>
         </div>
         <pb n="1-21r" facs="#p029"/>

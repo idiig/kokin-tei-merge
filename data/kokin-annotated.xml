@@ -5959,11 +5959,32 @@
           </note>
           <lb/>
           <l n="101" xml:id="n101" resp="#藤原興風">
-            <seg>さく花は</seg>
-            <seg>ちくさなからに</seg>
-            <seg>あたなれと</seg>
-            <seg>誰かは春を</seg>
-            <seg>怨はてたる</seg>
+            <seg>
+              <w lemmaRef="#w.咲く.さく">さく</w>
+              <w lemmaRef="#w.花">花</w>
+              <w lemmaRef="#w.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.千種">ちくさ</w>
+              <w lemmaRef="#w.ながら">なから</w>
+              <w lemmaRef="#w.に.h1">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.徒なり.あだなれ">あたなれ</w>
+              <w lemmaRef="#w.ど">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.誰.たれ">誰</w>
+              <w lemmaRef="#w.か.h1">か</w>
+              <w lemmaRef="#w.は">は</w>
+              <w lemmaRef="#w.春.h1">春</w>
+              <w lemmaRef="#w.を.h1">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.怨む">怨</w>
+              <w lemmaRef="#w.果つ.はて">はて</w>
+              <w lemmaRef="#w.たり.たる">たる</w>
+            </seg>
           </l>
         </div>
         <lb/>

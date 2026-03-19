@@ -6927,11 +6927,29 @@
           </note>
           <lb/>
           <l n="127" xml:id="n127" resp="#凡河内躬恒">
-            <seg>梓弓</seg>
-            <seg>春たちしより</seg>
-            <seg>年月の</seg>
-            <seg>いるかことくも</seg>
-            <seg>おもほゆる哉</seg>
+            <seg>
+              <w lemmaRef="#w.梓弓">梓弓</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.春.h1">春</w>
+              <w lemmaRef="#w.立つ.たち">たち</w>
+              <w lemmaRef="#w.き.し">し</w>
+              <w lemmaRef="#w.より">より</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.年月">年月</w>
+              <w lemmaRef="#w.の.h1">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.射る">いる</w>
+              <w lemmaRef="#w.が.h1">か</w>
+              <w lemmaRef="#w.如し">ことく</w>
+              <w lemmaRef="#w.も.h1">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.思ほゆ.おもほゆる">おもほゆる</w>
+              <w lemmaRef="#w.哉">哉</w>
+            </seg>
           </l>
         </div>
         <lb/>

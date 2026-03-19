@@ -6889,11 +6889,33 @@
           </note>
           <lb/>
           <l n="126" xml:id="n126" resp="#素性法師">
-            <seg>おもふとち</seg>
-            <seg>はるの山へに</seg>
-            <seg>うちむれて</seg>
-            <seg>そこともいはぬ</seg>
-            <seg>たひねしてしか</seg>
+            <seg>
+              <w lemmaRef="#w.思ふどち">おもふとち</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.春.h1">はる</w>
+              <w lemmaRef="#w.の.h1">の</w>
+              <w lemmaRef="#w.山辺">山へ</w>
+              <w lemmaRef="#w.に.h1">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.打つ.うち">うち</w>
+              <w lemmaRef="#w.群る">むれ</w>
+              <w lemmaRef="#w.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.其処">そこ</w>
+              <w lemmaRef="#w.と.h1">と</w>
+              <w lemmaRef="#w.も.h1">も</w>
+              <w lemmaRef="#w.言ふ.いは">いは</w>
+              <w lemmaRef="#w.ず.ぬ">ぬ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.旅寝">たひね</w>
+              <w lemmaRef="#w.す.し">し</w>
+              <w lemmaRef="#w.つ.h1 #w.つ.て">て</w>
+              <w lemmaRef="#w.き.しか">しか</w>
+            </seg>
           </l>
         </div>
         <lb/>

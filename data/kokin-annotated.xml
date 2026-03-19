@@ -7588,11 +7588,29 @@
         <lb/>
         <div type="和歌">
           <l n="146" xml:id="n146" resp="#よみ人知らず">
-            <seg>郭公</seg>
-            <seg>鳴聲きけは</seg>
-            <seg>別にし</seg>
-            <seg>𦾔里さへそ</seg>
-            <seg>こひしかりける</seg>
+            <seg>
+              <w lemmaRef="#w.時鳥">郭公</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.鳴く.なく">鳴</w>
+              <w lemmaRef="#w.声">聲</w>
+              <w lemmaRef="#w.聞く.きけ">きけ</w>
+              <w lemmaRef="#w.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.別る.わかれ">別</w>
+              <w lemmaRef="#w.ぬ.に">に</w>
+              <w lemmaRef="#w.き.し">し</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.古里">𦾔里</w>
+              <w lemmaRef="#w.さへ">さへ</w>
+              <w lemmaRef="#w.ぞ">そ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.恋し.こひしかり">こひしかり</w>
+              <w lemmaRef="#w.けり.ける">ける</w>
+            </seg>
           </l>
         </div>
         <lb/>

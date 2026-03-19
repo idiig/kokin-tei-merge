@@ -7495,11 +7495,28 @@
           </note>
           <lb/>
           <l n="143" xml:id="n143" resp="#素性法師">
-            <seg>郭公</seg>
-            <seg>はつこゑきけは</seg>
-            <seg>あちきなく</seg>
-            <seg>ぬしさたまらぬ</seg>
-            <seg>こひせらるはた</seg>
+            <seg>
+              <w lemmaRef="#w.時鳥">郭公</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.初声">はつこゑ</w>
+              <w lemmaRef="#w.聞く.きけ">きけ</w>
+              <w lemmaRef="#w.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.味気無し.あぢきなく">あちきなく</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.主">ぬし</w>
+              <w lemmaRef="#w.定まる">さたまら</w>
+              <w lemmaRef="#w.ず.ぬ">ぬ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.恋ふ.こひ">こひ</w>
+              <w lemmaRef="#w.す.せ">せ</w>
+              <w lemmaRef="#w.らる.らる">らる</w>
+              <w lemmaRef="#w.将">はた</w>
+            </seg>
           </l>
         </div>
         <lb/>

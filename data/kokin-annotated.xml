@@ -6061,11 +6061,34 @@
           <pb n="1-19v" facs="#p028"/>
           <lb/>
           <l n="104" xml:id="n104" resp="#凡河内躬恒">
-            <seg>花見れは</seg>
-            <seg>心さへにそ</seg>
-            <seg>うつりける</seg>
-            <seg>色にはいてし</seg>
-            <seg>人もこそしれ</seg>
+            <seg>
+              <w lemmaRef="#w.花">花</w>
+              <w lemmaRef="#w.見る.みれ">見れ</w>
+              <w lemmaRef="#w.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.心.こころ">心</w>
+              <w lemmaRef="#w.さへ">さへ</w>
+              <w lemmaRef="#w.に.h1">に</w>
+              <w lemmaRef="#w.ぞ">そ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.移る">うつり</w>
+              <w lemmaRef="#w.けり.ける">ける</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.色">色</w>
+              <w lemmaRef="#w.に.h1">に</w>
+              <w lemmaRef="#w.は">は</w>
+              <w lemmaRef="#w.出づ.いで">いて</w>
+              <w lemmaRef="#w.じ">し</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.人.h1">人</w>
+              <w lemmaRef="#w.も.h1">も</w>
+              <w lemmaRef="#w.こそ">こそ</w>
+              <w lemmaRef="#w.知る.しれ">しれ</w>
+            </seg>
           </l>
         </div>
         <lb/>

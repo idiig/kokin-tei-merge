@@ -7647,11 +7647,30 @@
         <lb/>
         <div type="和歌">
           <l n="148" xml:id="n148" resp="#よみ人知らず">
-            <seg>思出る</seg>
-            <seg>ときはの山の</seg>
-            <seg>時鳥</seg>
-            <seg>唐紅の</seg>
-            <seg>ふりいてゝそ鳴</seg>
+            <seg>
+              <w lemmaRef="#w.思ふ.おもひ">思</w>
+              <w lemmaRef="#w.出づ.いづる">出る</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.常磐">ときは</w>
+              <w lemmaRef="#w.の.h1">の</w>
+              <w lemmaRef="#w.山">山</w>
+              <w lemmaRef="#w.の.h1">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.郭公">時鳥</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.唐紅">唐紅</w>
+              <w lemmaRef="#w.の.h1">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.振る.ふり">ふり</w>
+              <w lemmaRef="#w.出づ.いで">いて</w>
+              <w lemmaRef="#w.て">ゝ</w>
+              <w lemmaRef="#w.ぞ">そ</w>
+              <w lemmaRef="#w.鳴く.なく">鳴</w>
+            </seg>
           </l>
         </div>
         <lb/>

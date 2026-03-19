@@ -6674,11 +6674,33 @@
           </note>
           <lb/>
           <l n="120" xml:id="n120" resp="#凡河内躬恒">
-            <seg>わかやとに</seg>
-            <seg>さける藤波</seg>
-            <seg>立帰り</seg>
-            <seg>すきかてにのみ</seg>
-            <seg>人の見る覧</seg>
+            <seg>
+              <w lemmaRef="#w.我.われ">わ</w>
+              <w lemmaRef="#w.が.h1">か</w>
+              <w lemmaRef="#w.宿">やと</w>
+              <w lemmaRef="#w.に.h1">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.咲く.さけ">さけ</w>
+              <w lemmaRef="#w.り.る">る</w>
+              <w lemmaRef="#w.藤浪">藤波</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.立つ.たち">立</w>
+              <w lemmaRef="#w.帰る.かへり">帰り</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.過ぐ.すぎ">すき</w>
+              <w lemmaRef="#w.勝つ">かて</w>
+              <w lemmaRef="#w.ず.に">に</w>
+              <w lemmaRef="#w.のみ">のみ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.人.h1">人</w>
+              <w lemmaRef="#w.の.h1">の</w>
+              <w lemmaRef="#w.見る.みる">見る</w>
+              <w lemmaRef="#w.らむ.らむ">覧</w>
+            </seg>
           </l>
         </div>
         <lb/>

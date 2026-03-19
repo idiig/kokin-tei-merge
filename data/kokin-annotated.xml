@@ -6220,11 +6220,30 @@
             </persName>子</note>
           <lb/>
           <l n="108" xml:id="n108" resp="#藤原後蔭">
-            <seg>花のちる</seg>
-            <seg>事やわひしき</seg>
-            <seg>春霞</seg>
-            <seg>たつたの山の</seg>
-            <seg>うくひすのこゑ</seg>
+            <seg>
+              <w lemmaRef="#w.花">花</w>
+              <w lemmaRef="#w.の.h1">の</w>
+              <w lemmaRef="#w.散る.ちる">ちる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.事">事</w>
+              <w lemmaRef="#w.や.h1">や</w>
+              <w lemmaRef="#w.侘し.わびしき">わひしき</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.春霞">春霞</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.立田">たつた</w>
+              <w lemmaRef="#w.の.h1">の</w>
+              <w lemmaRef="#w.山">山</w>
+              <w lemmaRef="#w.の.h1">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.鴬">うくひす</w>
+              <w lemmaRef="#w.の.h1">の</w>
+              <w lemmaRef="#w.声">こゑ</w>
+            </seg>
           </l>
         </div>
         <lb/>

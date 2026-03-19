@@ -7382,11 +7382,33 @@
           </note>
           <lb/>
           <l n="139" xml:id="n139" resp="#よみ人知らず">
-            <seg>さ月まつ</seg>
-            <seg>花橘の</seg>
-            <seg>かをかけは</seg>
-            <seg>昔の人の</seg>
-            <seg>袖のかそする</seg>
+            <seg>
+              <w lemmaRef="#w.五月">さ月</w>
+              <w lemmaRef="#w.待つ.h1 #w.待つ.まつ">まつ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.花橘">花橘</w>
+              <w lemmaRef="#w.の.h1">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.香">か</w>
+              <w lemmaRef="#w.を.h1">を</w>
+              <w lemmaRef="#w.嗅ぐ">かけ</w>
+              <w lemmaRef="#w.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.昔">昔</w>
+              <w lemmaRef="#w.の.h1">の</w>
+              <w lemmaRef="#w.人.h1">人</w>
+              <w lemmaRef="#w.の.h1">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.袖">袖</w>
+              <w lemmaRef="#w.の.h1">の</w>
+              <w lemmaRef="#w.香">か</w>
+              <w lemmaRef="#w.ぞ">そ</w>
+              <w lemmaRef="#w.す.する">する</w>
+            </seg>
           </l>
         </div>
         <lb/>

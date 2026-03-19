@@ -7112,11 +7112,32 @@
           </note>
           <lb/>
           <l n="132" xml:id="n132" resp="#凡河内躬恒">
-            <seg>とゝむへき</seg>
-            <seg>物とはなしに</seg>
-            <seg>はかなくも</seg>
-            <seg>ちる花ことに</seg>
-            <seg>たくふ心か</seg>
+            <seg>
+              <w lemmaRef="#w.留む.とどむ">とゝむ</w>
+              <w lemmaRef="#w.べし.べき">へき</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.物.h1">物</w>
+              <w lemmaRef="#w.と.h1">と</w>
+              <w lemmaRef="#w.は">は</w>
+              <w lemmaRef="#w.無し.なし">なし</w>
+              <w lemmaRef="#w.に.h1">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.儚し.はかなく">はかなく</w>
+              <w lemmaRef="#w.も.h1">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.散る.ちる">ちる</w>
+              <w lemmaRef="#w.花">花</w>
+              <w lemmaRef="#w.毎">こと</w>
+              <w lemmaRef="#w.に.h1">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.比ふ.たぐふ">たくふ</w>
+              <w lemmaRef="#w.心.こころ">心</w>
+              <w lemmaRef="#w.か.h1">か</w>
+            </seg>
           </l>
         </div>
         <lb/>

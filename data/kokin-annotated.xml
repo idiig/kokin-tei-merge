@@ -6612,13 +6612,13 @@
             </seg>
             <seg>
               <w lemmaRef="#w.深山">み山</w>
-              <w lemmaRef="#w.隠る">かくれ</w>
+              <w lemmaRef="#w.隠る.かくれ">かくれ</w>
               <w lemmaRef="#w.の.h1">の</w>
             </seg>
             <seg>
               <w lemmaRef="#w.花">花</w>
               <w lemmaRef="#w.を.h1">を</w>
-              <w lemmaRef="#w.見る">見</w>
+              <w lemmaRef="#w.見る.み">見</w>
               <w lemmaRef="#w.まし">まし</w>
               <w lemmaRef="#w.や.h1">や</w>
             </seg>

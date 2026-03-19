@@ -7075,11 +7075,32 @@
           </note>
           <lb/>
           <l n="131" xml:id="n131" resp="#藤原興風">
-            <seg>こゑたえす</seg>
-            <seg>なけや鶯</seg>
-            <seg>ひとゝせに</seg>
-            <seg>ふたゝひとたに</seg>
-            <seg>くへき春かは</seg>
+            <seg>
+              <w lemmaRef="#w.声">こゑ</w>
+              <w lemmaRef="#w.絶ゆ.たえ">たえ</w>
+              <w lemmaRef="#w.ず.ず">す</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.鳴く.なけ">なけ</w>
+              <w lemmaRef="#w.や.h1">や</w>
+              <w lemmaRef="#w.鴬">鶯</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.一年">ひとゝせ</w>
+              <w lemmaRef="#w.に.h1">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.再び">ふたゝひ</w>
+              <w lemmaRef="#w.と.h1">と</w>
+              <w lemmaRef="#w.だに">たに</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.来.く">く</w>
+              <w lemmaRef="#w.べし.べき">へき</w>
+              <w lemmaRef="#w.春.h1">春</w>
+              <w lemmaRef="#w.か.h1">か</w>
+              <w lemmaRef="#w.は">は</w>
+            </seg>
           </l>
         </div>
         <lb/>

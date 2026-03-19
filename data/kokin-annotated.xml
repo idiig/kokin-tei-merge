@@ -7190,11 +7190,34 @@
           </note>
           <lb/>
           <l n="134" xml:id="n134" resp="#凡河内躬恒">
-            <seg>けふのみと</seg>
-            <seg>春をおもはぬ</seg>
-            <seg>時たにも</seg>
-            <seg>立ことやすき</seg>
-            <seg>花のかけかは</seg>
+            <seg>
+              <w lemmaRef="#w.今日">けふ</w>
+              <w lemmaRef="#w.のみ">のみ</w>
+              <w lemmaRef="#w.と.h1">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.春.h1">春</w>
+              <w lemmaRef="#w.を.h1">を</w>
+              <w lemmaRef="#w.思ふ.おもは">おもは</w>
+              <w lemmaRef="#w.ず.ぬ">ぬ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.時.h1">時</w>
+              <w lemmaRef="#w.だに">たに</w>
+              <w lemmaRef="#w.も.h1">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.立つ.たつ">立</w>
+              <w lemmaRef="#w.事">こと</w>
+              <w lemmaRef="#w.易し.やすき">やすき</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.花">花</w>
+              <w lemmaRef="#w.の.h1">の</w>
+              <w lemmaRef="#w.影">かけ</w>
+              <w lemmaRef="#w.か.h1">か</w>
+              <w lemmaRef="#w.は">は</w>
+            </seg>
           </l>
         </div>
       </div>

@@ -7558,11 +7558,31 @@
           </note>
           <lb/>
           <l n="145" xml:id="n145" resp="#よみ人知らず">
-            <seg>夏山に</seg>
-            <seg>鳴郭公</seg>
-            <seg>心あらは</seg>
-            <seg>物思我に</seg>
-            <seg>聲なきかせそ</seg>
+            <seg>
+              <w lemmaRef="#w.夏山">夏山</w>
+              <w lemmaRef="#w.に.h1">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.鳴く.なく">鳴</w>
+              <w lemmaRef="#w.郭公">郭公</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.心.こころ">心</w>
+              <w lemmaRef="#w.有り.あら">あら</w>
+              <w lemmaRef="#w.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.物.h1">物</w>
+              <w lemmaRef="#w.思ふ.おもふ">思</w>
+              <w lemmaRef="#w.我.われ">我</w>
+              <w lemmaRef="#w.に.h1">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.声">聲</w>
+              <w lemmaRef="#w.な.h1">な</w>
+              <w lemmaRef="#w.聞かす">きかせ</w>
+              <w lemmaRef="#w.そ">そ</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -6813,11 +6813,30 @@
           </note>
           <lb/>
           <l n="124" xml:id="n124" resp="#紀貫之">
-            <seg>芳野河</seg>
-            <seg>岸の山吹</seg>
-            <seg>ふく風に</seg>
-            <seg>そこのかけさへ</seg>
-            <seg>うつろひにけり</seg>
+            <seg>
+              <w lemmaRef="#w.吉野河">芳野河</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.岸">岸</w>
+              <w lemmaRef="#w.の.h1">の</w>
+              <w lemmaRef="#w.山吹">山吹</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.吹く.ふく">ふく</w>
+              <w lemmaRef="#w.風">風</w>
+              <w lemmaRef="#w.に.h1">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.底">そこ</w>
+              <w lemmaRef="#w.の.h1">の</w>
+              <w lemmaRef="#w.影">かけ</w>
+              <w lemmaRef="#w.さへ">さへ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.移ろふ.うつろひ">うつろひ</w>
+              <w lemmaRef="#w.ぬ.に">に</w>
+              <w lemmaRef="#w.けり.けり">けり</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -6173,11 +6173,33 @@
           </note>
           <lb/>
           <l n="107" xml:id="n107" resp="#洽子">
-            <seg>ちる花の</seg>
-            <seg>なくにしとまる</seg>
-            <seg>物ならは</seg>
-            <seg>我鶯に</seg>
-            <seg>おとらましやは</seg>
+            <seg>
+              <w lemmaRef="#w.散る.ちる">ちる</w>
+              <w lemmaRef="#w.花">花</w>
+              <w lemmaRef="#w.の.h1">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.泣く.なく">なく</w>
+              <w lemmaRef="#w.に.h1">に</w>
+              <w lemmaRef="#w.し">し</w>
+              <w lemmaRef="#w.止まる.とまる">とまる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.物.h1">物</w>
+              <w lemmaRef="#w.なり.なら">なら</w>
+              <w lemmaRef="#w.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.我.われ">我</w>
+              <w lemmaRef="#w.鶯">鶯</w>
+              <w lemmaRef="#w.に.h1">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.劣る">おとら</w>
+              <w lemmaRef="#w.まし.まし">まし</w>
+              <w lemmaRef="#w.や.h1">や</w>
+              <w lemmaRef="#w.は">は</w>
+            </seg>
           </l>
         </div>
         <lb/>

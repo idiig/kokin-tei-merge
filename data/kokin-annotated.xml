@@ -7524,11 +7524,29 @@
           <note type="詞書" style="margin-top: 2em" target="#n144">ならのいその神てらにて郭公のなくをよめる</note>
           <lb/>
           <l n="144" xml:id="n144" resp="#素性法師">
-            <seg>礒神</seg>
-            <seg>ふるき都の</seg>
-            <seg>時鳥</seg>
-            <seg>聲許こそ</seg>
-            <seg>昔なりけれ</seg>
+            <seg>
+              <w lemmaRef="#w.磯">礒</w>
+              <w lemmaRef="#w.の.h1"/>
+              <w lemmaRef="#w.神">神</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.古し.ふるき">ふるき</w>
+              <w lemmaRef="#w.都">都</w>
+              <w lemmaRef="#w.の.h1">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.郭公">時鳥</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.声">聲</w>
+              <w lemmaRef="#w.許り">許</w>
+              <w lemmaRef="#w.こそ">こそ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.昔">昔</w>
+              <w lemmaRef="#w.なり.なり">なり</w>
+              <w lemmaRef="#w.けり.けれ">けれ</w>
+            </seg>
           </l>
         </div>
         <pb n="1-24r" facs="#p032"/>

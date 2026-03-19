@@ -6849,7 +6849,7 @@
           <l n="125" xml:id="n125" resp="#よみ人知らず">
             <seg>
               <w lemmaRef="#w.蛙">かはつ</w>
-              <w lemmaRef="#w.鳴く">なく</w>
+              <w lemmaRef="#w.鳴く.なく">なく</w>
             </seg>
             <seg>
               <w lemmaRef="#w.井手">ゐて</w>
@@ -6857,17 +6857,17 @@
               <w lemmaRef="#w.山吹">山吹</w>
             </seg>
             <seg>
-              <w lemmaRef="#w.散る">ちり</w>
-              <w lemmaRef="#w.ぬ">に</w>
-              <w lemmaRef="#w.けり">けり</w>
+              <w lemmaRef="#w.散る.ちり">ちり</w>
+              <w lemmaRef="#w.ぬ.に">に</w>
+              <w lemmaRef="#w.けり.けり">けり</w>
             </seg>
             <seg>
               <w lemmaRef="#w.花">花</w>
               <w lemmaRef="#w.の.h1">の</w>
-              <w lemmaRef="#w.盛りなり">さかりに</w>
+              <w lemmaRef="#w.盛りなり.さかりに">さかりに</w>
             </seg>
             <seg>
-              <w lemmaRef="#w.逢ふ">あは</w>
+              <w lemmaRef="#w.逢ふ.あは">あは</w>
               <w lemmaRef="#w.まし">まし</w>
               <w lemmaRef="#w.物.h1">物</w>
               <w lemmaRef="#w.を.h1">を</w>

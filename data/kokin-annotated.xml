@@ -7235,11 +7235,32 @@
           </note>
           <lb/>
           <l n="135" xml:id="n135" resp="#よみ人知らず">
-            <seg>わかやとの</seg>
-            <seg>池の藤波</seg>
-            <seg>さきにけり</seg>
-            <seg>山郭公</seg>
-            <seg>いつかきなかむ</seg>
+            <seg>
+              <w lemmaRef="#w.我.わ">わ</w>
+              <w lemmaRef="#w.が.h1">か</w>
+              <w lemmaRef="#w.宿">やと</w>
+              <w lemmaRef="#w.の.h1">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.池">池</w>
+              <w lemmaRef="#w.の.h1">の</w>
+              <w lemmaRef="#w.藤波">藤波</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.咲く.さき">さき</w>
+              <w lemmaRef="#w.ぬ.に">に</w>
+              <w lemmaRef="#w.けり.けり">けり</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.山郭公">山郭公</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.何時">いつ</w>
+              <w lemmaRef="#w.か.h1">か</w>
+              <w lemmaRef="#w.来.き">き</w>
+              <w lemmaRef="#w.鳴く.なか">なか</w>
+              <w lemmaRef="#w.む.む">む</w>
+            </seg>
           </l>
           <lb/>
           <note type="左注" style="margin-top: 3em" target="#n135">この哥ある人のいはく

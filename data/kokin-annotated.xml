@@ -7739,11 +7739,31 @@
         <lb/>
         <div type="和歌">
           <l n="151" xml:id="n151" resp="#よみ人知らず">
-            <seg>今更に</seg>
-            <seg>山へ帰な</seg>
-            <seg>時鳥</seg>
-            <seg>聲の限は</seg>
-            <seg>わかやとになけ</seg>
+            <seg>
+              <w lemmaRef="#w.今更なり">今更に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.山">山</w>
+              <w lemmaRef="#w.へ">へ</w>
+              <w lemmaRef="#w.帰る.かへる">帰</w>
+              <w lemmaRef="#w.な.h2">な</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.時鳥">時鳥</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.声">聲</w>
+              <w lemmaRef="#w.の.h1">の</w>
+              <w lemmaRef="#w.限る">限</w>
+              <w lemmaRef="#w.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.我.わ">わ</w>
+              <w lemmaRef="#w.が.h1">か</w>
+              <w lemmaRef="#w.宿">やと</w>
+              <w lemmaRef="#w.に.h1">に</w>
+              <w lemmaRef="#w.鳴く.なけ">なけ</w>
+            </seg>
           </l>
         </div>
         <lb/>

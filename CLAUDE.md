@@ -40,6 +40,8 @@ tools/
   annotate/   — Rule-based token alignment + interactive Helix review
     cmd/annotate/      — Batch annotator CLI
     cmd/align-review/  — Interactive alignment: prepare + apply subcommands
+  migrate/    — One-off data correction tools
+    cmd/fixrefs/       — Bulk-corrects lemmaRef values (3-layer kana lookup)
 
 .claude/
   commands/   — Slash commands: /align-poem N, /apply-poem N
@@ -51,11 +53,28 @@ docs/         — Project documentation (English)
 
 At the start of each conversation, run `nix-shell` in the project root to load the environment. All tool commands must be run inside the nix shell (prefix with `nix develop --command bash -c "..."`).
 
+## lemmaRef Convention
+
+`lemmaRef` values use the two-layer Dict A format: `#reading.lemma`
+(e.g. `#われ.我`, `#かかれ.掛かる`). The reading is the Hachidaishu
+KanjiReading for that token — not the dictionary base form.
+
+After any bulk re-annotation, run `fixrefs` to correct systematic errors:
+
+```bash
+cd tools/migrate && go run ./cmd/fixrefs \
+  -wordlist ../../data/hachidaishu-wordlist.xml \
+  -input  ../../data/kokin-annotated.xml \
+  -output ../../data/kokin-annotated.xml
+```
+
 ## Important Constraints
 
 - Do not modify original text content in XML; only add structural annotations
 - Preserve TEI namespace (`http://www.tei-c.org/ns/1.0`) in all XML processing
 - Validate against TEI P5 schema after modifications
+- Do not call `Indent()` on documents with mixed content (text + elements) —
+  it inserts spurious blank lines around text nodes
 
 ## Claude Code Self-Maintenance
 

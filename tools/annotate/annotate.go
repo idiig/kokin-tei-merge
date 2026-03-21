@@ -261,6 +261,89 @@ func buildLemmaInfo(doc *etree.Document) map[string]lemmaInfo {
 	return m
 }
 
+// buildDictAMap builds a map from (reading, lemma) → hom xml:id from Dict A.
+func buildDictAMap(doc *etree.Document) map[[2]string]string {
+	m := make(map[[2]string]string)
+	for _, hom := range doc.FindElements("//back//div[@type='reading-index']/entry/hom") {
+		homID := hom.SelectAttrValue("xml:id", "")
+		if homID == "" {
+			continue
+		}
+		dot := strings.Index(homID, ".")
+		if dot < 0 {
+			continue
+		}
+		m[[2]string{homID[:dot], homID[dot+1:]}] = homID
+	}
+	return m
+}
+
+// kanaVariants returns candidate kana forms to try when a surface does not
+// directly match a Dict A reading key. The Karoku manuscript sometimes writes
+// voiced consonants as their unvoiced counterparts (清濁の差), while the
+// Hachidaishu KanjiReading uses the voiced form. Only voicing substitutions
+// are attempted; historical kana→modern substitutions (ひ→い, ふ→う) are NOT
+// applied because Hachidaishu KanjiReadings already use historical kana.
+func kanaVariants(s string) []string {
+	runes := []rune(s)
+	var variants []string
+	tryReplace := func(from, to rune) {
+		for i, r := range runes {
+			if r == from {
+				v := make([]rune, len(runes))
+				copy(v, runes)
+				v[i] = to
+				variants = append(variants, string(v))
+			}
+		}
+	}
+	// Karoku unvoiced → Hachidaishu voiced (e.g. わひ→わび, さふ→さぶ).
+	tryReplace('ひ', 'び')
+	tryReplace('ふ', 'ぶ')
+	tryReplace('へ', 'べ')
+	return variants
+}
+
+// RefineTokenRefs updates lemmaRef values in tokens using Dict A lookup.
+// For each token where surface ≠ current reading, it tries:
+//  1. (surface, lemma) exact lookup in Dict A
+//  2. (normalized_surface, lemma) lookup for historical kana variants
+//
+// This corrects lemmaRefs left over from migration that used the lemma
+// reading instead of the actual surface kana.
+func RefineTokenRefs(tokens []Token, doc *etree.Document) []Token {
+	dictA := buildDictAMap(doc)
+	result := make([]Token, len(tokens))
+	copy(result, tokens)
+
+	for i, tok := range result {
+		homID := strings.TrimPrefix(tok.LemmaRef, "#")
+		dot := strings.Index(homID, ".")
+		if dot < 0 {
+			continue
+		}
+		currentReading := homID[:dot]
+		lemma := homID[dot+1:]
+		surface := tok.Surface
+		if surface == "" || surface == currentReading {
+			continue
+		}
+		// Layer 1: exact surface lookup.
+		if newID, ok := dictA[[2]string{surface, lemma}]; ok {
+			result[i].LemmaRef = "#" + newID
+			continue
+		}
+		// Layer 2: kana variant lookup.
+		for _, variant := range kanaVariants(surface) {
+			if newID, ok := dictA[[2]string{variant, lemma}]; ok {
+				result[i].LemmaRef = "#" + newID
+				break
+			}
+		}
+	}
+	return result
+}
+
 // HachiTokens extracts the ordered token list for poem n from the Hachidaishu
 // document (looks for <lg type="waka" n="N">). Lemma and Reading are populated
 // from the dictionary <back> for use as rune-count proxies.

@@ -97,17 +97,34 @@ func runPrepare(args []string) {
 	}
 	segs := lElem.SelectElements("seg")
 
-	// If the poem is already annotated, reconstruct tokens and metas directly
-	// from the existing <w> elements — this preserves inflected form refs and
-	// any manual edits made during previous alignment sessions.
+	// If the poem is already annotated, first try re-aligning with fresh
+	// HachiTokens to pick up correct KanjiReading-based lemmaRefs. Fall back
+	// to reconstructing from the existing <w> elements when alignment fails
+	// (e.g. orthographic differences between Hachidaishu and Karoku).
 	var effectiveTokens []annotate.Token
 	var splits []int
 	var metas []annotate.SegMeta
 
-	if annToks, annSplits, annMetas := annotate.TokensFromAnnotatedSegs(segs); annToks != nil {
-		effectiveTokens = annToks
-		splits = annSplits
+	annToks, annSplits, annMetas := annotate.TokensFromAnnotatedSegs(segs)
+	if annToks != nil {
 		metas = annMetas
+		// Try re-alignment with fresh Hachidaishu tokens.
+		segTextsForAlign := make([]string, len(annMetas))
+		for i, m := range annMetas {
+			segTextsForAlign[i] = m.Text
+		}
+		if aligned, ok := annotate.AlignPoem(tokens, segTextsForAlign); ok {
+			// Flatten aligned groups into token list preserving splits.
+			for _, group := range aligned {
+				effectiveTokens = append(effectiveTokens, group...)
+				splits = append(splits, len(group))
+			}
+		} else {
+			// Alignment failed: keep existing annotation, but refine
+			// lemmaRefs using Dict A lookup + kana normalization.
+			effectiveTokens = annotate.RefineTokenRefs(annToks, hachiDoc)
+			splits = annSplits
+		}
 	} else {
 		// Not yet annotated: use Hachidaishu tokens and estimate splits.
 		metas = annotate.ExtractSegMetas(segs)

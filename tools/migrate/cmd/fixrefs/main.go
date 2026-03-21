@@ -17,6 +17,24 @@ import (
 	"github.com/beevik/etree"
 )
 
+// voicedVariants returns surface candidates with Karoku unvoiced kana replaced
+// by the voiced counterpart used in Hachidaishu KanjiReadings.
+func voicedVariants(s string) []string {
+	runes := []rune(s)
+	var variants []string
+	for _, pair := range [][2]rune{{'ひ', 'び'}, {'ふ', 'ぶ'}, {'へ', 'べ'}} {
+		for i, r := range runes {
+			if r == pair[0] {
+				v := make([]rune, len(runes))
+				copy(v, runes)
+				v[i] = pair[1]
+				variants = append(variants, string(v))
+			}
+		}
+	}
+	return variants
+}
+
 func main() {
 	wordlist := flag.String("wordlist", "", "path to hachidaishu-wordlist.xml")
 	input    := flag.String("input",    "", "path to kokin-annotated.xml (input)")
@@ -79,6 +97,7 @@ func main() {
 			kept++
 			continue
 		}
+		// Layer 1: exact surface lookup.
 		if newID, ok := dictA[key{surface, lemma}]; ok {
 			if newID != homID {
 				w.RemoveAttr("lemmaRef")
@@ -87,7 +106,21 @@ func main() {
 			} else {
 				kept++
 			}
-		} else {
+			continue
+		}
+		// Layer 2: voiced substitution (Karoku清音→Hachidaishu濁音).
+		// e.g. はふき→はぶき, わひ→わび
+		found := false
+		for _, variant := range voicedVariants(surface) {
+			if newID, ok := dictA[key{variant, lemma}]; ok {
+				w.RemoveAttr("lemmaRef")
+				w.CreateAttr("lemmaRef", "#"+newID)
+				updated++
+				found = true
+				break
+			}
+		}
+		if !found {
 			notfound++
 		}
 	}

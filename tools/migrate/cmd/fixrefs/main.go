@@ -112,6 +112,29 @@ func main() {
 	}
 	log.Printf("Dict A: %d homs loaded", len(dictA))
 
+	// Build kanji map: (kanji surface, lemma) → hom xml:id
+	// Derived from body <w> elements in wordlist where text ≠ reading.
+	// Used as Layer 0 for surfaces that are kanji and can't be found in Dict A directly.
+	kanjiMap := make(map[key]string)
+	for _, w := range wl.FindElements("//body//w") {
+		ref := w.SelectAttrValue("lemmaRef", "")
+		if ref == "" {
+			continue
+		}
+		homID := strings.TrimPrefix(ref, "#")
+		dot := strings.Index(homID, ".")
+		if dot < 0 {
+			continue
+		}
+		reading := homID[:dot]
+		lemma   := homID[dot+1:]
+		surface := w.Text()
+		if surface != "" && surface != reading {
+			kanjiMap[key{surface, lemma}] = homID
+		}
+	}
+	log.Printf("kanji map: %d entries loaded", len(kanjiMap))
+
 	log.Printf("reading annotated %s", *input)
 	ann := etree.NewDocument()
 	ann.ReadSettings.PreserveCData = true
@@ -137,6 +160,17 @@ func main() {
 		// Only fix when surface differs from current reading (otherwise already correct).
 		if surface == "" || surface == currentReading {
 			kept++
+			continue
+		}
+		// Layer 0: kanji surface → hom via wordlist body mapping.
+		if newID, ok := kanjiMap[key{surface, lemma}]; ok {
+			if newID != homID {
+				w.RemoveAttr("lemmaRef")
+				w.CreateAttr("lemmaRef", "#"+newID)
+				updated++
+			} else {
+				kept++
+			}
 			continue
 		}
 		// Layer 1: exact surface lookup.

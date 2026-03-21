@@ -27,6 +27,40 @@ var kanaPairs = [][2]rune{
 	{'お', 'を'}, {'え', 'ゑ'}, {'い', 'ゐ'},
 }
 
+// expandIterationMarks expands ゝ (repeat prev kana) and ゞ (repeat prev kana voiced).
+// e.g. かゝれ → かかれ, みゞ → みず (み→ず for voiced) ... actually ゞ repeats with voicing.
+func expandIterationMarks(s string) string {
+	runes := []rune(s)
+	out := make([]rune, 0, len(runes))
+	for i, r := range runes {
+		switch r {
+		case 'ゝ':
+			if i > 0 {
+				out = append(out, runes[i-1])
+			} else {
+				out = append(out, r)
+			}
+		case 'ゞ':
+			if i > 0 {
+				prev := runes[i-1]
+				voiced := prev
+				for _, p := range kanaPairs {
+					if p[0] == prev {
+						voiced = p[1]
+						break
+					}
+				}
+				out = append(out, voiced)
+			} else {
+				out = append(out, r)
+			}
+		default:
+			out = append(out, r)
+		}
+	}
+	return string(out)
+}
+
 func kanaVariants(s string) []string {
 	runes := []rune(s)
 	var variants []string
@@ -99,7 +133,7 @@ func main() {
 		}
 		currentReading := homID[:dot]
 		lemma          := homID[dot+1:]
-		surface        := w.Text()
+		surface        := expandIterationMarks(w.Text())
 		// Only fix when surface differs from current reading (otherwise already correct).
 		if surface == "" || surface == currentReading {
 			kept++

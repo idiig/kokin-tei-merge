@@ -117,100 +117,37 @@
               <colophon>
                 <pb n="2-63r" facs="#p135"/>
                 <lb/>此集家々所稱雖説々多且任
-                
-                
-                
                 <persName corresp="#藤原俊成">師</persName>説
-                
-                
-                
                 <lb/>又加了見為備後学之證本手自
-                
-                
-                
                 <lb/>書之近代僻案之輩以書生之失錯
-                
-                
-                
                 <lb/>稱有識之秘事可謂道之魔姓不可用
-                
-                
-                
                 <lb/>之但如此用捨只可随其身之所好不
-                
-                
-                
                 <lb/>可存自他之差別志同者可用之
-                
-                
-                
                 <lb/>
                 <date when="1226">嘉禄二年四月九日</date>
                 <persName corresp="#藤原定家">戸部尚書</persName>判
-                
-                
-                
                 <lb/>
                 <date when="1226">于時頽齢六十五</date>寧堪右筆哉
-                
-                
-                
                 <pb n="2-63v" facs="#p136"/>
                 <lb/>此本付属
-                
-                
-                
                 <persName corresp="#藤原為相">大夫為相</persName>
                 <lb/>
                 <date when="1265">于時頽齢六十八</date>
                 <persName corresp="#藤原為家">桑門融覚</persName>判
-                
-                
-                
                 <pb n="2-64r" facs="#p136"/>
                 <lb/>右集依
-                
-                
-                
                 <persName>前内府實
-                  
-                  
-                  
                   <ruby>
                     <rb>―</rb>
                     <rt>望</rt>
                   </ruby>公</persName>懇望以家
-                
-                
-                
                 <lb/>相傳
-                
-                
-                
                 <persName corresp="#藤原定家">京極中納言定家卿</persName>自筆本不改一
-                
-                
-                
                 <lb/>字愚息
-                
-                
-                
                 <persName corresp="#藤原為和">為和</persName>令書写之尤可為證
-                
-                
-                
                 <lb/>本者也
-                
-                
-                
                 <lb/>于時
-                
-                
-                
                 <date when="1519">永正第十六天初夏</date>上辨目
-                
-                
-                
                 <lb/>
                 <persName corresp="#藤原為広">桑門宗清</persName>（花押）</colophon>
             </msItem>
@@ -220,9 +157,6 @@
               <supportDesc material="paper">
                 <support/>
                 <extent>上巻61丁，墨付59丁（下巻66丁，墨付64丁）
-                  
-                  
-                  
                   <dimensions type="leaf" unit="cm">
                     <height>25.6</height>
                     <width>19.2</width>
@@ -261,9 +195,6 @@
               <p>collecter seal"青谿書屋"59丁ウラ左下</p>
               <p>collecter seal"月明荘"59丁ウラ左下</p>
               <p>collecter seal"国文学研究資料館/3682/
-                
-                
-                
                 <date when="1974-02-12">昭和49年2月12日</date>"後ろ見返し</p>
             </sealDesc>
           </physDesc>
@@ -271,37 +202,22 @@
             <origin>冷泉家時雨亭文庫所蔵定家筆嘉禄二年本『古今和歌集』</origin>
             <provenance>
               <p>上下冊に
-                
-                
-                
                 <name type="person">大島雅太郎</name>蔵書印</p>
               <p>上下冊に
-                
-                
-                
                 <name type="person">反町茂雄</name>蔵書印</p>
             </provenance>
             <acquisition>
               <p>Acquired from
-                
-                
-                
                 <name type="person">
                   <persName>反町茂雄</persName>
                 </name>
               </p>
               <p>Acquired from
-                
-                
-                
                 <name type="person">
                   <persName>大島雅太郎</persName>
                 </name>
               </p>
               <p>Acquired from
-                
-                
-                
                 <name type="person">
                   <persName>正親町三条実望</persName>
                 </name>
@@ -323,33 +239,15 @@
             <item>1. 
                      このTEI/XMLデータは，人間文化研究機構国文学研究資料館所蔵『古今和歌集』（コレクション貴重書，和古書請求記号99-2-1，99-2-2）の翻刻を，TEI古典籍ビューワで
                      表示することを想定して，TEI Guidelinesに準拠してマークアップしたものである．
-              
-              
-              
               <gi>teiHeader</gi>には，国書データベースの書誌情報と，画像から確認できる書誌
                      情報等を「日本語古典籍TEIガイドライン」に沿って記述する．当該典籍は国文学研究資料館ウェブサイトの「名品ギャラリー」で紹介されており，同ページ掲載「解題」
                      を
-              
-              
-              
               <gi>msContents</gi>の
-              
-              
-              
               <gi>summary</gi>に記述する．</item>
             <item>2. 
                      登場する人名は，
-              
-              
-              
               <gi>back</gi>の
-              
-              
-              
               <gi>listPerson</gi>に，
-              
-              
-              
               <gi>person</gi>としてリストし，それぞれにxml:idを付与して他の箇所から参照できるようにする．
                      歌人の一覧は，作者については高田祐彦訳注『新版 古今和歌集 現代語訳付き』（角川ソフィア文庫　KADOKAWA，2009）に拠る．『和歌文学大辞典』（古典ライブラリー
                      2014）に立項されている歌人については，同辞典を生没年情報の典拠とし，立項されていない歌人については，『国書人名辞典』記載の生没年を典拠とする．この両書の
@@ -362,35 +260,17 @@
             <item>4. 
                      当該典籍は複数ある『古今和歌集』の本文系統のうち，藤原定家（1162-1241）が書写した定家本と呼ばれる伝本系統の，冷泉家時雨亭文庫に所蔵される嘉禄二年本
                      と呼ばれる写本を，室町時代に忠実に書写した模写本である．仮名序，20の部立（章），墨滅歌からなる．各区分を
-              
-              
-              
               <gi>div</gi>に@type="部立"を付与して記述する．
                      「古今和歌集巻第一」などの巻名は
-              
-              
-              
               <gi>head</gi>に@type="巻名"を付与し，「春哥上」などの部立名は
-              
-              
-              
               <gi>head</gi>に@type="部立名"を付与して記述する．</item>
             <item>5. 
                      写本の丁（書籍の2ページ分に相当し，1丁を1オモテ，1ウラというように表裏で区別する）の別を
-              
-              
-              
               <gi>pb</gi>で記述する．当該典籍は上帖（仮名序，巻1-10）と，
                      下帖（巻11-12，墨滅歌，奥書等）に分かれるため，上帖を1-，下帖を2-として区別する．上帖の1丁目のオモテ面は
-              
-              
-              
               <gi>pb</gi>に@n="1-1r"，ウラ面は@n="1-1v"のよう
                      に記述する．
                      行分けは
-              
-              
-              
               <gi>lb</gi>で記述する．
                      字下げは各エレメントに@styleを付与して記述し，margin-topというプレフィックスを値につけることで対応する．部立名は1em，詞書は2em，詞書に続けて書かれる作者
                      名は5em，詞書がなく作者名だけが書かれる場合の作者名は12em，左注は3em，勘物は1emで記述する．</item>
@@ -399,150 +279,66 @@
                      の左側に「左注」が書かれている．詞書は通常和歌に対し約２字下げ，左注は和歌に対しそれ以上下げて書写される．作者名は詞書に続いて書写され，詞書とは数文字分
                      あけて，或いは詞書から改行して書写される．和歌は必ず詞書と作者の行から改行して書写される．今回記述する定家本『古今集』は和歌一首一行書きである．
                      詞書，作者名，和歌，（左注）のまとまりを
-              
-              
-              
               <gi>div</gi>に@type="和歌"を付与し記述する．和歌が詠まれた状況を説明する詞書という散文部分は
-              
-              
-              
               <gi>note</gi>に@type=
                      "詞書"を付与して記述する．作者名の部分は
-              
-              
-              
               <gi>note</gi>に@type="作者名"を付与して記述し，さらに
-              
-              
-              
               <gi>persName</gi>に@type="作者"を付与し記述する．和歌一首は
-              
-              
-              
               <gi>l</gi>で記述する．左注は
-              
-              
-              
               <gi>note</gi>に@type="左注"を付与して記述する．</item>
             <item>7. 
                      詞書がその左に書かれる和歌を説明していることを次のように示す．和歌を記述した各
-              
-              
-              
               <gi>l</gi>に『新編国歌大観』の歌番号を@nで付与し，さらに
-              
-              
-              
               <gi>l</gi>に@xml:idを
                      nいくつ，という形で付与する．詞書を記述した
-              
-              
-              
               <gi>note</gi>の@targetで当該和歌の@xml:idと対応させる．</item>
             <item>8. 
                      作者名については，
-              
-              
-              
               <gi>persName</gi>に付与した@correspで，
-              
-              
-              
               <gi>listPerson</gi>の当該作者の@xml:idと対応させる．『古今集』は身分の高い作者は通常の作者名の表示
                      位置に示されず，詞書中に作者が示される場合があり，その場合は詞書中の人名を
-              
-              
-              
               <gi>persName</gi> @type="作者"で記述する．</item>
             <item>9. 
                      勅撰和歌集の書式のルールでは，同一の詞書や作者名の和歌を二首以上連続して配列する際は，二首目以降の和歌には詞書と作者名の記載が省略される．そのため詞書がない
                      場合は直前の詞書を参照し，直前の詞書の@targetで対応させる．作者名は書かれている直前の作者名を参照し，
-              
-              
-              
               <gi>l</gi>の@respで当該歌人名の@xml:idと対応させる．</item>
             <item>10. 
                      和歌については，
-              
-              
-              
               <gi>l</gi>で記述し，@nで『新編国歌大観』歌番号を付与し，@xml:idを付与し，@respで作者の情報を記述する．各和歌に@n="2" @xml:id="n2" @resp=
                      "#紀貫之"のように三点のアトリビュートを付与する．和歌一首の内部は五，七，五，七，七という音数の句の切れ目を
-              
-              
-              
               <gi>seg</gi>で記述して示し，句の位置を指定して検索
                      可能にする．</item>
             <item>11. 
                      左注は，和歌の左側に書かれ，異文や作者に関する異伝の情報を補足的に説明する注記である．『新編国歌大観』では和歌より三字下げで示されているが，今回もこれに倣い，
-              
-              
-              
               <gi>note</gi>に@type="左注" @style="margin-top: 3em" @target="#n7"のように付与し記述する．</item>
             <item>12. 
                      『古今和歌集』冒頭には仮名序という約5000字分の仮名文の序があり，和歌の本質，和歌の起源，和歌の様式，万葉集の成立，六歌仙評，古今和歌集の撰進などについて述べ
                      ている．仮名序を全7章185節に分節し，章，節番号を付与する．『新編国歌大観』の読点のあるところ，仮名序古注の開始部分で節を区切り，仮名序のなかに和歌が登場する
                      場合も和歌一首を一節として区切る．各章段のまとまりは
-              
-              
-              
               <gi>p</gi>で記述し，各節は
-              
-              
-              
               <gi>phr</gi>で区切り，
-              
-              
-              
               <gi>phr</gi>に@nで章節番号を付与する．さらに仮名序古注と
                      対応させるため各節にkanaと章節番号からなる@xml:idを付与する． 仮名序の中に登場する和歌は
-              
-              
-              
               <gi>phr</gi>で記述した上で，さらに
-              
-              
-              
               <gi>l</gi>で記述し，@respで和歌の
                      作者を示す．仮名序古注は
-              
-              
-              
               <gi>phr</gi>で記述した部分をさらに
-              
-              
-              
               <gi>note</gi>に @type="仮名序古注"と記述し，仮名序本文のどの文についての古注なのかを@targetで示す．</item>
             <item>13.
                      定家本『古今和歌集』には巻末に「墨滅歌」という削除歌の一覧がある．これは定家が書写した藤原俊成書写の『古今和歌集』の巻10，11，13，14に削除記号を付された状態で
                      書写されていた合計11首の和歌で，定家によって巻末に一括して掲載されたものである．
                      「巻第十　　物名部」のような墨滅歌が本来あった部立を示す注記には，
-              
-              
-              
               <gi>head</gi> に@type="部立名" @style="margin-top: 1em"を付与して記述する．
                      「在郭公下空蝉上」のような墨滅歌が本来あった配列位置の注記は
-              
-              
-              
               <gi>note</gi> に@type="墨滅歌所在"を付与し，@targetでどの墨滅歌についての注記かを対応させて示す．</item>
             <item>14. 
                      当該典籍には冷泉家時雨亭文庫所蔵『古今和歌集』から書写された勘物と呼ばれる定家による細字の注釈が約90箇所にある．このような勘物は『新編国歌大観』では省略されて
                      いるが，勘物は「家説」という和歌の流派の専門知の形成や，秘説の授受と関わり重視された．当該典籍の勘物を翻刻し，
-              
-              
-              
               <gi>note</gi>に@type="勘物"を付与して記述する．
                      定家による勅撰集への勘物は，和歌作者や詞書に現れる人名の伝記考証がほとんどであるため，勘物がある箇所では被注対象の詞書や作者名を記述した
-              
-              
-              
               <gi>note</gi>に@xml:idを
                      付与する．歌番号にはnを付けた@xml:idを付与したため，詞書（ことばがき）にはその頭文字をとりkいくつという@xml:idを付与し，作者にはsいくつという@xml:idを付与し，
                      左注にはsaいくつという@xml:idを付与する．これらの@xmi:idを勘物を記述した
-              
-              
-              
               <gi>note</gi>の@targetで対応させる．和歌についての異文を指摘する勘物では，和歌に付与した
                      @xml:idと対応させる．これらの勘物が定家によるものであることを示すために@respで示す．このように勘物を記述しておくことで写本間の比較も容易になる．</item>
             <item>15. 
@@ -550,30 +346,12 @@
                      は，今回は記述の対象外とする．</item>
             <item>16. 
                      IIIF Manifestとテキストデータの対応づけについては，
-              
-              
-              
               <gi>facsimile</gi>内の
-              
-              
-              
               <gi>surface</gi>内に，フルサイズ画像のIIIF Image API URIが
-              
-              
-              
               <gi>graphic</gi>に対応するように，それぞれのURIを@urlで記述する．その上で，テキストの位置と画像コマの対応については，
-              
-              
-              
               <gi>surface</gi>にxml:idを付与し，その
                      値を
-              
-              
-              
               <gi>pb</gi>から@facsで参照させて，各画像コマ中のテキストの始まりと
-              
-              
-              
               <gi>pb</gi>が対応づけられるようにする．</item>
             <item>17.
                      現存する『古今集』写本は定家本系統がほとんどであり，『新編国歌大観』も書籍の注釈書も定家本を底本としているため，現在の和歌文学研究では定家本『古今集』に
@@ -582,22 +360,10 @@
                      ことが予想される．定家も意識していた代表的な異本である清輔本『古今和歌集』，具体的には昭和初期刊行の尊経閣叢刊という複製がNDLオンラインで公開されている前田育徳会
                      尊経閣文庫所蔵の清輔本『古今和歌集』との校異をparallel-segmentaionで記述する． 清輔本は『古今和歌集』の三証本のうち，小野皇太后本である通宗本を底本として書写し，
                      陽明門院御本，新院御本を校合したものである．清輔本の上欄下欄には清輔による勘物が書写されているが，今回はこれらの勘物は校異の対象外とする．
-              
-              
-              
               <gi>sourceDesc</gi>の
-              
-              
-              
               <gi>listWit</gi>で国文学研究資料館所蔵嘉禄二年本『古今和歌集』を@xml:id="国"，NDLデジタルコレクション公開の清輔本『古今和歌集』（尊経閣叢刊
                      1928）から翻刻した本文を@xml:id="前"とする
-              
-              
-              
               <gi>witness</gi>を記述する．本文中で異同が生じた箇所の本文を
-              
-              
-              
               <gi>app</gi>で記述し，底本にあたる当該典籍の本文をlemに
                      @wit="#国"を付与し記述，異本である清輔本の異文をrdgに@wit="#前"を付与して記述する．
                      現在は仮名序，巻一春上の校異のみを記述しており，巻二春下以降の巻の校異についても記述と公開を予定している．</item>
@@ -605,17 +371,8 @@
         </p>
         <interpretation>
           <p>Lexical annotations from the Hachidaishu dataset are embedded in the back-matter dictionary. Each
-            
-            
-            
             <gi>w</gi> element in the body carries a
-            
-            
-            
             <att>lemmaRef</att> attribute pointing to the corresponding
-            
-            
-            
             <gi>entry</gi> in the back-matter dictionary.</p>
         </interpretation>
       </editorialDecl>
@@ -1104,39 +861,18 @@
       <div type="序" subtype="仮名序">
         <p n="1">
           <phr n="1-1" xml:id="kana1-1">やまとうたは人のこゝろをたねとしてよろつのことの
-            
-            
-            
             <lb/>はとそなれりける</phr>
           <phr n="1-2" xml:id="kana1-2">世中にある人ことわさしけきも
-            
-            
-            
             <lb/>のなれは</phr>
           <phr n="1-3" xml:id="kana1-3">心におもふことを見るものきくものにつけ
-            
-            
-            
             <lb/>ていひいたせるなり</phr>
           <phr n="1-4" xml:id="kana1-4">花になくうくひす水にすむかは
-            
-            
-            
             <lb/>つのこゑをきけは</phr>
           <phr n="1-5" xml:id="kana1-5">いきとしいけるものいつれかうた
-            
-            
-            
             <lb/>をよまさりける</phr>
           <phr n="1-6" xml:id="kana1-6">ちからをもいれすしてあめつち
-            
-            
-            
             <lb/>をうこかし</phr>
           <phr n="1-7" xml:id="kana1-7">めに見えぬ
-            
-            
-            
             <app>
               <lem wit="#国">おに神</lem>
               <rdg wit="#前">
@@ -1146,277 +882,139 @@
                 </ruby>
               </rdg>
             </app>をもあはれとおも
-            
-            
-            
             <lb/>はせ</phr>
           <phr n="1-8" xml:id="kana1-8">おとこ
-            
-            
-            
             <app>
               <lem wit="#国">をむな</lem>
               <rdg wit="#前">お
-                
-                
-                
                 <ruby>
                   <rb>む</rb>
                   <rt>う</rt>
                 </ruby>な</rdg>
             </app>のなかをもやはらけ</phr>
           <phr n="1-9" xml:id="kana1-9">たけきものゝ
-            
-            
-            
             <lb/>ふの心をもなくさむるはうたなり</phr>
         </p>
         <p n="2">
           <phr n="2-1" xml:id="kana2-1">このうたあめ
-            
-            
-            
             <lb/>つちのひらけはしまりける時よりいてきにけり</phr>
           <note type="仮名序古注" target="#kana2-1">
             <phr n="2-2" xml:id="kana2-2">あまの
-              
-              
-              
               <lb/>うきは
-              
-              
-              
               <lb/>しのしたにて
-              
-              
-              
               <persName corresp="#伊弉冉尊">め神</persName>
               <persName corresp="#伊弉諾尊">を神</persName>となり
-              
-              
-              
               <lb/>たまへることをいへるうた也</phr>
           </note>
           <lb/>
           <phr n="2-3" xml:id="kana2-3">しかあれとも世に
-            
-            
-            
             <app>
               <lem wit="#国">つたはる</lem>
               <rdg wit="#前">つたはれる</rdg>
             </app>
             <lb/>ことはひさかたのあめにしては
-            
-            
-            
             <persName corresp="#下照姫">したてるひめ</persName>にはしまり</phr>
           <pb n="1-1v" facs="#p010"/>
           <lb/>
           <note type="仮名序古注" target="#kana2-3">
             <phr n="2-4" xml:id="kana2-4">
               <persName corresp="#下照姫">したてるひめ</persName>とは
-              
-              
-              
               <persName corresp="#天稚彦">あめわかみこ</persName>のめなり</phr>
             <phr n="2-5" xml:id="kana2-5">せうとの神のかたち
-              
-              
-              
               <app>
                 <lem wit="#国">をかたにゝ</lem>
                 <rdg wit="#前">を
-                  
-                  
-                  
                   <ruby>
                     <rb>かた</rb>
                     <rt>かみ</rt>
                   </ruby>に</rdg>
               </app>うつりてかゝやくを
-              
-              
-              
               <lb/>よめるえひすうたなるへし</phr>
             <phr n="2-6" xml:id="kana2-6">これらはもしのかすもさたまらす</phr>
             <phr n="2-7" xml:id="kana2-7">哥のやうにも
-              
-              
-              
               <lb/>あらぬこと
-              
-              
-              
               <lb/>ともなり</phr>
           </note>
           <lb/>
           <phr n="2-8" xml:id="kana2-8">あらかねのつちにしては
-            
-            
-            
             <persName corresp="#素戔嗚尊">すさのをのみこと</persName>
             <lb/>よりそおこりける</phr>
           <phr n="2-9" xml:id="kana2-9">ちはやふる神世には
-            
-            
-            
             <app>
               <lem wit="#国">うたの</lem>
               <rdg wit="#前">哥は</rdg>
             </app>もし
-            
-            
-            
             <lb/>もさたまらすすなほにして事の心わきかたかりけら
-            
-            
-            
             <lb/>し</phr>
           <phr n="2-10" xml:id="kana2-10">人の世と
-            
-            
-            
             <app>
               <lem wit="#国">なりて</lem>
               <rdg wit="#前">なりてよりそ</rdg>
             </app>
             <persName corresp="#素戔嗚尊">すさのをのみこと</persName>よりそみそ
-            
-            
-            
             <lb/>もしあまりひともしはよみける</phr>
           <note type="仮名序古注" target="#kana2-10">
             <phr n="2-11" xml:id="kana2-11">
               <persName corresp="#素戔嗚尊">すさのをのみこと</persName>は
-              
-              
-              
               <persName corresp="#天照大神">あま
-                
-                
-                
                 <lb/>てるおほむ神</persName>のこのかみなり</phr>
             <lb/>
             <phr n="2-12" xml:id="kana2-12">女とすみたまはむとていつものくにゝ宮つくりしたまふ時にその所にやい
-              
-              
-              
               <lb/>ろのくものたつを見てよみたまへる也</phr>
             <l resp="#素戔嗚尊">
               <phr n="2-13" xml:id="kana2-13">やくも立いつもやへかきつまこめにやへかきつくるそのや
-                
-                
-                
                 <lb/>へかき
-                
-                
-                
                 <lb/>を</phr>
             </l>
           </note>
           <lb/>
           <phr n="2-14" xml:id="kana2-14">かくてそ花をめてとりをうらやみかすみをあはれ
-            
-            
-            
             <lb/>ひつゆをかなしふ心ことはおほくさま〳〵になりに
-            
-            
-            
             <lb/>ける</phr>
           <phr n="2-15" xml:id="kana2-15">とをき所もいてたつあしもとよりはしま
-            
-            
-            
             <lb/>りて年月をわたりたかき山もふもとのちりひ
-            
-            
-            
             <pb n="1-2r" facs="#p010"/>
             <lb/>ちよりなりてあまくもたなひくまておひのほれること
-            
-            
-            
             <lb/>くに</phr>
           <phr n="2-16" xml:id="kana2-16">このうたもかくのことくなるへし</phr>
           <phr n="2-17" xml:id="kana2-17">なにはつのうた
-            
-            
-            
             <lb/>はみかとのおほむはしめなり</phr>
           <lb/>
           <note type="仮名序古注" target="#kana2-17">
             <phr n="2-18" xml:id="kana2-18">
               <persName corresp="#仁徳天皇">おほさゝきのみかと</persName>のなにはつ
-              
-              
-              
               <lb/>にてみこときこえける時</phr>
             <phr n="2-19" xml:id="kana2-19">東宮を
-              
-              
-              
               <lb/>たかひにゆつりてくらゐにつきたまはて三とせになりにけれは</phr>
             <phr n="2-20" xml:id="kana2-20">
               <persName corresp="#王仁">王仁</persName>といふ人の
-              
-              
-              
               <lb/>いふかり思てよみてたてまつりけるうた也</phr>
             <phr n="2-21" xml:id="kana2-21">この花は梅花をいふなるへし</phr>
           </note>
           <lb/>
           <phr n="2-22" xml:id="kana2-22">あさか
-            
-            
-            
             <lb/>やまのことはゝ
-            
-            
-            
             <persName corresp="#采女">うねめ</persName>のたはふれよりよみて</phr>
           <lb/>
           <note type="仮名序古注" target="#kana2-22">
             <phr n="2-23" xml:id="kana2-23">
               <persName corresp="#橘諸兄">かつらきの
-                
-                
-                
                 <lb/>おほきみ</persName>を
-              
-              
-              
               <lb/>みちのおくへつかはしたりけるに</phr>
             <phr n="2-24" xml:id="kana2-24">くにのつかさ事おろそか也とてまうけなとしたり
-              
-              
-              
               <lb/>けれとすさましかりけれは</phr>
             <phr n="2-25" xml:id="kana2-25">
               <persName corresp="#采女">うねめなりける女</persName>のかはらけとりてよめるなり</phr>
             <phr n="2-26" xml:id="kana2-26">これに
-              
-              
-              
               <lb/>そ
-              
-              
-              
               <persName corresp="#橘諸兄">おほきみ</persName>の心とけにける</phr>
             <l resp="#采女">
               <phr n="2-27" xml:id="kana2-27">あさか山かけさへ
-                
-                
-                
                 <lb/>見ゆる山の井のあさくは人をおもふものかは</phr>
             </l>
           </note>
           <lb/>
           <phr n="2-28" xml:id="kana2-28">このふたうたは
-            
-            
-            
             <app>
               <lem wit="#国">うた</lem>
               <rdg wit="#前">
@@ -1427,46 +1025,28 @@
               </rdg>
             </app>
             <lb/>のちゝはゝのやうにてそてならふ人のはしめにもしけ
-            
-            
-            
             <lb/>る</phr>
         </p>
         <p n="3">
           <phr n="3-1" xml:id="kana3-1">そも〳〵うたのさまむつなり</phr>
           <phr n="3-2" xml:id="kana3-2">からのうたにもかく
-            
-            
-            
             <lb/>そあるへき</phr>
           <phr n="3-3" xml:id="kana3-3">そのむくさのひとつにはそへうた</phr>
           <phr n="3-4" xml:id="kana3-4">
             <persName corresp="#仁徳天皇">おほさゝき
-              
-              
-              
               <lb/>のみかと</persName>をそへたてまつれるうた</phr>
           <lb/>
           <l resp="#王仁">
             <phr n="3-5" xml:id="kana3-5">なにはつにさくやこの花ふゆこもりいまははる
-              
-              
-              
               <pb n="1-2v" facs="#p011"/>
               <lb/>へとさくやこのはな</phr>
           </l>
           <phr n="3-6" xml:id="kana3-6">といへるなるへし</phr>
           <lb/>
           <phr n="3-7" xml:id="kana3-7">ふたつには
-            
-            
-            
             <app>
               <lem wit="#国">かそへうた</lem>
               <rdg wit="#前">か
-                
-                
-                
                 <ruby>
                   <rb>そ</rb>
                   <rt>ス</rt>
@@ -1476,26 +1056,14 @@
           <lb/>
           <l>
             <phr n="3-8" xml:id="kana3-8">さく花に思ひつくみのあちきなさ身にいたつ
-              
-              
-              
               <lb/>きのいるもしらすて</phr>
           </l>
           <phr n="3-9" xml:id="kana3-9">といへるなるへし</phr>
           <lb/>
           <note type="仮名序古注" target="#kana3-8">
             <phr n="3-10" xml:id="kana3-10">これはたゝ事にい
-              
-              
-              
               <lb/>ひてものにたとへなとも
-              
-              
-              
               <lb/>せぬ
-              
-              
-              
               <app>
                 <lem wit="#国">物也</lem>
                 <rdg wit="#前">
@@ -1508,22 +1076,13 @@
             <phr n="3-11" xml:id="kana3-11">このうたいかにいへるにかあらむ</phr>
             <phr n="3-12" xml:id="kana3-12">その心えかたし</phr>
             <phr n="3-13" xml:id="kana3-13">いつゝにたゝことうた
-              
-              
-              
               <lb/>といへるなむこれにはかなふへき</phr>
           </note>
           <lb/>
           <phr n="3-14" xml:id="kana3-14">みつには
-            
-            
-            
             <app>
               <lem wit="#国">なすらへうた</lem>
               <rdg wit="#前">な
-                
-                
-                
                 <ruby>
                   <rb>そ</rb>
                   <rt>ス</rt>
@@ -1533,38 +1092,20 @@
           <lb/>
           <l>
             <phr n="3-15" xml:id="kana3-15">きみにけさあしたのしものおきていなはこひしき
-              
-              
-              
               <lb/>ことにきえやわたらむ</phr>
           </l>
           <phr n="3-16" xml:id="kana3-16">といへるなるへし</phr>
           <note type="仮名序古注" target="#kana3-15">
             <phr n="3-17" xml:id="kana3-17">これはもの
-              
-              
-              
               <lb/>にもなす
-              
-              
-              
               <lb/>らへてそれかやうになむあるとやうにいふ也</phr>
             <phr n="3-18" xml:id="kana3-18">このうたよくかなへりとも見
-              
-              
-              
               <lb/>えす</phr>
             <l>
               <phr n="3-19" xml:id="kana3-19">たらちめのおやのかふこのまゆこもりいふせくもあるかいもにあ
-                
-                
-                
                 <lb/>はすて</phr>
             </l>
             <phr n="3-20" xml:id="kana3-20">かやうなるやこれには
-              
-              
-              
               <lb/>かなふへからむ</phr>
           </note>
           <lb/>
@@ -1572,9 +1113,6 @@
           <lb/>
           <l>
             <phr n="3-22" xml:id="kana3-22">わかこひはよむともつきしありそ海のはまのま
-              
-              
-              
               <pb n="1-3r" facs="#p011"/>
               <lb/>さこはよみつくすとも</phr>
           </l>
@@ -1582,13 +1120,7 @@
           <lb/>
           <note type="仮名序古注" target="#kana3-22">
             <phr n="3-24" xml:id="kana3-24">これはよ
-              
-              
-              
               <lb/>ろつのくさ
-              
-              
-              
               <lb/>木とりけたものにつけて心を見する也</phr>
             <phr n="3-25" xml:id="kana3-25">この哥はかくれたる所なむなき</phr>
             <lb/>
@@ -1596,9 +1128,6 @@
             <lb/>
             <l>
               <phr n="3-27" xml:id="kana3-27">すまのあまのしほやくけふり風をいたみおもはぬ
-                
-                
-                
                 <lb/>方にたなひきにけり</phr>
             </l>
             <phr n="3-28" xml:id="kana3-28">このうたなとやかなふへからむ</phr>
@@ -1608,9 +1137,6 @@
           <lb/>
           <l>
             <phr n="3-30" xml:id="kana3-30">いつはりのなき世なりせはいかはかり人のこ
-              
-              
-              
               <lb/>とのはうれしからまし</phr>
           </l>
           <phr n="3-31" xml:id="kana3-31">といへるなるへし</phr>
@@ -1618,20 +1144,11 @@
           <note type="仮名序古注" target="#kana3-30">
             <phr n="3-32" xml:id="kana3-32">これは事のとゝのほりたゝしきをいふ也</phr>
             <phr n="3-33" xml:id="kana3-33">このうたの心さらにかなは
-              
-              
-              
               <lb/>す</phr>
             <phr n="3-34" xml:id="kana3-34">とめうたとやいふへからむ</phr>
             <l>
               <phr n="3-35" xml:id="kana3-35">山さくらあくまていろを見つるか
-                
-                
-                
                 <lb/>な花ちるへくも
-                
-                
-                
                 <lb/>風ふかぬ世に</phr>
             </l>
           </note>
@@ -1640,27 +1157,15 @@
           <lb/>
           <l>
             <phr n="3-37" xml:id="kana3-37">このとのはむへも
-              
-              
-              
               <app>
                 <lem wit="#国">とみけり</lem>
                 <rdg wit="#前">と
-                  
-                  
-                  
                   <ruby>
                     <rb>ひ</rb>
                     <rt>ミ</rt>
                   </ruby>けり</rdg>
               </app>さきくさのみつはよつ
-              
-              
-              
               <lb/>はにとのつくり
-              
-              
-              
               <app>
                 <lem wit="#国">せり</lem>
                 <rdg wit="#前">
@@ -1680,15 +1185,9 @@
           <note type="仮名序古注" target="#kana3-37">
             <phr n="3-39" xml:id="kana3-39">これは世をほめて神につくる也</phr>
             <phr n="3-40" xml:id="kana3-40">このうたいはひうたとは見え
-              
-              
-              
               <lb/>すなむある</phr>
             <l>
               <phr n="3-41" xml:id="kana3-41">かすかのにわかなつみつゝよろつ世をいはふ心は
-                
-                
-                
                 <app>
                   <lem wit="#国">神そ</lem>
                   <rdg wit="#前">かみや</rdg>
@@ -1698,192 +1197,87 @@
             </l>
             <phr n="3-42" xml:id="kana3-42">これらやすこしかなふへからむ</phr>
             <phr n="3-43">おほよそむくさにわかれ
-              
-              
-              
               <lb/>むことはえあるましき事になむ</phr>
           </note>
         </p>
         <lb/>
         <p n="4">
           <phr n="4-1" xml:id="kana4-1">今の
-            
-            
-            
             <app>
               <lem wit="#国">世中</lem>
               <rdg wit="#前">よの中</rdg>
             </app>いろにつき人の心花になりにけるより
-            
-            
-            
             <lb/>あたなるうたはかなきことのみいてくれは</phr>
           <phr n="4-2" xml:id="kana4-2">いろこのみ
-            
-            
-            
             <lb/>の
-            
-            
-            
             <app>
               <lem wit="#国">いへに</lem>
               <rdg wit="#前">いへにのみ</rdg>
             </app>むもれ木の人しれぬことゝなりてまめな
-            
-            
-            
             <lb/>るところには花すゝきほにいたすへき事にもあ
-            
-            
-            
             <lb/>らすなりにたり</phr>
           <phr n="4-3" xml:id="kana4-3">そのはしめをおもへはかゝるへく
-            
-            
-            
             <lb/>なむあらぬ</phr>
           <phr n="4-4" xml:id="kana4-4">いにしへの
-            
-            
-            
             <app>
               <lem wit="#国">世々のみかと</lem>
               <rdg wit="#前">よゝのかみかと</rdg>
             </app>春の花のあし
-            
-            
-            
             <lb/>た秋の月の夜ことにさふらふ人〳〵をめして
-            
-            
-            
             <lb/>ことにつけつゝうたをたてまつらしめ給</phr>
           <phr n="4-5" xml:id="kana4-5">あるは
-            
-            
-            
             <lb/>花をそふとてたよりなきところにまとひあるは月
-            
-            
-            
             <lb/>を思ふとてしるへなきやみにたとれる心々を見たま
-            
-            
-            
             <lb/>ひて</phr>
           <phr n="4-6" xml:id="kana4-6">さかしをろかなりとしろしめしけむ</phr>
           <phr n="4-7" xml:id="kana4-7">しかあるの
-            
-            
-            
             <pb n="1-4r" facs="#p012"/>
             <lb/>みにあらす</phr>
           <phr n="4-8" xml:id="kana4-8">さゝれいしにたとへつくは山にかけてき
-            
-            
-            
             <lb/>みをねかひ</phr>
           <phr n="4-9" xml:id="kana4-9">よろこひ身にすきたのしひ心にあまり</phr>
           <lb/>
           <phr n="4-10" xml:id="kana4-10">ふしのけふりによそへて人をこひ松虫のねに友を
-            
-            
-            
             <lb/>しのひ</phr>
           <phr n="4-11" xml:id="kana4-11">高砂すみの江のまつもあひをひのやうに
-            
-            
-            
             <lb/>おほえ</phr>
           <phr n="4-12" xml:id="kana4-12">おとこ山のむかしを思いてゝをみなへしのひと
-            
-            
-            
             <lb/>ゝきをくねるにも哥をいひてそなくさめける</phr>
           <phr n="4-13" xml:id="kana4-13">又は
-            
-            
-            
             <lb/>るのあしたに花のちるを見秋のゆふくれにこのは
-            
-            
-            
             <lb/>のおつるをきゝ</phr>
           <phr n="4-14" xml:id="kana4-14">あるはとしことにかゝみのかけに見
-            
-            
-            
             <lb/>ゆる雪と浪とをなけき草のつゆ水のあわを
-            
-            
-            
             <lb/>見てわか身をおとろき</phr>
           <phr n="4-15" xml:id="kana4-15">あるはきのふはさかえをこり
-            
-            
-            
             <lb/>て時をうしなひ
-            
-            
-            
             <app>
               <lem wit="#国">世にわひ</lem>
               <rdg wit="#前">よに
-                
-                
-                
                 <ruby>
                   <rb>わひ</rb>
                   <rt>あひ歟</rt>
                 </ruby>
               </rdg>
             </app>したしかりしもう
-            
-            
-            
             <lb/>とくなり</phr>
           <phr n="4-16" xml:id="kana4-16">あるは松山の浪をかけ野なかの
-            
-            
-            
             <app>
               <lem wit="#国">水</lem>
               <rdg wit="#前">しみつ</rdg>
             </app>をくみ
-            
-            
-            
             <pb n="1-4v" facs="#p013"/>
             <lb/>秋はきのしたはをなかめあかつきのしきのはねかき
-            
-            
-            
             <lb/>をかそへ</phr>
           <phr n="4-17" xml:id="kana4-17">あるはくれ竹のうきふしを人にいひよしの
-            
-            
-            
             <lb/>河をひきて
-            
-            
-            
             <app>
               <lem wit="#国">世中</lem>
               <rdg wit="#前">よのなか</rdg>
             </app>をうらみきつるに</phr>
           <phr n="4-18" xml:id="kana4-18">今はふしの山も
-            
-            
-            
             <lb/>けふりたゝすなりなからのはしもつくるなりときく
-            
-            
-            
             <lb/>人は
-            
-            
-            
             <app>
               <lem wit="#国">うた</lem>
               <rdg wit="#前">
@@ -1893,9 +1287,6 @@
                 </ruby>
               </rdg>
             </app>にのみそ
-            
-            
-            
             <app>
               <lem wit="#国">心を</lem>
               <rdg wit="#前">こゝろをは</rdg>
@@ -1903,13 +1294,7 @@
         </p>
         <p n="5">
           <phr n="5-1" xml:id="kana5-1">いにしへよりか
-            
-            
-            
             <lb/>くつたはる
-            
-            
-            
             <app>
               <lem wit="#国">うちにも</lem>
               <rdg wit="#前">うちに</rdg>
@@ -1918,9 +1303,6 @@
               <app>
                 <lem wit="#国">ならの御時</lem>
                 <rdg wit="#前">ならの
-                  
-                  
-                  
                   <ruby>
                     <rb>おほん</rb>
                     <rt>御</rt>
@@ -1930,14 +1312,8 @@
             <note type="勘物" style="margin-top: 1em" resp="#藤原定家" target="#kana5-1">
               <persName>文武天皇</persName>
             </note>よりそひろまりに
-            
-            
-            
             <lb/>ける</phr>
           <phr n="5-2" xml:id="kana5-2">かの
-            
-            
-            
             <app>
               <lem wit="#国">おほむ世</lem>
               <rdg wit="#前">
@@ -1948,35 +1324,17 @@
             </app>や哥の心をしろしめしたりけむ</phr>
           <lb/>
           <phr n="5-3" xml:id="kana5-3">かのおほむ時に
-            
-            
-            
             <persName corresp="#柿本人麿">おほきみつのくらゐかきのもとの
-              
-              
-              
               <lb/>人まろ</persName>なむうたのひしりなりける</phr>
           <phr n="5-4" xml:id="kana5-4">これはきみも
-            
-            
-            
             <lb/>人も身をあはせたりといふなるへし</phr>
           <phr n="5-5" xml:id="kana5-5">秋のゆふへ龍田
-            
-            
-            
             <lb/>河になかるゝ
-            
-            
-            
             <app>
               <lem wit="#国">もみちをは</lem>
               <rdg wit="#前">もみちは</rdg>
             </app>
             <persName corresp="#平城天皇">みかと</persName>の
-            
-            
-            
             <app>
               <lem wit="#国">おほむめ</lem>
               <rdg wit="#前">
@@ -1985,9 +1343,6 @@
                   <rt>オホン</rt>
                 </ruby>め</rdg>
             </app>に錦と
-            
-            
-            
             <lb/>
             <app>
               <lem wit="#国">見たまひ</lem>
@@ -1995,55 +1350,28 @@
             </app>
           </phr>
           <phr n="5-6" xml:id="kana5-6">春のあした
-            
-            
-            
             <app>
               <lem wit="#国">よしのゝ山</lem>
               <rdg wit="#前">よしの山</rdg>
             </app>のさくらは
-            
-            
-            
             <persName corresp="#柿本人麿">人ま
-              
-              
-              
               <pb n="1-5r" facs="#p013"/>
               <lb/>ろ</persName>か
-            
-            
-            
             <app>
               <lem wit="#国">心には</lem>
               <rdg wit="#前">めに</rdg>
             </app>くも
-            
-            
-            
             <app>
               <lem wit="#国">かとのみなむ</lem>
               <rdg wit="#前">かとそ</rdg>
             </app>おほえける</phr>
           <phr n="5-7" xml:id="kana5-7">又
-            
-            
-            
             <persName corresp="#山辺赤人">山の邊
-              
-              
-              
               <lb/>のあか人</persName>といふ人ありけり</phr>
           <phr n="5-8" xml:id="kana5-8">うたに
-            
-            
-            
             <app>
               <lem wit="#国">あやしく</lem>
               <rdg wit="#前">あやし
-                
-                
-                
                 <ruby>
                   <rb>う</rb>
                   <rt>ク</rt>
@@ -2053,31 +1381,16 @@
           <lb/>
           <phr n="5-9" xml:id="kana5-9">
             <persName corresp="#柿本人麿">人まろ</persName>は
-            
-            
-            
             <persName corresp="#山辺赤人">赤人</persName>かゝみにたゝむ事かたく
-            
-            
-            
             <persName corresp="#山辺赤人">あか人</persName>は
-            
-            
-            
             <persName corresp="#柿本人麿">人まろ</persName>
             <lb/>かしもにたゝむことかたくなむありける</phr>
           <note type="仮名序古注" target="#kana5-1">
             <phr n="5-10" xml:id="kana5-10">
               <persName corresp="#平城天皇">ならのみかと</persName>の御
-              
-              
-              
               <lb/>うた</phr>
             <l resp="#平城天皇">
               <phr n="5-11" xml:id="kana5-11">龍田河もみ
-                
-                
-                
                 <lb/>ちみたれて流めりわたらはにしきなかやたえなむ</phr>
             </l>
           </note>
@@ -2091,16 +1404,10 @@
                   <lem wit="#国">梅花</lem>
                   <rdg wit="#前">むめの花</rdg>
                 </app>それ
-                
-                
-                
                 <lb/>とも見えす久方のあまきる雪のなへてふれゝは</phr>
             </l>
             <l resp="#柿本人麿">
               <phr n="5-14" xml:id="kana5-14">ほの〳〵とあかしのうらの
-                
-                
-                
                 <lb/>あさきりにしまかくれ行舟をしそ思</phr>
             </l>
           </note>
@@ -2110,36 +1417,21 @@
             </phr>
             <l resp="#山辺赤人">
               <phr n="5-16" xml:id="kana5-16">春のゝにすみれつみにとこ
-                
-                
-                
                 <lb/>しわれそ野をなつかしみひと夜ねにける</phr>
             </l>
             <l resp="#山辺赤人">
               <phr n="5-17" xml:id="kana5-17">わかのうらにしほみちくれは
-                
-                
-                
                 <lb/>かたをなみあしへをさして
-                
-                
-                
                 <lb/>たつなきわたる</phr>
             </l>
           </note>
           <lb/>
           <phr n="5-18" xml:id="kana5-18">この人〳〵をゝきて又すくれたる人もくれ竹の
-            
-            
-            
             <app>
               <lem wit="#国">世々に</lem>
               <rdg wit="#前">よに</rdg>
             </app>
             <lb/>きこえかたいとのより〳〵に
-            
-            
-            
             <app>
               <lem wit="#国">たえすそ</lem>
               <rdg wit="#前">たえかたくなむ</rdg>
@@ -2147,30 +1439,15 @@
           <phr n="5-19" xml:id="kana5-19">
             <app>
               <lem wit="#国">これよ
-                
-                
-                
                 <lb/>り</lem>
               <rdg wit="#前">かゝりける</rdg>
             </app>さき
-            
-            
-            
             <note type="勘物" style="margin-top: 1em" resp="#藤原定家" target="#kana5-19">さき不審未決</note>のうたを
-            
-            
-            
             <app>
               <lem wit="#国">あつめて</lem>
               <rdg wit="#前">あはせて</rdg>
             </app>なむ万えふしふとなつ
-            
-            
-            
             <lb/>けられたり
-            
-            
-            
             <app>
               <lem wit="#国">ける</lem>
               <rdg wit="#前">
@@ -2181,13 +1458,7 @@
             </app>
           </phr>
           <phr n="5-20" xml:id="kana5-20">こゝにいにしへのことをもうたの心を
-            
-            
-            
             <lb/>もしれる人わつかにひとりふたり
-            
-            
-            
             <app>
               <lem wit="#国">なりき</lem>
               <rdg wit="#前">なり</rdg>
@@ -2208,24 +1479,12 @@
               </app>
             </persName>
             <lb/>より
-            
-            
-            
             <persName corresp="#醍醐天皇">このかた</persName>としはもゝとせあまり世はとつきにな
-            
-            
-            
             <lb/>むなりにける</phr>
           <phr n="5-23" xml:id="kana5-23">いにしへの事をもうたをもしれる
-            
-            
-            
             <lb/>人よむ人おほからす</phr>
           <phr n="5-24" xml:id="kana5-24">いまこのことをいふに</phr>
           <phr n="5-25" xml:id="kana5-25">つかさ
-            
-            
-            
             <lb/>くらゐたかき人をはたやすきやうなれはいれす</phr>
           <lb/>
         </p>
@@ -2233,86 +1492,50 @@
           <phr n="6-1" xml:id="kana6-1">そのほかにちかき世にその名きこえたる人は</phr>
           <lb/>
           <phr n="6-2" xml:id="kana6-2">すなはち
-            
-            
-            
             <persName corresp="#遍昭">
               <app>
                 <lem wit="#国">僧正遍昭</lem>
                 <rdg wit="#前">へせう</rdg>
               </app>
             </persName>は
-            
-            
-            
             <app>
               <lem wit="#国">うたのさま</lem>
               <rdg wit="#前">哥のこゝろ</rdg>
             </app>はえたれともま
-            
-            
-            
             <lb/>ことすくなし</phr>
           <phr n="6-3" xml:id="kana6-3">たとへはゑにかけるをうなを
-            
-            
-            
             <app>
               <lem wit="#国">見て</lem>
               <rdg wit="#前">おもひて</rdg>
             </app>い
-            
-            
-            
             <lb/>たつらに心をうこかすかことし</phr>
           <lb/>
           <note type="仮名序古注" target="#kana6-2">
             <l resp="#遍昭">
               <phr n="6-4" xml:id="kana6-4">あさみとりいとよりかけてしらつゆ
-                
-                
-                
                 <lb/>をたまにもぬける春のやなきか</phr>
             </l>
             <lb/>
             <l resp="#遍昭">
               <phr n="6-5" xml:id="kana6-5">はちすはのにこりにしまぬ心もて
-                
-                
-                
                 <app>
                   <lem wit="#国">なにかは</lem>
                   <rdg wit="#前">なとかは</rdg>
                 </app>つゆをたまとあさむく</phr>
             </l>
             <phr n="6-6" xml:id="kana6-6">さかのにてむ
-              
-              
-              
               <lb/>まよりおちてよめる</phr>
             <l resp="#遍昭">
               <phr n="6-7" xml:id="kana6-7">名にめてゝおれる許そをみなへし我おちにきと人に
-                
-                
-                
                 <lb/>かた
-                
-                
-                
                 <lb/>るな</phr>
             </l>
           </note>
           <lb/>
           <phr n="6-8" xml:id="kana6-8">
             <persName corresp="#在原業平">ありはらのなりひら</persName>はその心あまりてことは
-            
-            
-            
             <lb/>たらす</phr>
           <phr n="6-9" xml:id="kana6-9">しほめる花のいろなくてにほひのこれるか
-            
-            
-            
             <pb n="1-6r" facs="#p014"/>
             <lb/>ことし</phr>
           <note type="仮名序古注" target="#kana6-8">
@@ -2326,43 +1549,25 @@
             <lb/>
             <l resp="#在原業平">
               <phr n="6-12" xml:id="kana6-12">ねぬる夜の夢をはかなみまとろめは
-                
-                
-                
                 <lb/>いやはかなにもなりまさるかな</phr>
             </l>
           </note>
           <phr n="6-13" xml:id="kana6-13">
             <persName corresp="#文屋康秀">ふんやのやすひて</persName>は
-            
-            
-            
             <lb/>ことはゝたくみにてそのさま身におはす</phr>
           <phr n="6-14" xml:id="kana6-14">いはゝあき
-            
-            
-            
             <lb/>人のよきゝぬきたらむかことし</phr>
           <lb/>
           <note type="仮名序古注" target="#kana6-13">
             <l resp="#文屋康秀">
               <phr n="6-15" xml:id="kana6-15">吹からにのへのくさ木のしほ
-                
-                
-                
                 <lb/>るれはむへ山かせをあらしとい
-                
-                
-                
                 <lb/>ふらむ</phr>
             </l>
             <phr n="6-16" xml:id="kana6-16">
               <persName corresp="#仁明天皇">深草のみかと</persName>の御國忌に</phr>
             <l resp="#文屋康秀">
               <phr n="6-17" xml:id="kana6-17">草深き霞の
-                
-                
-                
                 <lb/>谷にかけかくしてる日のくれしけふにやはあらぬ</phr>
             </l>
           </note>
@@ -2372,14 +1577,8 @@
                 <lem wit="#国">宇治山</lem>
                 <rdg wit="#前">うち</rdg>
               </app>の僧
-              
-              
-              
               <app>
                 <lem wit="#国">きせ
-                  
-                  
-                  
                   <lb/>ん</lem>
                 <rdg wit="#前">
                   <ruby>
@@ -2389,118 +1588,64 @@
                 </rdg>
               </app>
             </persName>はことはかすかにしてはしめをはりたしかな
-            
-            
-            
             <lb/>らす</phr>
           <phr n="6-19" xml:id="kana6-19">いはゝ秋の月を見るにあかつきのくもにあ
-            
-            
-            
             <lb/>へるかことし</phr>
           <lb/>
           <note type="仮名序古注" target="#kana6-18">
             <l resp="#喜撰法師">
               <phr n="6-20" xml:id="kana6-20">わかいほはみやこのたつみしかそすむ
-                
-                
-                
                 <lb/>よをうち山と人はいふなり</phr>
             </l>
           </note>
           <lb/>
           <phr n="6-21" xml:id="kana6-21">よめるうた
-            
-            
-            
             <lb/>おほくきこえねはかれこれをかよはしてよくし
-            
-            
-            
             <lb/>らす</phr>
           <phr n="6-22" xml:id="kana6-22">
             <persName corresp="#小野小町">をのゝこまち</persName>はいにしへの
-            
-            
-            
             <persName corresp="#衣通姫">そとほりひめ</persName>の流な
-            
-            
-            
             <lb/>り</phr>
           <phr n="6-23" xml:id="kana6-23">あはれなるやうにてつよからす</phr>
           <phr n="6-24" xml:id="kana6-24">いはゝよき
-            
-            
-            
             <app>
               <lem wit="#国">をう
-                
-                
-                
                 <lb/>な</lem>
               <rdg wit="#前">を
-                
-                
-                
                 <ruby>
                   <rb>む</rb>
                   <rt>ウ</rt>
                 </ruby>な</rdg>
             </app>のなやめる所あるにゝたり</phr>
           <phr n="6-25" xml:id="kana6-25">つよからぬはをうなの
-            
-            
-            
             <pb n="1-6v" facs="#p015"/>
             <lb/>うたなれはなるへし</phr>
           <note type="仮名序古注" target="#kana6-22">
             <l resp="#小野小町">
               <phr n="6-26" xml:id="kana6-26">思つゝぬれはや人の見えつらむゆめとし
-                
-                
-                
                 <lb/>りせはさめさらましを</phr>
             </l>
             <l resp="#小野小町">
               <phr n="6-27" xml:id="kana6-27">いろ見えてうつろふ
-                
-                
-                
                 <lb/>物は世中の人の心の花にそありける</phr>
             </l>
             <l resp="#小野小町">
               <phr n="6-28" xml:id="kana6-28">わひぬれは身をうき草のねをたえて
-                
-                
-                
                 <lb/>さそふ水あらはいなむとそ思</phr>
             </l>
             <phr n="6-29" xml:id="kana6-29">
               <persName corresp="#衣通姫">そとほりひめ</persName>のうた</phr>
             <l resp="#衣通姫">
               <phr n="6-30" xml:id="kana6-30">わかせこかくへきよひなり
-                
-                
-                
                 <lb/>さゝかにのくものふるまひかね
-                
-                
-                
                 <lb/>てしるしも</phr>
             </l>
           </note>
           <lb/>
           <phr n="6-31" xml:id="kana6-31">
             <persName corresp="#大友黒主">大伴のくろぬし</persName>はそのさ
-            
-            
-            
             <lb/>まいやし</phr>
           <phr n="6-32" xml:id="kana6-32">いはゝたきゝおへる山人の花のかけにや
-            
-            
-            
             <lb/>すめるかことし</phr>
           <note type="仮名序古注" target="#kana6-31">
             <l resp="#大友黒主">
@@ -2514,32 +1659,17 @@
           <lb/>
           <phr n="6-35" xml:id="kana6-35">このほかの人〳〵その名きこゆる</phr>
           <phr n="6-36" xml:id="kana6-36">のへにおふるかつら
-            
-            
-            
             <lb/>のはひゝろこりはやしにしけきこのはのことくに
-            
-            
-            
             <app>
               <lem wit="#国">お
-                
-                
-                
                 <lb/>ほかれと</lem>
               <rdg wit="#前">おほけれと</rdg>
             </app>
           </phr>
           <phr n="6-37" xml:id="kana6-37">うたとのみ思ひてそのさま
-            
-            
-            
             <app>
               <lem wit="#国">しらぬなるへし</lem>
               <rdg wit="#前">しら
-                
-                
-                
                 <ruby>
                   <rb>す</rb>
                   <rt>ぬ</rt>
@@ -2550,33 +1680,21 @@
         <lb/>
         <p n="7">
           <phr n="7-1" xml:id="kana7-1">かゝるにいま
-            
-            
-            
             <persName corresp="#醍醐天皇">
               <app>
                 <lem wit="#国">すへらき</lem>
                 <rdg wit="#前">すへらきみ</rdg>
               </app>
             </persName>のあめの
-            
-            
-            
             <app>
               <lem wit="#国">した</lem>
               <rdg wit="#前">したを</rdg>
             </app>しろしめすこと
-            
-            
-            
             <lb/>
             <date when="0905">
               <app>
                 <lem wit="#国">よつの時</lem>
                 <rdg wit="#前">よつの
-                  
-                  
-                  
                   <ruby>
                     <rb>月</rb>
                     <rt>トキ</rt>
@@ -2584,63 +1702,33 @@
                 </rdg>
               </app>こゝのかへり</date>になむなりぬる</phr>
           <phr n="7-2" xml:id="kana7-2">あまねきお
-            
-            
-            
             <lb/>ほむうつくしみのなみやしまのほかまてなかれ</phr>
           <phr n="7-3" xml:id="kana7-3">ひ
-            
-            
-            
             <lb/>ろきおほむめくみのかけつくは山のふもと
-            
-            
-            
             <app>
               <lem wit="#国">よりも</lem>
               <rdg wit="#前">より</rdg>
             </app>
             <pb n="1-7r" facs="#p015"/>
             <lb/>しけく
-            
-            
-            
             <app>
               <lem wit="#国">おはしまして</lem>
               <rdg wit="#前">おまし〳〵て</rdg>
             </app>
           </phr>
           <phr n="7-4" xml:id="kana7-4">よろつのまつりことをきこし
-            
-            
-            
             <lb/>めすいとまもろ〳〵のことをすてたまはぬあまりに</phr>
           <phr n="7-5" xml:id="kana7-5">いに
-            
-            
-            
             <lb/>しへのことをもわすれしふりにし
-            
-            
-            
             <app>
               <lem wit="#国">ことをも</lem>
               <rdg wit="#前">ことを</rdg>
             </app>おこし
-            
-            
-            
             <lb/>たまふとて</phr>
           <phr n="7-6" xml:id="kana7-6">今も見そなはしのちの世にもつたは
-            
-            
-            
             <lb/>れとて</phr>
           <phr n="7-7" xml:id="kana7-7">
             <date when="0905">延喜五年四月十八日</date>に
-            
-            
-            
             <persName corresp="#紀友則">大内記きのとものり</persName>
           </phr>
           <lb/>
@@ -2649,9 +1737,6 @@
           </phr>
           <phr n="7-9" xml:id="kana7-9">
             <persName corresp="#凡河内躬恒">さきのかひの
-              
-              
-              
               <lb/>
               <app>
                 <lem wit="#国">さう官</lem>
@@ -2673,18 +1758,9 @@
                 <lem wit="#国">右衛門の府生</lem>
                 <rdg wit="#前">衛門のふさう</rdg>
               </app>みふ
-              
-              
-              
               <lb/>のたゝみね</persName>らにおほせられて</phr>
           <phr n="7-11" xml:id="kana7-11">万えふしふに
-            
-            
-            
             <lb/>いらぬ
-            
-            
-            
             <app>
               <lem wit="#国">ふるきうたみつからのをも</lem>
               <rdg wit="#前">うたともふるきみつからのをも</rdg>
@@ -2700,99 +1776,48 @@
             </app>
           </phr>
           <phr n="7-12" xml:id="kana7-12">それかなかにむめをかさすよりはし
-            
-            
-            
             <lb/>めてほとゝきすをきゝもみちをおり雪を見るに
-            
-            
-            
             <lb/>いたるまて</phr>
           <phr n="7-13" xml:id="kana7-13">又つるかめにつけて
-            
-            
-            
             <app>
               <lem wit="#国">きみをおもひ人を
-                
-                
-                
                 <pb n="1-7v" facs="#p016"/>
                 <lb/>も</lem>
               <rdg wit="#前">きみをおもひとんを</rdg>
             </app>いはひ秋はき夏草を見てつまをこひあふさか
-            
-            
-            
             <lb/>山にいたりてたむけをいのり</phr>
           <phr n="7-14" xml:id="kana7-14">あるは春夏秋冬
-            
-            
-            
             <lb/>
             <app>
               <lem wit="#国">にもいらぬ</lem>
               <rdg wit="#前">ともいはぬ</rdg>
             </app>くさ〳〵のうたをなむえらはせたまひけ
-            
-            
-            
             <lb/>る</phr>
           <phr n="7-15" xml:id="kana7-15">すへて千うたはたまきなつけてこきむわかしふといふ</phr>
           <lb/>
           <phr n="7-16" xml:id="kana7-16">かくこのたひあつめえらはれて山した水のたえす
-            
-            
-            
             <lb/>はまのまさこの
-            
-            
-            
             <app>
               <lem wit="#国">かすおほく</lem>
               <rdg wit="#前">おほく</rdg>
             </app>つもりぬれは</phr>
           <phr n="7-17" xml:id="kana7-17">いまはあ
-            
-            
-            
             <lb/>すかゝはの
-            
-            
-            
             <app>
               <lem wit="#国">せになる</lem>
               <rdg wit="#前">せんなる</rdg>
             </app>うらみもきこえすさゝれいしの
-            
-            
-            
             <lb/>いはほとなるよろこひのみそあるへき</phr>
           <phr n="7-18" xml:id="kana7-18">それ
-            
-            
-            
             <app>
               <lem wit="#国">まくら
-                
-                
-                
                 <lb/>ことは</lem>
               <rdg wit="#前">まくらことはに</rdg>
             </app>春の花にほひすくなくしてむなしき名のみ
-            
-            
-            
             <lb/>秋のよのなかきを
-            
-            
-            
             <app>
               <lem wit="#国">かこてれは</lem>
               <rdg wit="#前">か
-                
-                
-                
                 <ruby>
                   <rb>こ</rb>
                   <rt>ク</rt>
@@ -2800,73 +1825,34 @@
             </app>
           </phr>
           <phr n="7-19" xml:id="kana7-19">かつは人のみゝにおそり
-            
-            
-            
             <lb/>かつはうたの心にはちおもへと</phr>
           <phr n="7-20" xml:id="kana7-20">たなひくゝものたちゐ
-            
-            
-            
             <lb/>なくしかのおきふしは</phr>
           <phr n="7-21" xml:id="kana7-21">
             <persName corresp="#紀貫之">つらゆき</persName>らかこの世にお
-            
-            
-            
             <pb n="1-8r" facs="#p016"/>
             <lb/>なしくむまれてこの事の時にあへるをなむよろ
-            
-            
-            
             <lb/>こひぬる</phr>
           <phr n="7-22" xml:id="kana7-22">
             <persName corresp="#柿本人麿">人まろ</persName>なくなりにたれと
-            
-            
-            
             <app>
               <lem wit="#国">哥のこととゝまれ
-                
-                
-                
                 <lb/>るかな</lem>
               <rdg wit="#前">うたのことゝまれるかな</rdg>
             </app>
           </phr>
           <phr n="7-23" xml:id="kana7-23">たとひ時うつり事さりたのしひかなしひ
-            
-            
-            
             <lb/>ゆきかふ
-            
-            
-            
             <app>
               <lem wit="#国">とも</lem>
               <rdg wit="#前">とん</rdg>
             </app>この哥のもしあるをや</phr>
           <phr n="7-24" xml:id="kana7-24">あをやきのいと
-            
-            
-            
             <lb/>たえす松のはのちりうせすしてまさきのかつらなかく
-            
-            
-            
             <lb/>つたはりとりのあとひさしくとゝまれらは</phr>
           <phr n="7-25" xml:id="kana7-25">哥のさま
-            
-            
-            
             <lb/>をしりことの心をえたらむ人はおほそらの月を見
-            
-            
-            
             <lb/>るかことくにいにしへをあふきて今をこひさらめ
-            
-            
-            
             <lb/>かも</phr>
         </p>
       </div>
@@ -2880,16 +1866,10 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n1">ふるとしに
-            
-            
-            
             <app>
               <lem wit="#国">春</lem>
               <rdg wit="#前">春の</rdg>
             </app>たちける
-            
-            
-            
             <app>
               <lem wit="#国">日</lem>
               <rdg wit="#前">日に</rdg>
@@ -3187,9 +2167,6 @@
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n8">
             <persName corresp="#藤原高子">二条のきさき</persName>のとう宮のみやすん所と
-            
-            
-            
             <app>
               <lem wit="#国">きこえける</lem>
               <rdg wit="#前">まうしける</rdg>
@@ -3198,21 +2175,9 @@
               <lem wit="#国">時</lem>
               <rdg wit="#前">時に</rdg>
             </app>正
-            
-            
-            
             <lb/>月三日おまへにめしておほせことあるあひたに
-            
-            
-            
             <lb/>日はてりなから雪のかしらにふりかゝりけるをよ
-            
-            
-            
             <lb/>ませ
-            
-            
-            
             <app>
               <lem wit="#国">給ける</lem>
               <rdg wit="#前">たまける</rdg>
@@ -3584,9 +2549,6 @@
                   <w lemmaRef="#し.し">し</w>
                 </lem>
                 <rdg wit="#前">い
-                  
-                  
-                  
                   <ruby>
                     <rb>ゑ</rb>
                     <rt>へ</rt>
@@ -3743,24 +2705,15 @@
           <note type="詞書" style="margin-top: 2em" target="#n21"/>
           <note type="作者名">
             <persName type="作者" corresp="#光孝天皇">仁和の
-              
-              
-              
               <app>
                 <lem wit="#国">みかと</lem>
                 <rdg wit="#前">みかとの</rdg>
               </app>
             </persName>みこに
-            
-            
-            
             <app>
               <lem wit="#国">おまし〳〵ける</lem>
               <rdg wit="#前">おはしましける</rdg>
             </app>時に人にわかなた
-            
-            
-            
             <lb/>まひける御うた</note>
           <lb/>
           <l n="21" xml:id="n21" resp="#光孝天皇">
@@ -3875,9 +2828,6 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n24">寛平御時きさいの宮の
-            
-            
-            
             <app>
               <lem wit="#国">哥合によめる</lem>
               <rdg wit="#前">うたあはせに</rdg>
@@ -3920,9 +2870,6 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n25 #n26">哥たてまつれとおほせられし時によみて
-            
-            
-            
             <app>
               <lem wit="#国">たてまつれる</lem>
               <rdg wit="#前">たてまつりける</rdg>
@@ -4519,9 +3466,6 @@
                   <w lemmaRef="#こゆれ.越ゆ">こゆれ</w>
                 </lem>
                 <rdg wit="#前">こゆ
-                  
-                  
-                  
                   <ruby>
                     <rb>れ</rb>
                     <rt>け</rt>
@@ -4620,30 +3564,15 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n42">はつせにまうつることにやとりける人の家にひさ
-            
-            
-            
             <pb n="1-13r" facs="#p021"/>
             <lb/>しくやとらてほとへてのちに
-            
-            
-            
             <app>
               <lem wit="#国">いたれりけれはかの家の
-                
-                
-                
                 <lb/>あるし</lem>
               <rdg wit="#前">いたれりけれは</rdg>
             </app>かくさたかになむやとりはあると
-            
-            
-            
             <app>
               <lem wit="#国">いひいたして侍
-                
-                
-                
                 <lb/>けれは</lem>
               <rdg wit="#前">いひいたしたりけれは</rdg>
             </app>そこにたてりける梅花をゝりてよめる</note>
@@ -4685,9 +3614,6 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n43 #n44">水のほとりに
-            
-            
-            
             <app>
               <lem wit="#国">梅花</lem>
               <rdg wit="#前">むめのはなの</rdg>
@@ -4806,9 +3732,6 @@
                 <rdg wit="#前">
                   <w lemmaRef="#うつろひ.移ろふ">うつろひ</w>
                   <w lemmaRef="#に.ぬ">に</w>け
-                  
-                  
-                  
                   <ruby>
                     <rb>る</rb>
                     <rt>む</rt>
@@ -4958,9 +3881,6 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n49">人の家にうへたりける櫻の花さきはしめたりける
-            
-            
-            
             <lb/>を見てよめる</note>
           <note type="作者名" style="margin-top: 5em">
             <persName type="作者" corresp="#紀貫之">つらゆき</persName>
@@ -4996,9 +3916,6 @@
                   <w lemmaRef="#と.と">と</w>
                 </lem>
                 <rdg wit="#前">ち
-                  
-                  
-                  
                   <ruby>
                     <rb>とる</rb>
                     <rt>ると</rt>
@@ -5100,21 +4017,12 @@
         <lb/>
         <note type="勘物" style="margin-top: 1em" resp="#藤原定家" target="#k52">
           <persName corresp="#清和天皇">清和</persName>母后
-          
-          
-          
           <persName corresp="#藤原明子">明子</persName>太皇太后宮昌泰三年正月一日崩七十二
-          
-          
-          
           <persName corresp="#藤原良房">忠仁公</persName>女</note>
         <lb/>
         <div type="和歌">
           <note type="詞書" xml:id="k52" style="margin-top: 2em" target="#n52">
             <persName>そめとのゝきさき</persName>のおまへに花かめにさくらの花を
-            
-            
-            
             <lb/>さゝせたまへるを見てよめる</note>
           <note type="勘物" style="margin-top: 1em" resp="#藤原定家" target="#s52">
             <persName type="作者" corresp="#藤原良房">忠仁公</persName>
@@ -5222,9 +4130,6 @@
                   <w lemmaRef="#はしる.走る">はしる</w>
                 </lem>
                 <rdg wit="#前">い
-                  
-                  
-                  
                   <ruby>
                     <rb>はゝ</rb>
                     <rt>しは</rt>
@@ -5426,9 +4331,6 @@
                   <w lemmaRef="#らむ.らむ">らむ</w>
                 </lem>
                 <rdg wit="#前">かく
-                  
-                  
-                  
                   <ruby>
                     <rb>もつら</rb>
                     <rt>スラム</rt>
@@ -5571,13 +4473,7 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n62">さくらの花のさかりにひさしくとはさりける人のきたり
-            
-            
-            
             <lb/>ける時に
-            
-            
-            
             <app>
               <lem wit="#国">よみける</lem>
               <rdg wit="#前">
@@ -5795,16 +4691,10 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n67">櫻の花のさけりけるを
-            
-            
-            
             <app>
               <lem wit="#国">見にまうてきたり</lem>
               <rdg wit="#前">みにきたり</rdg>
             </app>ける人によ
-            
-            
-            
             <lb/>みてをくりける</note>
           <note type="作者名" style="margin-top: 5em">
             <persName type="作者" corresp="#凡河内躬恒">みつね</persName>
@@ -5843,9 +4733,6 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n68">亭子院哥合の
-            
-            
-            
             <app>
               <lem wit="#国">時</lem>
               <rdg wit="#前">時に</rdg>
@@ -6093,9 +4980,6 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n75">雲林院にてさくらの花のちりけるを見てよめる
-            
-            
-            
             <lb/>
           </note>
           <pb n="1-16v" facs="#p025"/>
@@ -6213,9 +5097,6 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n78">あひしれりける人のまうてきてかへりにけるのちによみ
-            
-            
-            
             <lb/>て花にさしてつかはしける</note>
           <lb/>
           <note type="作者名" style="margin-top: 12em">
@@ -6288,13 +5169,7 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n80">心地そこなひてわつらひける時に風にあたらしとておろ
-            
-            
-            
             <lb/>しこめてのみ侍けるあひたにおれるさくらのちりかたに
-            
-            
-            
             <lb/>なれりけるを見てよめる</note>
           <note type="作者名" style="margin-top: 5em" xml:id="s80">
             <persName type="作者" corresp="#藤原因香">藤原よるかの朝臣</persName>
@@ -6337,9 +5212,6 @@
           <note type="勘物" style="margin-top: 1em" resp="#藤原定家" target="#k81">待賢門北壬生東</note>
           <lb/>
           <note type="詞書" style="margin-top: 2em" target="#n81" xml:id="k81">東宮雅院にてさくらの花のみかは水にちりてなか
-            
-            
-            
             <lb/>れけるを見てよめる</note>
           <note type="作者名" style="margin-top: 5em">
             <persName type="作者" corresp="#菅野高世">すかのゝ高世</persName>
@@ -6867,9 +5739,6 @@
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n95">
             <persName corresp="#常康親王">うりむゐんのみこ</persName>のもとに花見にきた山のほ
-            
-            
-            
             <lb/>とりにまかれりける時によめる</note>
           <lb/>
           <note type="作者名" style="margin-top: 12em">
@@ -7336,22 +6205,13 @@
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n108">
             <persName>仁和の中将のみやすん所</persName>家に哥合せむとてしける
-            
-            
-            
             <lb/>時によみける</note>
           <note type="作者名" style="margin-top: 5em" xml:id="s108">
             <persName type="作者" corresp="#藤原後蔭">藤原のちかけ</persName>
           </note>
           <note type="勘物" style="margin-top: 1em" resp="#藤原定家" target="#s108">
             <persName type="作者" corresp="#藤原後蔭">後蔭</persName>　蔵人右少将　
-            
-            
-            
             <persName>中納言
-              
-              
-              
               <ruby>
                 <rb>有穂</rb>
                 <rt>アリホ</rt>
@@ -7578,9 +6438,6 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n114">仁和の中将のみやすん所の家に哥合せむとしける時
-            
-            
-            
             <lb/>によめる</note>
           <note type="作者名" style="margin-top: 5em">
             <persName type="作者" corresp="#素性法師">そせい</persName>
@@ -7620,9 +6477,6 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n115">しかの山こみに女のおほくあへりけるによみてつか
-            
-            
-            
             <pb n="1-20v" facs="#p029"/>
             <lb/>はしける</note>
           <note type="作者名" style="margin-top: 5em">
@@ -7772,13 +6626,7 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n119">しかよりかへりけるをうなともの花山にいりてふち
-            
-            
-            
             <lb/>の花のもとにたちよりてかへりけるによみてをく
-            
-            
-            
             <lb/>りける</note>
           <note type="作者名" style="margin-top: 5em">
             <persName type="作者" corresp="#遍昭">僧正へんせう</persName>
@@ -7819,9 +6667,6 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n120">家に藤の花のさけりけるを人のたちとまりて
-            
-            
-            
             <lb/>見けるをよめる</note>
           <note type="作者名" style="margin-top: 5em">
             <persName type="作者" corresp="#凡河内躬恒">みつね</persName>
@@ -8030,9 +6875,6 @@
           <pb n="1-21v" facs="#p030"/>
           <lb/>
           <note type="左注" style="margin-top: 3em" target="#n125" xml:id="sa125">この哥はある人のいはく
-            
-            
-            
             <persName corresp="#橘清友">たちはなのきよとも</persName>か哥也</note>
           <lb/>
           <note type="勘物" style="margin-top: 1em" resp="#藤原定家" target="#sa125">
@@ -8112,9 +6954,6 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n128">やよひに鶯のこゑのひさしうきこえさりけるを
-            
-            
-            
             <lb/>よめる</note>
           <note type="作者名" style="margin-top: 5em">
             <persName type="作者" corresp="#紀貫之">つらゆき</persName>
@@ -8151,9 +6990,6 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n129">やよひのつこもりかたに山をこえけるに山河より花の
-            
-            
-            
             <lb/>流けるをよめる</note>
           <note type="作者名" style="margin-top: 5em">
             <persName type="作者" corresp="#清原深養父">ふかやふ</persName>
@@ -8269,9 +7105,6 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n132">やよひのつこもりの日花つみよりかへりける女ともを
-            
-            
-            
             <lb/>見てよめる</note>
           <note type="作者名" style="margin-top: 5em">
             <persName type="作者" corresp="#凡河内躬恒">みつね</persName>
@@ -8309,9 +7142,6 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n133">やよひのつこもりの日雨のふりけるに藤の花をゝり
-            
-            
-            
             <lb/>て人につかはしける</note>
           <note type="作者名" style="margin-top: 5em">
             <persName type="作者" corresp="#在原業平">なりひらの朝臣</persName>
@@ -8433,9 +7263,6 @@
           </l>
           <lb/>
           <note type="左注" style="margin-top: 3em" target="#n135">この哥ある人のいはく
-            
-            
-            
             <persName corresp="#柿本人麿">柿本人麿</persName>か也</note>
         </div>
         <lb/>
@@ -9094,9 +7921,6 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n161">さふらひにてをのことものさけたうへけるにめして郭公
-            
-            
-            
             <lb/>まつうたよめとありけれはよめる</note>
           <lb/>
           <note type="作者名" style="margin-top: 12em">
@@ -9195,9 +8019,6 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n167">となりよりとこ夏の花をこひにをこせたりけれはお
-            
-            
-            
             <lb/>しみてこの哥をよみてつかはしける</note>
           <pb n="1-26r" facs="#p034"/>
           <lb/>
@@ -9274,9 +8095,6 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n170">秋立日うへのをのこともかものかはらにかはせうえう
-            
-            
-            
             <lb/>しけるともにまかりてよめる</note>
           <lb/>
           <note type="作者名" style="margin-top: 12em">
@@ -9360,9 +8178,6 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n177">寛平御時なぬかの夜うへにさふらふをのことも哥
-            
-            
-            
             <lb/>たてまつれとおほせられける時に人にかはりてよめる</note>
           <lb/>
           <note type="作者名" style="margin-top: 12em">
@@ -9538,9 +8353,6 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n190">かむなりのつほに人〳〵あつまりて秋のよおしむうた
-            
-            
-            
             <lb/>よみけるついてによめる</note>
           <note type="作者名" style="margin-top: 5em">
             <persName type="作者" corresp="#凡河内躬恒">みつね</persName>
@@ -9629,9 +8441,6 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n196">人のもとにまかれりける夜きり〳〵すのなきけるを
-            
-            
-            
             <lb/>きゝてよめる</note>
           <note type="作者名" style="margin-top: 5em">
             <persName type="作者" corresp="#藤原忠房">藤原忠房</persName>
@@ -9846,9 +8655,6 @@
           </l>
           <lb/>
           <note type="左注" style="margin-top: 2em" target="#n211">この哥はある人のいはく
-            
-            
-            
             <persName>柿本の人まろ</persName>か也と</note>
         </div>
         <lb/>
@@ -9957,9 +8763,6 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n219">むかしあひしりて侍ける人の秋のゝにあひて物か
-            
-            
-            
             <lb/>たりしけるついてによめる</note>
           <lb/>
           <note type="作者名" style="margin-top: 12em">
@@ -10010,9 +8813,6 @@
           </l>
           <lb/>
           <note type="左注" style="margin-top: 2em">ある人のいはくこの哥は
-            
-            
-            
             <persName corresp="#平城天皇">ならのみかと</persName>の御哥也と</note>
         </div>
         <lb/>
@@ -10022,9 +8822,6 @@
             <seg>おちそしぬへき</seg>
             <seg>秋はきの</seg>
             <seg>枝も
-              
-              
-              
               <ruby>
                 <rb>たわゝ</rb>
                 <rt>とをゝ</rt>
@@ -10078,9 +8875,6 @@
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n227">
             <persName corresp="#遍昭">僧正へんせう</persName>かもとにならへまかりける時におとこ山に
-            
-            
-            
             <lb/>てをみなへしを見てよめる</note>
           <lb/>
           <note type="作者名" style="margin-top: 12em">
@@ -10233,9 +9027,6 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n237">ものへまかりけるに人の家に女郎花うへたりけるを
-            
-            
-            
             <lb/>見てよめる</note>
           <note type="作者名" style="margin-top: 5em">
             <persName type="作者" corresp="#兼覧王">兼覧王</persName>
@@ -10252,13 +9043,7 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n238">寛平御時蔵人所のをのこともさかのに花見むとて
-            
-            
-            
             <lb/>まかりたりける時かへるとてみなうたよみけるついて
-            
-            
-            
             <lb/>によめる</note>
           <note type="作者名" style="margin-top: 5em">
             <persName type="作者" corresp="#平貞文">平さたふん</persName>
@@ -10428,21 +9213,9 @@
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n248">
             <persName corresp="#光孝天皇">仁和のみかと</persName>みこにおはしましける時ふるのたき御覧
-            
-            
-            
             <lb/>せむとておはしましけるみちに
-            
-            
-            
             <persName corresp="#遍昭">遍昭</persName>かはゝの家に
-            
-            
-            
             <lb/>やとりたまへりける時に庭を秋の野につくりてお
-            
-            
-            
             <lb/>ほむものかたりのついてによみてたてまつりける</note>
           <lb/>
           <note type="作者名" style="margin-top: 12em">
@@ -10566,13 +9339,7 @@
         <lb/>
         <div>
           <note type="詞書" style="margin-top: 2em" target="#n255">貞観御時綾綺殿のまへに梅の木ありけり西の方
-            
-            
-            
             <lb/>にさせりける枝のもみちはしめたりけるをうへに
-            
-            
-            
             <lb/>さふらふをのことものよみけるついてによめる</note>
           <lb/>
           <note type="作者名" style="margin-top: 12em">
@@ -10684,9 +9451,6 @@
         <lb/>
         <div>
           <note type="詞書" style="margin-top: 2em" target="#n262">神のやしろのあたりをまかりける時にいかきのうちの
-            
-            
-            
             <lb/>もみちを見てよめる</note>
           <note type="作者名" style="margin-top: 5em">
             <persName type="作者" corresp="#紀貫之">つらゆき</persName>
@@ -10759,9 +9523,6 @@
         <lb/>
         <div>
           <note type="詞書" style="margin-top: 2em" target="#n265">やまとのくにゝまかりける時さほ山にきりのたてりける
-            
-            
-            
             <lb/>を見てよめる</note>
           <note type="作者名" style="margin-top: 5em">
             <persName type="作者" corresp="#紀友則">きのとものり</persName>
@@ -10840,9 +9601,6 @@
           </l>
           <lb/>
           <note type="左注" style="margin-top: 3em" target="#n269">この哥はまた殿上ゆるされさりける時にめし
-            
-            
-            
             <lb/>あけられてつかうまつれるとなむ</note>
         </div>
         <lb/>
@@ -10881,13 +9639,7 @@
         <lb/>
         <div>
           <note type="詞書" style="margin-top: 2em" target="#n272">おなし御時せられける菊あはせにすはまをつく
-            
-            
-            
             <lb/>りてきくの花うへたりけるにくはへたりけるうたふ
-            
-            
-            
             <lb/>きあけのはまのかたにきくうへたりけるによめる</note>
           <lb/>
           <note type="作者名" style="margin-top: 12em" xml:id="s272">
@@ -10972,9 +9724,6 @@
         <lb/>
         <div>
           <note type="詞書" style="margin-top: 2em" target="#n276">世中のはかなき事を思けるおりにきくの花を
-            
-            
-            
             <lb/>見てよみける</note>
           <note type="作者名" style="margin-top: 5em">
             <persName type="作者" corresp="#紀貫之">つらゆき</persName>
@@ -11023,9 +9772,6 @@
         <lb/>
         <div>
           <note type="詞書" style="margin-top: 2em" target="#n279">仁和寺に菊の花めしける時に哥そへてたてまつ
-            
-            
-            
             <lb/>れとおほせられけれはよみてたてまつりける</note>
           <lb/>
           <note type="作者名" style="margin-top: 12em">
@@ -11043,9 +9789,6 @@
         <lb/>
         <div>
           <note type="詞書" style="margin-top: 2em" target="#n280">人の家なりける菊の花をうつしうへたりける
-            
-            
-            
             <lb/>をよめる</note>
           <note type="作者名" style="margin-top: 5em">
             <persName type="作者" corresp="#紀貫之">つらゆき</persName>
@@ -11099,9 +9842,6 @@
         <lb/>
         <div>
           <note type="詞書" style="margin-top: 2em" target="#n282">宮つかへひさしうつかうまつらて山さとにこもり侍
-            
-            
-            
             <lb/>けるによめる</note>
           <note type="作者名" style="margin-top: 5em" xml:id="s282">
             <persName type="作者" corresp="#藤原関雄">藤原関雄</persName>
@@ -11133,9 +9873,6 @@
           </l>
           <lb/>
           <note type="左注" style="margin-top: 3em" target="#n283" resp="#よみ人知らず">この哥はある人
-            
-            
-            
             <persName corresp="#平城天皇">ならのみかと</persName>の御哥也となむ申</note>
         </div>
         <lb/>
@@ -11150,9 +9887,6 @@
           <lb/>
           <note type="左注" style="margin-top: 3em" target="#n284" resp="#よみ人知らず">又はあすかゝはもみちはなかる</note>
           <note type="勘物" style="margin-top: 1em" resp="#藤原定家" target="#n284">此哥不注
-            
-            
-            
             <persName corresp="#柿本人麿">人丸</persName>哥　他本同</note>
         </div>
         <lb/>
@@ -11245,13 +9979,7 @@
         <div>
           <note type="詞書" style="margin-top: 2em" target="#n293">
             <persName corresp="#藤原高子">二条の后</persName>の春宮のみやす所と申ける時に御屏風
-            
-            
-            
             <lb/>にたつた河にもみちなかれたる方をかけりけるを
-            
-            
-            
             <lb/>題にてよめる</note>
           <note type="作者名" style="margin-top: 5em">
             <persName type="作者" corresp="#素性法師">そせい</persName>
@@ -11383,9 +10111,6 @@
         <lb/>
         <div>
           <note type="詞書" style="margin-top: 2em" target="#n300">神なひの山をすきて龍田河をわたりける時に
-            
-            
-            
             <lb/>紅葉の流けるを見てよめる</note>
           <lb/>
           <note type="作者名" style="margin-top: 12em">
@@ -11468,13 +10193,7 @@
         <lb/>
         <div>
           <note type="詞書" style="margin-top: 2em" target="#n305">亭子院の御屏風のゑに河わたらむとする人のも
-            
-            
-            
             <lb/>みちのちる木のもとにむまをひかへてたてるをよ
-            
-            
-            
             <lb/>ませ給けれはつかうまつりける</note>
           <lb/>
           <l n="305" xml:id="n305" resp="#凡河内躬恒">
@@ -11530,13 +10249,7 @@
         <lb/>
         <div>
           <note type="詞書" style="margin-top: 2em" target="#n309">北山に
-            
-            
-            
             <persName corresp="#遍昭">僧正へんせう</persName>とたけかりにまかれりけるによ
-            
-            
-            
             <lb/>める</note>
           <note type="作者名" style="margin-top: 5em">
             <persName type="作者" corresp="#素性法師">そせい法し</persName>
@@ -11553,13 +10266,7 @@
         <lb/>
         <div>
           <note type="詞書" style="margin-top: 2em" target="#n310">寛平御時ふるき哥たてまつれとおほせられけれは
-            
-            
-            
             <lb/>龍田河もみちはなかるといふ哥をかきてそのお
-            
-            
-            
             <lb/>なし心をよめりける</note>
           <lb/>
           <note type="作者名" style="margin-top: 12em">
@@ -11766,9 +10473,6 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n325">ならの京にまかれりける時にやとれりける所にてよ
-            
-            
-            
             <lb/>める</note>
           <note type="作者名" style="margin-top: 5em">
             <persName type="作者" corresp="#坂上是則">さかのうへのこれのり</persName>
@@ -11876,9 +10580,6 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n332">やまとのくにゝまかれりける時に雪のふりけるを見
-            
-            
-            
             <lb/>てよめる</note>
           <note type="作者名" style="margin-top: 5em">
             <persName type="作者" corresp="#坂上是則">坂上これのり</persName>
@@ -11918,9 +10619,6 @@
           </l>
           <lb/>
           <note type="左注" style="margin-top: 3em" target="#n334">この哥ある人のいはく
-            
-            
-            
             <persName>柿本の人まろ</persName>か哥也</note>
         </div>
         <lb/>
@@ -12145,13 +10843,7 @@
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n348">
             <persName corresp="#光孝天皇">仁和のみかと</persName>のみこにおはしましける時に御をはのや
-            
-            
-            
             <lb/>そちの賀にしろかねをつゑにつくれりけるを見てかの
-            
-            
-            
             <lb/>御をはにかはりてよみける</note>
           <pb n="1-44v" facs="#p053"/>
           <lb/>
@@ -12171,15 +10863,9 @@
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n349" xml:id="k349">
             <persName corresp="#藤原基経">ほりかはのおほいまうちきみ</persName>の四十の賀九条の
-            
-            
-            
             <lb/>家にてしける時によめる</note>
           <note type="勘物" style="margin-top: 1em" resp="#藤原定家" target="#k349">
             <persName corresp="#藤原基経">昭宣公</persName>　貞観十四年右大臣左大将
-            
-            
-            
             <lb/>十七年四十</note>
           <lb/>
           <note type="作者名" style="margin-top: 12em">
@@ -12198,16 +10884,10 @@
         <div type="和歌">
           <note type="勘物" style="margin-top: 1em" resp="#藤原定家" target="#k350">
             <persName corresp="#貞辰親王">貞辰</persName>　
-            
-            
-            
             <persName corresp="#清和天皇">清和</persName>第七</note>
           <lb/>
           <note type="詞書" style="margin-top: 2em" target="#n350" xml:id="k350">
             <persName corresp="#貞辰親王">さたときのみこ</persName>のをはのよそちの賀を大井に
-            
-            
-            
             <lb/>てしける日よめる</note>
           <lb/>
           <note type="勘物" style="margin-top: 1em" resp="#藤原定家" target="#s350">家本用之</note>
@@ -12216,9 +10896,6 @@
             <persName type="作者" corresp="#紀惟岳">きのこれをか</persName>
           </note>
           <note type="勘物" style="margin-top: 1em" resp="#藤原定家" target="#s350">或説云
-            
-            
-            
             <persName>
               <ruby>
                 <rb>惟熈</rb>
@@ -12239,28 +10916,13 @@
         <div type="和歌">
           <note type="勘物" style="margin-top: 1em" resp="#藤原定家" target="#k351">
             <persName corresp="#貞保親王">貞保</persName>　一品式部卿　
-            
-            
-            
             <persName corresp="#清和天皇">清和</persName>第二　号南宮　母
-            
-            
-            
             <persName corresp="#藤原高子">二条后</persName>　延長二年薨</note>
           <lb/>
           <note type="詞書" style="margin-top: 2em" target="#n351" xml:id="k351">
             <persName corresp="#貞保親王">さたやすのみこ</persName>の
-            
-            
-            
             <persName corresp="#藤原高子">きさいの宮</persName>の五十の賀たてま
-            
-            
-            
             <lb/>つりける御屏風にさくらの花のちるしたに人の
-            
-            
-            
             <pb n="1-45r" facs="#p053"/>
             <lb/>花見たるかたかけるをよめる</note>
           <lb/>
@@ -12280,17 +10942,11 @@
         <div type="和歌">
           <note type="勘物" style="margin-top: 1em" resp="#藤原定家" target="#k352">
             <persName corresp="#本康親王">本康</persName>　一品式部卿　延喜元薨　号八条宮　母従四位上
-            
-            
-            
             <persName>紀種子</persName>
           </note>
           <lb/>
           <note type="詞書" style="margin-top: 2em" target="#n352" xml:id="k352">
             <persName corresp="#本康親王">もとやすのみこ</persName>の七十の賀のうしろの屏風によみて
-            
-            
-            
             <lb/>かきける</note>
           <note type="作者名" style="margin-top: 5em">
             <persName type="作者" corresp="#紀貫之">きのつらゆき</persName>
@@ -12371,18 +11027,12 @@
           <pb n="1-45v" facs="#p054"/>
           <lb/>
           <note type="左注" style="margin-top: 3em" target="#n355">このうたはある人
-            
-            
-            
             <persName corresp="#在原時春">在原のときはる</persName>かともいふ</note>
         </div>
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n356">
             <persName corresp="#良岑経也">よしみねのつねなり</persName>かよそちの賀にむすめにか
-            
-            
-            
             <lb/>はりてよみ侍ける</note>
           <note type="作者名" style="margin-top: 5em">
             <persName type="作者" corresp="#素性法師">そせい法師</persName>
@@ -12400,29 +11050,14 @@
         <div type="和歌">
           <note type="勘物" style="margin-top: 1em" resp="#藤原定家" target="#k357">
             <persName corresp="#藤原満子">満子</persName>　
-            
-            
-            
             <persName>内大臣高藤</persName>二女　延喜十七年従二位　奉養
-            
-            
-            
             <persName corresp="#醍醐天皇">延喜帝</persName>
           </note>
           <lb/>
           <note type="詞書" style="margin-top: 2em" target="#n357 #n358" xml:id="k357">
             <persName type="作者" corresp="#藤原満子">内侍のかみ</persName>の
-            
-            
-            
             <persName corresp="#藤原定国">右大将藤原朝臣</persName>の四十賀しける時
-            
-            
-            
             <lb/>に四季のゑかけるうしろの屏風にかきつけたり
-            
-            
-            
             <lb/>けるうた</note>
           <note type="勘物" style="margin-top: 1em" resp="#藤原定家" target="#k357">
             <persName corresp="#藤原定国">定国大納言</persName>右大将延喜八年七月薨四十</note>
@@ -12506,9 +11141,6 @@
         <div type="和歌">
           <note type="勘物" style="margin-top: 1em" resp="#藤原定家" target="#k364">
             <persName corresp="#保明親王">文彦太子</persName>　
-            
-            
-            
             <persName corresp="#保明親王">保明親王</persName>　延喜三年誕生四年二月十日立太子　十六年十月　元服　廿三年三月　薨廿一</note>
           <lb/>
           <note type="詞書" style="margin-top: 2em" target="#n364" xml:id="k364">
@@ -12579,9 +11211,6 @@
             <persName corresp="#小野千古">をのゝちふる</persName>かみちのくのすけにまかりける時に</note>
           <note type="作者名">
             <persName type="作者" corresp="#小野千古母">はゝ</persName>の
-            
-            
-            
             <lb/>よめる</note>
           <lb/>
           <l n="368" xml:id="n368" resp="#小野千古母">
@@ -12596,23 +11225,11 @@
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n369" xml:id="k369">
             <persName corresp="#貞辰親王">さたときのみこ</persName>の家にて
-            
-            
-            
             <persName corresp="#藤原清生">藤原きよふ</persName>かあふみ
-            
-            
-            
             <note type="勘物" style="margin-top: 1em" resp="#藤原定家" target="#k369">
               <persName corresp="#藤原清生">清生</persName>
             </note>　
-            
-            
-            
             <lb/>のすけにまかりける時にむまのはなむけしける
-            
-            
-            
             <pb n="1-47r" facs="#p055"/>
             <lb/>よゝめる</note>
           <note type="作者名" style="margin-top: 5em">
@@ -12723,29 +11340,14 @@
           </l>
           <lb/>
           <note type="左注" style="margin-top: 3em" target="#n375">このうたはある人つかさをたまはりてあたらしきめ
-            
-            
-            
             <lb/>につきて年へてすみける人をすてゝたゝあすな
-            
-            
-            
             <lb/>むたつと許いへりける時にともかうもいはてよみて
-            
-            
-            
             <lb/>つかはしける</note>
         </div>
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n376">ひたちへまかりける時に
-            
-            
-            
             <persName corresp="#藤原公利">藤原のきみとし</persName>によみて
-            
-            
-            
             <lb/>つかはしける</note>
           <note type="作者名" style="margin-top: 5em" xml:id="s376">
             <persName type="作者" corresp="#寵">寵</persName>
@@ -12765,13 +11367,7 @@
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n377">
             <persName corresp="#紀宗定">きのむねさた</persName>かあつまへまかりける時に人の家にや
-            
-            
-            
             <lb/>とりてあかつきいてたつとてまかり申しけれは女の
-            
-            
-            
             <lb/>よみていたせりける</note>
           <note type="作者名" style="margin-top: 5em">
             <persName type="作者" corresp="#よみ人知らず">よみ人しらす</persName>
@@ -12788,9 +11384,6 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n378">あひしりて侍ける人のあつまの方へまかりけるをゝ
-            
-            
-            
             <lb/>くるとてよめる</note>
           <note type="作者名" style="margin-top: 5em">
             <persName type="作者" corresp="#清原深養父">ふかやふ</persName>
@@ -12852,9 +11445,6 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n382">あひしれりける人のこしのくにゝまかりて年へて
-            
-            
-            
             <lb/>京にまうてきて又かへりける時によめる</note>
           <lb/>
           <note type="作者名" style="margin-top: 12em">
@@ -12902,13 +11492,7 @@
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n385">
             <persName corresp="#藤原後蔭">藤原のゝちかけ</persName>かからものゝつかひになか月のつこ
-            
-            
-            
             <lb/>もりかたにまかりけるにうへのをのこともさけたうひ
-            
-            
-            
             <lb/>けるついてによめる</note>
           <note type="作者名" style="margin-top: 5em" xml:id="s385">
             <persName type="作者" corresp="#藤原兼茂">藤原兼茂</persName>
@@ -12944,9 +11528,6 @@
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n387">
             <persName type="作者" corresp="#源実">源のさね</persName>かつくしへゆあみむとてまかりける時山さき
-            
-            
-            
             <lb/>にてわかれおしみける所にてよめる</note>
           <lb/>
           <note type="作者名" style="margin-top: 12em">
@@ -12983,9 +11564,6 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n388">山さきより神なひのもりまてをくりに人〳〵まか
-            
-            
-            
             <pb n="1-49v" facs="#p058"/>
             <lb/>りてかへりかてにしてわかれおしみけるによめる</note>
           <lb/>
@@ -12993,9 +11571,6 @@
             <persName type="作者" corresp="#源実">源さね</persName>
           </note>
           <note type="勘物" style="margin-top: 1em" resp="#藤原定家" target="#s388">右近少将
-            
-            
-            
             <persName corresp="#源実">實</persName>
           </note>
           <lb/>
@@ -13027,9 +11602,6 @@
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n390">
             <persName corresp="#藤原惟岳">藤原のこれをか</persName>ゝむさしのすけにまかりける時に
-            
-            
-            
             <lb/>をくりにあふさかをこゆとてよみける</note>
           <lb/>
           <note type="作者名" style="margin-top: 12em">
@@ -13048,9 +11620,6 @@
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n391">
             <persName corresp="#大江千古">おほえのちふる</persName>かこしへまかりけるむまのはなむけ
-            
-            
-            
             <lb/>によめる</note>
           <note type="作者名" style="margin-top: 5em">
             <persName type="作者" corresp="#藤原兼輔">藤原かねすけの朝臣</persName>
@@ -13068,9 +11637,6 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n392">人の花山にまうてきてゆふさりつかたかへりなむと
-            
-            
-            
             <lb/>しける時によめる</note>
           <note type="作者名" style="margin-top: 5em">
             <persName type="作者" resp="#遍昭">僧正へんせう</persName>
@@ -13087,9 +11653,6 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n393">山にのほりてかへりまうてきて人〳〵わかれけるつ
-            
-            
-            
             <lb/>いてによめる</note>
           <note type="作者名" style="margin-top: 5em">
             <persName type="作者" corresp="#幽仙法師">幽仙法師</persName>
@@ -13107,9 +11670,6 @@
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n394">
             <persName corresp="#常康親王">うりむゐんのみこ</persName>の舎利會に山にのほりてか
-            
-            
-            
             <lb/>へりけるにさくらの花のもとにてよめる</note>
           <lb/>
           <note type="作者名" style="margin-top: 12em">
@@ -13144,9 +11704,6 @@
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n396">
             <persName corresp="#光孝天皇">仁和のみかと</persName>みこにおはしましける時にふるのた
-            
-            
-            
             <lb/>き御覧しにおはしましてかへりたまひけるによめる</note>
           <lb/>
           <note type="作者名" style="margin-top: 12em">
@@ -13164,13 +11721,7 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n397">かむなりのつほにめしたりける日おほみきなとた
-            
-            
-            
             <lb/>うへて雨のいたくふりけれはゆふさりまて侍てまかり
-            
-            
-            
             <lb/>いてけるおりにさか月をとりて</note>
           <lb/>
           <note type="作者名" style="margin-top: 12em">
@@ -13205,9 +11756,6 @@
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n399">
             <persName corresp="#兼覧王">かねみのおほきみ</persName>にはしめて物かたりしてわかれ
-            
-            
-            
             <lb/>ける時によめる</note>
           <note type="作者名" style="margin-top: 5em">
             <persName type="作者" corresp="#凡河内躬恒">みつね</persName>
@@ -13269,9 +11817,6 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n404">しかの山こえにていしゐのもとにてものいひける人
-            
-            
-            
             <lb/>のわかれけるおりによめる</note>
           <lb/>
           <note type="作者名" style="margin-top: 12em">
@@ -13290,9 +11835,6 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n405">みちにあへりける人のくるまに物をいひつきてわかれ
-            
-            
-            
             <lb/>ける所にてよめる</note>
           <note type="作者名" style="margin-top: 5em">
             <persName type="作者" corresp="#紀友則">とものり</persName>
@@ -13330,46 +11872,19 @@
           </l>
           <lb/>
           <note type="左注" style="margin-top: 3em" target="#n406">この哥はむかし
-            
-            
-            
             <persName corresp="#安倍仲麻呂">なかまろ</persName>をもろこしに物ならは
-            
-            
-            
             <lb/>しにつかはしたりけるにあまたの年をへてえか
-            
-            
-            
             <lb/>へりまうてこさりけるをこのくにより又つ
-            
-            
-            
             <lb/>かひまかりいたりけるにたくひてまうてきな
-            
-            
-            
             <lb/>むとていてたちけるにめいしうといふ所のうみへ
-            
-            
-            
             <lb/>にてかのくにの人むまのはなむけしけりよる
-            
-            
-            
             <lb/>になりて月のいとおもしろくさしいてたりけるを
-            
-            
-            
             <pb n="1-52v" facs="#p061"/>
             <lb/>見てよめるとなむかたりつたふる</note>
         </div>
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n407">おきのくにゝなかされける時に舟にのりていてたつとて京なる
-            
-            
-            
             <lb/>人のもとにつかはしける</note>
           <note type="作者名" style="margin-top: 5em">
             <persName type="作者" corresp="#小野篁">小野たかむらの朝臣</persName>
@@ -13409,34 +11924,16 @@
           </l>
           <lb/>
           <note type="左注" style="margin-top: 3em" target="#n409">この哥はある人のいはく
-            
-            
-            
             <persName corresp="#柿本人麿">柿本人麿</persName>か哥也</note>
         </div>
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n410">あつまの方へ友とする人ひとりふたりいさなひてい
-            
-            
-            
             <lb/>きけりみかはのくにやつはしといふ所にいたれり
-            
-            
-            
             <lb/>けるにその河のほとりにかきつはたいとおもしろく
-            
-            
-            
             <lb/>さけりけるを見て木のかけにおりゐてかきつはた
-            
-            
-            
             <pb n="1-53r" facs="#p061"/>
             <lb/>といふいつもしをくのかしらにすへてたひの心をよま
-            
-            
-            
             <lb/>むとてよめる</note>
           <note type="作者名" style="margin-top: 5em">
             <persName type="作者" corresp="#在原業平">在原業平朝臣</persName>
@@ -13453,46 +11950,16 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n411">むさしのくにとしもつふさのくにとの中にあるすみた
-            
-            
-            
             <lb/>河のほとりにいたりて宮このいとこひしうおほえけれは
-            
-            
-            
             <lb/>しはし河のほとりにおりゐて思やれはかきり
-            
-            
-            
             <lb/>なくとをくもきにけるかなとおもひわひてな
-            
-            
-            
             <lb/>かめをるにわたしもりはや舟にのれ日くれぬと
-            
-            
-            
             <lb/>いひけれは舟にのりてわたらむとするにみな人
-            
-            
-            
             <lb/>物わひしくて京に思ふ人なくしもあらすさる
-            
-            
-            
             <lb/>おりにしろき鳥のはしとあしとあかき河のほと
-            
-            
-            
             <lb/>りにあそひけり京には見えぬとりなりけれはみ
-            
-            
-            
             <pb n="1-53v" facs="#p062"/>
             <lb/>なひと見しらすわたしもりにこれはなにとりそと
-            
-            
-            
             <lb/>とひけれはこれなむみやことりといひけるをきゝてよめる</note>
           <lb/>
           <l n="411" xml:id="n411" resp="#在原業平">
@@ -13519,17 +11986,8 @@
           </l>
           <lb/>
           <note type="左注" style="margin-top: 3em" target="#n412">このうたはある人おとこ女もろともに人のくにへ
-            
-            
-            
             <lb/>まかりけりおとこまかりいたりてすなはち身ま
-            
-            
-            
             <lb/>かりにけれは女ひとり京へかへりけるみちにかへるか
-            
-            
-            
             <lb/>りのなきけるをきゝてよめるとなむいふ</note>
         </div>
         <lb/>
@@ -13603,17 +12061,8 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n417">たちまのくにのゆへまかりける時にふたみのうらと
-            
-            
-            
             <lb/>いふ所にとまりてゆふさりのかれいひたうへける
-            
-            
-            
             <lb/>にともにありける人〳〵のうたよみけるついてに
-            
-            
-            
             <pb n="1-54v" facs="#p063"/>
             <lb/>よめる</note>
           <note type="作者名" style="margin-top: 5em">
@@ -13632,21 +12081,9 @@
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n418">
             <persName corresp="#惟喬親王">これたかのみこ</persName>のともにかりにまかりける時にあまの
-            
-            
-            
             <lb/>かはといふ所のかはのほとりにおりゐてさけなと
-            
-            
-            
             <lb/>のみけるついてにみこのいひけらくかりしてあ
-            
-            
-            
             <lb/>まのかはらにいたるといふ心をよみてさかつきはさ
-            
-            
-            
             <lb/>せといひけれはよめる</note>
           <note type="作者名" style="margin-top: 5em">
             <persName type="作者" corresp="#在原業平">在原業平朝臣</persName>
@@ -13664,9 +12101,6 @@
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n419">
             <persName corresp="#惟喬親王">みこ</persName>ゝのうたを返々よみつゝ返しえせすなりに
-            
-            
-            
             <lb/>けれはともに侍てよめる</note>
           <lb/>
           <note type="作者名" style="margin-top: 12em">
@@ -13686,9 +12120,6 @@
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n420">
             <persName corresp="#宇多天皇">朱雀院</persName>のならにおはしましける時にたむけ
-            
-            
-            
             <lb/>山にてよみける</note>
           <note type="作者名" style="margin-top: 5em">
             <persName type="作者" corresp="#菅原道真">すかはらの朝臣</persName>
@@ -13984,9 +12415,6 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n439">朱雀院のをみなへしあはせの時にをみなへしといふ
-            
-            
-            
             <lb/>いつもしをくのかしらにをきてよめる</note>
           <pb n="1-57r" facs="#p065"/>
           <lb/>
@@ -14087,9 +12515,6 @@
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n445">
             <persName corresp="#藤原高子">二条の后</persName>春宮のみやすん所と申ける時にめとにけ
-            
-            
-            
             <lb/>つり花させりけるをよませたまひける</note>
           <lb/>
           <note type="作者名" style="margin-top: 12em">
@@ -14473,9 +12898,6 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n468">はをはしめるをはてにてなかめをかけて時のう
-            
-            
-            
             <lb/>たよめと人のいひけれはよみける</note>
           <lb/>
           <note type="作者名" style="margin-top: 12em">
@@ -14601,13 +13023,7 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n476">右近のむまはのひをりの日むかひにたてたりけるく
-            
-            
-            
             <lb/>るまのしたすたれより女のかほのほのかに見えけれは
-            
-            
-            
             <lb/>よむてつかはしける</note>
           <note type="作者名" style="margin-top: 5em">
             <persName type="作者" corresp="#在原業平">在原業平朝臣</persName>
@@ -14639,9 +13055,6 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n478">かすかのまつりにまかれりける時に物見にいてたりける女の
-            
-            
-            
             <lb/>もとに家をたつねてつかはせりける</note>
           <lb/>
           <note type="作者名" style="margin-top: 12em">
@@ -14660,9 +13073,6 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n479">人の花つみしける所にまかりてそこなりけるひとの
-            
-            
-            
             <lb/>もとにのちによみてつかはしける</note>
           <lb/>
           <note type="作者名" style="margin-top: 12em">
@@ -15485,21 +13895,9 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n556">しもついつもてらに人のわさしける日
-            
-            
-            
             <persName corresp="#真静法師">真せい法し</persName>の
-            
-            
-            
             <lb/>たうしにていへりけることを哥によみて
-            
-            
-            
             <persName corresp="#小野小町">をのゝこま
-              
-              
-              
               <lb/>ち</persName>かもとにつかはしける</note>
           <note type="作者名" style="margin-top: 5em">
             <persName type="作者" corresp="#安倍清行">あへのきよゆきの朝臣</persName>
@@ -15973,9 +14371,6 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n589">やよひ許に物のたうひける人のもとに又人まかりつゝ
-            
-            
-            
             <lb/>せうそこすときゝてよみてつかはしける</note>
           <lb/>
           <l n="589" xml:id="n589" resp="#紀貫之">
@@ -16345,9 +14740,6 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n616">やよひのついたちよりしのひに人に物らいひて
-            
-            
-            
             <lb/>のちにあめのそほふりけるによみてつかはしける</note>
           <lb/>
           <note type="作者名" style="margin-top: 12em">
@@ -16366,9 +14758,6 @@
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n617">
             <persName corresp="#在原業平">なりひらの朝臣</persName>の家に侍ける女のもとによみて
-            
-            
-            
             <lb/>つかはしける</note>
           <note type="作者名" style="margin-top: 5em">
             <persName type="作者" corresp="#藤原敏行">としゆきの朝臣</persName>
@@ -16435,9 +14824,6 @@
           </l>
           <lb/>
           <note type="左注" style="margin-top: 3em" target="#n621">この哥はある人のいはく
-            
-            
-            
             <persName>柿本人磨</persName>か哥也</note>
         </div>
         <lb/>
@@ -16595,25 +14981,10 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n632">ひむかしの五条わたりに人をしりをきてまかりか
-            
-            
-            
             <lb/>よひけりしのひなる所なりけれはかとよりしもえい
-            
-            
-            
             <lb/>らてかきのくつれよりかよひけるをたひかさなりけ
-            
-            
-            
             <lb/>れはあるしきゝつけてかのみちに夜ことに人をふ
-            
-            
-            
             <lb/>せてまもらすれはいきけれとえあはてのみかへりき
-            
-            
-            
             <lb/>てよみてやりける</note>
           <note type="作者名" style="margin-top: 5em">
             <persName type="作者" corresp="#在原業平">なりひらの朝臣</persName>
@@ -16742,13 +15113,7 @@
             <persName type="作者" corresp="#寵">寵</persName>
           </note>
           <note type="勘物" style="margin-top: 1em" resp="#藤原定家" target="#s640">一説
-            
-            
-            
             <persName corresp="#寵">ウツク</persName>　一説
-            
-            
-            
             <persName corresp="#寵">チヨウ</persName>用之</note>
           <pb n="2-13r" facs="#p085"/>
           <lb/>
@@ -16820,17 +15185,8 @@
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n645">
             <persName corresp="#在原業平">業平朝臣</persName>の伊勢のくにゝまかりたりける時斎宮
-            
-            
-            
             <lb/>なりける人にいとみそかにあひて又のあしたに人や
-            
-            
-            
             <lb/>るすへなくておもひをりけるあひたに女のもとより
-            
-            
-            
             <pb n="2-13v" facs="#p086"/>
             <lb/>をこせたりける</note>
           <note type="作者名" style="margin-top: 5em">
@@ -16945,9 +15301,6 @@
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n654">
             <persName corresp="#橘清樹">たちはなのきよ木</persName>かしのひにあひしれりける
-            
-            
-            
             <lb/>女のもとよりをこせたりける</note>
           <lb/>
           <note type="作者名" style="margin-top: 12em">
@@ -17096,9 +15449,6 @@
           </l>
           <lb/>
           <note type="左注" style="margin-top: 3em" target="#n664">この哥ある人
-            
-            
-            
             <persName>あふみのうねめ</persName>のとなむ申す</note>
         </div>
         <lb/>
@@ -17204,9 +15554,6 @@
           <pb n="2-15v" facs="#p088"/>
           <lb/>
           <note type="左注" style="margin-top: 3em" target="#n671">この哥はある人のいはく
-            
-            
-            
             <persName corresp="#柿本人麿">柿本人麿</persName>かなり</note>
         </div>
         <lb/>
@@ -17612,9 +15959,6 @@
           </l>
           <lb/>
           <note type="左注" style="margin-top: 3em" target="#n702">この哥はある人あめのみかとのあふみのうねめに
-            
-            
-            
             <lb/>たまひけるとなむ申す</note>
         </div>
         <lb/>
@@ -17644,21 +15988,9 @@
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n705">
             <persName corresp="#藤原敏行">藤原敏行朝臣</persName>の
-            
-            
-            
             <persName corresp="#在原業平">なりひらの朝臣</persName>の家なりける女
-            
-            
-            
             <lb/>をあひしりてふみつかはせりけることはにいまゝう
-            
-            
-            
             <lb/>てくあめのふりけるをなむ見わつらひ侍といへりける
-            
-            
-            
             <lb/>をきゝてかの女にかはりてよめりける</note>
           <lb/>
           <note type="作者名" style="margin-top: 12em">
@@ -17676,13 +16008,7 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n706">ある女の
-            
-            
-            
             <persName corresp="#在原業平">なりひらの朝臣</persName>を所さためすありきすと
-            
-            
-            
             <lb/>思ひてよみてつかはしける</note>
           <lb/>
           <note type="作者名" style="margin-top: 12em">
@@ -17886,9 +16212,6 @@
           </l>
           <lb/>
           <note type="左注" style="margin-top: 3em" target="#n720">この哥ある人のいはく
-            
-            
-            
             <persName>なかとみのあつま人</persName>か哥也</note>
         </div>
         <lb/>
@@ -18089,13 +16412,7 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n735">人をしのひにあひしりてあひかたくありけれはその
-            
-            
-            
             <lb/>家のあたりをまかりありきけるおりにかりのなく
-            
-            
-            
             <lb/>をきゝてよみてつかはしける</note>
           <pb n="2-20v" facs="#p093"/>
           <lb/>
@@ -18115,13 +16432,7 @@
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n736">
             <persName corresp="#源能有">右のおほいまうちきみ</persName>すますなりにけれはかのむか
-            
-            
-            
             <lb/>しをこせたりけるふみともをとりあつめて返すと
-            
-            
-            
             <lb/>てよみてをくりける</note>
           <note type="作者名" style="margin-top: 5em">
             <persName type="作者" corresp="#藤原因香">典侍藤原よるかの朝臣</persName>
@@ -18185,13 +16496,7 @@
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n740" xml:id="k740">
             <persName corresp="#源昇">中納言源のゝほるの朝臣</persName>のあふみのすけに侍ける
-            
-            
-            
             <lb/>時よみてやれりける
-            
-            
-            
             <note type="勘物" style="margin-top: 1em" resp="#藤原定家" target="#k740">
               <persName corresp="#源昇">昇</persName>　延喜八年中納言九年民部卿十四年大納言</note>
           </note>
@@ -18275,17 +16580,8 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n745">おやのまもりける人のむすめにいとしのひてあひて
-            
-            
-            
             <lb/>物らいひけるあひたにおやのよふといひけれはいそ
-            
-            
-            
             <lb/>きてかへるとてもをなむぬきをきていりにけるその
-            
-            
-            
             <lb/>ゝちもを返すとてよめる</note>
           <lb/>
           <note type="作者名" style="margin-top: 12em">
@@ -18326,29 +16622,11 @@
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n747">
             <persName corresp="#藤原順子">五条のきさいの宮</persName>のにしのたいにすみける人にほ
-            
-            
-            
             <lb/>いにはあらて物いひわたりけるをむ月のとをかあま
-            
-            
-            
             <lb/>りになむほかへかくれにけるあり所はきゝけれとえ
-            
-            
-            
             <lb/>物もいはて又のとしの春梅の花さかりに月のおも
-            
-            
-            
             <lb/>しろかりける夜こそをこひてかのにしのたいにいきて
-            
-            
-            
             <lb/>月のかたふくまてあはらなるいたしきにふせりてよ
-            
-            
-            
             <lb/>める</note>
           <note type="作者名" style="margin-top: 5em">
             <persName type="作者" corresp="#在原業平">在原業平朝臣</persName>
@@ -18635,9 +16913,6 @@
           </note>
           <note type="勘物" style="margin-top: 1em" resp="#藤原定家" target="#s769">
             <persName corresp="#貞登">貞朝臣登</persName>　備中守　
-            
-            
-            
             <persName corresp="#仁明天皇">仁明</persName>御子</note>
           <lb/>
           <l n="769" xml:id="n769" resp="#貞登">
@@ -18791,13 +17066,7 @@
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n780">
             <persName corresp="#藤原仲平">なかひらの朝臣</persName>あひしりて侍けるをかれ方になりに
-            
-            
-            
             <lb/>けれはちゝかやまとのかみに侍けるもとへまかるとてよみて
-            
-            
-            
             <lb/>つかはしける</note>
           <note type="作者名" style="margin-top: 5em">
             <persName type="作者" corresp="#伊勢">伊勢</persName>
@@ -18820,9 +17089,6 @@
           </note>
           <note type="勘物" style="margin-top: 1em" resp="#藤原定家" target="#s781">
             <persName corresp="#常康親王">常康親王</persName>　
-            
-            
-            
             <persName>仁明</persName>御子</note>
           <lb/>
           <l n="781" xml:id="n781" resp="#常康親王">
@@ -18871,13 +17137,7 @@
           <note type="詞書" style="margin-top: 2em" target="#n784">
             <persName corresp="#在原業平">なりひらの朝臣</persName>
             <persName corresp="#紀有常娘">きのありつねかむすめ</persName>にすみけるをう
-            
-            
-            
             <lb/>らむることありてしはしのあひたひるはきてゆふさりは
-            
-            
-            
             <lb/>かへりのみしけれはよみてつかはしける</note>
           <lb/>
           <l n="784" xml:id="n784" resp="#小野貞樹">
@@ -18952,13 +17212,7 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n789">こゝちそこなへりけるころあひしりて侍ける人の
-            
-            
-            
             <lb/>とはて心ちをこたりてのちとふらへりけれはよみて
-            
-            
-            
             <lb/>つかはしける</note>
           <note type="作者名" style="margin-top: 5em" xml:id="s789">
             <persName type="作者" corresp="#兵衛">兵衛</persName>
@@ -18979,9 +17233,6 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n790">あひしれりける人のやうやくかれかたになりけるあひ
-            
-            
-            
             <lb/>たにやけたるちのはにふみをさしてつかはせりける</note>
           <pb n="2-25v" facs="#p098"/>
           <lb/>
@@ -19023,9 +17274,6 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n791">物思ひけるころものへまかりけるみちに野火のもえ
-            
-            
-            
             <lb/>けるを見てよめる</note>
           <note type="作者名" style="margin-top: 5em">
             <persName type="作者" corresp="#伊勢">伊勢</persName>
@@ -19211,9 +17459,6 @@
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n802">
             <persName corresp="#宇多天皇">寛平御時</persName>御屏風にうたかゝせたまひける時よみ
-            
-            
-            
             <lb/>てかきける</note>
           <note type="作者名" style="margin-top: 5em">
             <persName type="作者" corresp="#素性法師">そせい法し</persName>
@@ -19636,9 +17881,6 @@
             </note>
             <lb/>
             <persName corresp="#藤原良房">さきのおほきおほいまうちきみ</persName>を白河のあた　　
-            
-            
-            
             <lb/>りにをくりける夜よめる</note>
           <note type="勘物" style="margin-top: 1em" resp="#藤原定家" target="#k830">延喜之比太政大臣只二人仍雖不辞官前書前後之由也</note>
           <lb/>
@@ -19661,9 +17903,6 @@
               <persName corresp="#藤原基経">昭宣公</persName>　寛平三年正月薨　五十六　太政大臣　関白始</note>
             <lb/>
             <persName corresp="#藤原基経">ほりかはのおほきおほいまうちきみ</persName>身まかりにける
-            
-            
-            
             <lb/>時にふかくさの山におさめけるのちによみける</note>
           <lb/>
           <note type="作者名" style="margin-top: 12em">
@@ -19701,9 +17940,6 @@
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n833">
             <persName corresp="#藤原敏行">藤原敏行朝臣</persName>の身まかりにける時によみてかの
-            
-            
-            
             <lb/>家につかはしける</note>
           <note type="作者名" style="margin-top: 5em">
             <persName type="作者" corresp="#紀友則">きのとものり</persName>
@@ -19766,9 +18002,6 @@
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n837">
             <persName corresp="#藤原忠房">藤原のたゝふさ</persName>かむかしあひしりて侍ける人の身ま
-            
-            
-            
             <lb/>かりにける時にとふらひにつかはすとてよめる</note>
           <lb/>
           <note type="作者名" style="margin-top: 12em">
@@ -19851,9 +18084,6 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n842">おもひに侍ける年の秋山てらへまかりけるみち
-            
-            
-            
             <lb/>にてよめる</note>
           <note type="作者名" style="margin-top: 5em">
             <persName type="作者" corresp="#紀貫之">つらゆき</persName>
@@ -19886,9 +18116,6 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n844">女のおやのおもひにて山てらに侍けるをある人の
-            
-            
-            
             <pb n="2-30v" facs="#p103"/>
             <lb/>とふらひつかはせりけれは返事によめる</note>
           <lb/>
@@ -19945,33 +18172,15 @@
           <lb/>
           <note type="詞書" style="margin-top: 2em" xml:id="k847" target="#n847">
             <persName corresp="#仁明天皇">ふかくさのみかと</persName>の御時に蔵人頭にてよるひるなれ
-            
-            
-            
             <lb/>つかうまつりけるを諒闇になりにけれはさらに
-            
-            
-            
             <lb/>世にもましらすしてひえの山にのほりてかしら
-            
-            
-            
             <pb n="2-31r" facs="#p103"/>
             <lb/>おろしてけりその又のとしみな人御ふくぬきて
-            
-            
-            
             <lb/>あるはかうふりたまはりなとよろこひけるをきゝ
-            
-            
-            
             <lb/>てよめる</note>
           <note type="作者名" style="margin-top: 5em" xml:id="s847">
             <persName type="作者" corresp="#遍昭">僧正遍昭</persName>
             <note type="勘物" style="margin-top: 1em" resp="#藤原定家" target="#s847">蔵人頭右近少将
-              
-              
-              
               <persName corresp="#遍昭">良岑宗貞</persName>
             </note>
           </note>
@@ -19991,17 +18200,8 @@
           <lb/>
           <note type="詞書" style="margin-top: 2em" xml:id="k848" target="#n848">
             <persName corresp="#源融">河原のおほいまうちきみ</persName>の身まかりての秋かの
-            
-            
-            
             <lb/>家のほとりをまかりけるにもみちのいろまたふか
-            
-            
-            
             <lb/>くもならさりけるを見てかの家によみていれ
-            
-            
-            
             <lb/>たりける</note>
           <note type="勘物" style="margin-top: 1em" resp="#藤原定家" target="#s848">
             <persName corresp="#源能有">能有文徳源氏</persName>于時大納言左大将民部卿皇太子傳</note>
@@ -20022,9 +18222,6 @@
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n849">
             <persName corresp="#藤原高経">藤原高経朝臣</persName>の身まかりての又のとしの夏ほとゝ
-            
-            
-            
             <lb/>きすのなきけるをきゝてよめる</note>
           <pb n="2-31v" facs="#p104"/>
           <lb/>
@@ -20043,13 +18240,7 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n850">さくらをうへてありけるにやうやく花さきぬへき
-            
-            
-            
             <lb/>時にかのうへける人身まかりにけれはその花を
-            
-            
-            
             <lb/>見てよめる</note>
           <note type="作者名" style="margin-top: 5em" xml:id="s851">
             <persName type="作者" corresp="#紀茂行">きのもちゆき</persName>
@@ -20069,9 +18260,6 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n851">あるし身まかりにける人の家のむめのはなを見て
-            
-            
-            
             <lb/>よめる</note>
           <note type="作者名" style="margin-top: 5em">
             <persName type="作者" corresp="#紀貫之">つらゆき</persName>
@@ -20089,13 +18277,7 @@
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n852">
             <persName corresp="#源融">河原の左のおほいまうちきみ</persName>の身まかりてののち
-            
-            
-            
             <lb/>かの家にまかりてありけるにしほかまといふ所のさ
-            
-            
-            
             <lb/>まをつくれりけるを見てよめる</note>
           <pb n="2-32r" facs="#p104"/>
           <lb/>
@@ -20111,32 +18293,14 @@
         <div type="和歌">
           <note type="勘物" style="margin-top: 1em" resp="#藤原定家" target="#k853">
             <persName corresp="#藤原利基">利基</persName>　
-            
-            
-            
             <persName>高藤公</persName>兄</note>
           <lb/>
           <note type="詞書" style="margin-top: 2em" xml:id="k853" target="#n853">
             <persName corresp="#藤原利基">藤原のとしもとの朝臣</persName>の右近中将にてすみ侍ける
-            
-            
-            
             <lb/>さうしの身まかりてのち人もすますなりにけるに
-            
-            
-            
             <lb/>秋の夜ふけてものよりまうてきけるついてに見い
-            
-            
-            
             <lb/>れけれはもとありしせんさいもいとしけくあれ
-            
-            
-            
             <lb/>たりけるを見てはやくそこに侍けれはむかしを
-            
-            
-            
             <lb/>思やりてよみける</note>
           <note type="作者名" style="margin-top: 5em">
             <persName type="作者" corresp="#御春有助">みはるのありすけ</persName>
@@ -20154,13 +18318,7 @@
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n854">
             <persName corresp="#惟喬親王">これたかのみこ</persName>のちゝの侍けむ時によめりけむう
-            
-            
-            
             <lb/>たともとこひけれはかきてをくりけるおくによ
-            
-            
-            
             <lb/>みてかけりける</note>
           <note type="作者名" style="margin-top: 5em">
             <persName type="作者" corresp="#紀友則">とものり</persName>
@@ -20209,21 +18367,9 @@
           <note type="詞書" style="margin-top: 2em" xml:id="k857" target="#n857">
             <persName corresp="#敦慶親王">式部卿のみこ</persName>
             <persName corresp="#閑院五の皇女">閑院の五のみこ</persName>にすみわたりける
-            
-            
-            
             <lb/>をいくはくもあらて女みこの身まかりにける時
-            
-            
-            
             <lb/>にかのみこすみける帳のかたひらのひもにふ
-            
-            
-            
             <lb/>みをゆひつけたりけるをとりて見れはむかし
-            
-            
-            
             <lb/>の手にてこのうたをなむかきつけたりける</note>
           <lb/>
           <l n="857" xml:id="n857">
@@ -20237,13 +18383,7 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n858">おとこの人のくにゝまかれりけるまに女にはか
-            
-            
-            
             <lb/>にやまひをしていとよはくなりにける時よみを
-            
-            
-            
             <lb/>きて身まかりにける</note>
           <note type="作者名" style="margin-top: 5em">
             <persName type="作者" corresp="#よみ人知らず">讀人しらす</persName>
@@ -20261,9 +18401,6 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n859">やまひにわつらひ侍ける秋こゝちのたのもしけなく
-            
-            
-            
             <lb/>おほえけれはよみて人のもとにつかはしける</note>
           <lb/>
           <note type="作者名" style="margin-top: 12em">
@@ -20313,18 +18450,9 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n862">かひのくにゝあひしりて侍ける人とふらはむとてま
-            
-            
-            
             <pb n="2-33v" facs="#p106"/>
             <lb/>かりけるをみち中にてにはかにやまひをしていま〳〵
-            
-            
-            
             <lb/>となりにけれはよみて京にもてまかりて母に見
-            
-            
-            
             <lb/>せよといひて人につけ侍けるうた</note>
           <lb/>
           <note type="作者名" style="margin-top: 12em">
@@ -20392,9 +18520,6 @@
           </l>
           <lb/>
           <note type="左注" style="margin-top: 3em">ある人のいはくこの哥は
-            
-            
-            
             <persName corresp="#藤原良房">さきのおほいまうちきみ</persName>の也</note>
         </div>
         <lb/>
@@ -20410,9 +18535,6 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n868">めのおとうとをもて侍ける人にうへのきぬををく
-            
-            
-            
             <lb/>るとてよみてやりける</note>
           <lb/>
           <note type="作者名" style="margin-top: 12em">
@@ -20434,13 +18556,7 @@
           <lb/>
           <note type="詞書" style="margin-top: 2em" xml:id="k869" target="#n869">
             <persName corresp="#藤原国経">大納言ふちはらのくにつねの朝臣</persName>の宰相より
-            
-            
-            
             <lb/>中納言になりける時にそめぬうへのきぬあやをゝ
-            
-            
-            
             <lb/>
             <note type="勘物" style="margin-top: 1em" resp="#藤原定家" target="#s869">于時大納言右大将</note>
             <lb/>くるとてよめる</note>
@@ -20460,17 +18576,8 @@
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n870">
             <persName corresp="#並松">いその神のなむまつ</persName>か宮つかへもせていその神と
-            
-            
-            
             <lb/>いふ所にこもり侍けるをにはかにかうふりたま
-            
-            
-            
             <lb/>はれりけれはよろこひいひつかはすとてよみてつか
-            
-            
-            
             <lb/>はしける</note>
           <note type="作者名" style="margin-top: 5em">
             <persName type="作者" corresp="#布留今道">ふるのいまみち</persName>
@@ -20491,9 +18598,6 @@
           <lb/>
           <note type="詞書" style="margin-top: 2em" xml:id="k871" target="#n871">
             <persName corresp="#藤原高子">二条のきさき</persName>のまた東宮のみやすん所と申
-            
-            
-            
             <lb/>
             <note type="勘物" style="margin-top: 1em" resp="#藤原定家" target="#k871">元慶元年正月即位日為中宮六年正月為皇太后宮</note>
             <lb/>ける時に大原野にまうて給ける日よめる</note>
@@ -20532,9 +18636,6 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n873">五節のあしたにかむさしのたまのおちたりける
-            
-            
-            
             <lb/>を見てたかならむとゝふらひてよめる</note>
           <lb/>
           <note type="作者名" style="margin-top: 12em">
@@ -20553,30 +18654,12 @@
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n874">
             <persName corresp="#宇多天皇">寛平御時</persName>にうへのさふらひに侍けるをのことも
-            
-            
-            
             <lb/>かめをもたせて
-            
-            
-            
             <persName corresp="#藤原温子">きさいの宮の御方</persName>におほみきの
-            
-            
-            
             <lb/>おろしときこえにたてまつりたりけるをくら人
-            
-            
-            
             <pb n="2-35v" facs="#p108"/>
             <lb/>ともわらひてかめをおまへにもていてゝともかくもい
-            
-            
-            
             <lb/>はすなりにけれはつかひのかへりきてさなむあり
-            
-            
-            
             <lb/>つるといひけれはくら人のなかにをくりける</note>
           <lb/>
           <note type="作者名" style="margin-top: 12em">
@@ -20610,9 +18693,6 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n876">方たかへに人の家にまかれりける時にあるしのき
-            
-            
-            
             <lb/>ぬをきせたりけるをあしたにかへすとてよみける</note>
           <lb/>
           <note type="作者名" style="margin-top: 12em">
@@ -20671,13 +18751,7 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n880">月おもしろしとて
-            
-            
-            
             <persName corresp="#凡河内躬恒">凡河内躬恒</persName>かまうてきたりけ
-            
-            
-            
             <lb/>るによめる</note>
           <note type="作者名" style="margin-top: 5em">
             <persName type="作者" corresp="#紀貫之">きのつらゆき</persName>
@@ -20733,17 +18807,8 @@
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n884">
             <persName corresp="#惟喬親王">これたかのみこ</persName>のかりしけるともにまかりてやとりにか
-            
-            
-            
             <lb/>へりて夜ひとよさけをのみ物かたりをしける
-            
-            
-            
             <lb/>に十一日の月もかくれなむとしけるおりにみこ
-            
-            
-            
             <lb/>ゑひてうちへいりなむとしけれはよみ侍ける</note>
           <lb/>
           <note type="作者名" style="margin-top: 12em">
@@ -20762,60 +18827,24 @@
         <div type="和歌">
           <note type="勘物" style="margin-top: 1em" resp="#藤原定家" target="#k885">
             <persName corresp="#慧子内親王">慧子</persName>代始齋院
-            
-            
-            
             <lb/>天安元年二月
-            
-            
-            
             <lb/>廃之其事
-            
-            
-            
             <lb/>秘世莫知云々
-            
-            
-            
             <lb/>若先是又
-            
-            
-            
             <lb/>有此事歟
-            
-            
-            
             <lb/>遂被廃之元慶五年正月六日薨
-            
-            
-            
             <lb/>以述子為齋院母同惟喬二年而退</note>
           <lb/>
           <note type="詞書" style="margin-top: 2em" xml:id="k885" target="#n885">
             <persName corresp="#文徳天皇">田むらのみかと</persName>の御時に斎院に侍ける
-            
-            
-            
             <persName corresp="#慧子内親王">あきらけ
-              
-              
-              
               <lb/>
               <note type="勘物" style="margin-top: 1em" resp="#藤原定家" target="#k885">
                 <persName corresp="#慧子内親王">慧子</persName>　母
-                
-                
-                
                 <persName corresp="#藤原列子">藤列子</persName>　従五位上　
-                
-                
-                
                 <persName>是雄女</persName>
               </note>
               <lb/>いこのみこ</persName>をはゝあやまちありといひて斎院をかへ
-            
-            
-            
             <lb/>られむとしけるをその事やみにけれはよめる</note>
           <lb/>
           <note type="作者名" style="margin-top: 12em" xml:id="s885">
@@ -21009,38 +19038,20 @@
           </l>
           <lb/>
           <note type="左注" style="margin-top: 3em" target="#n899">この哥はある人のいはく
-            
-            
-            
             <persName>大伴のくろぬし</persName>か也</note>
         </div>
         <lb/>
         <div type="和歌">
           <note type="勘物" style="margin-top: 1em" resp="#藤原定家" target="#k900">
             <persName corresp="#伊都内親王">伊登内親王</persName>　
-            
-            
-            
             <persName>桓武皇女</persName>　貞観三年九月薨</note>
           <lb/>
           <note type="詞書" style="margin-top: 2em" xml:id="k900" target="#n900">
             <persName corresp="#伊都内親王">業平朝臣のはゝのみこ</persName>長をかにすみ侍ける時に
-            
-            
-            
             <lb/>
             <persName>なりひら</persName>宮つかへすとて時〳〵もえまかりとふらはす
-            
-            
-            
             <lb/>侍けれはしはす許にはゝのみこの許よりとみのことゝ
-            
-            
-            
             <lb/>てふみをもてまうてきたりあけて見れはことはゝな
-            
-            
-            
             <lb/>くてありけるうた</note>
           <pb n="2-38r" facs="#p110"/>
           <lb/>
@@ -21087,13 +19098,7 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n903">おなし御時のうへのさふらひにてをのこともにおほ
-            
-            
-            
             <lb/>みきたまひておほみあそひありけるついてに
-            
-            
-            
             <lb/>つかうまつれる</note>
           <note type="作者名" style="margin-top: 5em">
             <persName type="作者" corresp="#藤原敏行">としゆきの朝臣</persName>
@@ -21154,9 +19159,6 @@
           </l>
           <lb/>
           <note type="左注" style="margin-top: 3em" target="#n907">この哥はある人のいはく
-            
-            
-            
             <persName corresp="#柿本人麿">柿本の人まろ</persName>か也</note>
         </div>
         <lb/>
@@ -21234,9 +19236,6 @@
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n914">
             <persName corresp="#紀貫之">貫之</persName>かいつみのくにゝ侍ける時にやまとよりこえ
-            
-            
-            
             <lb/>まうてきてよみてつかはしける</note>
           <lb/>
           <note type="作者名" style="margin-top: 12em">
@@ -21281,9 +19280,6 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n917">あひしれりける人のすみよしにまうてけるによみ
-            
-            
-            
             <lb/>てつかはしける　　　</note>
           <note type="作者名" style="margin-top: 5em">
             <persName type="作者" corresp="#壬生忠岑">みふのたゝみね</persName>
@@ -21321,9 +19317,6 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n918">なにはへまかりける時たみのゝしまにて雨にあひ
-            
-            
-            
             <pb n="2-39v" facs="#p112"/>
             <lb/>てよめる</note>
           <note type="作者名" style="margin-top: 5em">
@@ -21344,9 +19337,6 @@
           <lb/>
           <note type="詞書" style="margin-top: 2em" target="#n919">
             <persName corresp="#宇多天皇">法皇</persName>にし河におはしましたりける日つるすにた
-            
-            
-            
             <lb/>てりといふことを題にてよませたまひける</note>
           <lb/>
           <l n="919" xml:id="n919" resp="#紀貫之">
@@ -21361,24 +19351,12 @@
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" xml:id="k920" target="#n920">
             <persName corresp="#敦慶親王">中務のみこ</persName>の家の池に舟をつくりておろしはしめ
-            
-            
-            
             <lb/>
             <note type="勘物" style="margin-top: 1em" resp="#藤原定家" target="#k920">
               <persName corresp="#敦慶親王">敦慶</persName>後式部卿</note>
             <lb/>てあそひける日
-            
-            
-            
             <persName corresp="#宇多天皇">法皇</persName>御覧しにおはしましたり
-            
-            
-            
             <lb/>けりゆふさりつかたかへりおはしまさむとしけるお
-            
-            
-            
             <lb/>りによみてたてまつりける</note>
           <lb/>
           <note type="作者名" style="margin-top: 12em">
@@ -21429,9 +19407,6 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n923">布引のたきのもとにて人〳〵あつまりて哥よみけ
-            
-            
-            
             <lb/>る時によめる</note>
           <note type="作者名" style="margin-top: 5em">
             <persName type="作者" corresp="#在原業平">なりひらの朝臣</persName>
@@ -21497,13 +19472,7 @@
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n927">
             <persName corresp="#宇多天皇">朱雀院のみかと</persName>ぬのひきのたき御らむせむとてふ
-            
-            
-            
             <lb/>ん月のなぬかの日おはしましてありける時にさ
-            
-            
-            
             <lb/>ふらふ人〳〵にうたよませ給けるによめる</note>
           <lb/>
           <note type="作者名" style="margin-top: 12em">
@@ -21555,17 +19524,8 @@
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n930">
             <persName corresp="#文徳天皇">田むらの御時</persName>に女はうのさふらひにて御屏風のゑ御
-            
-            
-            
             <lb/>覧しけるにたきおちたりけるところおもしろし
-            
-            
-            
             <lb/>これを題にて哥よめとさふらふ人におほせられ
-            
-            
-            
             <lb/>けれは</note>
           <note type="作者名" style="margin-top: 5em" xml:id="s930">
             <persName type="作者" corresp="#三条町">三条の町</persName>
@@ -21698,9 +19658,6 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n937">かひのかみに侍ける時京へまかりのほりける人につかは
-            
-            
-            
             <lb/>しける</note>
           <note type="作者名" style="margin-top: 5em">
             <persName type="作者" corresp="#小野貞樹">をのゝさたき</persName>
@@ -21718,9 +19675,6 @@
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n938">
             <persName corresp="#文屋康秀">文室のやすひて</persName>みかはのそうになりてあかた見にはえ
-            
-            
-            
             <pb n="2-42v" facs="#p115"/>
             <lb/>いてたゝしやといひやれりける返事によめる</note>
           <lb/>
@@ -21996,13 +19950,7 @@
           <pb n="2-44r" facs="#p116"/>
           <lb/>
           <note type="左注" style="margin-top: 3em" xml:id="sa959" target="#n959">ある人のいはく
-            
-            
-            
             <persName>たかつのみこ</persName>の哥也
-            
-            
-            
             <note type="勘物" style="margin-top: 1em" resp="#藤原定家" target="#sa959">
               <persName corresp="#高津内親王">高津内親王</persName>
             </note>
@@ -22038,13 +19986,7 @@
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n962">
             <persName corresp="#文徳天皇">田むらの御時</persName>に事にあたりてつのくにのすまと
-            
-            
-            
             <lb/>いふ所にこもり侍けるに宮の内に侍ける人に
-            
-            
-            
             <lb/>つかはしける</note>
           <note type="作者名" style="margin-top: 5em">
             <persName type="作者" corresp="#在原行平">在原行平朝臣</persName>
@@ -22061,9 +20003,6 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" xml:id="k963" target="#n963">左近将監とけて侍ける時に女のとふらひにをこせ
-            
-            
-            
             <lb/>たりける返事によみてつかはしける</note>
           <lb/>
           <note type="作者名" style="margin-top: 12em">
@@ -22109,16 +20048,10 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n966">みこの宮のたちはきに侍けるを宮つかへつかうまつ
-            
-            
-            
             <lb/>らすとてとけて侍ける時によめる</note>
           <lb/>
           <note type="作者名" style="margin-top: 12em" xml:id="s966">
             <persName type="作者" corresp="#宮道潔興">みやちのきよき</persName>　
-            
-            
-            
             <note type="勘物" style="margin-top: 1em" resp="#藤原定家" target="#s966">
               <persName corresp="#宮道潔興">清樹</persName>
             </note>
@@ -22135,13 +20068,7 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n967">時なりける人のにはかに時なくなりてなけくを見て
-            
-            
-            
             <lb/>みつからのなけきもなくよろこひもなきことを思
-            
-            
-            
             <lb/>てよめる</note>
           <note type="作者名" style="margin-top: 5em">
             <persName type="作者" corresp="#清原深養父">清原深養父</persName>
@@ -22182,13 +20109,7 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n968">かつらに侍ける時に
-            
-            
-            
             <persName corresp="#藤原温子">七条の中宮</persName>のとはせたまへり
-            
-            
-            
             <lb/>ける御返事にたてまつれりける</note>
           <lb/>
           <note type="作者名" style="margin-top: 12em">
@@ -22207,17 +20128,8 @@
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n969">
             <persName corresp="#紀利貞">きのとしさた</persName>か阿波のすけにまかりける時にむまの
-            
-            
-            
             <lb/>はなむけせむとてけふといひをくれりける時にこゝ
-            
-            
-            
             <lb/>かしこにまかりありきて夜ふくるまて見えさり
-            
-            
-            
             <lb/>けれはつかはしける</note>
           <lb/>
           <note type="作者名" style="margin-top: 12em">
@@ -22236,26 +20148,11 @@
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n970">
             <persName corresp="#惟喬親王">これたかのみこ</persName>のもとにまかりかよひけるをかしらおろ
-            
-            
-            
             <pb n="2-45v" facs="#p118"/>
             <lb/>してをのといふ所に侍けるに正月にとふらはむとて
-            
-            
-            
             <lb/>まかりたりけるにひえの山のふもとなりけれは雪いと
-            
-            
-            
             <lb/>ふかゝりけりしひてかのむろにまかりいたりておかみ
-            
-            
-            
             <lb/>けるにつれ〳〵としていと物かなしくてかへりまうてき
-            
-            
-            
             <lb/>てよみてをくりける</note>
           <lb/>
           <l n="970" xml:id="n970" resp="#在原業平">
@@ -22269,9 +20166,6 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n971">深草のさとにすみ侍て京へまうてくとてそこなり
-            
-            
-            
             <lb/>ける人によみてをくりける</note>
           <lb/>
           <l n="971" xml:id="n971" resp="#在原業平">
@@ -22311,17 +20205,8 @@
           </l>
           <lb/>
           <note type="左注" style="margin-top: 3em" target="#n973">この哥はある人むかしおとこありけるをうなの
-            
-            
-            
             <lb/>おとことはすなりにけれはなにはなるみつのて
-            
-            
-            
             <lb/>らにまかりてあまになりてよみておとこにつ
-            
-            
-            
             <lb/>かはせりけるとなむいへる</note>
         </div>
         <lb/>
@@ -22370,9 +20255,6 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n976">ともたちのひさしうまうてこさりけるもとによ
-            
-            
-            
             <lb/>みてつかはしける</note>
           <note type="作者名" style="margin-top: 5em">
             <persName type="作者" corresp="#凡河内躬恒">みつね</persName>
@@ -22389,9 +20271,6 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n977">人をとはてひさしうありけるおりにあひうらみ
-            
-            
-            
             <pb n="2-46v" facs="#p119"/>
             <lb/>けれはよめる</note>
           <lb/>
@@ -22407,13 +20286,7 @@
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n978">
             <persName corresp="#宗岳大頼">むねをかのおほより</persName>かこしよりまうてきたりける
-            
-            
-            
             <lb/>時に雪のふりけるを見てをのかおもひはこの雪
-            
-            
-            
             <lb/>のことくなむつもれるといひけるおりによめる</note>
           <lb/>
           <l n="978" xml:id="n978" resp="#凡河内躬恒">
@@ -22514,9 +20387,6 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n985">ならへまかりける時にあれたる家に女の琴ひきける
-            
-            
-            
             <lb/>をきゝてよみていれたりける</note>
           <lb/>
           <note type="作者名" style="margin-top: 12em">
@@ -22534,9 +20404,6 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n986">はつせにまうつるみちにならの京にやとれりける時
-            
-            
-            
             <lb/>よめる</note>
           <note type="作者名" style="margin-top: 5em" xml:id="s986">
             <persName type="作者" corresp="#二条">二条</persName>
@@ -22607,9 +20474,6 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n991">つくしに侍ける時にまかりかよひつゝこうちける人
-            
-            
-            
             <lb/>のもとに京にかへりまうてきてつかはしける</note>
           <lb/>
           <note type="作者名" style="margin-top: 12em">
@@ -22648,14 +20512,8 @@
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n993">
             <persName corresp="#宇多天皇">寛平御時</persName>にもろこしのはう官にめされて侍ける時に
-            
-            
-            
             <lb/>
             <persName>東宮</persName>のさふらひにてをのこともさけたうへけるついてによ
-            
-            
-            
             <lb/>み侍ける</note>
           <note type="作者名" style="margin-top: 5em">
             <persName type="作者" corresp="#藤原忠房">ふちはらのたゝふさ</persName>
@@ -22685,54 +20543,18 @@
           </l>
           <lb/>
           <note type="左注" style="margin-top: 3em" target="#n994">ある人この哥は昔やまとのくになりける人のむすめ
-            
-            
-            
             <lb/>にある人すみわたりけりこの女おやもなくな
-            
-            
-            
             <lb/>りて家もわるくなりゆくあひたにこのおとこか
-            
-            
-            
             <lb/>うちのくにゝ人をあひしりてかよひつゝかれ
-            
-            
-            
             <pb n="2-48v" facs="#p121"/>
             <lb/>やうにのみなりゆきけりさりけれともつらけ
-            
-            
-            
             <lb/>なるけしきも見えてかうちへいくことにおとこの
-            
-            
-            
             <lb/>心のことくにしつゝいたしやりけれはあやしと思
-            
-            
-            
             <lb/>てもしなきまにこと心もやあるとうたかひて
-            
-            
-            
             <lb/>月のおもしろかりける夜かうちへいくまねに
-            
-            
-            
             <lb/>てせんさいのなかにかくれて見けれは夜ふくるま
-            
-            
-            
             <lb/>てことをかきならしつゝうちなけきてこのうたを
-            
-            
-            
             <lb/>よみてねにけれはこれをきゝてそれより又ほ
-            
-            
-            
             <lb/>かへもまからすなりにけりとなむいひつたへたる</note>
         </div>
         <lb/>
@@ -22778,9 +20600,6 @@
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n997">
             <persName corresp="#清和天皇">貞観御時</persName>万葉集はいつはかりつくれるそととはせ
-            
-            
-            
             <pb n="2-49r" facs="#p121"/>
             <lb/>たまひけれはよみてたてまつりける</note>
           <lb/>
@@ -22831,9 +20650,6 @@
         <lb/>
         <div type="和歌">
           <note type="詞書" style="margin-top: 2em" target="#n1000">哥めしける時にたてまつるとてよみておくにかきつ
-            
-            
-            
             <lb/>けてたてまつりける</note>
           <note type="作者名" style="margin-top: 5em">
             <persName type="作者" corresp="#伊勢">伊勢</persName>
@@ -23723,13 +21539,7 @@
           <lb/>
           <div type="和歌">
             <note type="詞書" style="margin-top: 2em" target="#n1021">あす春たゝむとしける日となりの家の方より風
-              
-              
-              
               <lb/>のゆきをふきこしけるを見てそのとなりへよみ
-              
-              
-              
               <lb/>てつかはしける</note>
             <note type="作者名" style="margin-top: 5em">
               <persName type="作者" corresp="#清原深養父">清原ふかやふ</persName>
@@ -24219,9 +22029,6 @@
             </note>
             <note type="勘物" style="margin-top: 1em" resp="#藤原定家" target="#s1054">
               <persName corresp="#久曾">屎</persName>　
-              
-              
-              
               <persName corresp="#久曾">源つくるの女</persName>
             </note>
             <lb/>
@@ -24406,9 +22213,6 @@
           <div type="和歌">
             <note type="詞書" style="margin-top: 2em" target="#n1067">
               <persName corresp="#宇多天皇">法皇</persName>にし河におはしましたりける日さる山のかひ
-              
-              
-              
               <lb/>にさけふといふことを題にてうたよませたまうける</note>
             <lb/>
             <note type="作者名" style="margin-top: 12em">
@@ -24612,9 +22416,6 @@
             </l>
             <lb/>
             <note type="左注" style="margin-top: 3em" target="#n1082">この哥は
-              
-              
-              
               <persName corresp="#仁明天皇">承和</persName>の御へのきひのくにの哥</note>
           </div>
           <lb/>
@@ -24628,9 +22429,6 @@
             </l>
             <lb/>
             <note type="左注" style="margin-top: 3em" target="#n1083">これは
-              
-              
-              
               <persName corresp="#清和天皇">みつのお</persName>の御へのみまさかのくにの哥</note>
           </div>
           <lb/>
@@ -24644,9 +22442,6 @@
             </l>
             <lb/>
             <note type="左注" style="margin-top: 3em" target="#n1084">これは
-              
-              
-              
               <persName corresp="#陽成天皇">元慶</persName>の御へのみのゝうた</note>
           </div>
           <lb/>
@@ -24660,9 +22455,6 @@
             </l>
             <lb/>
             <note type="左注" style="margin-top: 3em" target="#n1085">これは
-              
-              
-              
               <persName corresp="#光孝天皇">仁和</persName>の御へのいせのくにの哥</note>
           </div>
           <lb/>
@@ -24681,9 +22473,6 @@
             </l>
             <lb/>
             <note type="左注" style="margin-top: 3em" target="#n1086">これは
-              
-              
-              
               <persName corresp="#醍醐天皇">今上</persName>の御へのあふみのうた</note>
           </div>
         </div>
@@ -24863,9 +22652,6 @@
               <seg>ちはやふる</seg>
               <seg>かものやしろの</seg>
               <seg>ひめこ松
-                
-                
-                
                 <lb/>よろつ世ふとも</seg>
               <seg>色はかはらし</seg>
             </l>
@@ -24969,9 +22755,6 @@
             </l>
             <lb/>
             <note type="左注" target="#n1105">このうた水尾のみかとのそめとのよりあはたへう
-              
-              
-              
               <lb/>つりまうける時によめる</note>
             <lb/>
             <note type="墨滅歌所在" target="#n1105">桂宮下</note>
@@ -25020,17 +22803,11 @@
             </l>
             <lb/>
             <note type="左注" target="#n1108">この哥ある人あめのみかとのあふみのうねめにた
-              
-              
-              
               <lb/>まへると</note>
           </div>
           <lb/>
           <div>
             <note type="詞書" style="margin-top: 2em" target="#n1109">返し
-              
-              
-              
               <persName corresp="#采女">うねめ</persName>のたてまつれる</note>
             <lb/>
             <l n="1109" xml:id="n1109">
@@ -71497,47 +69274,20 @@
       <pb n="2-63r" facs="#p135"/>
       <lb/>
       <ab type="奥書" subtype="本奥書" xml:id="本奥書1" resp="#藤原定家">此集家々所稱雖説々多且任
-        
-        
-        
         <persName corresp="#藤原俊成">師</persName>説
-        
-        
-        
         <lb/>又加了見為備後学之證本手自
-        
-        
-        
         <lb/>書之近代僻案之輩以書生之失錯
-        
-        
-        
         <lb/>稱有識之秘事可謂道之魔姓不可用
-        
-        
-        
         <lb/>之但如此用捨只可随其身之所好不
-        
-        
-        
         <lb/>可存自他之差別志同者可用之
-        
-        
-        
         <lb/>
         <date when="1226">嘉禄二年四月九日</date>
         <persName corresp="#藤原定家">戸部尚書</persName>判
-        
-        
-        
         <lb/>
         <date when="1226">于時頽齢六十五</date>寧堪右筆哉</ab>
       <pb n="2-63v" facs="#p136"/>
       <lb/>
       <ab type="奥書" subtype="本奥書" xml:id="本奥書2" resp="#藤原為家">此本付属
-        
-        
-        
         <persName corresp="#藤原為相">大夫為相</persName>
         <lb/>
         <date when="1265">于時頽齢六十八</date>
@@ -71545,48 +69295,18 @@
       <pb n="2-64r" facs="#p136"/>
       <lb/>
       <ab type="奥書" subtype="書写奥書" xml:id="書写奥書1" resp="#藤原為広">右集依
-        
-        
-        
         <persName>前内府實
-          
-          
-          
           <ruby>
             <rb>―</rb>
             <rt>望</rt>
           </ruby>公</persName>懇望以家
-        
-        
-        
         <lb/>相傳
-        
-        
-        
         <persName corresp="#藤原定家">京極中納言定家卿</persName>自筆本不改一
-        
-        
-        
         <lb/>字愚息
-        
-        
-        
         <persName corresp="#藤原為和">為和</persName>令書写之尤可為證
-        
-        
-        
         <lb/>本者也
-        
-        
-        
         <lb/>于時
-        
-        
-        
         <date when="1519">永正第十六天初夏</date>上辨目
-        
-        
-        
         <lb/>
         <persName corresp="#藤原為広">桑門宗清</persName>（花押）</ab>
       <listPerson>

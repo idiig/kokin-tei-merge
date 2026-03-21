@@ -19,10 +19,17 @@ import (
 
 // voicedVariants returns surface candidates with Karoku unvoiced kana replaced
 // by the voiced counterpart used in Hachidaishu KanjiReadings.
+var voicedPairs = [][2]rune{
+	{'か', 'が'}, {'き', 'ぎ'}, {'く', 'ぐ'}, {'け', 'げ'}, {'こ', 'ご'},
+	{'さ', 'ざ'}, {'し', 'じ'}, {'す', 'ず'}, {'せ', 'ぜ'}, {'そ', 'ぞ'},
+	{'た', 'だ'}, {'ち', 'ぢ'}, {'つ', 'づ'}, {'て', 'で'}, {'と', 'ど'},
+	{'は', 'ば'}, {'ひ', 'び'}, {'ふ', 'ぶ'}, {'へ', 'べ'}, {'ほ', 'ぼ'},
+}
+
 func voicedVariants(s string) []string {
 	runes := []rune(s)
 	var variants []string
-	for _, pair := range [][2]rune{{'ひ', 'び'}, {'ふ', 'ぶ'}, {'へ', 'べ'}} {
+	for _, pair := range voicedPairs {
 		for i, r := range runes {
 			if r == pair[0] {
 				v := make([]rune, len(runes))

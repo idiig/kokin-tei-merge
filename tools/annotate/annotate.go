@@ -279,28 +279,31 @@ func buildDictAMap(doc *etree.Document) map[[2]string]string {
 }
 
 // kanaVariants returns candidate kana forms to try when a surface does not
-// directly match a Dict A reading key. The Karoku manuscript sometimes writes
-// voiced consonants as their unvoiced counterparts (清濁の差), while the
-// Hachidaishu KanjiReading uses the voiced form. Only voicing substitutions
-// are attempted; historical kana→modern substitutions (ひ→い, ふ→う) are NOT
-// applied because Hachidaishu KanjiReadings already use historical kana.
+// directly match a Dict A reading key. The Karoku manuscript systematically
+// writes voiced kana as their unvoiced counterparts (清濁の差), while
+// Hachidaishu KanjiReadings use the voiced form.
+// Historical kana→modern substitutions (ひ→い, ふ→う) are NOT applied
+// because Hachidaishu KanjiReadings already use historical kana.
+var voicedPairs = [][2]rune{
+	{'か', 'が'}, {'き', 'ぎ'}, {'く', 'ぐ'}, {'け', 'げ'}, {'こ', 'ご'},
+	{'さ', 'ざ'}, {'し', 'じ'}, {'す', 'ず'}, {'せ', 'ぜ'}, {'そ', 'ぞ'},
+	{'た', 'だ'}, {'ち', 'ぢ'}, {'つ', 'づ'}, {'て', 'で'}, {'と', 'ど'},
+	{'は', 'ば'}, {'ひ', 'び'}, {'ふ', 'ぶ'}, {'へ', 'べ'}, {'ほ', 'ぼ'},
+}
+
 func kanaVariants(s string) []string {
 	runes := []rune(s)
 	var variants []string
-	tryReplace := func(from, to rune) {
+	for _, pair := range voicedPairs {
 		for i, r := range runes {
-			if r == from {
+			if r == pair[0] {
 				v := make([]rune, len(runes))
 				copy(v, runes)
-				v[i] = to
+				v[i] = pair[1]
 				variants = append(variants, string(v))
 			}
 		}
 	}
-	// Karoku unvoiced → Hachidaishu voiced (e.g. わひ→わび, さふ→さぶ).
-	tryReplace('ひ', 'び')
-	tryReplace('ふ', 'ぶ')
-	tryReplace('へ', 'べ')
 	return variants
 }
 

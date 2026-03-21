@@ -3,4 +3,5 @@
 /.go/
 /tools/annotate/.go/
 /tools/merge/.go/
+/tools/migrate/.go/
 /.agent-shell/

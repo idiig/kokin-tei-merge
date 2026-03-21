@@ -284,17 +284,25 @@ func buildDictAMap(doc *etree.Document) map[[2]string]string {
 // Hachidaishu KanjiReadings use the voiced form.
 // Historical kana→modern substitutions (ひ→い, ふ→う) are NOT applied
 // because Hachidaishu KanjiReadings already use historical kana.
-var voicedPairs = [][2]rune{
+// kanaPairs lists substitutions tried when a surface does not match a Dict A key.
+// Two kinds:
+//  1. 清濁 (voicing): Karoku清音 → Hachidaishu濁音 (e.g. わひ→わび, さら→ざら)
+//  2. 歴史的仮名 (historical kana): Karoku modern → Hachidaishu historical
+//     (e.g. おら→をら, え→ゑ, い→ゐ)
+var kanaPairs = [][2]rune{
+	// 清濁
 	{'か', 'が'}, {'き', 'ぎ'}, {'く', 'ぐ'}, {'け', 'げ'}, {'こ', 'ご'},
 	{'さ', 'ざ'}, {'し', 'じ'}, {'す', 'ず'}, {'せ', 'ぜ'}, {'そ', 'ぞ'},
 	{'た', 'だ'}, {'ち', 'ぢ'}, {'つ', 'づ'}, {'て', 'で'}, {'と', 'ど'},
 	{'は', 'ば'}, {'ひ', 'び'}, {'ふ', 'ぶ'}, {'へ', 'べ'}, {'ほ', 'ぼ'},
+	// 歴史的仮名
+	{'お', 'を'}, {'え', 'ゑ'}, {'い', 'ゐ'},
 }
 
 func kanaVariants(s string) []string {
 	runes := []rune(s)
 	var variants []string
-	for _, pair := range voicedPairs {
+	for _, pair := range kanaPairs {
 		for i, r := range runes {
 			if r == pair[0] {
 				v := make([]rune, len(runes))

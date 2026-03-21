@@ -17,19 +17,20 @@ import (
 	"github.com/beevik/etree"
 )
 
-// voicedVariants returns surface candidates with Karoku unvoiced kana replaced
-// by the voiced counterpart used in Hachidaishu KanjiReadings.
-var voicedPairs = [][2]rune{
+// kanaVariants returns surface candidates with Karoku kana replaced by the
+// Hachidaishu KanjiReading counterpart — covers 清濁の差 and 歴史的仮名遣い.
+var kanaPairs = [][2]rune{
 	{'か', 'が'}, {'き', 'ぎ'}, {'く', 'ぐ'}, {'け', 'げ'}, {'こ', 'ご'},
 	{'さ', 'ざ'}, {'し', 'じ'}, {'す', 'ず'}, {'せ', 'ぜ'}, {'そ', 'ぞ'},
 	{'た', 'だ'}, {'ち', 'ぢ'}, {'つ', 'づ'}, {'て', 'で'}, {'と', 'ど'},
 	{'は', 'ば'}, {'ひ', 'び'}, {'ふ', 'ぶ'}, {'へ', 'べ'}, {'ほ', 'ぼ'},
+	{'お', 'を'}, {'え', 'ゑ'}, {'い', 'ゐ'},
 }
 
-func voicedVariants(s string) []string {
+func kanaVariants(s string) []string {
 	runes := []rune(s)
 	var variants []string
-	for _, pair := range voicedPairs {
+	for _, pair := range kanaPairs {
 		for i, r := range runes {
 			if r == pair[0] {
 				v := make([]rune, len(runes))
@@ -115,10 +116,10 @@ func main() {
 			}
 			continue
 		}
-		// Layer 2: voiced substitution (Karoku清音→Hachidaishu濁音).
-		// e.g. はふき→はぶき, わひ→わび
+		// Layer 2: kana normalization (清濁の差 + 歴史的仮名遣い).
+		// e.g. はふき→はぶき, わひ→わび, おら→をら
 		found := false
-		for _, variant := range voicedVariants(surface) {
+		for _, variant := range kanaVariants(surface) {
 			if newID, ok := dictA[key{variant, lemma}]; ok {
 				w.RemoveAttr("lemmaRef")
 				w.CreateAttr("lemmaRef", "#"+newID)

@@ -216,24 +216,18 @@ func collectLemText(el *etree.Element, sb *strings.Builder) {
 	}
 }
 
-// lemmaInfo holds the dictionary form and inflected forms for a single entry.
+// lemmaInfo holds the dictionary form and kana reading for a single entry.
 type lemmaInfo struct {
-	Orth           string // form[@type='lemma']/orth (kanji/mixed)
-	Reading        string // form[@type='lemma']/pron[@notation='kana']
-	InflectedForms []inflectedForm
+	Orth    string // form[@type='lemma']/orth (kanji/mixed)
+	Reading string // form[@type='lemma']/pron[@notation='kana']
 }
 
-// inflectedForm holds the id and kana orth of one <form type="inflected">.
-type inflectedForm struct {
-	ID   string // e.g. "w.思ふ.おもひ"
-	Orth string // e.g. "おもひ"
-}
-
-// buildLemmaInfo builds a map from lemmaRef fragment (e.g. "w.浦") to both
-// the orth, kana reading, and inflected forms from the dictionary entries in <back>.
+// buildLemmaInfo builds a map from Dict A hom ID (reading.lemma, e.g. "おもひ.思ふ")
+// to the orth and kana reading from the corresponding Dict B entry.
 func buildLemmaInfo(doc *etree.Document) map[string]lemmaInfo {
-	m := make(map[string]lemmaInfo)
-	for _, entry := range doc.FindElements("//back//entry") {
+	// Build Dict B: entry ID → (orth, reading).
+	dictB := make(map[string]lemmaInfo)
+	for _, entry := range doc.FindElements("//back//div[@type='dictionary']/entry") {
 		id := entry.SelectAttrValue("xml:id", "")
 		if id == "" {
 			continue
@@ -245,67 +239,31 @@ func buildLemmaInfo(doc *etree.Document) map[string]lemmaInfo {
 		if pron := entry.FindElement("form[@type='lemma']/pron[@notation='kana']"); pron != nil {
 			info.Reading = pron.Text()
 		}
-		for _, f := range entry.SelectElements("form") {
-			if f.SelectAttrValue("type", "") != "inflected" {
-				continue
-			}
-			fID := f.SelectAttrValue("xml:id", "")
-			fOrth := ""
-			if o := f.SelectElement("orth"); o != nil {
-				fOrth = o.Text()
-			}
-			if fID != "" && fOrth != "" {
-				info.InflectedForms = append(info.InflectedForms, inflectedForm{ID: fID, Orth: fOrth})
-			}
+		dictB[id] = info
+	}
+
+	// Build Dict A hom map: hom ID → lemmaInfo (via <ref target="#dictBID">).
+	m := make(map[string]lemmaInfo)
+	for _, hom := range doc.FindElements("//back//div[@type='reading-index']/entry/hom") {
+		homID := hom.SelectAttrValue("xml:id", "")
+		if homID == "" {
+			continue
 		}
-		m[id] = info
+		ref := hom.SelectElement("ref")
+		if ref == nil {
+			continue
+		}
+		target := strings.TrimPrefix(ref.SelectAttrValue("target", ""), "#")
+		if info, ok := dictB[target]; ok {
+			m[homID] = info
+		}
 	}
 	return m
 }
 
-// resolveInflectedRef returns the most specific lemmaRef for a token:
-// if a matching <form type="inflected"> exists, its xml:id is returned
-// (prefixed with "#"); otherwise the original lemma ref is returned unchanged.
-//
-// Matching is two-layer:
-//  1. Exact match on kanjiReading (from msd, may be empty or "???").
-//  2. Fallback: last rune of surface matches last rune of inflected orth.
-func resolveInflectedRef(lemmaRef, surface, kanjiReading string, info lemmaInfo) string {
-	if len(info.InflectedForms) == 0 {
-		return lemmaRef
-	}
-
-	surfaceRunes := []rune(surface)
-	lastSurface := surfaceRunes[len(surfaceRunes)-1]
-
-	// Layer 1: exact KanjiReading match.
-	if kanjiReading != "" && kanjiReading != "???" {
-		for _, f := range info.InflectedForms {
-			if f.Orth == kanjiReading {
-				return "#" + f.ID
-			}
-		}
-	}
-
-	// Layer 2: last-rune match.
-	var candidates []inflectedForm
-	for _, f := range info.InflectedForms {
-		orthRunes := []rune(f.Orth)
-		if len(orthRunes) > 0 && orthRunes[len(orthRunes)-1] == lastSurface {
-			candidates = append(candidates, f)
-		}
-	}
-	if len(candidates) == 1 {
-		return "#" + candidates[0].ID
-	}
-
-	return lemmaRef
-}
-
 // HachiTokens extracts the ordered token list for poem n from the Hachidaishu
 // document (looks for <lg type="waka" n="N">). Lemma and Reading are populated
-// from the dictionary <back> for use as rune-count proxies. LemmaRef is
-// resolved to the most specific inflected form ID when possible.
+// from the dictionary <back> for use as rune-count proxies.
 func HachiTokens(doc *etree.Document, n int) []Token {
 	path := fmt.Sprintf("//lg[@type='waka'][@n='%d']", n)
 	lg := doc.FindElement(path)
@@ -318,11 +276,9 @@ func HachiTokens(doc *etree.Document, n int) []Token {
 		ref := w.SelectAttrValue("lemmaRef", "")
 		lemmaKey := strings.TrimPrefix(ref, "#")
 		info := lemmas[lemmaKey]
-		kanjiReading := w.SelectAttrValue("kanjiReading", "")
-		resolvedRef := resolveInflectedRef(ref, w.Text(), kanjiReading, info)
 		tokens = append(tokens, Token{
 			Surface:  w.Text(),
-			LemmaRef: resolvedRef,
+			LemmaRef: ref,
 			Lemma:    info.Orth,
 			Reading:  info.Reading,
 		})

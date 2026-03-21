@@ -1,0 +1,66 @@
+#+TITLE: 語彙辞書再設計メモ
+#+DATE: 2026-03-21
+
+* 問題意識
+
+現状の =<hom>= は字形を軸とした同形異義語の区別にすぎない。
+古典和歌において一次的な情報は読み（仮名）であり、
+字形は二次的・表記上の情報である。
+より言語学的に整合した設計が必要。
+
+* 提案：二層辞書構造
+
+** 第一層：音形辞書（kana-first）
+
+読み（仮名文字列）をエントリの主キーとする。
+同一読みに対して複数の字形・語義が存在する場合は =<hom>= で区別。
+
+#+BEGIN_SRC xml
+<entry xml:id="はる">
+  <form type="pron"><pron notation="kana">はる</pron></form>
+  <hom n="1" xml:id="はる.春">
+    <ref target="#春"/>
+  </hom>
+  <hom n="2" xml:id="はる.晴る">
+    <ref target="#晴る"/>
+  </hom>
+</entry>
+#+END_SRC
+
+** 第二層：語彙辞書（lemma layer）
+
+形態論・語義情報を保持。
+
+#+BEGIN_SRC xml
+<entry xml:id="春">
+  <form type="lemma"><orth>春</orth></form>
+  <gramGrp>...</gramGrp>
+  <sense ana="#WLSPH.1.1624"><def xml:lang="ja">体-関係-時間-季節</def></sense>
+</entry>
+#+END_SRC
+
+** 本文側の参照
+
+=<w lemmaRef>= は第一層の hom id を参照：
+
+#+BEGIN_SRC xml
+<w lemmaRef="#はる.春">春</w>
+#+END_SRC
+
+* メリット
+
+- 読みが一次情報として明示される
+- 同音異字（例：はる＝春／晴る）と同形異義（例：松＝植物／待つの掛詞）を独立して扱える
+- 第二層は語彙データベースとして独立再利用可能
+
+* TODO
+
+- 活用形の扱い：第一層に活用形エントリを置くか、第二層に集約するか検討
+
+* 実装順序
+
+1. =tools/wordlist= （新規）：八代集データから Dict A（音形辞書）＋ Dict B（語彙辞書）を生成
+2. =tools/migrate= （新規）：既存 =kokin-annotated.xml= の =lemmaRef= を新形式に一括書き換え
+3. =tools/annotate=・=tools/annotate/cmd/align-review= の更新：新形式に対応
+
+注釈作業は現行フォーマットで継続し、全詩完了後に一括移行する。

@@ -153,7 +153,7 @@ func TestFlattenApps(t *testing.T) {
 func TestBuildBackDiv(t *testing.T) {
 	entries := []*Entry{
 		{
-			ID:            "w.年",
+			ID:            "年",
 			Lemma:         "年",
 			LemmaReadings: []string{"とし"},
 			Grams:         []GramInfo{{Pos: "N.g", UPosTag: "NOUN", IPAPosTag: "名詞-一般", UniDicPosTag: "名詞-普通名詞-一般"}},
@@ -161,11 +161,11 @@ func TestBuildBackDiv(t *testing.T) {
 		},
 	}
 
-	back := BuildBackDiv(entries, nil, nil)
+	back := BuildBackDiv(entries, nil, nil, nil)
 
 	entry := back.FindElement("//entry")
-	if entry.SelectAttrValue("xml:id", "") != "w.年" {
-		t.Errorf("entry xml:id = %q, want %q", entry.SelectAttrValue("xml:id", ""), "w.年")
+	if entry.SelectAttrValue("xml:id", "") != "年" {
+		t.Errorf("entry xml:id = %q, want %q", entry.SelectAttrValue("xml:id", ""), "年")
 	}
 	if entry.SelectAttrValue("type", "") != "simplex" {
 		t.Errorf("entry type = %q, want %q", entry.SelectAttrValue("type", ""), "simplex")
@@ -194,7 +194,7 @@ func TestBuildBackDiv(t *testing.T) {
 func TestBuildBackDiv_MultipleReadings(t *testing.T) {
 	entries := []*Entry{
 		{
-			ID:            "w.下",
+			ID:            "下",
 			Lemma:         "下",
 			LemmaReadings: []string{"した", "もと"},
 			Grams:         []GramInfo{{Pos: "N.g", UPosTag: "NOUN"}},
@@ -202,7 +202,7 @@ func TestBuildBackDiv_MultipleReadings(t *testing.T) {
 		},
 	}
 
-	back := BuildBackDiv(entries, nil, nil)
+	back := BuildBackDiv(entries, nil, nil, nil)
 	entry := back.FindElement("//entry")
 	form := entry.SelectElement("form")
 	prons := form.SelectElements("pron")
@@ -220,7 +220,7 @@ func TestBuildBackDiv_MultipleReadings(t *testing.T) {
 func TestBuildBackDiv_Compound(t *testing.T) {
 	entries := []*Entry{
 		{
-			ID:            "w.一年",
+			ID:            "一年",
 			Lemma:         "一年",
 			LemmaReadings: []string{"ひととせ"},
 			Grams:         []GramInfo{{Pos: "N.g", UPosTag: "NOUN"}},
@@ -233,7 +233,7 @@ func TestBuildBackDiv_Compound(t *testing.T) {
 		},
 	}
 
-	back := BuildBackDiv(entries, nil, nil)
+	back := BuildBackDiv(entries, nil, nil, nil)
 	entry := back.FindElement("//entry")
 	if entry.SelectAttrValue("type", "") != "compound" {
 		t.Error("expected type=compound")
@@ -251,7 +251,7 @@ func TestBuildBackDiv_Compound(t *testing.T) {
 	if len(refs) != 2 {
 		t.Fatalf("expected 2 refs, got %d", len(refs))
 	}
-	if refs[0].SelectAttrValue("target", "") != "#w.一" {
+	if refs[0].SelectAttrValue("target", "") != "#一" {
 		t.Errorf("ref[0] target = %q", refs[0].SelectAttrValue("target", ""))
 	}
 }
@@ -259,7 +259,7 @@ func TestBuildBackDiv_Compound(t *testing.T) {
 func TestBuildBackDiv_ModernForm(t *testing.T) {
 	entries := []*Entry{
 		{
-			ID:            "w.留む",
+			ID:            "留む",
 			Lemma:         "留む",
 			LemmaReadings: []string{"とどむ"},
 			Grams:         []GramInfo{{Pos: "V.free", UPosTag: "VERB"}},
@@ -268,7 +268,7 @@ func TestBuildBackDiv_ModernForm(t *testing.T) {
 		},
 	}
 
-	back := BuildBackDiv(entries, nil, nil)
+	back := BuildBackDiv(entries, nil, nil, nil)
 	entry := back.FindElement("//entry")
 
 	forms := entry.SelectElements("form")
@@ -280,7 +280,7 @@ func TestBuildBackDiv_ModernForm(t *testing.T) {
 		t.Errorf("form type = %q, want modern", modForm.SelectAttrValue("type", ""))
 	}
 	ref := modForm.SelectElement("ref")
-	if ref.SelectAttrValue("target", "") != "#w.とめる" {
+	if ref.SelectAttrValue("target", "") != "#とめる" {
 		t.Errorf("ref target = %q", ref.SelectAttrValue("target", ""))
 	}
 }
@@ -288,7 +288,7 @@ func TestBuildBackDiv_ModernForm(t *testing.T) {
 func TestBuildBackDiv_Hom(t *testing.T) {
 	entries := []*Entry{
 		{
-			ID:            "w.春",
+			ID:            "春",
 			Lemma:         "春",
 			LemmaReadings: []string{"はる"},
 			Grams: []GramInfo{
@@ -299,14 +299,14 @@ func TestBuildBackDiv_Hom(t *testing.T) {
 		},
 	}
 
-	back := BuildBackDiv(entries, nil, nil)
-	entry := back.FindElement("//entry")
+	back := BuildBackDiv(entries, nil, nil, nil)
+	entry := back.FindElement("//entry[@type]")
 
 	homs := entry.SelectElements("hom")
 	if len(homs) != 2 {
 		t.Fatalf("expected 2 <hom>, got %d", len(homs))
 	}
-	if homs[0].SelectAttrValue("xml:id", "") != "w.春.h1" {
+	if homs[0].SelectAttrValue("xml:id", "") != "春.h1" {
 		t.Errorf("hom[0] xml:id = %q", homs[0].SelectAttrValue("xml:id", ""))
 	}
 	if entry.SelectElement("gramGrp") != nil {
@@ -317,7 +317,7 @@ func TestBuildBackDiv_Hom(t *testing.T) {
 func TestBuildBackDiv_MultipleSenses(t *testing.T) {
 	entries := []*Entry{
 		{
-			ID:            "w.下",
+			ID:            "下",
 			Lemma:         "下",
 			LemmaReadings: []string{"した"},
 			Grams:         []GramInfo{{Pos: "N.g", UPosTag: "NOUN"}},
@@ -328,12 +328,12 @@ func TestBuildBackDiv_MultipleSenses(t *testing.T) {
 		},
 	}
 
-	back := BuildBackDiv(entries, nil, nil)
+	back := BuildBackDiv(entries, nil, nil, nil)
 	senses := back.FindElements("//sense")
 	if len(senses) != 2 {
 		t.Fatalf("expected 2 senses, got %d", len(senses))
 	}
-	if senses[0].SelectAttrValue("xml:id", "") != "w.下.s1" {
+	if senses[0].SelectAttrValue("xml:id", "") != "下.s1" {
 		t.Errorf("sense[0] xml:id = %q", senses[0].SelectAttrValue("xml:id", ""))
 	}
 }
@@ -341,7 +341,7 @@ func TestBuildBackDiv_MultipleSenses(t *testing.T) {
 func TestBuildBackDiv_WLSPHOnly(t *testing.T) {
 	entries := []*Entry{
 		{
-			ID:            "w.の",
+			ID:            "の",
 			Lemma:         "の",
 			LemmaReadings: []string{"の"},
 			Grams:         []GramInfo{{Pos: "P.c.g", UPosTag: "ADP"}},
@@ -349,7 +349,7 @@ func TestBuildBackDiv_WLSPHOnly(t *testing.T) {
 		},
 	}
 
-	back := BuildBackDiv(entries, nil, nil)
+	back := BuildBackDiv(entries, nil, nil, nil)
 	sense := back.FindElement("//sense")
 	if sense.SelectAttrValue("ana", "") != "#WLSPH.8.0061" {
 		t.Errorf("ana = %q", sense.SelectAttrValue("ana", ""))
@@ -359,7 +359,7 @@ func TestBuildBackDiv_WLSPHOnly(t *testing.T) {
 func TestBuildBackDiv_WithClassification(t *testing.T) {
 	entries := []*Entry{
 		{
-			ID:            "w.年",
+			ID:            "年",
 			Lemma:         "年",
 			LemmaReadings: []string{"とし"},
 			Grams:         []GramInfo{{Pos: "N.g"}},
@@ -373,7 +373,7 @@ func TestBuildBackDiv_WithClassification(t *testing.T) {
 	classWLSPH := BuildClassificationDiv("classWLSPH", "分類語彙表 (WLSPH)", wlsphItems)
 	classWLSP := BuildClassificationDiv("classWLSP", "分類語彙表 (WLSP)", wlspItems)
 
-	back := BuildBackDiv(entries, classWLSPH, classWLSP)
+	back := BuildBackDiv(entries, nil, classWLSPH, classWLSP)
 
 	divs := back.SelectElements("div")
 	if len(divs) != 3 {
@@ -393,12 +393,12 @@ func TestBuildBackDiv_WithClassification(t *testing.T) {
 func TestTransformBody(t *testing.T) {
 	doc := parseTestDoc(t)
 	tokens, _, _ := ExtractTokens(doc)
-	entries := BuildEntries(tokens)
+	pronEntries := BuildPronEntries(tokens)
 
-	TransformBody(doc, entries)
+	TransformBody(doc, pronEntries)
 
 	for _, w := range doc.FindElements("//w") {
-		for _, attr := range []string{"pos", "lemma", "msd"} {
+		for _, attr := range []string{"pos", "lemma", "msd", "kanjiReading"} {
 			if w.SelectAttrValue(attr, "MISSING") != "MISSING" {
 				t.Errorf("w still has %s", attr)
 			}
@@ -407,8 +407,8 @@ func TestTransformBody(t *testing.T) {
 		if lemmaRef == "" {
 			t.Errorf("w missing lemmaRef (text=%q)", w.Text())
 		}
-		if !strings.HasPrefix(lemmaRef, "#w.") {
-			t.Errorf("lemmaRef should start with #w., got %q", lemmaRef)
+		if !strings.HasPrefix(lemmaRef, "#") {
+			t.Errorf("lemmaRef should start with #, got %q", lemmaRef)
 		}
 	}
 }
@@ -464,14 +464,14 @@ func TestInsertBack(t *testing.T) {
 	doc := parseTestDoc(t)
 	entries := []*Entry{
 		{
-			ID:            "w.年",
+			ID:            "年",
 			Lemma:         "年",
 			LemmaReadings: []string{"とし"},
 			Grams:         []GramInfo{{Pos: "N.g"}},
 			Senses:        []Sense{{N: 1, WLSPH: "1.1630"}},
 		},
 	}
-	back := BuildBackDiv(entries, nil, nil)
+	back := BuildBackDiv(entries, nil, nil, nil)
 	InsertBack(doc, back)
 
 	text := doc.FindElement("//TEI/text")
@@ -489,14 +489,15 @@ func TestRoundTrip(t *testing.T) {
 	tokens, compounds, modernRefs := ExtractTokens(doc)
 	entries := BuildEntries(tokens)
 	MarkCompounds(entries, compounds, modernRefs)
+	pronEntries := BuildPronEntries(tokens)
 
 	flatCount := FlattenApps(doc)
 	if flatCount == 0 {
 		t.Error("expected at least 1 app flattened")
 	}
 
-	TransformBody(doc, entries)
-	back := BuildBackDiv(entries, nil, nil)
+	TransformBody(doc, pronEntries)
+	back := BuildBackDiv(entries, pronEntries, nil, nil)
 	InsertBack(doc, back)
 	UpdateHeader(doc)
 
@@ -552,7 +553,8 @@ func TestRoundTrip(t *testing.T) {
 		t.Error("no <back>")
 	}
 
-	for _, entry := range doc2.FindElements("//entry") {
+	// Only Dict B entries have type="simplex"|"compound".
+	for _, entry := range doc2.FindElements("//div[@type='dictionary']/entry") {
 		typ := entry.SelectAttrValue("type", "")
 		if typ != "simplex" && typ != "compound" {
 			t.Errorf("entry %q type=%q", entry.SelectAttrValue("xml:id", ""), typ)

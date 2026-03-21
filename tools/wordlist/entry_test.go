@@ -25,8 +25,8 @@ func TestBuildEntries_SingleToken(t *testing.T) {
 		t.Fatalf("expected 1 entry, got %d", len(entries))
 	}
 	e := entries[0]
-	if e.ID != "w.年" {
-		t.Errorf("ID = %q, want %q", e.ID, "w.年")
+	if e.ID != "年" {
+		t.Errorf("ID = %q, want %q", e.ID, "年")
 	}
 	if e.Lemma != "年" {
 		t.Errorf("Lemma = %q, want %q", e.Lemma, "年")
@@ -100,8 +100,8 @@ func TestBuildEntries_MultipleReadings(t *testing.T) {
 		t.Fatalf("expected 1 entry (same lemma), got %d", len(entries))
 	}
 	e := entries[0]
-	if e.ID != "w.下" {
-		t.Errorf("ID = %q, want %q", e.ID, "w.下")
+	if e.ID != "下" {
+		t.Errorf("ID = %q, want %q", e.ID, "下")
 	}
 	// Readings should be sorted.
 	if len(e.LemmaReadings) != 2 {
@@ -150,8 +150,8 @@ func TestBuildEntries_MultipleSenses(t *testing.T) {
 	if !e.NeedsSenseIDs() {
 		t.Error("expected NeedsSenseIDs() = true")
 	}
-	if e.SenseID(1) != "w.下.s1" {
-		t.Errorf("SenseID(1) = %q, want %q", e.SenseID(1), "w.下.s1")
+	if e.SenseID(1) != "下.s1" {
+		t.Errorf("SenseID(1) = %q, want %q", e.SenseID(1), "下.s1")
 	}
 }
 
@@ -193,8 +193,8 @@ func TestBuildEntries_MultiPOS(t *testing.T) {
 	if !e.NeedsHom() {
 		t.Error("expected NeedsHom() = true for multi-POS entry")
 	}
-	if e.HomID(1) != "w.春.h1" {
-		t.Errorf("HomID(1) = %q, want %q", e.HomID(1), "w.春.h1")
+	if e.HomID(1) != "春.h1" {
+		t.Errorf("HomID(1) = %q, want %q", e.HomID(1), "春.h1")
 	}
 }
 
@@ -243,8 +243,8 @@ func TestNeedsHom_SamePOS(t *testing.T) {
 
 func TestMarkCompounds(t *testing.T) {
 	entries := []*Entry{
-		{ID: "w.春霞", Lemma: "春霞"},
-		{ID: "w.春", Lemma: "春"},
+		{ID: "春霞", Lemma: "春霞"},
+		{ID: "春", Lemma: "春"},
 	}
 	compounds := map[string][]CompoundPart{
 		"春霞": {
@@ -272,7 +272,7 @@ func TestMarkCompounds(t *testing.T) {
 
 func TestMarkCompounds_ModernForm(t *testing.T) {
 	entries := []*Entry{
-		{ID: "w.留む", Lemma: "留む"},
+		{ID: "留む", Lemma: "留む"},
 	}
 	compounds := map[string][]CompoundPart{}
 	modernRefs := map[string]ModernRef{
@@ -293,10 +293,10 @@ func TestEntryID(t *testing.T) {
 	tests := []struct {
 		lemma, want string
 	}{
-		{"年", "w.年"},
-		{"春", "w.春"},
-		{"の", "w.の"},
-		{"いか−", "w.いか_"}, // U+2212 MINUS SIGN → underscore
+		{"年", "年"},
+		{"春", "春"},
+		{"の", "の"},
+		{"いか−", "いか_"}, // U+2212 MINUS SIGN → underscore
 	}
 	for _, tt := range tests {
 		got := EntryID(tt.lemma)

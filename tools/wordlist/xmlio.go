@@ -157,44 +157,41 @@ func FlattenApps(doc *etree.Document) int {
 	return count
 }
 
-// TokenRefKey identifies a token's target in the dictionary.
-type TokenRefKey struct {
-	Lemma string
-	Pos   string
+// pronRefKey identifies a token's Dict A hom by reading and lemma.
+type pronRefKey struct {
+	reading string
+	lemma   string
 }
 
 // TransformBody adds lemmaRef to each <w> and removes pos, lemma, msd.
-func TransformBody(doc *etree.Document, entries []*Entry) {
-	// Build lookup: (Lemma, Pos) → target ID.
-	refMap := make(map[TokenRefKey]string)
-	for _, e := range entries {
-		if e.NeedsHom() {
-			for i, g := range e.Grams {
-				refMap[TokenRefKey{e.Lemma, g.Pos}] = e.HomID(i + 1)
-			}
-		} else {
-			for _, g := range e.Grams {
-				refMap[TokenRefKey{e.Lemma, g.Pos}] = e.ID
-			}
+// lemmaRef points to Dict A hom IDs (reading.orth format).
+func TransformBody(doc *etree.Document, pronEntries []*PronEntry) {
+	refMap := make(map[pronRefKey]string)
+	for _, pe := range pronEntries {
+		for _, hom := range pe.Homs {
+			refMap[pronRefKey{pe.Reading, hom.Lemma}] = "#" + hom.ID
 		}
 	}
 
 	for _, w := range doc.FindElements("//w") {
 		lemma := w.SelectAttrValue("lemma", "")
-		pos := w.SelectAttrValue("pos", "")
 		msdStr := w.SelectAttrValue("msd", "")
 		msd := ParseMSD(msdStr)
 
-		key := TokenRefKey{Lemma: lemma, Pos: pos}
-		if id, ok := refMap[key]; ok {
-			w.CreateAttr("lemmaRef", "#"+id)
-		} else {
-			log.Printf("warning: no entry for lemma=%q pos=%q", lemma, pos)
+		// Use surface kana (KanjiReading) as primary key; fall back to LemmaReading.
+		reading := msd.KanjiReading
+		if reading == "" || reading == "???" || reading == "-" {
+			reading = msd.LemmaReading
 		}
 
-		// Preserve KanjiReading for inflected-form resolution during alignment.
-		if msd.KanjiReading != "" && msd.KanjiReading != "???" {
-			w.CreateAttr("kanjiReading", msd.KanjiReading)
+		k := pronRefKey{reading, lemma}
+		if id, ok := refMap[k]; ok {
+			w.CreateAttr("lemmaRef", id)
+		} else if lemma != "" {
+			w.CreateAttr("lemmaRef", "#"+EntryID(lemma))
+			log.Printf("warning: no pron entry for reading=%q lemma=%q, using fallback", reading, lemma)
+		} else {
+			log.Printf("warning: no entry for lemma=%q", lemma)
 		}
 
 		w.RemoveAttr("pos")
@@ -203,11 +200,38 @@ func TransformBody(doc *etree.Document, entries []*Entry) {
 	}
 }
 
-// BuildBackDiv creates the <back> element tree with dictionary and classification divs.
-func BuildBackDiv(entries []*Entry, classWLSPH, classWLSP *etree.Element) *etree.Element {
+// BuildBackDiv creates the <back> element tree with two dictionary divs and classification divs.
+// Dict A (reading-index): kana-first, hom per orthographic form.
+// Dict B (dictionary): lemma-keyed, with gramGrp and sense.
+func BuildBackDiv(entries []*Entry, pronEntries []*PronEntry, classWLSPH, classWLSP *etree.Element) *etree.Element {
 	back := etree.NewElement("back")
 
-	// Dictionary div.
+	// Dict A: reading index.
+	if len(pronEntries) > 0 {
+		idxDiv := back.CreateElement("div")
+		idxDiv.CreateAttr("type", "reading-index")
+		idxHead := idxDiv.CreateElement("head")
+		idxHead.SetText("Reading Index")
+
+		for _, pe := range pronEntries {
+			entry := idxDiv.CreateElement("entry")
+			entry.CreateAttr("xml:id", pe.ID)
+			form := entry.CreateElement("form")
+			form.CreateAttr("type", "pron")
+			pron := form.CreateElement("pron")
+			pron.CreateAttr("notation", "kana")
+			pron.SetText(pe.Reading)
+			for _, hom := range pe.Homs {
+				h := entry.CreateElement("hom")
+				h.CreateAttr("n", fmt.Sprintf("%d", hom.N))
+				h.CreateAttr("xml:id", hom.ID)
+				ref := h.CreateElement("ref")
+				ref.CreateAttr("target", "#"+hom.RefID)
+			}
+		}
+	}
+
+	// Dict B: dictionary.
 	div := back.CreateElement("div")
 	div.CreateAttr("type", "dictionary")
 	head := div.CreateElement("head")
@@ -232,17 +256,6 @@ func BuildBackDiv(entries []*Entry, classWLSPH, classWLSP *etree.Element) *etree
 			pron := form.CreateElement("pron")
 			pron.CreateAttr("notation", "kana")
 			pron.SetText(reading)
-		}
-
-		// <form type="inflected"> for each attested surface form (only when multiple forms exist).
-		if len(e.InflectedForms) > 1 {
-			for _, surf := range e.InflectedForms {
-				inf := entry.CreateElement("form")
-				inf.CreateAttr("type", "inflected")
-				inf.CreateAttr("xml:id", e.InflectedFormID(surf))
-				infOrth := inf.CreateElement("orth")
-				infOrth.SetText(surf)
-			}
 		}
 
 		// <form type="compound"> for compound entries.

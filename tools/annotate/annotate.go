@@ -216,24 +216,18 @@ func collectLemText(el *etree.Element, sb *strings.Builder) {
 	}
 }
 
-// lemmaInfo holds the dictionary form and inflected forms for a single entry.
+// lemmaInfo holds the dictionary form and kana reading for a single entry.
 type lemmaInfo struct {
-	Orth           string // form[@type='lemma']/orth (kanji/mixed)
-	Reading        string // form[@type='lemma']/pron[@notation='kana']
-	InflectedForms []inflectedForm
+	Orth    string // form[@type='lemma']/orth (kanji/mixed)
+	Reading string // form[@type='lemma']/pron[@notation='kana']
 }
 
-// inflectedForm holds the id and kana orth of one <form type="inflected">.
-type inflectedForm struct {
-	ID   string // e.g. "w.思ふ.おもひ"
-	Orth string // e.g. "おもひ"
-}
-
-// buildLemmaInfo builds a map from lemmaRef fragment (e.g. "w.浦") to both
-// the orth, kana reading, and inflected forms from the dictionary entries in <back>.
+// buildLemmaInfo builds a map from Dict A hom ID (reading.lemma, e.g. "おもひ.思ふ")
+// to the orth and kana reading from the corresponding Dict B entry.
 func buildLemmaInfo(doc *etree.Document) map[string]lemmaInfo {
-	m := make(map[string]lemmaInfo)
-	for _, entry := range doc.FindElements("//back//entry") {
+	// Build Dict B: entry ID → (orth, reading).
+	dictB := make(map[string]lemmaInfo)
+	for _, entry := range doc.FindElements("//back//div[@type='dictionary']/entry") {
 		id := entry.SelectAttrValue("xml:id", "")
 		if id == "" {
 			continue
@@ -245,67 +239,159 @@ func buildLemmaInfo(doc *etree.Document) map[string]lemmaInfo {
 		if pron := entry.FindElement("form[@type='lemma']/pron[@notation='kana']"); pron != nil {
 			info.Reading = pron.Text()
 		}
-		for _, f := range entry.SelectElements("form") {
-			if f.SelectAttrValue("type", "") != "inflected" {
-				continue
-			}
-			fID := f.SelectAttrValue("xml:id", "")
-			fOrth := ""
-			if o := f.SelectElement("orth"); o != nil {
-				fOrth = o.Text()
-			}
-			if fID != "" && fOrth != "" {
-				info.InflectedForms = append(info.InflectedForms, inflectedForm{ID: fID, Orth: fOrth})
-			}
+		dictB[id] = info
+	}
+
+	// Build Dict A hom map: hom ID → lemmaInfo (via <ref target="#dictBID">).
+	m := make(map[string]lemmaInfo)
+	for _, hom := range doc.FindElements("//back//div[@type='reading-index']/entry/hom") {
+		homID := hom.SelectAttrValue("xml:id", "")
+		if homID == "" {
+			continue
 		}
-		m[id] = info
+		ref := hom.SelectElement("ref")
+		if ref == nil {
+			continue
+		}
+		target := strings.TrimPrefix(ref.SelectAttrValue("target", ""), "#")
+		if info, ok := dictB[target]; ok {
+			m[homID] = info
+		}
 	}
 	return m
 }
 
-// resolveInflectedRef returns the most specific lemmaRef for a token:
-// if a matching <form type="inflected"> exists, its xml:id is returned
-// (prefixed with "#"); otherwise the original lemma ref is returned unchanged.
-//
-// Matching is two-layer:
-//  1. Exact match on kanjiReading (from msd, may be empty or "???").
-//  2. Fallback: last rune of surface matches last rune of inflected orth.
-func resolveInflectedRef(lemmaRef, surface, kanjiReading string, info lemmaInfo) string {
-	if len(info.InflectedForms) == 0 {
-		return lemmaRef
+// buildDictAMap builds a map from (reading, lemma) → hom xml:id from Dict A.
+func buildDictAMap(doc *etree.Document) map[[2]string]string {
+	m := make(map[[2]string]string)
+	for _, hom := range doc.FindElements("//back//div[@type='reading-index']/entry/hom") {
+		homID := hom.SelectAttrValue("xml:id", "")
+		if homID == "" {
+			continue
+		}
+		dot := strings.Index(homID, ".")
+		if dot < 0 {
+			continue
+		}
+		m[[2]string{homID[:dot], homID[dot+1:]}] = homID
 	}
+	return m
+}
 
-	surfaceRunes := []rune(surface)
-	lastSurface := surfaceRunes[len(surfaceRunes)-1]
+// kanaVariants returns candidate kana forms to try when a surface does not
+// directly match a Dict A reading key. The Karoku manuscript systematically
+// writes voiced kana as their unvoiced counterparts (清濁の差), while
+// Hachidaishu KanjiReadings use the voiced form.
+// Historical kana→modern substitutions (ひ→い, ふ→う) are NOT applied
+// because Hachidaishu KanjiReadings already use historical kana.
+// kanaPairs lists substitutions tried when a surface does not match a Dict A key.
+// Two kinds:
+//  1. 清濁 (voicing): Karoku清音 → Hachidaishu濁音 (e.g. わひ→わび, さら→ざら)
+//  2. 歴史的仮名 (historical kana): Karoku modern → Hachidaishu historical
+//     (e.g. おら→をら, え→ゑ, い→ゐ)
+var kanaPairs = [][2]rune{
+	// 清濁
+	{'か', 'が'}, {'き', 'ぎ'}, {'く', 'ぐ'}, {'け', 'げ'}, {'こ', 'ご'},
+	{'さ', 'ざ'}, {'し', 'じ'}, {'す', 'ず'}, {'せ', 'ぜ'}, {'そ', 'ぞ'},
+	{'た', 'だ'}, {'ち', 'ぢ'}, {'つ', 'づ'}, {'て', 'で'}, {'と', 'ど'},
+	{'は', 'ば'}, {'ひ', 'び'}, {'ふ', 'ぶ'}, {'へ', 'べ'}, {'ほ', 'ぼ'},
+	// 歴史的仮名
+	{'お', 'を'}, {'え', 'ゑ'}, {'い', 'ゐ'},
+}
 
-	// Layer 1: exact KanjiReading match.
-	if kanjiReading != "" && kanjiReading != "???" {
-		for _, f := range info.InflectedForms {
-			if f.Orth == kanjiReading {
-				return "#" + f.ID
+// expandIterationMarks expands ゝ (repeat prev kana) and ゞ (repeat prev kana voiced).
+// e.g. かゝれ → かかれ
+func expandIterationMarks(s string) string {
+	runes := []rune(s)
+	out := make([]rune, 0, len(runes))
+	for i, r := range runes {
+		switch r {
+		case 'ゝ':
+			if i > 0 {
+				out = append(out, runes[i-1])
+			} else {
+				out = append(out, r)
+			}
+		case 'ゞ':
+			if i > 0 {
+				prev := runes[i-1]
+				voiced := prev
+				for _, p := range kanaPairs {
+					if p[0] == prev {
+						voiced = p[1]
+						break
+					}
+				}
+				out = append(out, voiced)
+			} else {
+				out = append(out, r)
+			}
+		default:
+			out = append(out, r)
+		}
+	}
+	return string(out)
+}
+
+func kanaVariants(s string) []string {
+	runes := []rune(s)
+	var variants []string
+	for _, pair := range kanaPairs {
+		for i, r := range runes {
+			if r == pair[0] {
+				v := make([]rune, len(runes))
+				copy(v, runes)
+				v[i] = pair[1]
+				variants = append(variants, string(v))
 			}
 		}
 	}
+	return variants
+}
 
-	// Layer 2: last-rune match.
-	var candidates []inflectedForm
-	for _, f := range info.InflectedForms {
-		orthRunes := []rune(f.Orth)
-		if len(orthRunes) > 0 && orthRunes[len(orthRunes)-1] == lastSurface {
-			candidates = append(candidates, f)
+// RefineTokenRefs updates lemmaRef values in tokens using Dict A lookup.
+// For each token where surface ≠ current reading, it tries:
+//  1. (surface, lemma) exact lookup in Dict A
+//  2. (normalized_surface, lemma) lookup for historical kana variants
+//
+// This corrects lemmaRefs left over from migration that used the lemma
+// reading instead of the actual surface kana.
+func RefineTokenRefs(tokens []Token, doc *etree.Document) []Token {
+	dictA := buildDictAMap(doc)
+	result := make([]Token, len(tokens))
+	copy(result, tokens)
+
+	for i, tok := range result {
+		homID := strings.TrimPrefix(tok.LemmaRef, "#")
+		dot := strings.Index(homID, ".")
+		if dot < 0 {
+			continue
+		}
+		currentReading := homID[:dot]
+		lemma := homID[dot+1:]
+		surface := expandIterationMarks(tok.Surface)
+		if surface == "" || surface == currentReading {
+			continue
+		}
+		// Layer 1: exact surface lookup.
+		if newID, ok := dictA[[2]string{surface, lemma}]; ok {
+			result[i].LemmaRef = "#" + newID
+			continue
+		}
+		// Layer 2: kana variant lookup.
+		for _, variant := range kanaVariants(surface) {
+			if newID, ok := dictA[[2]string{variant, lemma}]; ok {
+				result[i].LemmaRef = "#" + newID
+				break
+			}
 		}
 	}
-	if len(candidates) == 1 {
-		return "#" + candidates[0].ID
-	}
-
-	return lemmaRef
+	return result
 }
 
 // HachiTokens extracts the ordered token list for poem n from the Hachidaishu
 // document (looks for <lg type="waka" n="N">). Lemma and Reading are populated
-// from the dictionary <back> for use as rune-count proxies. LemmaRef is
-// resolved to the most specific inflected form ID when possible.
+// from the dictionary <back> for use as rune-count proxies.
 func HachiTokens(doc *etree.Document, n int) []Token {
 	path := fmt.Sprintf("//lg[@type='waka'][@n='%d']", n)
 	lg := doc.FindElement(path)
@@ -318,11 +404,9 @@ func HachiTokens(doc *etree.Document, n int) []Token {
 		ref := w.SelectAttrValue("lemmaRef", "")
 		lemmaKey := strings.TrimPrefix(ref, "#")
 		info := lemmas[lemmaKey]
-		kanjiReading := w.SelectAttrValue("kanjiReading", "")
-		resolvedRef := resolveInflectedRef(ref, w.Text(), kanjiReading, info)
 		tokens = append(tokens, Token{
 			Surface:  w.Text(),
-			LemmaRef: resolvedRef,
+			LemmaRef: ref,
 			Lemma:    info.Orth,
 			Reading:  info.Reading,
 		})

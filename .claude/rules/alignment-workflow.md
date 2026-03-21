@@ -57,33 +57,43 @@ Rules:
 
 ## lemmaRef Format
 
-lemmaRef now resolves to the most specific inflected form when available:
-- `#w.立つ.たて` — inflected form (preferred)
-- `#w.立つ` — lemma entry (fallback when no inflected form matches)
+lemmaRef points to a Dict A hom in the two-layer dictionary structure:
 
-Resolution is automatic during draft generation (layer 1: exact `kanjiReading`
-match; layer 2: last-rune match). Do not manually construct inflected form IDs.
+```
+#reading.lemma
+```
+
+Examples:
+- `#われ.我` — `われ` is the KanjiReading (surface kana), `我` is the lemma
+- `#かかれ.掛かる` — inflected form (KanjiReading of the actual token)
+- `#に.ぬ` — auxiliary `ぬ` read as `に` (already-inflected form)
+
+The reading part is the Hachidaishu KanjiReading for that token, not the
+dictionary base form. This is set automatically during draft generation via
+Dict A lookup — do not manually construct IDs.
 
 **Multiple refs** are supported as a space-separated list in the second column:
 
 ```
-つれ	#w.つ.つれ #w.つ.h1	# inflected form + homograph disambiguation
+つれ	#つれ.つ #に.ぬ	# two refs for disambiguation
 ```
 
-This is useful when a token needs both an inflected form ref and a homograph
-ref (e.g. `つ` has `h1`=Aux and `h2`=particle, but inflected forms are at the
-lemma level). The list is written verbatim into `lemmaRef="…"` in the XML.
+The list is written verbatim into `lemmaRef="…"` in the XML.
 
 ## Already-Annotated Poems
 
-When `/align-poem N` is run on a poem that already has `<w>` elements in
-`kokin-annotated.xml`, the draft is reconstructed directly from the XML:
-- All segments will show `[✓]` (surfaces already match)
-- Existing inflected form refs are preserved
-- rdg rows show individual already-annotated tokens (not a placeholder)
+When `/align-poem N` is run on a poem that already has `<w>` elements,
+`prepare` uses a two-step strategy:
 
-This makes re-opening an annotated poem safe — the draft reflects the actual
-state of the XML.
+1. **Approach A** — Try re-alignment with fresh Hachidaishu tokens. If
+   `AlignPoem` succeeds, lemmaRefs are refreshed from the wordlist (correct
+   KanjiReading-based IDs).
+2. **Approach B** — If alignment fails (orthographic divergence), keep the
+   existing annotation and run `RefineTokenRefs` to fix kana mismatches
+   (清濁の差, 歴史的仮名遣い, ゝ/ゞ expansion).
+
+Re-opening an annotated poem is safe — the draft shows the current XML state
+and all segments will show `[✓]` if surfaces still match.
 
 ## Key Constraint
 

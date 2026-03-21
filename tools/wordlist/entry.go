@@ -58,23 +58,47 @@ type ModernRef struct {
 	Lemma string
 }
 
-// Entry represents a dictionary <entry> in <back>.
+// Entry represents a dictionary <entry> in Dict B (<back><div type="dictionary">).
 // Keyed by Lemma alone; an entry may have multiple readings.
 type Entry struct {
-	ID             string   // xml:id, e.g. "w.年"
-	Lemma          string
-	LemmaReadings  []string // unique readings, sorted
-	InflectedForms []string // unique attested surface forms, sorted (excludes "???")
-	Grams          []GramInfo
-	Senses         []Sense
-	IsCompound     bool
-	Parts          []CompoundPart // only if IsCompound
-	Modern         *ModernRef     // modern form cross-reference, if any
+	ID            string   // xml:id, e.g. "年"
+	Lemma         string
+	LemmaReadings []string // unique readings, sorted
+	Grams         []GramInfo
+	Senses        []Sense
+	IsCompound    bool
+	Parts         []CompoundPart // only if IsCompound
+	Modern        *ModernRef     // modern form cross-reference, if any
 }
 
-// EntryID returns the xml:id for an entry given its lemma.
+// PronHom represents one orthographic form (lemma) for a given reading in Dict A.
+type PronHom struct {
+	N     int
+	ID    string // xml:id, e.g. "はる.春"
+	Lemma string // the lemma this hom represents, e.g. "春"
+	RefID string // Dict B entry ID, e.g. "春"
+}
+
+// PronEntry represents a reading-indexed entry in Dict A (<back><div type="reading-index">).
+type PronEntry struct {
+	ID      string // xml:id, e.g. "はる"
+	Reading string // kana reading
+	Homs    []PronHom
+}
+
+// EntryID returns the xml:id for a Dict B entry given its lemma.
 func EntryID(lemma string) string {
-	return "w." + sanitizeNCName(lemma)
+	return sanitizeNCName(lemma)
+}
+
+// PronEntryID returns the xml:id for a Dict A reading entry.
+func PronEntryID(reading string) string {
+	return sanitizeNCName(reading)
+}
+
+// PronHomID returns the xml:id for a Dict A hom (reading.orth).
+func PronHomID(reading, orth string) string {
+	return sanitizeNCName(reading) + "." + sanitizeNCName(orth)
 }
 
 // sanitizeNCName replaces characters that are not valid in XML NCName.
@@ -125,7 +149,6 @@ func BuildEntries(tokens []Token) []*Entry {
 	gramSeen := make(map[string]map[GramKey]bool)
 	senseSeen := make(map[string]map[SenseKey]bool)
 	readingSeen := make(map[string]map[string]bool)
-	surfaceSeen := make(map[string]map[string]bool)
 
 	for _, tok := range tokens {
 		key := tok.Lemma
@@ -140,13 +163,6 @@ func BuildEntries(tokens []Token) []*Entry {
 			gramSeen[key] = make(map[GramKey]bool)
 			senseSeen[key] = make(map[SenseKey]bool)
 			readingSeen[key] = make(map[string]bool)
-			surfaceSeen[key] = make(map[string]bool)
-		}
-
-		// Collect unique attested inflected forms from KanjiReading (excluding placeholder and 2nd+ rdg).
-		if !tok.InSecondRdg && tok.MSD.KanjiReading != "" && tok.MSD.KanjiReading != "???" && !surfaceSeen[key][tok.MSD.KanjiReading] {
-			surfaceSeen[key][tok.MSD.KanjiReading] = true
-			e.InflectedForms = append(e.InflectedForms, tok.MSD.KanjiReading)
 		}
 
 		// Collect unique readings.
@@ -190,11 +206,10 @@ func BuildEntries(tokens []Token) []*Entry {
 		}
 	}
 
-	// Collect entries, sort readings and inflected forms, number senses.
+	// Collect entries, sort readings, number senses.
 	entries := make([]*Entry, 0, len(entryMap))
 	for _, e := range entryMap {
 		sort.Strings(e.LemmaReadings)
-		sort.Strings(e.InflectedForms)
 		for i := range e.Senses {
 			e.Senses[i].N = i + 1
 		}
@@ -204,6 +219,55 @@ func BuildEntries(tokens []Token) []*Entry {
 		return entries[i].ID < entries[j].ID
 	})
 
+	return entries
+}
+
+// BuildPronEntries groups tokens by surface kana string, creating Dict A entries.
+// The primary key is KanjiReading (the actual kana of the inflected form as it
+// appears in text), falling back to LemmaReading when absent.
+// Each unique (reading, lemma) pair becomes one PronHom.
+func BuildPronEntries(tokens []Token) []*PronEntry {
+	type key struct{ reading, lemma string }
+	seen := make(map[key]bool)
+	readingHoms := make(map[string][]PronHom) // reading → homs
+
+	for _, tok := range tokens {
+		reading := tok.MSD.KanjiReading
+		if reading == "" || reading == "???" || reading == "-" {
+			reading = tok.MSD.LemmaReading
+		}
+		if reading == "" {
+			continue
+		}
+		k := key{reading, tok.Lemma}
+		if seen[k] {
+			continue
+		}
+		seen[k] = true
+		readingHoms[reading] = append(readingHoms[reading], PronHom{
+			Lemma: tok.Lemma,
+			RefID: EntryID(tok.Lemma),
+		})
+	}
+
+	entries := make([]*PronEntry, 0, len(readingHoms))
+	for reading, homs := range readingHoms {
+		sort.Slice(homs, func(i, j int) bool {
+			return homs[i].Lemma < homs[j].Lemma
+		})
+		for i := range homs {
+			homs[i].N = i + 1
+			homs[i].ID = PronHomID(reading, homs[i].Lemma)
+		}
+		entries = append(entries, &PronEntry{
+			ID:      PronEntryID(reading),
+			Reading: reading,
+			Homs:    homs,
+		})
+	}
+	sort.Slice(entries, func(i, j int) bool {
+		return entries[i].ID < entries[j].ID
+	})
 	return entries
 }
 
@@ -253,7 +317,3 @@ func (e *Entry) HomID(n int) string {
 	return fmt.Sprintf("%s.h%d", e.ID, n)
 }
 
-// InflectedFormID returns the xml:id for an inflected form of this entry.
-func (e *Entry) InflectedFormID(orth string) string {
-	return e.ID + "." + sanitizeNCName(orth)
-}

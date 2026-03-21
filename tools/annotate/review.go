@@ -212,18 +212,19 @@ func ParseDraftGroups(content string) [][]Token {
 	return groups
 }
 
-// elideableParticles lists the lemma prefixes (without leading "#") whose
-// tokens may have an empty surface (elided in Karoku but present in Hachidaishu).
-// Only の (no), が (ga), and か (ka) are allowed.
-var elideableParticles = []string{"w.の", "w.が", "w.か"}
-
-// isElideableParticle reports whether lemmaRef (e.g. "#w.の.h1") refers to
-// one of the permitted elideable particles.
+// isElideableParticle reports whether lemmaRef refers to one of the permitted
+// elideable particles: の (no), が (ga), か (ka).
+// lemmaRef is in new two-layer format "reading.lemma" (e.g. "の.の", "が.が").
+// Multiple space-separated refs are supported — any matching ref returns true.
 func isElideableParticle(lemmaRef string) bool {
-	ref := strings.TrimPrefix(lemmaRef, "#")
-	for _, p := range elideableParticles {
-		if ref == p || strings.HasPrefix(ref, p+".") || strings.HasPrefix(ref, p+"h") {
-			return true
+	for _, ref := range strings.Fields(lemmaRef) {
+		ref = strings.TrimPrefix(ref, "#")
+		if idx := strings.Index(ref, "."); idx >= 0 {
+			lemma := ref[idx+1:]
+			switch lemma {
+			case "の", "が", "か":
+				return true
+			}
 		}
 	}
 	return false

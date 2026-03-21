@@ -203,7 +203,6 @@ func main() {
 	log.Printf("updated=%d  kept=%d  not-found=%d", updated, kept, notfound)
 
 	log.Printf("writing %s", *output)
-	ann.Indent(2)
 	ann.WriteSettings.CanonicalAttrVal = true
 	ann.WriteSettings.CanonicalText = true
 	if err := ann.WriteToFile(*output); err != nil {

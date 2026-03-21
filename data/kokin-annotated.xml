@@ -7809,11 +7809,30 @@
           <pb n="1-24v" facs="#p033"/>
           <lb/>
           <l n="153" xml:id="n153" resp="#紀友則">
-            <seg>五月雨に</seg>
-            <seg>物思ひをれは</seg>
-            <seg>時鳥</seg>
-            <seg>夜深く鳴て</seg>
-            <seg>いつち行覧</seg>
+            <seg>
+              <w lemmaRef="#さみだれ.五月雨">五月雨</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#もの.物">物</w>
+              <w lemmaRef="#おもひ.思ふ">思ひ</w>
+              <w lemmaRef="#をれ.居り">をれ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ほととぎす.郭公">時鳥</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#よ.夜">夜</w>
+              <w lemmaRef="#ふかく.深し">深く</w>
+              <w lemmaRef="#なき.鳴く">鳴</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いづち.何方">いつち</w>
+              <w lemmaRef="#ゆく.行く">行</w>
+              <w lemmaRef="#らむ.らむ">覧</w>
+            </seg>
           </l>
         </div>
         <lb/>

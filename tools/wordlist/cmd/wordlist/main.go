@@ -44,12 +44,16 @@ func main() {
 	wordlist.MarkCompounds(entries, compounds, modernRefs)
 	log.Printf("built %d entries (%d compounds)", len(entries), countCompounds(entries))
 
+	log.Println("building pron entries...")
+	pronEntries := wordlist.BuildPronEntries(tokens)
+	log.Printf("built %d pron entries", len(pronEntries))
+
 	log.Println("flattening <app> blocks...")
 	flatCount := wordlist.FlattenApps(doc)
 	log.Printf("flattened %d <app> blocks", flatCount)
 
 	log.Println("transforming body...")
-	wordlist.TransformBody(doc, entries)
+	wordlist.TransformBody(doc, pronEntries)
 
 	// Build classification lists.
 	usedWLSPH := wordlist.WLSPHCodesFromTokens(tokens)
@@ -75,7 +79,7 @@ func main() {
 	}
 
 	log.Println("building dictionary...")
-	back := wordlist.BuildBackDiv(entries, classWLSPH, classWLSP)
+	back := wordlist.BuildBackDiv(entries, pronEntries, classWLSPH, classWLSP)
 	wordlist.InsertBack(doc, back)
 
 	log.Println("updating header...")

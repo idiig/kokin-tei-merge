@@ -7774,11 +7774,30 @@
           </note>
           <lb/>
           <l n="152" xml:id="n152" resp="#三国町">
-            <seg>やよやまて</seg>
-            <seg>山郭公</seg>
-            <seg>事つてむ</seg>
-            <seg>我世中に</seg>
-            <seg>すみわひぬとよ</seg>
+            <seg>
+              <w lemmaRef="#w.やよや">やよや</w>
+              <w lemmaRef="#w.待つ.h1">まて</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.山郭公">山郭公</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.事">事</w>
+              <w lemmaRef="#w.伝つ">つて</w>
+              <w lemmaRef="#w.む.む">む</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.我.われ">我</w>
+              <w lemmaRef="#w.世の中">世中</w>
+              <w lemmaRef="#w.に.h1">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#w.住む.すみ">すみ</w>
+              <w lemmaRef="#w.侘ぶ.わび">わひ</w>
+              <w lemmaRef="#w.ぬ.ぬ">ぬ</w>
+              <w lemmaRef="#w.と.h1">と</w>
+              <w lemmaRef="#w.よ.h1">よ</w>
+            </seg>
           </l>
         </div>
         <lb/>

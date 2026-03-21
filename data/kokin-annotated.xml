@@ -1944,7 +1944,7 @@
             </seg>
             <seg>
               <w lemmaRef="#はる.春">春</w>
-              <w lemmaRef="#たち.立つ">立</w>
+              <w lemmaRef="#たつ.立つ">立</w>
               <w lemmaRef="#けふ.今日">けふ</w>
               <w lemmaRef="#の.の">の</w>
             </seg>
@@ -7838,11 +7838,34 @@
         <lb/>
         <div type="和歌">
           <l n="154" xml:id="n154" resp="#紀友則">
-            <seg>夜や暗き</seg>
-            <seg>道やまとへる</seg>
-            <seg>時鳥</seg>
-            <seg>わかやとをしも</seg>
-            <seg>過かてに鳴</seg>
+            <seg>
+              <w lemmaRef="#よ.夜">夜</w>
+              <w lemmaRef="#や.や">や</w>
+              <w lemmaRef="#くらき.暗し">暗き</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みち.道">道</w>
+              <w lemmaRef="#や.や">や</w>
+              <w lemmaRef="#まどへ.惑ふ">まとへ</w>
+              <w lemmaRef="#る.り">る</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ほととぎす.時鳥">時鳥</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わ.我">わ</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#やど.宿">やと</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#し.し">し</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#すぎ.過ぐ">過</w>
+              <w lemmaRef="#かて.勝つ">かて</w>
+              <w lemmaRef="#に.ず">に</w>
+              <w lemmaRef="#なく.鳴く">鳴</w>
+            </seg>
           </l>
         </div>
         <lb/>

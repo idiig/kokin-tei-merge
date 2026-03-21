@@ -6,7 +6,7 @@ Merging two TEI XML sources for the Kokinwakashu (古今和歌集): a lexically 
 
 ## Language Policy
 
-- **Conversation**: Chinese
+- **Conversation**: Japanese
 - **Documentation (docs/, README, CLAUDE.md)**: English
 - **Code and commit messages**: English
 - **XML content**: Japanese (original text)

@@ -178,20 +178,20 @@ func TransformBody(doc *etree.Document, pronEntries []*PronEntry) {
 		msdStr := w.SelectAttrValue("msd", "")
 		msd := ParseMSD(msdStr)
 
-		k := pronRefKey{msd.LemmaReading, lemma}
+		// Use surface kana (KanjiReading) as primary key; fall back to LemmaReading.
+		reading := msd.KanjiReading
+		if reading == "" || reading == "???" || reading == "-" {
+			reading = msd.LemmaReading
+		}
+
+		k := pronRefKey{reading, lemma}
 		if id, ok := refMap[k]; ok {
 			w.CreateAttr("lemmaRef", id)
 		} else if lemma != "" {
-			// Fallback: direct Dict B reference when no reading is available.
 			w.CreateAttr("lemmaRef", "#"+EntryID(lemma))
-			log.Printf("warning: no pron entry for reading=%q lemma=%q, using fallback", msd.LemmaReading, lemma)
+			log.Printf("warning: no pron entry for reading=%q lemma=%q, using fallback", reading, lemma)
 		} else {
 			log.Printf("warning: no entry for lemma=%q", lemma)
-		}
-
-		// Preserve KanjiReading for alignment tooling.
-		if msd.KanjiReading != "" && msd.KanjiReading != "???" {
-			w.CreateAttr("kanjiReading", msd.KanjiReading)
 		}
 
 		w.RemoveAttr("pos")

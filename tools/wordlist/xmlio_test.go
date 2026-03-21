@@ -398,7 +398,7 @@ func TestTransformBody(t *testing.T) {
 	TransformBody(doc, pronEntries)
 
 	for _, w := range doc.FindElements("//w") {
-		for _, attr := range []string{"pos", "lemma", "msd"} {
+		for _, attr := range []string{"pos", "lemma", "msd", "kanjiReading"} {
 			if w.SelectAttrValue(attr, "MISSING") != "MISSING" {
 				t.Errorf("w still has %s", attr)
 			}

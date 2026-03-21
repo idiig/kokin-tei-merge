@@ -222,7 +222,9 @@ func BuildEntries(tokens []Token) []*Entry {
 	return entries
 }
 
-// BuildPronEntries groups tokens by reading, creating Dict A entries.
+// BuildPronEntries groups tokens by surface kana string, creating Dict A entries.
+// The primary key is KanjiReading (the actual kana of the inflected form as it
+// appears in text), falling back to LemmaReading when absent.
 // Each unique (reading, lemma) pair becomes one PronHom.
 func BuildPronEntries(tokens []Token) []*PronEntry {
 	type key struct{ reading, lemma string }
@@ -230,7 +232,10 @@ func BuildPronEntries(tokens []Token) []*PronEntry {
 	readingHoms := make(map[string][]PronHom) // reading → homs
 
 	for _, tok := range tokens {
-		reading := tok.MSD.LemmaReading
+		reading := tok.MSD.KanjiReading
+		if reading == "" || reading == "???" || reading == "-" {
+			reading = tok.MSD.LemmaReading
+		}
 		if reading == "" {
 			continue
 		}

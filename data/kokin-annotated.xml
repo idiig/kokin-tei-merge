@@ -9474,11 +9474,29 @@
         <lb/>
         <div type="和歌">
           <l n="200" xml:id="n200" resp="#よみ人知らず">
-            <seg>君忍</seg>
-            <seg>草にやつるゝ</seg>
-            <seg>ふるさとは</seg>
-            <seg>松虫のねそ</seg>
-            <seg>悲かりける</seg>
+            <seg>
+              <w lemmaRef="#きみ.君">君</w>
+              <w lemmaRef="#しのぶ.忍ぶ">忍</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#くさ.草">草</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#やつるる.窶る">やつるゝ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ふるさと.古里">ふるさと</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#まつむし.松虫">松虫</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#ね.音">ね</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かなしかり.悲し">悲かり</w>
+              <w lemmaRef="#ける.けり">ける</w>
+            </seg>
           </l>
         </div>
         <lb/>

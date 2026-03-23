@@ -8166,11 +8166,31 @@
           <pb n="1-25v" facs="#p034"/>
           <lb/>
           <l n="163" xml:id="n163" resp="#壬生忠岑">
-            <seg>昔へや</seg>
-            <seg>今もこひしき</seg>
-            <seg>郭公</seg>
-            <seg>𦾔里にしも</seg>
-            <seg>なきてきつらむ</seg>
+            <seg>
+              <w lemmaRef="#むかしべ.昔方">昔へ</w>
+              <w lemmaRef="#や.や">や</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いま.今">今</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#こひしき.恋し">こひしき</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ほととぎす.時鳥">郭公</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ふるさと.古里">𦾔里</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#し.し">し</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なき.鳴く">なき</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#き.来">き</w>
+              <w lemmaRef="#つ.つ">つ</w>
+              <w lemmaRef="#らむ.らむ">らむ</w>
+            </seg>
           </l>
         </div>
         <lb/>

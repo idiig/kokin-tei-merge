@@ -9298,11 +9298,33 @@
           </note>
           <lb/>
           <l n="195" xml:id="n195" resp="#在原元方">
-            <seg>秋の夜の</seg>
-            <seg>月のひかりし</seg>
-            <seg>あかけれは</seg>
-            <seg>くらふの山も</seg>
-            <seg>こえぬへら也</seg>
+            <seg>
+              <w lemmaRef="#あき.秋">秋</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#よ.夜">夜</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#つき.月">月</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#ひかり.光">ひかり</w>
+              <w lemmaRef="#し.し">し</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あかけれ.明し">あかけれ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#くらぶ.暗部">くらふ</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#やま.山">山</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こえ.越ゆ">こえ</w>
+              <w lemmaRef="#ぬ.ぬ">ぬ</w>
+              <w lemmaRef="#べらなり.べらなり">へら也</w>
+            </seg>
           </l>
         </div>
         <lb/>

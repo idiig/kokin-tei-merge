@@ -8503,11 +8503,31 @@
         <lb/>
         <div type="和歌">
           <l n="172" xml:id="n172" resp="#よみ人知らず">
-            <seg>昨日こそ</seg>
-            <seg>早苗取しか</seg>
-            <seg>いつのまに</seg>
-            <seg>いなはそよきて</seg>
-            <seg>秋風の吹</seg>
+            <seg>
+              <w lemmaRef="#きのふ.昨日">昨日</w>
+              <w lemmaRef="#こそ.こそ">こそ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#さなへ.早苗">早苗</w>
+              <w lemmaRef="#とり.取る">取</w>
+              <w lemmaRef="#しか.き">しか</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いつ.何時">いつ</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#ま.間">ま</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いなば.稲葉">いなは</w>
+              <w lemmaRef="#そよぎ.戦ぐ">そよき</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あきかぜ.秋風">秋風</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#ふく.吹く">吹</w>
+            </seg>
           </l>
         </div>
         <lb/>

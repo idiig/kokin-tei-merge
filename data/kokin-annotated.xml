@@ -8275,11 +8275,33 @@
           </note>
           <lb/>
           <l n="166" xml:id="n166" resp="#清原深養父">
-            <seg>夏の夜は</seg>
-            <seg>またよゐなから</seg>
-            <seg>あけぬるを</seg>
-            <seg>雲のいつこに</seg>
-            <seg>月やとる覧</seg>
+            <seg>
+              <w lemmaRef="#なつ.夏">夏</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#よ.夜">夜</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#まだ.まだ">また</w>
+              <w lemmaRef="#よひ.宵">よゐ</w>
+              <w lemmaRef="#ながら.ながら">なから</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あけ.明く">あけ</w>
+              <w lemmaRef="#ぬる.ぬ">ぬる</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#くも.雲">雲</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#いづこ.何処">いつこ</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#つき.月">月</w>
+              <w lemmaRef="#やどる.宿る">やとる</w>
+              <w lemmaRef="#らむ.らむ">覧</w>
+            </seg>
           </l>
         </div>
         <lb/>

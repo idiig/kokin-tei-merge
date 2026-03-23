@@ -9262,11 +9262,32 @@
           </note>
           <lb/>
           <l n="194" xml:id="n194" resp="#壬生忠岑">
-            <seg>久方の</seg>
-            <seg>月の桂も</seg>
-            <seg>秋は猶</seg>
-            <seg>もみちすれはや</seg>
-            <seg>てりまさるらむ</seg>
+            <seg>
+              <w lemmaRef="#ひさかた.久方">久方</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#つき.月">月</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#かつら.桂">桂</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あき.秋">秋</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#なほ.猶">猶</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#もみぢ.紅葉づ">もみち</w>
+              <w lemmaRef="#すれ.す">すれ</w>
+              <w lemmaRef="#ば.ば">は</w>
+              <w lemmaRef="#や.や">や</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#てり.照る">てり</w>
+              <w lemmaRef="#まさる.増さる">まさる</w>
+              <w lemmaRef="#らむ.らむ">らむ</w>
+            </seg>
           </l>
         </div>
         <lb/>

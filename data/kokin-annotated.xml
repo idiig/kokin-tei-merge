@@ -8697,11 +8697,30 @@
           </note>
           <lb/>
           <l n="178" xml:id="n178" resp="#藤原興風">
-            <seg>契釼</seg>
-            <seg>心そ列き</seg>
-            <seg>たなはたの</seg>
-            <seg>年にひとたひ</seg>
-            <seg>あふはあふかは</seg>
+            <seg>
+              <w lemmaRef="#ちぎり.契る">契</w>
+              <w lemmaRef="#けむ.けむ">釼</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こころ.心">心</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#つらき.辛し">列き</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たなばた.織女">たなはた</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#とし.年">年</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#ひとたび.一度">ひとたひ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あふ.逢ふ">あふ</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#あふ.逢ふ">あふ</w>
+              <w lemmaRef="#かは.かは">かは</w>
+            </seg>
           </l>
         </div>
         <lb/>

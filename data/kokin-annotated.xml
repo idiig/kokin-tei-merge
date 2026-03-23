@@ -8533,11 +8533,34 @@
         <lb/>
         <div type="和歌">
           <l n="173" xml:id="n173" resp="#よみ人知らず">
-            <seg>秋風の</seg>
-            <seg>吹にし日より</seg>
-            <seg>久方の</seg>
-            <seg>あまの河原に</seg>
-            <seg>たゝぬ日はなし</seg>
+            <seg>
+              <w lemmaRef="#あきかぜ.秋風">秋風</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ふき.吹く">吹</w>
+              <w lemmaRef="#に.ぬ">に</w>
+              <w lemmaRef="#し.き">し</w>
+              <w lemmaRef="#ひ.日">日</w>
+              <w lemmaRef="#より.より">より</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひさかた.久方">久方</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あま.天">あま</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#かはら.河原">河原</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たた.立つ">たゝ</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+              <w lemmaRef="#ひ.日">日</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#なし.無し">なし</w>
+            </seg>
           </l>
         </div>
         <pb n="1-27r" facs="#p035"/>

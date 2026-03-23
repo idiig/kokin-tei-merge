@@ -8094,11 +8094,33 @@
           </note>
           <lb/>
           <l n="161" xml:id="n161" resp="#凡河内躬恒">
-            <seg>郭公</seg>
-            <seg>聲もきこえす</seg>
-            <seg>山ひこは</seg>
-            <seg>外になくねを</seg>
-            <seg>こたへやはせぬ</seg>
+            <seg>
+              <w lemmaRef="#ほととぎす.時鳥">郭公</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こゑ.声">聲</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#きこえ.聞ゆ">きこえ</w>
+              <w lemmaRef="#ず.ず">す</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#やまびこ.山彦">山ひこ</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ほか.外">外</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#なく.鳴く">なく</w>
+              <w lemmaRef="#ね.音">ね</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こたへ.答ふ">こたへ</w>
+              <w lemmaRef="#や.や">や</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#せ.す">せ</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+            </seg>
           </l>
         </div>
         <lb/>

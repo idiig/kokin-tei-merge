@@ -8637,7 +8637,9 @@
               <w lemmaRef="#は.は">は</w>
               <w lemmaRef="#こよひ.今宵">今夜</w>
             </seg>
-            <seg>天河</seg>
+            <seg>
+              <w lemmaRef="#あまのかは.天の河">あまのかは</w>
+            </seg>
             <seg>
               <w lemmaRef="#きり.霧">霧</w>
               <w lemmaRef="#たち.立つ">立</w>

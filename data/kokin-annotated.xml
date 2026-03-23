@@ -8801,11 +8801,33 @@
           </note>
           <lb/>
           <l n="181" xml:id="n181" resp="#素性法師">
-            <seg>今夜こむ</seg>
-            <seg>人にはあはし</seg>
-            <seg>たなはたの</seg>
-            <seg>ひさしき程に</seg>
-            <seg>まちもこそすれ</seg>
+            <seg>
+              <w lemmaRef="#こよひ.今宵">今夜</w>
+              <w lemmaRef="#こ.来">こ</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#あは.逢ふ">あは</w>
+              <w lemmaRef="#じ.じ">し</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たなばた.七夕">たなはた</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひさしき.久し">ひさしき</w>
+              <w lemmaRef="#ほど.程">程</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#まち.待つ">まち</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#こそ.こそ">こそ</w>
+              <w lemmaRef="#すれ.す">すれ</w>
+            </seg>
           </l>
         </div>
         <lb/>

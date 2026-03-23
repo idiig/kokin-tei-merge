@@ -8911,11 +8911,35 @@
           </note>
           <lb/>
           <l n="184" xml:id="n184" resp="#よみ人知らず">
-            <seg>このまより</seg>
-            <seg>もりくる月の</seg>
-            <seg>影見れは</seg>
-            <seg>心つくしの</seg>
-            <seg>秋はきにけり</seg>
+            <seg>
+              <w lemmaRef="#こ.木">こ</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#ま.間">ま</w>
+              <w lemmaRef="#より.より">より</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#もり.漏る">もり</w>
+              <w lemmaRef="#くる.来">くる</w>
+              <w lemmaRef="#つき.月">月</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かげ.影">影</w>
+              <w lemmaRef="#みれ.見る">見れ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こころ.心">心</w>
+              <w lemmaRef="#つくし.尽す">つくし</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あき.秋">秋</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#き.来">き</w>
+              <w lemmaRef="#に.ぬ">に</w>
+              <w lemmaRef="#けり.けり">けり</w>
+            </seg>
           </l>
         </div>
         <lb/>

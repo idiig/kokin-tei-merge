@@ -9077,11 +9077,36 @@
             <persName corresp="#是貞親王">是貞</persName>　仁和第二　元右中将</note>
           <lb/>
           <l n="189" xml:id="n189" resp="#よみ人知らず">
-            <seg>いつはとは</seg>
-            <seg>時はわかねと</seg>
-            <seg>秋の夜そ</seg>
-            <seg>物思事の</seg>
-            <seg>限なりける</seg>
+            <seg>
+              <w lemmaRef="#いつ.何時">いつ</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#とき.時">時</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#わか.分く">わか</w>
+              <w lemmaRef="#ね.ず">ね</w>
+              <w lemmaRef="#ど.ど">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あき.秋">秋</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#よ.夜">夜</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#もの.物">物</w>
+              <w lemmaRef="#おもふ.思ふ">思</w>
+              <w lemmaRef="#こと.事">事</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かぎり.限る">限</w>
+              <w lemmaRef="#なり.なり">なり</w>
+              <w lemmaRef="#けり.けり">ける</w>
+            </seg>
           </l>
         </div>
         <lb/>

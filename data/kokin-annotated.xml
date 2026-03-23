@@ -8874,11 +8874,33 @@
           </note>
           <lb/>
           <l n="183" xml:id="n183" resp="#壬生忠岑">
-            <seg>けふよりは</seg>
-            <seg>今こむ年の</seg>
-            <seg>昨日をそ</seg>
-            <seg>いつしかとのみ</seg>
-            <seg>まちわたるへき</seg>
+            <seg>
+              <w lemmaRef="#けふ.今日">けふ</w>
+              <w lemmaRef="#より.より">より</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いま.今">今</w>
+              <w lemmaRef="#こ.来">こ</w>
+              <w lemmaRef="#む.む">む</w>
+              <w lemmaRef="#とし.年">年</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#きのふ.昨日">昨日</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いつしか.何時しか">いつしか</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#のみ.のみ">のみ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#まち.待つ">まち</w>
+              <w lemmaRef="#わたる.渡る">わたる</w>
+              <w lemmaRef="#べき.べし">へき</w>
+            </seg>
           </l>
         </div>
         <lb/>

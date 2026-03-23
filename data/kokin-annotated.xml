@@ -7911,11 +7911,32 @@
           </note>
           <lb/>
           <l n="156" xml:id="n156" resp="#紀貫之">
-            <seg>夏の夜の</seg>
-            <seg>ふすかとすれは</seg>
-            <seg>郭公</seg>
-            <seg>なくひとこゑに</seg>
-            <seg>あくるしのゝめ</seg>
+            <seg>
+              <w lemmaRef="#なつ.夏">夏</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#よ.夜">夜</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ふす.伏す">ふす</w>
+              <w lemmaRef="#か.か">か</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#すれ.す">すれ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ほととぎす.時鳥">郭公</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なく.鳴く">なく</w>
+              <w lemmaRef="#ひと.一">ひと</w>
+              <w lemmaRef="#こゑ.声">こゑ</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あくる.明く">あくる</w>
+              <w lemmaRef="#しののめ.東雲">しのゝめ</w>
+            </seg>
           </l>
         </div>
         <lb/>

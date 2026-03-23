@@ -8237,11 +8237,33 @@
           </note>
           <lb/>
           <l n="165" xml:id="n165" resp="#遍昭">
-            <seg>はちすはの</seg>
-            <seg>にこりにしまぬ</seg>
-            <seg>心もて</seg>
-            <seg>なにかはつゆを</seg>
-            <seg>玉とあさむく</seg>
+            <seg>
+              <w lemmaRef="#はちすば.蓮葉">はちすは</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#にごり.濁る">にこり</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#しま.染む">しま</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こころ.心">心</w>
+              <w lemmaRef="#も.持つ">も</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なに.何">なに</w>
+              <w lemmaRef="#か.か">か</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#つゆ.露">つゆ</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たま.珠">玉</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#あざむく.欺く">あさむく</w>
+            </seg>
           </l>
         </div>
         <lb/>

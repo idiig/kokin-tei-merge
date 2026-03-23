@@ -8839,11 +8839,31 @@
           </note>
           <lb/>
           <l n="182" xml:id="n182" resp="#源宗于">
-            <seg>今はとて</seg>
-            <seg>わかるゝ時は</seg>
-            <seg>天河</seg>
-            <seg>わたらぬさきに</seg>
-            <seg>袖そひちぬる</seg>
+            <seg>
+              <w lemmaRef="#いま.今">今</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#とて.とて">とて</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わかるる.別る">わかるゝ</w>
+              <w lemmaRef="#とき.時">時</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あまのかは.天の河">天河</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わたら.渡る">わたら</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+              <w lemmaRef="#さき.先">さき</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#そで.袖">袖</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#ひち.漬つ">ひち</w>
+              <w lemmaRef="#ぬる.ぬ">ぬる</w>
+            </seg>
           </l>
         </div>
         <lb/>

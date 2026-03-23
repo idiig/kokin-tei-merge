@@ -9224,11 +9224,34 @@
           <pb n="1-28v" facs="#p037"/>
           <lb/>
           <l n="193" xml:id="n193" resp="#大江千里">
-            <seg>月見れは</seg>
-            <seg>ちゝに物こそ</seg>
-            <seg>悲けれ</seg>
-            <seg>わか身ひとつの</seg>
-            <seg>秋にはあらねと</seg>
+            <seg>
+              <w lemmaRef="#つき.月">月</w>
+              <w lemmaRef="#みれ.見る">見れ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ちぢに.千千なり">ちゝに</w>
+              <w lemmaRef="#もの.物">物</w>
+              <w lemmaRef="#こそ.こそ">こそ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かなしけれ.悲し">悲けれ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わ.我">わ</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#み.身">身</w>
+              <w lemmaRef="#ひとつ.一つ">ひとつ</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あき.秋">秋</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#あら.有り">あら</w>
+              <w lemmaRef="#ね.ず">ね</w>
+              <w lemmaRef="#ど.ど">と</w>
+            </seg>
           </l>
         </div>
         <lb/>

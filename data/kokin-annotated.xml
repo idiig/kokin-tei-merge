@@ -7984,11 +7984,30 @@
           </note>
           <lb/>
           <l n="158" xml:id="n158" resp="#紀秋岑">
-            <seg>夏山に</seg>
-            <seg>こひしき人や</seg>
-            <seg>いりにけむ</seg>
-            <seg>聲ふりたてゝ</seg>
-            <seg>なく郭公</seg>
+            <seg>
+              <w lemmaRef="#なつやま.夏山">夏山</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こひしき.恋し">こひしき</w>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#や.や">や</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いり.入る">いり</w>
+              <w lemmaRef="#に.ぬ">に</w>
+              <w lemmaRef="#けむ.けむ">けむ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こゑ.声">聲</w>
+              <w lemmaRef="#ふり.振る">ふり</w>
+              <w lemmaRef="#たて.立つ">たて</w>
+              <w lemmaRef="#て.て">ゝ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なく.鳴く">なく</w>
+              <w lemmaRef="#ほととぎす.郭公">郭公</w>
+            </seg>
           </l>
         </div>
         <lb/>

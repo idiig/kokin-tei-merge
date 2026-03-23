@@ -8351,11 +8351,32 @@
           <note type="詞書" style="margin-top: 2em" target="#n168">みな月のつこもりの日よめる</note>
           <lb/>
           <l n="168" xml:id="n168" resp="#凡河内躬恒">
-            <seg>夏と秋と</seg>
-            <seg>行かふそらの</seg>
-            <seg>かよひちは</seg>
-            <seg>かたへすゝしき</seg>
-            <seg>風や吹らむ</seg>
+            <seg>
+              <w lemmaRef="#なつ.夏">夏</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#あき.秋">秋</w>
+              <w lemmaRef="#と.と">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ゆき.行く">行</w>
+              <w lemmaRef="#かふ.交ふ">かふ</w>
+              <w lemmaRef="#そら.空">そら</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かよひぢ.通ひ路">かよひち</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かたへ.片方">かたへ</w>
+              <w lemmaRef="#すずしき.涼し">すゝしき</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かぜ.風">風</w>
+              <w lemmaRef="#や.や">や</w>
+              <w lemmaRef="#ふく.吹く">吹</w>
+              <w lemmaRef="#らむ.らむ">らむ</w>
+            </seg>
           </l>
         </div>
       </div>

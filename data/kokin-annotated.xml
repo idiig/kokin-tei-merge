@@ -8473,11 +8473,31 @@
           </note>
           <lb/>
           <l n="171" xml:id="n171" resp="#よみ人知らず">
-            <seg>わかせこの</seg>
-            <seg>衣のすそを</seg>
-            <seg>吹返し</seg>
-            <seg>うらめつらしき</seg>
-            <seg>秋のはつ風</seg>
+            <seg>
+              <w lemmaRef="#わ.我">わ</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#せこ.背子">せこ</w>
+              <w lemmaRef="#が.が">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ころも.衣">衣</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#すそ.裾">すそ</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ふき.吹く">吹</w>
+              <w lemmaRef="#かへし.返す">返し</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うら.裏">うら</w>
+              <w lemmaRef="#めづらしき.珍し">めつらしき</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あき.秋">秋</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#はつかぜ.初風">はつ風</w>
+            </seg>
           </l>
         </div>
         <lb/>

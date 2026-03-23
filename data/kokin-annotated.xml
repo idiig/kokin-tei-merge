@@ -8666,11 +8666,30 @@
           </note>
           <lb/>
           <l n="177" xml:id="n177" resp="#紀友則">
-            <seg>天河</seg>
-            <seg>浅せ白浪</seg>
-            <seg>たとりつゝ</seg>
-            <seg>渡りはてねは</seg>
-            <seg>あけそしにける</seg>
+            <seg>
+              <w lemmaRef="#あまのかは.天の河">天河</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あさせ.浅瀬">浅せ</w>
+              <w lemmaRef="#しらなみ.白浪">白浪</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たどり.辿る">たとり</w>
+              <w lemmaRef="#つつ.つつ">つゝ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わたり.渡る">渡り</w>
+              <w lemmaRef="#はて.果つ">はて</w>
+              <w lemmaRef="#ね.ず">ね</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あけ.明く">あけ</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#し.す">し</w>
+              <w lemmaRef="#に.ぬ">に</w>
+              <w lemmaRef="#ける.けり">ける</w>
+            </seg>
           </l>
         </div>
         <lb/>

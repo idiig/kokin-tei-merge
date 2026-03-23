@@ -9185,11 +9185,33 @@
         <lb/>
         <div type="和歌">
           <l n="192" xml:id="n192" resp="#よみ人知らず">
-            <seg>さ夜中と</seg>
-            <seg>夜はふけぬらし</seg>
-            <seg>鳫のねの</seg>
-            <seg>きこゆるそとに</seg>
-            <seg>月わたる見ゆ</seg>
+            <seg>
+              <w lemmaRef="#さよなか.小夜中">さ夜中</w>
+              <w lemmaRef="#と.と">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#よ.夜">夜</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#ふけ.更く">ふけ</w>
+              <w lemmaRef="#ぬ.ぬ">ぬ</w>
+              <w lemmaRef="#らし.らし">らし</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かり.雁">鳫</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#ね.音">ね</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#きこゆる.聞こゆ">きこゆる</w>
+              <w lemmaRef="#そと.外">そと</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#つき.月">月</w>
+              <w lemmaRef="#わたる.渡る">わたる</w>
+              <w lemmaRef="#みゆ.見ゆ">見ゆ</w>
+            </seg>
           </l>
         </div>
         <lb/>

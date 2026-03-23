@@ -8436,11 +8436,33 @@
           </note>
           <lb/>
           <l n="170" xml:id="n170" resp="#紀貫之">
-            <seg>河風の</seg>
-            <seg>涼くもあるか</seg>
-            <seg>打よする</seg>
-            <seg>波とゝもにや</seg>
-            <seg>秋は立らむ</seg>
+            <seg>
+              <w lemmaRef="#かはかぜ.河風">河風</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#すずしく.涼し">涼く</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#ある.有り">ある</w>
+              <w lemmaRef="#か.か">か</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うち.打つ">打</w>
+              <w lemmaRef="#よする.寄す">よする</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なみ.浪">波</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#とも.共">ゝも</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#や.や">や</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あき.秋">秋</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#たつ.立つ">立</w>
+              <w lemmaRef="#らむ.らむ">らむ</w>
+            </seg>
           </l>
         </div>
         <lb/>

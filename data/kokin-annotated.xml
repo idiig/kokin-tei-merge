@@ -8597,11 +8597,30 @@
         <lb/>
         <div type="和歌">
           <l n="175" xml:id="n175" resp="#よみ人知らず">
-            <seg>漢河</seg>
-            <seg>紅葉を橋に</seg>
-            <seg>わたせはや</seg>
-            <seg>たなはたつめの</seg>
-            <seg>秋を霜松</seg>
+            <seg>
+              <w lemmaRef="#あまのかは.天の河">漢河</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#もみぢ.紅葉づ">紅葉</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#はし.橋">橋</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わたせ.渡す">わたせ</w>
+              <w lemmaRef="#ば.ば">は</w>
+              <w lemmaRef="#や.や">や</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たなばたつめ.棚機女">たなはたつめ</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あき.秋">秋</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#しも.しも">霜</w>
+              <w lemmaRef="#まつ.待つ">松</w>
+            </seg>
           </l>
         </div>
         <lb/>

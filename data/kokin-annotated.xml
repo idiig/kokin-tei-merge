@@ -7947,11 +7947,33 @@
           </note>
           <lb/>
           <l n="157" xml:id="n157" resp="#壬生忠岑">
-            <seg>くるゝかと</seg>
-            <seg>見れはあけぬる</seg>
-            <seg>夏の夜を</seg>
-            <seg>あかすとやなく</seg>
-            <seg>山郭公</seg>
+            <seg>
+              <w lemmaRef="#くるる.暮る">くるゝ</w>
+              <w lemmaRef="#か.か">か</w>
+              <w lemmaRef="#と.と">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みれ.見る">見れ</w>
+              <w lemmaRef="#ば.ば">は</w>
+              <w lemmaRef="#あけ.明く">あけ</w>
+              <w lemmaRef="#ぬる.ぬ">ぬる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なつ.夏">夏</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#よ.夜">夜</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あか.飽く">あか</w>
+              <w lemmaRef="#ず.ず">す</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#や.や">や</w>
+              <w lemmaRef="#なく.鳴く">なく</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#やまほととぎす.山郭公">山郭公</w>
+            </seg>
           </l>
         </div>
         <lb/>

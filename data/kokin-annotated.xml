@@ -8731,11 +8731,33 @@
           </note>
           <lb/>
           <l n="179" xml:id="n179" resp="#凡河内躬恒">
-            <seg>年ことに</seg>
-            <seg>逢とはすれと</seg>
-            <seg>織女の</seg>
-            <seg>ぬる夜のかすそ</seg>
-            <seg>すくなかりける</seg>
+            <seg>
+              <w lemmaRef="#とし.年">年</w>
+              <w lemmaRef="#ごと.毎">こと</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あふ.逢ふ">逢</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#すれ.す">すれ</w>
+              <w lemmaRef="#ど.ど">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たなばた.七夕">織女</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ぬる.寝">ぬる</w>
+              <w lemmaRef="#よ.夜">夜</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#かず.数">かす</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#すくなかり.少なし">すくなかり</w>
+              <w lemmaRef="#ける.けり">ける</w>
+            </seg>
           </l>
         </div>
         <pb n="1-27v" facs="#p036"/>

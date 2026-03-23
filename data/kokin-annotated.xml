@@ -8018,11 +8018,33 @@
           </note>
           <lb/>
           <l n="159" xml:id="n159" resp="#よみ人知らず">
-            <seg>こその夏</seg>
-            <seg>なきふるしてし</seg>
-            <seg>時鳥</seg>
-            <seg>それかあらぬか</seg>
-            <seg>こゑのかはらぬ</seg>
+            <seg>
+              <w lemmaRef="#こぞ.去年">こそ</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#なつ.夏">夏</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なき.鳴く">なき</w>
+              <w lemmaRef="#ふるし.古す">ふるし</w>
+              <w lemmaRef="#て.つ">て</w>
+              <w lemmaRef="#し.き">し</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ほととぎす.郭公">時鳥</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#それ.其れ">それ</w>
+              <w lemmaRef="#か.か">か</w>
+              <w lemmaRef="#あら.有り">あら</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+              <w lemmaRef="#か.か">か</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こゑ.声">こゑ</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#かはら.変はる">かはら</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+            </seg>
           </l>
         </div>
         <pb n="1-25r" facs="#p033"/>

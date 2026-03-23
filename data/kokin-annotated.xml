@@ -8626,11 +8626,34 @@
         <lb/>
         <div type="和歌">
           <l n="176" xml:id="n176" resp="#よみ人知らず">
-            <seg>こひ〳〵て</seg>
-            <seg>逢夜は今夜</seg>
-            <seg>天河</seg>
-            <seg>霧立渡り</seg>
-            <seg>あけすもあら南</seg>
+            <seg>
+              <w lemmaRef="#こひ.恋ふ">こひ</w>
+              <w lemmaRef="#こひ.恋ふ">〳〵</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あふ.逢ふ">逢</w>
+              <w lemmaRef="#よ.夜">夜</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#こよひ.今宵">今夜</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あま.天">天</w>
+              <w lemmaRef="#の.の"/>
+              <w lemmaRef="#かは.河">河</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#きり.霧">霧</w>
+              <w lemmaRef="#たち.立つ">立</w>
+              <w lemmaRef="#わたり.渡る">渡り</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あけ.明く">あけ</w>
+              <w lemmaRef="#ず.ず">す</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#あら.有り">あら</w>
+              <w lemmaRef="#なむ.なむ">南</w>
+            </seg>
           </l>
         </div>
         <lb/>

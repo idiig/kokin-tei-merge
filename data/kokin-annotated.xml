@@ -9154,11 +9154,32 @@
           </note>
           <lb/>
           <l n="191" xml:id="n191" resp="#よみ人知らず">
-            <seg>白雲に</seg>
-            <seg>はね打かはし</seg>
-            <seg>とふかりの</seg>
-            <seg>かすさへ見ゆる</seg>
-            <seg>秋のよの月</seg>
+            <seg>
+              <w lemmaRef="#しらくも.白雲">白雲</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はね.羽">はね</w>
+              <w lemmaRef="#うち.打つ">打</w>
+              <w lemmaRef="#かはし.交す">かはし</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#とぶ.飛ぶ">とふ</w>
+              <w lemmaRef="#かり.雁">かり</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かず.数">かす</w>
+              <w lemmaRef="#さへ.さへ">さへ</w>
+              <w lemmaRef="#みゆる.見ゆ">見ゆる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あき.秋">秋</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#よ.夜">よ</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#つき.月">月</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -8202,11 +8202,30 @@
           </note>
           <lb/>
           <l n="164" xml:id="n164" resp="#凡河内躬恒">
-            <seg>ほとゝきす</seg>
-            <seg>我とはなしに</seg>
-            <seg>卯花の</seg>
-            <seg>うき世中に</seg>
-            <seg>なき渡覧</seg>
+            <seg>
+              <w lemmaRef="#ほととぎす.時鳥">ほとゝきす</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#われ.我">我</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#なし.無し">なし</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うのはな.卯花">卯花</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うき.憂し">うき</w>
+              <w lemmaRef="#よのなか.世の中">世中</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なき.鳴く">なき</w>
+              <w lemmaRef="#わたる.渡る">渡</w>
+              <w lemmaRef="#らむ.らむ">覧</w>
+            </seg>
           </l>
         </div>
         <lb/>

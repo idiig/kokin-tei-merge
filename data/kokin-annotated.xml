@@ -8975,11 +8975,37 @@
         <lb/>
         <div type="和歌">
           <l n="186" xml:id="n186" resp="#よみ人知らず">
-            <seg>わかために</seg>
-            <seg>くる秋にしも</seg>
-            <seg>あらなくに</seg>
-            <seg>虫のねきけは</seg>
-            <seg>まつそ悲き</seg>
+            <seg>
+              <w lemmaRef="#わ.我">わ</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#ため.為">ため</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#くる.来">くる</w>
+              <w lemmaRef="#あき.秋">秋</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#し.し">し</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あら.有り">あら</w>
+              <w lemmaRef="#な.ず">な</w>
+              <w lemmaRef="#く.く">く</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#むし.虫">虫</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#ね.音">ね</w>
+              <w lemmaRef="#きけ.聞く">きけ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#まづ.先づ">まつ</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#かなしき.悲し">悲き</w>
+            </seg>
           </l>
         </div>
         <pb n="1-28r" facs="#p036"/>

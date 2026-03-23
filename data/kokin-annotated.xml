@@ -8764,11 +8764,33 @@
         <lb/>
         <div type="和歌">
           <l n="180" xml:id="n180" resp="#凡河内躬恒">
-            <seg>織女に</seg>
-            <seg>かし鶴絲の</seg>
-            <seg>打はへて</seg>
-            <seg>年の緒長く</seg>
-            <seg>戀や渡む</seg>
+            <seg>
+              <w lemmaRef="#たなばた.織女">織女</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かし.貸す">かし</w>
+              <w lemmaRef="#つる.つ">鶴</w>
+              <w lemmaRef="#いと.糸">絲</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うち.打つ">打</w>
+              <w lemmaRef="#はへ.延ふ">はへ</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#とし.年">年</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#を.緒">緒</w>
+              <w lemmaRef="#ながく.長し">長く</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こひ.恋ふ">戀</w>
+              <w lemmaRef="#や.や">や</w>
+              <w lemmaRef="#わたら.渡る">渡</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
           </l>
         </div>
         <lb/>

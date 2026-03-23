@@ -9336,11 +9336,32 @@
           </note>
           <lb/>
           <l n="196" xml:id="n196" resp="#藤原忠房">
-            <seg>蛬</seg>
-            <seg>いたくなゝきそ</seg>
-            <seg>秋の夜の</seg>
-            <seg>長き思ひは</seg>
-            <seg>我そまされる</seg>
+            <seg>
+              <w lemmaRef="#きりぎりす.蟋蟀">蛬</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いたく.痛し">いたく</w>
+              <w lemmaRef="#な.な">な</w>
+              <w lemmaRef="#なき.鳴く">ゝき</w>
+              <w lemmaRef="#そ.そ">そ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あき.秋">秋</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#よ.夜">夜</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ながき.長し">長き</w>
+              <w lemmaRef="#おもひ.思ふ">思ひ</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#われ.我">我</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#まされ.増さる">まされ</w>
+              <w lemmaRef="#る.り">る</w>
+            </seg>
           </l>
         </div>
         <lb/>

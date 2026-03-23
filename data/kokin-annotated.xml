@@ -8057,11 +8057,31 @@
           </note>
           <lb/>
           <l n="160" xml:id="n160" resp="#紀貫之">
-            <seg>五月雨の</seg>
-            <seg>そらもとゝろに</seg>
-            <seg>郭公</seg>
-            <seg>なにをうしとか</seg>
-            <seg>よたゝなく覧</seg>
+            <seg>
+              <w lemmaRef="#さみだれ.五月雨">五月雨</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#そら.空">そら</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#とどろに.轟に">とゝろに</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ほととぎす.郭公">郭公</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なに.何">なに</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#うし.憂し">うし</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#か.か">か</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#よ.夜">よ</w>
+              <w lemmaRef="#ただ.唯">たゝ</w>
+              <w lemmaRef="#なく.鳴く">なく</w>
+              <w lemmaRef="#らむ.らむ">覧</w>
+            </seg>
           </l>
         </div>
         <lb/>

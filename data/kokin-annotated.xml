@@ -9118,11 +9118,32 @@
           </note>
           <lb/>
           <l n="190" xml:id="n190" resp="#凡河内躬恒">
-            <seg>かく許</seg>
-            <seg>おしと思夜を</seg>
-            <seg>いたつらに</seg>
-            <seg>ねてあかすらむ</seg>
-            <seg>人さへそうき</seg>
+            <seg>
+              <w lemmaRef="#かく.斯く">かく</w>
+              <w lemmaRef="#ばかり.許り">許</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#をし.惜し">おし</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#おもふ.思ふ">思</w>
+              <w lemmaRef="#よ.夜">夜</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いたづらに.徒なり">いたつらに</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ね.寝">ね</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#あかす.明かす">あかす</w>
+              <w lemmaRef="#らむ.らむ">らむ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#さへ.さへ">さへ</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#うき.憂し">うき</w>
+            </seg>
           </l>
         </div>
         <lb/>

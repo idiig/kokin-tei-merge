@@ -9282,11 +9282,33 @@
         <lb/>
         <div type="和歌">
           <l n="209" xml:id="n209" resp="#よみ人知らず">
-            <seg>いとはやも</seg>
-            <seg>鳴ぬる鳫か</seg>
-            <seg>白露の</seg>
-            <seg>色とる木ゝも</seg>
-            <seg>ゝみちあへなくに</seg>
+            <seg>
+              <w lemmaRef="#いと.いと">いと</w>
+              <w lemmaRef="#はや.早し">はや</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なき.鳴く">鳴</w>
+              <w lemmaRef="#ぬる.ぬ">ぬる</w>
+              <w lemmaRef="#かり.雁">鳫</w>
+              <w lemmaRef="#か.か">か</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#しらつゆ.白露">白露</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いろどる.色どる">色とる</w>
+              <w lemmaRef="#きぎ.木木">木ゝ</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#もみぢ.紅葉づ">ゝみち</w>
+              <w lemmaRef="#あへ.敢ふ">あへ</w>
+              <w lemmaRef="#な.ず">な</w>
+              <w lemmaRef="#く.く">く</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
           </l>
         </div>
         <lb/>

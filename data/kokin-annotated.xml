@@ -9383,11 +9383,36 @@
           </note>
           <lb/>
           <l n="212" xml:id="n212" resp="#藤原菅根">
-            <seg>秋風に</seg>
-            <seg>聲をほにあけて</seg>
-            <seg>くる舟は</seg>
-            <seg>あまのと渡</seg>
-            <seg>かりにそ有ける</seg>
+            <seg>
+              <w lemmaRef="#あきかぜ.秋風">秋風</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こゑ.声">聲</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#ほ.帆">ほ</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#あげ.上ぐ">あけ</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#くる.来">くる</w>
+              <w lemmaRef="#ふね.舟">舟</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あま.天">あま</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#と.門">と</w>
+              <w lemmaRef="#わたる.渡る">渡</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かり.雁">かり</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#あり.有り">有</w>
+              <w lemmaRef="#ける.けり">ける</w>
+            </seg>
           </l>
         </div>
         <lb/>

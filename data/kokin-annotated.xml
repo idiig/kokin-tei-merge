@@ -10109,11 +10109,31 @@
           </note>
           <lb/>
           <l n="232" xml:id="n232" resp="#紀貫之">
-            <seg>たか秋に</seg>
-            <seg>あらぬ物ゆへ</seg>
-            <seg>女郎花</seg>
-            <seg>なそ色にいてゝ</seg>
-            <seg>またきうつろふ</seg>
+            <seg>
+              <w lemmaRef="#た.誰">た</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#あき.秋">秋</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あら.有り">あら</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+              <w lemmaRef="#ものゆゑ.物故">物ゆへ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#をみなへし.女郎花">女郎花</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なぞ.何故">なそ</w>
+              <w lemmaRef="#いろ.色">色</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#いで.出づ">いて</w>
+              <w lemmaRef="#て.て">ゝ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#まだき.夙">またき</w>
+              <w lemmaRef="#うつろふ.移ろふ">うつろふ</w>
+            </seg>
           </l>
         </div>
         <lb/>

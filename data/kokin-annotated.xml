@@ -10176,11 +10176,32 @@
         <lb/>
         <div type="和歌">
           <l n="234" xml:id="n234" resp="#凡河内躬恒">
-            <seg>女郎花</seg>
-            <seg>吹すきてくる</seg>
-            <seg>秋風は</seg>
-            <seg>めには見えねと</seg>
-            <seg>かこそしるけれ</seg>
+            <seg>
+              <w lemmaRef="#をみなへし.女郎花">女郎花</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ふき.吹く">吹</w>
+              <w lemmaRef="#すぎ.過ぐ">すき</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#くる.来">くる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あきかぜ.秋風">秋風</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#め.目">め</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#みえ.見ゆ">見え</w>
+              <w lemmaRef="#ね.ず">ね</w>
+              <w lemmaRef="#ど.ど">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#か.香">か</w>
+              <w lemmaRef="#こそ.こそ">こそ</w>
+              <w lemmaRef="#しるけれ.著し">しるけれ</w>
+            </seg>
           </l>
         </div>
         <lb/>

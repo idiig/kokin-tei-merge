@@ -11238,11 +11238,31 @@
           </note>
           <lb/>
           <l n="263" xml:id="n263" resp="#壬生忠岑">
-            <seg>雨ふれは</seg>
-            <seg>かさとり山の</seg>
-            <seg>もみちはゝ</seg>
-            <seg>行かふ人の</seg>
-            <seg>袖さへそてる</seg>
+            <seg>
+              <w lemmaRef="#あめ.雨">雨</w>
+              <w lemmaRef="#ふれ.降る">ふれ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かさとりやま.笠取山">かさとり山</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#もみぢば.紅葉葉">もみちは</w>
+              <w lemmaRef="#は.は">ゝ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ゆき.行く">行</w>
+              <w lemmaRef="#かふ.交ふ">かふ</w>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#そで.袖">袖</w>
+              <w lemmaRef="#さへ.さへ">さへ</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#てる.照る">てる</w>
+            </seg>
           </l>
         </div>
         <lb/>

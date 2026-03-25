@@ -9495,11 +9495,31 @@
           </note>
           <lb/>
           <l n="215" xml:id="n215" resp="#よみ人知らず">
-            <seg>奥山に</seg>
-            <seg>紅葉ふみわけ</seg>
-            <seg>なくしかの</seg>
-            <seg>聲きく時そ</seg>
-            <seg>秋は悲き</seg>
+            <seg>
+              <w lemmaRef="#おくやま.奥山">奥山</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#もみぢ.紅葉づ">紅葉</w>
+              <w lemmaRef="#ふみ.踏む">ふみ</w>
+              <w lemmaRef="#わけ.分く">わけ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なく.鳴く">なく</w>
+              <w lemmaRef="#しか.鹿">しか</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こゑ.声">聲</w>
+              <w lemmaRef="#きく.聞く">きく</w>
+              <w lemmaRef="#とき.時">時</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あき.秋">秋</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#かなしき.悲し">悲き</w>
+            </seg>
           </l>
         </div>
         <lb/>

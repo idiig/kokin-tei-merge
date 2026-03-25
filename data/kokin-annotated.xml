@@ -9344,11 +9344,31 @@
         <lb/>
         <div type="和歌">
           <l n="211" xml:id="n211" resp="#よみ人知らず">
-            <seg>夜を寒み</seg>
-            <seg>衣かりかね</seg>
-            <seg>なくなへに</seg>
-            <seg>萩のしたはも</seg>
-            <seg>うつろひにけり</seg>
+            <seg>
+              <w lemmaRef="#よ.夜">夜</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#さむ.寒し">寒</w>
+              <w lemmaRef="#み.み">み</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ころも.衣">衣</w>
+              <w lemmaRef="#かりがね.雁">かりかね</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なく.鳴く">なく</w>
+              <w lemmaRef="#なへに.なへに">なへに</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はぎ.萩">萩</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#したば.下葉">したは</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うつろひ.移ろふ">うつろひ</w>
+              <w lemmaRef="#に.ぬ">に</w>
+              <w lemmaRef="#けり.けり">けり</w>
+            </seg>
           </l>
           <lb/>
           <note type="左注" style="margin-top: 2em" target="#n211">この哥はある人のいはく

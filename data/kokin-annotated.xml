@@ -11010,11 +11010,34 @@
           </note>
           <lb/>
           <l n="257" xml:id="n257" resp="#藤原敏行">
-            <seg>白露の</seg>
-            <seg>色はひとつを</seg>
-            <seg>いかにして</seg>
-            <seg>秋のこのはを</seg>
-            <seg>ちゝにそむ覧</seg>
+            <seg>
+              <w lemmaRef="#しらつゆ.白露">白露</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いろ.色">色</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#ひとつ.一つ">ひとつ</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いかに.如何に">いかに</w>
+              <w lemmaRef="#し.す">し</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あき.秋">秋</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#こ.木">こ</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#は.葉">は</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ちぢに.千千なり">ちゝに</w>
+              <w lemmaRef="#そむ.染む">そむ</w>
+              <w lemmaRef="#らむ.らむ">覧</w>
+            </seg>
           </l>
         </div>
         <pb n="1-34v" facs="#p043"/>

@@ -10462,11 +10462,32 @@
           </note>
           <lb/>
           <l n="242" xml:id="n242" resp="#平貞文">
-            <seg>今よりは</seg>
-            <seg>うへてたに見し</seg>
-            <seg>はなすゝき</seg>
-            <seg>ほにいつる秋は</seg>
-            <seg>わひしかりけり</seg>
+            <seg>
+              <w lemmaRef="#いま.今">今</w>
+              <w lemmaRef="#より.より">より</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うゑ.植う">うへ</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#だに.だに">たに</w>
+              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#じ.じ">し</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はなすすき.花薄">はなすゝき</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ほ.穂">ほ</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#いづる.出づ">いつる</w>
+              <w lemmaRef="#あき.秋">秋</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わびしかり.侘し">わひしかり</w>
+              <w lemmaRef="#けり.けり">けり</w>
+            </seg>
           </l>
         </div>
         <lb/>

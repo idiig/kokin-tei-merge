@@ -10679,11 +10679,36 @@
           </note>
           <lb/>
           <l n="248" xml:id="n248" resp="#遍昭">
-            <seg>さとはあれて</seg>
-            <seg>人はふりにし</seg>
-            <seg>やとなれや</seg>
-            <seg>庭もまかきも</seg>
-            <seg>秋のゝらなる</seg>
+            <seg>
+              <w lemmaRef="#さと.里">さと</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#あれ.荒る">あれ</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#ふり.古る">ふり</w>
+              <w lemmaRef="#に.ぬ">に</w>
+              <w lemmaRef="#し.き">し</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#やど.宿">やと</w>
+              <w lemmaRef="#なれ.なり">なれ</w>
+              <w lemmaRef="#や.や">や</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#には.庭">庭</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#まがき.籬">まかき</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あき.秋">秋</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#のら.野良">ゝら</w>
+              <w lemmaRef="#なる.なり">なる</w>
+            </seg>
           </l>
         </div>
       </div>

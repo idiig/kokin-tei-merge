@@ -10897,11 +10897,30 @@
         <lb/>
         <div>
           <l n="254" xml:id="n254" resp="#よみ人知らず">
-            <seg>ちはやふる</seg>
-            <seg>神なひ山の</seg>
-            <seg>もみちはに</seg>
-            <seg>思はかけし</seg>
-            <seg>うつろふ物を</seg>
+            <seg>
+              <w lemmaRef="#ち.千">ち</w>
+              <w lemmaRef="#はや.早し">はや</w>
+              <w lemmaRef="#ふる.振る">ふる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かむなびやま.神奈備山">神なひ山</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#もみぢば.紅葉葉">もみちは</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おもひ.思ふ">思</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#かけ.掛く">かけ</w>
+              <w lemmaRef="#じ.じ">し</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うつろふ.移ろふ">うつろふ</w>
+              <w lemmaRef="#もの.物">物</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
           </l>
         </div>
         <lb/>

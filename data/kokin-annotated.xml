@@ -9595,11 +9595,32 @@
           </note>
           <lb/>
           <l n="218" xml:id="n218">
-            <seg>秋はきの</seg>
-            <seg>花さきにけり</seg>
-            <seg>高砂の</seg>
-            <seg>おのへに鹿は</seg>
-            <seg>今やなく覧</seg>
+            <seg>
+              <w lemmaRef="#あきはぎ.秋萩">秋はき</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はな.花">花</w>
+              <w lemmaRef="#さき.咲く">さき</w>
+              <w lemmaRef="#に.ぬ">に</w>
+              <w lemmaRef="#けり.けり">けり</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たかさご.高砂">高砂</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#をのへ.尾上">おのへ</w>
+              <w lemmaRef="#の.の">に</w>
+              <w lemmaRef="#しか.鹿">鹿</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いま.今">今</w>
+              <w lemmaRef="#や.や">や</w>
+              <w lemmaRef="#なく.鳴く">なく</w>
+              <w lemmaRef="#らむ.らむ">覧</w>
+            </seg>
           </l>
         </div>
         <pb n="1-30v" facs="#p039"/>

@@ -10973,11 +10973,32 @@
           </note>
           <lb/>
           <l n="256" xml:id="n256" resp="#紀貫之">
-            <seg>秋風の</seg>
-            <seg>ふきにし日より</seg>
-            <seg>をとは山</seg>
-            <seg>峯のこすゑも</seg>
-            <seg>色つきにけり</seg>
+            <seg>
+              <w lemmaRef="#あきかぜ.秋風">秋風</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ふき.吹く">ふき</w>
+              <w lemmaRef="#に.ぬ">に</w>
+              <w lemmaRef="#し.き">し</w>
+              <w lemmaRef="#ひ.日">日</w>
+              <w lemmaRef="#より.より">より</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おとはやま.音羽山">をとは山</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みね.峰">峯</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#こずゑ.梢">こすゑ</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いろ.色">色</w>
+              <w lemmaRef="#つき.付く">つき</w>
+              <w lemmaRef="#に.ぬ">に</w>
+              <w lemmaRef="#けり.けり">けり</w>
+            </seg>
           </l>
         </div>
         <lb/>

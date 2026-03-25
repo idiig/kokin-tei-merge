@@ -10241,11 +10241,32 @@
         <lb/>
         <div type="和歌">
           <l n="236" xml:id="n236" resp="#壬生忠岑">
-            <seg>ひとりのみ</seg>
-            <seg>なかむるよりは</seg>
-            <seg>女郎花</seg>
-            <seg>わかすむやとに</seg>
-            <seg>うへて見ましを</seg>
+            <seg>
+              <w lemmaRef="#ひとり.一人">ひとり</w>
+              <w lemmaRef="#のみ.のみ">のみ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ながむる.眺む">なかむる</w>
+              <w lemmaRef="#より.より">より</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#をみなへし.女郎花">女郎花</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わ.我">わ</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#すむ.住む">すむ</w>
+              <w lemmaRef="#やど.宿">やと</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うゑ.植う">うへ</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#まし.まし">まし</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
           </l>
         </div>
         <lb/>

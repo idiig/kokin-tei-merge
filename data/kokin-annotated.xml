@@ -9734,11 +9734,36 @@
         <lb/>
         <div type="和歌">
           <l n="222" xml:id="n222" resp="#よみ人知らず">
-            <seg>はきのつゆ</seg>
-            <seg>玉にぬかむと</seg>
-            <seg>ゝれはけぬ</seg>
-            <seg>よし見む人は</seg>
-            <seg>枝なから見よ</seg>
+            <seg>
+              <w lemmaRef="#はぎ.萩">はき</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#つゆ.露">つゆ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たま.珠">玉</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#ぬか.貫く">ぬか</w>
+              <w lemmaRef="#む.む">む</w>
+              <w lemmaRef="#と.と">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#とれ.取る">ゝれ</w>
+              <w lemmaRef="#ば.ば">は</w>
+              <w lemmaRef="#け.消ゆ">け</w>
+              <w lemmaRef="#ぬ.ぬ">ぬ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#よし.縦し">よし</w>
+              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#む.む">む</w>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#えだ.枝">枝</w>
+              <w lemmaRef="#ながら.ながら">なから</w>
+              <w lemmaRef="#みよ.見る">見よ</w>
+            </seg>
           </l>
           <lb/>
           <note type="左注" style="margin-top: 2em">ある人のいはくこの哥は

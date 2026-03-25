@@ -11313,11 +11313,33 @@
           </note>
           <lb/>
           <l n="265" xml:id="n265" resp="#紀友則">
-            <seg>たかための</seg>
-            <seg>錦なれはか</seg>
-            <seg>秋きりの</seg>
-            <seg>さほの山へを</seg>
-            <seg>立かくすらむ</seg>
+            <seg>
+              <w lemmaRef="#た.誰">た</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#ため.為">ため</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#にしき.錦">錦</w>
+              <w lemmaRef="#なれ.なり">なれ</w>
+              <w lemmaRef="#ば.ば">は</w>
+              <w lemmaRef="#か.か">か</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あきぎり.秋霧">秋きり</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#さほ.佐保">さほ</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#やまべ.山辺">山へ</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たち.立つ">立</w>
+              <w lemmaRef="#かくす.隠す">かくす</w>
+              <w lemmaRef="#らむ.らむ">らむ</w>
+            </seg>
           </l>
         </div>
         <lb/>

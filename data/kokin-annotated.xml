@@ -9999,11 +9999,31 @@
           <pb n="1-31v" facs="#p040"/>
           <lb/>
           <l n="229" xml:id="n229" resp="#小野美材">
-            <seg>女郎花</seg>
-            <seg>おほかるのへに</seg>
-            <seg>やとりせは</seg>
-            <seg>綾なくあたの</seg>
-            <seg>名をや立南</seg>
+            <seg>
+              <w lemmaRef="#をみなへし.女郎花">女郎花</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おほかる.多し">おほかる</w>
+              <w lemmaRef="#のべ.野辺">のへ</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#やどり.宿る">やとり</w>
+              <w lemmaRef="#せ.す">せ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あやなく.文無し">綾なく</w>
+              <w lemmaRef="#あだ.徒">あた</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#な.名">名</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#や.や">や</w>
+              <w lemmaRef="#たち.立つ">立</w>
+              <w lemmaRef="#なむ.なむ">南</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -10388,11 +10388,31 @@
           </note>
           <lb/>
           <l n="240" xml:id="n240" resp="#紀貫之">
-            <seg>やとりせし</seg>
-            <seg>人のかたみか</seg>
-            <seg>ふちはかま</seg>
-            <seg>わすられかたき</seg>
-            <seg>かにゝほひつゝ</seg>
+            <seg>
+              <w lemmaRef="#やどり.宿る">やとり</w>
+              <w lemmaRef="#せ.す">せ</w>
+              <w lemmaRef="#し.き">し</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#かたみ.形見">かたみ</w>
+              <w lemmaRef="#か.か">か</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ふぢばかま.藤袴">ふちはかま</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わすら.忘る">わすら</w>
+              <w lemmaRef="#れ.る">れ</w>
+              <w lemmaRef="#かたき.難し">かたき</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#か.香">か</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#にほひ.匂ふ">ゝほひ</w>
+              <w lemmaRef="#つつ.つつ">つゝ</w>
+            </seg>
           </l>
         </div>
         <lb/>

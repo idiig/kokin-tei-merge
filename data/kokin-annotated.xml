@@ -9527,11 +9527,30 @@
           <note type="詞書" style="margin-top: 2em" target="#n216 #n217">題しらす</note>
           <lb/>
           <l n="216" xml:id="n216" resp="#よみ人知らず">
-            <seg>秋はきに</seg>
-            <seg>うらひれをれは</seg>
-            <seg>葦引の</seg>
-            <seg>山したとよみ</seg>
-            <seg>鹿の鳴らむ</seg>
+            <seg>
+              <w lemmaRef="#あきはぎ.秋萩">秋はき</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うらびれ.うらびる">うらひれ</w>
+              <w lemmaRef="#をれ.居る">をれ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あし.足">葦</w>
+              <w lemmaRef="#ひき.曳く">引</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#やました.山下">山した</w>
+              <w lemmaRef="#とよみ.響む">とよみ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#しか.鹿">鹿</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#なく.鳴く">鳴</w>
+              <w lemmaRef="#らむ.らむ">らむ</w>
+            </seg>
           </l>
         </div>
         <lb/>

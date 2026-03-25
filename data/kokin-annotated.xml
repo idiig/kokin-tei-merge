@@ -9425,11 +9425,30 @@
           <pb n="1-30r" facs="#p038"/>
           <lb/>
           <l n="213" xml:id="n213" resp="#凡河内躬恒">
-            <seg>うきことを</seg>
-            <seg>思つらねて</seg>
-            <seg>鳫金の</seg>
-            <seg>なきこそわたれ</seg>
-            <seg>秋のよな〳〵</seg>
+            <seg>
+              <w lemmaRef="#うき.憂し">うき</w>
+              <w lemmaRef="#こと.事">こと</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おもひ.思ふ">思</w>
+              <w lemmaRef="#つらね.連ぬ">つらね</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かりがね.雁">鳫金</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なく.鳴く">なき</w>
+              <w lemmaRef="#こそ.こそ">こそ</w>
+              <w lemmaRef="#わたれ.渡る">わたれ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あき.秋">秋</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#よなよな.夜な夜な">よな〳〵</w>
+            </seg>
           </l>
         </div>
         <lb/>

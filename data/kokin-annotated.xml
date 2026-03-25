@@ -9772,15 +9772,35 @@
         <lb/>
         <div type="和歌">
           <l n="223" xml:id="n223" resp="#よみ人知らず">
-            <seg>おりて見は</seg>
-            <seg>おちそしぬへき</seg>
-            <seg>秋はきの</seg>
-            <seg>枝も
+            <seg>
+              <w lemmaRef="#をり.折る">おり</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おち.落つ">おち</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#し.す">し</w>
+              <w lemmaRef="#ぬ.ぬ">ぬ</w>
+              <w lemmaRef="#べき.べし">へき</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あきはぎ.秋萩">秋はき</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#えだ.枝">枝</w>
+              <w lemmaRef="#も.も">も</w>
               <ruby>
                 <rb>たわゝ</rb>
                 <rt>とをゝ</rt>
               </ruby>に</seg>
-            <seg>をけるしらつゆ</seg>
+            <seg>
+              <w lemmaRef="#おけ.置く">をけ</w>
+              <w lemmaRef="#る.り">る</w>
+              <w lemmaRef="#しらつゆ.白露">しらつゆ</w>
+            </seg>
           </l>
         </div>
         <lb/>

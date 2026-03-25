@@ -10838,11 +10838,31 @@
           </note>
           <lb/>
           <l n="252" xml:id="n252" resp="#よみ人知らず">
-            <seg>霧たちて</seg>
-            <seg>鴈そ鳴なる</seg>
-            <seg>かたをかの</seg>
-            <seg>朝の原は</seg>
-            <seg>紅葉しぬらむ</seg>
+            <seg>
+              <w lemmaRef="#きり.霧">霧</w>
+              <w lemmaRef="#たち.立つ">たち</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かり.雁">鴈</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#なく.鳴く">鳴</w>
+              <w lemmaRef="#なる.なり">なる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かたをか.片岡">かたをか</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あしたのはら.朝の原">朝の原</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#もみぢ.紅葉づ">紅葉</w>
+              <w lemmaRef="#し.す">し</w>
+              <w lemmaRef="#ぬ.ぬ">ぬ</w>
+              <w lemmaRef="#らむ.らむ">らむ</w>
+            </seg>
           </l>
         </div>
         <lb/>

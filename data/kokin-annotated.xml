@@ -9882,11 +9882,34 @@
           </note>
           <lb/>
           <l n="226" xml:id="n226" resp="#遍昭">
-            <seg>名にめてゝ</seg>
-            <seg>おれる許そ</seg>
-            <seg>をみなへし</seg>
-            <seg>我おちにきと</seg>
-            <seg>人にかたるな</seg>
+            <seg>
+              <w lemmaRef="#な.名">名</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#めで.賞づ">めて</w>
+              <w lemmaRef="#て.て">ゝ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#をれ.折る">おれ</w>
+              <w lemmaRef="#る.り">る</w>
+              <w lemmaRef="#ばかり.許り">許</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#をみなへし.女郎花">をみなへし</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#われ.我">我</w>
+              <w lemmaRef="#おち.落つ">おち</w>
+              <w lemmaRef="#に.ぬ">に</w>
+              <w lemmaRef="#き.き">き</w>
+              <w lemmaRef="#と.と">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#かたる.語る">かたる</w>
+              <w lemmaRef="#な.な">な</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -9847,11 +9847,31 @@
           </note>
           <lb/>
           <l n="225" xml:id="n225" resp="#文屋朝康">
-            <seg>秋のゝに</seg>
-            <seg>をく白露は</seg>
-            <seg>玉なれや</seg>
-            <seg>つらぬきかくる</seg>
-            <seg>くものいとすち</seg>
+            <seg>
+              <w lemmaRef="#あき.秋">秋</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#の.野">ゝ</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おく.置く">をく</w>
+              <w lemmaRef="#しらつゆ.白露">白露</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たま.珠">玉</w>
+              <w lemmaRef="#なれ.なり">なれ</w>
+              <w lemmaRef="#や.や">や</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#つらぬき.貫く">つらぬき</w>
+              <w lemmaRef="#かくる.掛く">かくる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#くも.蜘蛛">くも</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#いとすぢ.糸筋">いとすち</w>
+            </seg>
           </l>
         </div>
         <lb/>

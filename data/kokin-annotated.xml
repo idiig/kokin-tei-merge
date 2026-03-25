@@ -10499,11 +10499,34 @@
           </note>
           <lb/>
           <l n="243" xml:id="n243" resp="#在原棟梁">
-            <seg>秋の野の</seg>
-            <seg>草のたもとか</seg>
-            <seg>花すゝき</seg>
-            <seg>ほにいてゝ招</seg>
-            <seg>袖と見ゆらむ</seg>
+            <seg>
+              <w lemmaRef="#あき.秋">秋</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#の.野">野</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#くさ.草">草</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#たもと.袂">たもと</w>
+              <w lemmaRef="#か.か">か</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はなすすき.花薄">花すゝき</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ほ.穂">ほ</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#いで.出づ">いて</w>
+              <w lemmaRef="#て.て">ゝ</w>
+              <w lemmaRef="#まねく.招く">招</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#そで.袖">袖</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#みゆ.見ゆ">見ゆ</w>
+              <w lemmaRef="#らむ.らむ">らむ</w>
+            </seg>
           </l>
         </div>
         <lb/>

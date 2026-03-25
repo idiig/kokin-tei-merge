@@ -9960,11 +9960,34 @@
           </note>
           <lb/>
           <l n="228" xml:id="n228" resp="#藤原敏行">
-            <seg>秋のゝに</seg>
-            <seg>やとりはすへし</seg>
-            <seg>女郎花</seg>
-            <seg>名をむつましみ</seg>
-            <seg>たひならなくに</seg>
+            <seg>
+              <w lemmaRef="#あき.秋">秋</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#の.野">ゝ</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#やどり.宿る">やとり</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#す.す">す</w>
+              <w lemmaRef="#べし.べし">へし</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#をみなへし.女郎花">女郎花</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#な.名">名</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#むつまじ.睦まじ">むつまし</w>
+              <w lemmaRef="#み.み">み</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たび.旅">たひ</w>
+              <w lemmaRef="#なら.なり">なら</w>
+              <w lemmaRef="#な.ず">な</w>
+              <w lemmaRef="#く.く">く</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
           </l>
         </div>
         <lb/>

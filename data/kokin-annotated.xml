@@ -9460,11 +9460,31 @@
           </note>
           <lb/>
           <l n="214" xml:id="n214" resp="#壬生忠岑">
-            <seg>山里は</seg>
-            <seg>秋こそことに</seg>
-            <seg>わひしけれ</seg>
-            <seg>鹿のなくねに</seg>
-            <seg>めをさましつゝ</seg>
+            <seg>
+              <w lemmaRef="#やまざと.山里">山里</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あき.秋">秋</w>
+              <w lemmaRef="#こそ.こそ">こそ</w>
+              <w lemmaRef="#ことに.殊に">ことに</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わびしけれ.侘し">わひしけれ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#しか.鹿">鹿</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#なく.鳴く">なく</w>
+              <w lemmaRef="#ね.音">ね</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#め.目">め</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#さまし.覚ます">さまし</w>
+              <w lemmaRef="#つつ.つつ">つゝ</w>
+            </seg>
           </l>
         </div>
         <lb/>

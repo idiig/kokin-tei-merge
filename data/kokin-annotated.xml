@@ -9176,11 +9176,31 @@
           </note>
           <lb/>
           <l n="206" xml:id="n206" resp="#在原元方">
-            <seg>松人に</seg>
-            <seg>あらぬ物から</seg>
-            <seg>はつかりの</seg>
-            <seg>けさなくこゑの</seg>
-            <seg>めつらしき哉</seg>
+            <seg>
+              <w lemmaRef="#まつ.待つ">松</w>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あら.有り">あら</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+              <w lemmaRef="#もの.物">物</w>
+              <w lemmaRef="#から.から">から</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はつかり.初雁">はつかり</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#けさ.今朝">けさ</w>
+              <w lemmaRef="#なく.鳴く">なく</w>
+              <w lemmaRef="#こゑ.声">こゑ</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#めづらしき.珍し">めつらしき</w>
+              <w lemmaRef="#かな.哉">哉</w>
+            </seg>
           </l>
         </div>
         <lb/>

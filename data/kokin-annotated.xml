@@ -10800,11 +10800,34 @@
           </note>
           <lb/>
           <l n="251" xml:id="n251" resp="#紀淑望">
-            <seg>紅葉せぬ</seg>
-            <seg>ときはの山は</seg>
-            <seg>吹風の</seg>
-            <seg>をとにや秋を</seg>
-            <seg>きゝ渡らむ</seg>
+            <seg>
+              <w lemmaRef="#もみぢ.紅葉づ">紅葉</w>
+              <w lemmaRef="#せ.す">せ</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ときは.常磐">ときは</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#やま.山">山</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ふく.吹く">吹</w>
+              <w lemmaRef="#かぜ.風">風</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おと.音">をと</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#や.や">や</w>
+              <w lemmaRef="#あき.秋">秋</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#きき.聞く">きゝ</w>
+              <w lemmaRef="#わたる.渡る">渡</w>
+              <w lemmaRef="#らむ.らむ">らむ</w>
+            </seg>
           </l>
         </div>
         <lb/>

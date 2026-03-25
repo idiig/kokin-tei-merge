@@ -10424,11 +10424,34 @@
           </note>
           <lb/>
           <l n="241" xml:id="n241" resp="#素性法師">
-            <seg>ぬしゝらぬ</seg>
-            <seg>かこそにほへれ</seg>
-            <seg>秋のゝに</seg>
-            <seg>たかぬきかけし</seg>
-            <seg>ふちはかまそも</seg>
+            <seg>
+              <w lemmaRef="#ぬし.主">ぬし</w>
+              <w lemmaRef="#しら.知る">ゝら</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#か.香">か</w>
+              <w lemmaRef="#こそ.こそ">こそ</w>
+              <w lemmaRef="#にほへ.匂ふ">にほへ</w>
+              <w lemmaRef="#れ.り">れ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あき.秋">秋</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#の.野">ゝ</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#た.誰">た</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#ぬぎ.脱ぐ">ぬき</w>
+              <w lemmaRef="#かけ.掛く">かけ</w>
+              <w lemmaRef="#し.き">し</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ふぢばかま.藤袴">ふちはかま</w>
+              <w lemmaRef="#ぞも.ぞも">そも</w>
+            </seg>
           </l>
         </div>
         <lb/>

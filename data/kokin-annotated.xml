@@ -9670,11 +9670,32 @@
           </note>
           <lb/>
           <l n="220" xml:id="n220" resp="#よみ人知らず">
-            <seg>秋はきの</seg>
-            <seg>したは色つく</seg>
-            <seg>今よりや</seg>
-            <seg>ひとりある人の</seg>
-            <seg>いねかてにする</seg>
+            <seg>
+              <w lemmaRef="#あきはぎ.秋萩">秋はき</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#したば.下葉">したは</w>
+              <w lemmaRef="#いろ.色">色</w>
+              <w lemmaRef="#つく.付く">つく</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いま.今">今</w>
+              <w lemmaRef="#より.より">より</w>
+              <w lemmaRef="#や.や">や</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひとり.一人">ひとり</w>
+              <w lemmaRef="#ある.有り">ある</w>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いね.寝ぬ">いね</w>
+              <w lemmaRef="#かて.勝つ">かて</w>
+              <w lemmaRef="#に.ず">に</w>
+              <w lemmaRef="#する.す">する</w>
+            </seg>
           </l>
         </div>
         <lb/>

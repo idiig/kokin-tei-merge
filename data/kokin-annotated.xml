@@ -11126,11 +11126,30 @@
           </note>
           <lb/>
           <l n="260" xml:id="n260" resp="#紀貫之">
-            <seg>しらつゆも</seg>
-            <seg>時雨もいたく</seg>
-            <seg>もる山は</seg>
-            <seg>したはのこらす</seg>
-            <seg>色つきにけり</seg>
+            <seg>
+              <w lemmaRef="#しらつゆ.白露">しらつゆ</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#しぐれ.時雨る">時雨</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#いたく.痛し">いたく</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#もるやま.守山">もる山</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#したば.下葉">したは</w>
+              <w lemmaRef="#のこら.残る">のこら</w>
+              <w lemmaRef="#ず.ず">す</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いろ.色">色</w>
+              <w lemmaRef="#つき.付く">つき</w>
+              <w lemmaRef="#に.ぬ">に</w>
+              <w lemmaRef="#けり.けり">けり</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -10213,11 +10213,29 @@
           <pb n="1-32r" facs="#p040"/>
           <lb/>
           <l n="235" xml:id="n235" resp="#壬生忠岑">
-            <seg>人の見る</seg>
-            <seg>事やくるしき</seg>
-            <seg>女郎花</seg>
-            <seg>秋きりにのみ</seg>
-            <seg>たちかくるらむ</seg>
+            <seg>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#みる.見る">見る</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こと.事">事</w>
+              <w lemmaRef="#や.や">や</w>
+              <w lemmaRef="#くるしき.苦し">くるしき</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#をみなへし.女郎花">女郎花</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あきぎり.秋霧">秋きり</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#のみ.のみ">のみ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たち.立つ">たち</w>
+              <w lemmaRef="#かくる.隠る">かくる</w>
+              <w lemmaRef="#らむ.らむ">らむ</w>
+            </seg>
           </l>
         </div>
         <lb/>

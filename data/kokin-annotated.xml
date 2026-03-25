@@ -10538,11 +10538,28 @@
           <pb n="1-33r" facs="#p041"/>
           <lb/>
           <l n="244" xml:id="n244" resp="#素性法師">
-            <seg>我のみや</seg>
-            <seg>あはれとおもはむ</seg>
-            <seg>蛬</seg>
-            <seg>なくゆふかけの</seg>
-            <seg>山となてしこ</seg>
+            <seg>
+              <w lemmaRef="#われ.我">我</w>
+              <w lemmaRef="#のみ.のみ">のみ</w>
+              <w lemmaRef="#や.や">や</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あはれ.哀れ">あはれ</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#おもは.思ふ">おもは</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#きりぎりす.蟋蟀">蛬</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なく.鳴く">なく</w>
+              <w lemmaRef="#ゆふかげ.夕影">ゆふかけ</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#やまとなでしこ.大和撫子">山となてしこ</w>
+            </seg>
           </l>
         </div>
         <lb/>

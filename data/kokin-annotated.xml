@@ -9213,11 +9213,33 @@
           <pb n="1-29v" facs="#p038"/>
           <lb/>
           <l n="207" xml:id="n207" resp="#紀友則">
-            <seg>秋風に</seg>
-            <seg>はつかりかねそ</seg>
-            <seg>きこゆなる</seg>
-            <seg>たかたまつさを</seg>
-            <seg>かけてきつ覧</seg>
+            <seg>
+              <w lemmaRef="#あきかぜ.秋風">秋風</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はつかり.初雁">はつかり</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#ね.音">ね</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#きこゆ.聞ゆ">きこゆ</w>
+              <w lemmaRef="#なる.なり">なる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#た.誰">た</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#たまづさ.玉章">たまつさ</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かけ.掛く">かけ</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#き.来">き</w>
+              <w lemmaRef="#つ.つ">つ</w>
+              <w lemmaRef="#らむ.らむ">覧</w>
+            </seg>
           </l>
         </div>
         <lb/>

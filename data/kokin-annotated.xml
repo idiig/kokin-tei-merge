@@ -11088,11 +11088,33 @@
           </note>
           <lb/>
           <l n="259" xml:id="n259" resp="#よみ人知らず">
-            <seg>あきの露</seg>
-            <seg>色〳〵ことに</seg>
-            <seg>をけはこそ</seg>
-            <seg>山のこのはの</seg>
-            <seg>ちくさなるらめ</seg>
+            <seg>
+              <w lemmaRef="#あき.秋">あき</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#つゆ.露">露</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いろいろ.色々">色〳〵</w>
+              <w lemmaRef="#ことに.異なり">ことに</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おけ.置く">をけ</w>
+              <w lemmaRef="#ば.ば">は</w>
+              <w lemmaRef="#こそ.こそ">こそ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#やま.山">山</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#こ.木">こ</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#は.葉">は</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ちぐさ.千種">ちくさ</w>
+              <w lemmaRef="#なる.なり">なる</w>
+              <w lemmaRef="#らめ.らむ">らめ</w>
+            </seg>
           </l>
         </div>
         <lb/>

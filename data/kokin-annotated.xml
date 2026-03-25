@@ -10278,11 +10278,29 @@
           </note>
           <lb/>
           <l n="237" xml:id="n237" resp="#兼覧王">
-            <seg>をみなへし</seg>
-            <seg>うしろめたくも</seg>
-            <seg>見ゆる哉</seg>
-            <seg>あれたるやとに</seg>
-            <seg>ひとりたてれは</seg>
+            <seg>
+              <w lemmaRef="#をみなへし.女郎花">をみなへし</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うしろめたく.後ろめたし">うしろめたく</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みゆる.見ゆ">見ゆる</w>
+              <w lemmaRef="#かな.哉">哉</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あれ.荒る">あれ</w>
+              <w lemmaRef="#たる.たり">たる</w>
+              <w lemmaRef="#やど.宿">やと</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひとり.一人">ひとり</w>
+              <w lemmaRef="#たて.立つ">たて</w>
+              <w lemmaRef="#れ.り">れ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -9634,11 +9634,32 @@
           </note>
           <lb/>
           <l n="219" xml:id="n219" resp="#凡河内躬恒">
-            <seg>あき萩の</seg>
-            <seg>ふるえにさける</seg>
-            <seg>花見れは</seg>
-            <seg>本の心は</seg>
-            <seg>忘さりけり</seg>
+            <seg>
+              <w lemmaRef="#あきはぎ.秋萩">あき萩</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ふるえ.古枝">ふるえ</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#さけ.咲く">さけ</w>
+              <w lemmaRef="#る.り">る</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はな.花">花</w>
+              <w lemmaRef="#みれ.見る">見れ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#もと.本">本</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#こころ.心">心</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わすれ.忘る">忘</w>
+              <w lemmaRef="#ざり.ず">さり</w>
+              <w lemmaRef="#けり.けり">けり</w>
+            </seg>
           </l>
         </div>
         <lb/>

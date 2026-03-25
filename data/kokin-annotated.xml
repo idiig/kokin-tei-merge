@@ -9250,11 +9250,33 @@
           </note>
           <lb/>
           <l n="208" xml:id="n208" resp="#よみ人知らず">
-            <seg>わか門に</seg>
-            <seg>いなおほせ鳥の</seg>
-            <seg>なくなへに</seg>
-            <seg>けさ吹風に</seg>
-            <seg>鳫はきにけり</seg>
+            <seg>
+              <w lemmaRef="#わ.我">わ</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#かど.門">門</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いなおほせどり.稲負鳥">いなおほせ鳥</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なく.鳴く">なく</w>
+              <w lemmaRef="#なへに.なへに">なへに</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#けさ.今朝">けさ</w>
+              <w lemmaRef="#ふく.吹く">吹</w>
+              <w lemmaRef="#かぜ.風">風</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かり.雁">鳫</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#き.来">き</w>
+              <w lemmaRef="#に.ぬ">に</w>
+              <w lemmaRef="#けり.けり">けり</w>
+            </seg>
           </l>
         </div>
         <lb/>

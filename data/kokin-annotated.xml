@@ -10144,11 +10144,33 @@
           </note>
           <lb/>
           <l n="233" xml:id="n233" resp="#凡河内躬恒">
-            <seg>つまこふる</seg>
-            <seg>鹿そなくなる</seg>
-            <seg>女郎花</seg>
-            <seg>をのかすむのゝ</seg>
-            <seg>花としらすや</seg>
+            <seg>
+              <w lemmaRef="#つま.妻">つま</w>
+              <w lemmaRef="#こふる.恋ふ">こふる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#しか.鹿">鹿</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#なく.鳴く">なく</w>
+              <w lemmaRef="#なる.なり">なる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#をみなへし.女郎花">女郎花</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#をの.己">をの</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#すむ.住む">すむ</w>
+              <w lemmaRef="#の.野">の</w>
+              <w lemmaRef="#の.の">ゝ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はな.花">花</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#しら.知る">しら</w>
+              <w lemmaRef="#ず.ず">す</w>
+              <w lemmaRef="#や.や">や</w>
+            </seg>
           </l>
         </div>
         <lb/>

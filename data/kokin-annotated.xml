@@ -10038,11 +10038,30 @@
           </note>
           <lb/>
           <l n="230" xml:id="n230" resp="#藤原時平">
-            <seg>をみなへし</seg>
-            <seg>秋のゝかせに</seg>
-            <seg>うちなひき</seg>
-            <seg>心ひとつを</seg>
-            <seg>たれによすらむ</seg>
+            <seg>
+              <w lemmaRef="#をみなへし.女郎花">をみなへし</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あき.秋">秋</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#のかぜ.野風">ゝかせ</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うち.打つ">うち</w>
+              <w lemmaRef="#なびき.靡く">なひき</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こころ.心">心</w>
+              <w lemmaRef="#ひとつ.一つ">ひとつ</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たれ.誰">たれ</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#よす.寄す">よす</w>
+              <w lemmaRef="#らむ.らむ">らむ</w>
+            </seg>
           </l>
         </div>
         <lb/>

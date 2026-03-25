@@ -9923,11 +9923,32 @@
           </note>
           <lb/>
           <l n="227" xml:id="n227" resp="#布留今道">
-            <seg>をみなへし</seg>
-            <seg>うしと見つゝそ</seg>
-            <seg>行すくる</seg>
-            <seg>おとこ山にし</seg>
-            <seg>たてりと思へは</seg>
+            <seg>
+              <w lemmaRef="#をみなへし.女郎花">をみなへし</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うし.憂し">うし</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#つつ.つつ">つゝ</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ゆき.行く">行</w>
+              <w lemmaRef="#すぐる.過ぐ">すくる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#をとこやま.男山">おとこ山</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#し.し">し</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たて.立つ">たて</w>
+              <w lemmaRef="#り.り">り</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#おもへ.思ふ">思へ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
           </l>
         </div>
         <lb/>

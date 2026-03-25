@@ -11274,11 +11274,34 @@
           </note>
           <lb/>
           <l n="264" xml:id="n264" resp="#よみ人知らず">
-            <seg>ちらねとも</seg>
-            <seg>かねてそおしき</seg>
-            <seg>もみちはゝ</seg>
-            <seg>今は限の</seg>
-            <seg>色と見つれは</seg>
+            <seg>
+              <w lemmaRef="#ちら.散る">ちら</w>
+              <w lemmaRef="#ね.ず">ね</w>
+              <w lemmaRef="#ど.ど">と</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かねて.予て">かねて</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#をしき.惜し">おしき</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#もみぢば.紅葉葉">もみちは</w>
+              <w lemmaRef="#は.は">ゝ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いま.今">今</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#かぎり.限る">限</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いろ.色">色</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#つれ.つ">つれ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
           </l>
         </div>
         <lb/>

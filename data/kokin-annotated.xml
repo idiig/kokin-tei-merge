@@ -10075,11 +10075,30 @@
           </note>
           <lb/>
           <l n="231" xml:id="n231" resp="#藤原定方">
-            <seg>秋ならて</seg>
-            <seg>逢方かたき</seg>
-            <seg>女郎花</seg>
-            <seg>あまのかはらに</seg>
-            <seg>おひぬものゆへ</seg>
+            <seg>
+              <w lemmaRef="#あき.秋">秋</w>
+              <w lemmaRef="#なら.なり">なら</w>
+              <w lemmaRef="#で.で">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あふ.逢ふ">逢</w>
+              <w lemmaRef="#こと.事">方</w>
+              <w lemmaRef="#かたき.難し">かたき</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#をみなへし.女郎花">女郎花</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あま.天">あま</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#かはら.河原">かはら</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おひ.生ふ">おひ</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+              <w lemmaRef="#ものゆゑ.物故">ものゆへ</w>
+            </seg>
           </l>
         </div>
         <lb/>

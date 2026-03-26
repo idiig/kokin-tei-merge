@@ -11854,11 +11854,33 @@
           </note>
           <lb/>
           <l n="279" xml:id="n279" resp="#平貞文">
-            <seg>秋をゝきて</seg>
-            <seg>時こそ有けれ</seg>
-            <seg>菊の花</seg>
-            <seg>うつろふからに</seg>
-            <seg>色のまされは</seg>
+            <seg>
+              <w lemmaRef="#あき.秋">秋</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#おき.置く">ゝき</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#とき.時">時</w>
+              <w lemmaRef="#こそ.こそ">こそ</w>
+              <w lemmaRef="#あり.有り">有</w>
+              <w lemmaRef="#けれ.けり">けれ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#きく.菊">菊</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#はな.花">花</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うつろふ.移ろふ">うつろふ</w>
+              <w lemmaRef="#からに.からに">からに</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いろ.色">色</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#まされ.増さる">まされ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
           </l>
         </div>
         <lb/>

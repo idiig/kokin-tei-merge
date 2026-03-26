@@ -11468,11 +11468,34 @@
           </note>
           <lb/>
           <l n="269" xml:id="n269" resp="#藤原敏行">
-            <seg>久方の</seg>
-            <seg>雲のうへにて</seg>
-            <seg>見る菊は</seg>
-            <seg>あまつほしとそ</seg>
-            <seg>あやまたれける</seg>
+            <seg>
+              <w lemmaRef="#ひさかた.久方">久方</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#くも.雲">雲</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#うへ.上">うへ</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みる.見る">見る</w>
+              <w lemmaRef="#きく.菊">菊</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あま.天">あま</w>
+              <w lemmaRef="#つ.つ">つ</w>
+              <w lemmaRef="#ほし.星">ほし</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あやまた.誤つ">あやまた</w>
+              <w lemmaRef="#れ.る">れ</w>
+              <w lemmaRef="#ける.けり">ける</w>
+            </seg>
           </l>
           <lb/>
           <note type="左注" style="margin-top: 3em" target="#n269">この哥はまた殿上ゆるされさりける時にめし

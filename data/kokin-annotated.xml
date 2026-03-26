@@ -12096,11 +12096,30 @@
         <lb/>
         <div>
           <l n="286" xml:id="n286" resp="#よみ人知らず">
-            <seg>秋風に</seg>
-            <seg>あへすちりぬる</seg>
-            <seg>もみちはの</seg>
-            <seg>ゆくゑさためぬ</seg>
-            <seg>我そかなしき</seg>
+            <seg>
+              <w lemmaRef="#あきかぜ.秋風">秋風</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あへ.敢ふ">あへ</w>
+              <w lemmaRef="#ず.ず">す</w>
+              <w lemmaRef="#ちり.散る">ちり</w>
+              <w lemmaRef="#ぬる.ぬ">ぬる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#もみぢば.紅葉葉">もみちは</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ゆくへ.行方">ゆくゑ</w>
+              <w lemmaRef="#さだめ.定む">さため</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#われ.我">我</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#かなしき.悲し">かなしき</w>
+            </seg>
           </l>
         </div>
         <lb/>

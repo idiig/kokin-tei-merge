@@ -12409,11 +12409,36 @@
           </note>
           <lb/>
           <l n="295" xml:id="n295" resp="#藤原敏行">
-            <seg>わかきつる</seg>
-            <seg>方もしられす</seg>
-            <seg>くらふ山</seg>
-            <seg>木々のこのはの</seg>
-            <seg>ちるとまかふに</seg>
+            <seg>
+              <w lemmaRef="#わ.我">わ</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#き.来">き</w>
+              <w lemmaRef="#つる.つ">つる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かた.方">方</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#しら.知る">しら</w>
+              <w lemmaRef="#れ.る">れ</w>
+              <w lemmaRef="#ず.ず">す</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#くらぶやま.暗部山">くらふ山</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#きぎ.木木">木々</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#こ.木">こ</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#は.葉">は</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ちる.散る">ちる</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#まがふ.紛ふ">まかふ</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
           </l>
         </div>
         <lb/>

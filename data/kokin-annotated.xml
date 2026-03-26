@@ -12125,11 +12125,35 @@
         <lb/>
         <div>
           <l n="287" xml:id="n287" resp="#よみ人知らず">
-            <seg>秋はきぬ</seg>
-            <seg>紅葉はやとに</seg>
-            <seg>ふりしきぬ</seg>
-            <seg>道ふみわけて</seg>
-            <seg>問人はなし</seg>
+            <seg>
+              <w lemmaRef="#あき.秋">秋</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#き.来">き</w>
+              <w lemmaRef="#ぬ.ぬ">ぬ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#もみぢ.紅葉づ">紅葉</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#やど.宿">やと</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ふり.降る">ふり</w>
+              <w lemmaRef="#しき.敷く">しき</w>
+              <w lemmaRef="#ぬ.ぬ">ぬ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みち.道">道</w>
+              <w lemmaRef="#ふみ.踏む">ふみ</w>
+              <w lemmaRef="#わけ.分く">わけ</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#とふ.訪ふ">問</w>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#なし.無し">なし</w>
+            </seg>
           </l>
         </div>
         <lb/>

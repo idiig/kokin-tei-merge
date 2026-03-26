@@ -12674,11 +12674,32 @@
           </note>
           <lb/>
           <l n="302" xml:id="n302" resp="#坂上是則">
-            <seg>もみちはの</seg>
-            <seg>流さりせは</seg>
-            <seg>龍田河</seg>
-            <seg>水の秋をは</seg>
-            <seg>誰かしらまし</seg>
+            <seg>
+              <w lemmaRef="#もみぢば.紅葉葉">もみちは</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ながれ.流る">流</w>
+              <w lemmaRef="#ざり.ず">さり</w>
+              <w lemmaRef="#せ.き">せ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たつたがは.立田河">龍田河</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みづ.水">水</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#あき.秋">秋</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たれ.誰">誰</w>
+              <w lemmaRef="#か.か">か</w>
+              <w lemmaRef="#しら.知る">しら</w>
+              <w lemmaRef="#まし.まし">まし</w>
+            </seg>
           </l>
         </div>
         <lb/>

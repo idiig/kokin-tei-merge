@@ -11628,11 +11628,36 @@
           </note>
           <lb/>
           <l n="273" xml:id="n273" resp="#素性法師">
-            <seg>ぬれてほす</seg>
-            <seg>山ちのきくの</seg>
-            <seg>つゆのまに</seg>
-            <seg>いつかちとせを</seg>
-            <seg>我はへにけむ</seg>
+            <seg>
+              <w lemmaRef="#ぬれ.濡る">ぬれ</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#ほす.干す">ほす</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#やまぢ.山路">山ち</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#きく.菊">きく</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#つゆ.露">つゆ</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#ま.間">ま</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いつ.何時">いつ</w>
+              <w lemmaRef="#か.か">か</w>
+              <w lemmaRef="#ちとせ.千歳">ちとせ</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#われ.我">我</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#へ.経">へ</w>
+              <w lemmaRef="#に.ぬ">に</w>
+              <w lemmaRef="#けむ.けむ">けむ</w>
+            </seg>
           </l>
         </div>
         <pb n="1-36v" facs="#p045"/>

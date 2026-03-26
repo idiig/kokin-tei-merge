@@ -11548,11 +11548,34 @@
           </note>
           <lb/>
           <l n="271" xml:id="n271" resp="#大江千里">
-            <seg>栽し時</seg>
-            <seg>花まちとをに</seg>
-            <seg>ありしきく</seg>
-            <seg>うつろふ秋に</seg>
-            <seg>あはむとや見し</seg>
+            <seg>
+              <w lemmaRef="#うゑ.植う">栽</w>
+              <w lemmaRef="#し.き">し</w>
+              <w lemmaRef="#とき.時">時</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はな.花">花</w>
+              <w lemmaRef="#まちどほ.待ち遠">まちとを</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あり.有り">あり</w>
+              <w lemmaRef="#し.き">し</w>
+              <w lemmaRef="#きく.菊">きく</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うつろふ.移ろふ">うつろふ</w>
+              <w lemmaRef="#あき.秋">秋</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あは.逢ふ">あは</w>
+              <w lemmaRef="#む.む">む</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#や.や">や</w>
+              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#し.き">し</w>
+            </seg>
           </l>
         </div>
         <lb/>

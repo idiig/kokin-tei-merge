@@ -12339,11 +12339,30 @@
           </note>
           <lb/>
           <l n="293" xml:id="n293" resp="#素性法師">
-            <seg>もみちはの</seg>
-            <seg>流てとまる</seg>
-            <seg>みなとには</seg>
-            <seg>紅深き</seg>
-            <seg>浪や立らむ</seg>
+            <seg>
+              <w lemmaRef="#もみぢば.紅葉葉">もみちは</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ながれ.流る">流</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#とまる.止まる">とまる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みなと.湊">みなと</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#くれなゐ.紅">紅</w>
+              <w lemmaRef="#ふかき.深し">深き</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なみ.浪">浪</w>
+              <w lemmaRef="#や.や">や</w>
+              <w lemmaRef="#たつ.立つ">立</w>
+              <w lemmaRef="#らむ.らむ">らむ</w>
+            </seg>
           </l>
         </div>
         <lb/>

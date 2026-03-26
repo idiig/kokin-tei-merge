@@ -12300,11 +12300,32 @@
           </note>
           <lb/>
           <l n="292" xml:id="n292" resp="#遍昭">
-            <seg>わひ人の</seg>
-            <seg>わきてたちよる</seg>
-            <seg>このもとは</seg>
-            <seg>たのむ影なく</seg>
-            <seg>紅葉ちりけり</seg>
+            <seg>
+              <w lemmaRef="#わびびと.侘人">わひ人</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わき.分く">わき</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#たち.立つ">たち</w>
+              <w lemmaRef="#よる.寄る">よる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こ.木">こ</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#もと.下">もと</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たのむ.頼む">たのむ</w>
+              <w lemmaRef="#かげ.影">影</w>
+              <w lemmaRef="#なく.無し">なく</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#もみぢ.紅葉づ">紅葉</w>
+              <w lemmaRef="#ちり.散る">ちり</w>
+              <w lemmaRef="#けり.けり">けり</w>
+            </seg>
           </l>
         </div>
         <lb/>

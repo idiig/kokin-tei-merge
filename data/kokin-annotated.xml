@@ -11929,11 +11929,31 @@
           </note>
           <lb/>
           <l n="281" xml:id="n281" resp="#よみ人知らず">
-            <seg>さほ山の</seg>
-            <seg>はゝその紅葉</seg>
-            <seg>ちりぬへみ</seg>
-            <seg>よるさへ見よと</seg>
-            <seg>てらす月影</seg>
+            <seg>
+              <w lemmaRef="#さほやま.佐保山">さほ山</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ははそ.柞">はゝそ</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#もみぢ.紅葉づ">紅葉</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ちり.散る">ちり</w>
+              <w lemmaRef="#ぬ.ぬ">ぬ</w>
+              <w lemmaRef="#べ.べし">へ</w>
+              <w lemmaRef="#み.み">み</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#よる.夜">よる</w>
+              <w lemmaRef="#さへ.さへ">さへ</w>
+              <w lemmaRef="#みよ.見る">見よ</w>
+              <w lemmaRef="#と.と">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#てらす.照らす">てらす</w>
+              <w lemmaRef="#つきかげ.月影">月影</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -11590,11 +11590,33 @@
           <note type="勘物" style="margin-top: 1em" resp="#藤原定家" target="#s272">延喜元年以後　贈位以前也仍注姓朝臣</note>
           <lb/>
           <l n="272" xml:id="n272" resp="#菅原道真">
-            <seg>秋風の</seg>
-            <seg>ふきあけにたてる</seg>
-            <seg>白菊は</seg>
-            <seg>花かあらぬか</seg>
-            <seg>浪のよするか</seg>
+            <seg>
+              <w lemmaRef="#あきかぜ.秋風">秋風</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ふきあげ.吹上">ふきあけ</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#たて.立つ">たて</w>
+              <w lemmaRef="#る.り">る</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#しらぎく.白菊">白菊</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はな.花">花</w>
+              <w lemmaRef="#か.か">か</w>
+              <w lemmaRef="#あら.有り">あら</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+              <w lemmaRef="#か.か">か</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なみ.浪">浪</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#よする.寄す">よする</w>
+              <w lemmaRef="#か.か">か</w>
+            </seg>
           </l>
         </div>
         <lb/>

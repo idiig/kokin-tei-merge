@@ -11703,11 +11703,33 @@
           <note type="詞書" style="margin-top: 2em" target="#n275">おほさはの池のかたにきくうへたるをよめる</note>
           <lb/>
           <l n="275" xml:id="n275" resp="#紀友則">
-            <seg>ひともとゝ</seg>
-            <seg>思し菊を</seg>
-            <seg>おほさはの</seg>
-            <seg>池の底にも</seg>
-            <seg>たれかうへけむ</seg>
+            <seg>
+              <w lemmaRef="#ひともと.一本">ひともと</w>
+              <w lemmaRef="#と.と">ゝ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おもひ.思ふ">思</w>
+              <w lemmaRef="#し.き">し</w>
+              <w lemmaRef="#はな.花">菊</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おほさは.大沢">おほさは</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いけ.池">池</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#そこ.底">底</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たれ.誰">たれ</w>
+              <w lemmaRef="#か.か">か</w>
+              <w lemmaRef="#うゑ.植う">うへ</w>
+              <w lemmaRef="#けむ.けむ">けむ</w>
+            </seg>
           </l>
         </div>
         <lb/>

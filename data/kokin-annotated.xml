@@ -11967,11 +11967,31 @@
           <pb n="1-37v" facs="#p046"/>
           <lb/>
           <l n="282" xml:id="n282" resp="#藤原関雄">
-            <seg>奥山の</seg>
-            <seg>いはかき紅葉</seg>
-            <seg>ちりぬへし</seg>
-            <seg>てる日のひかり</seg>
-            <seg>見る時なくて</seg>
+            <seg>
+              <w lemmaRef="#おくやま.奥山">奥山</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いはがき.岩垣">いはかき</w>
+              <w lemmaRef="#もみぢ.紅葉づ">紅葉</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ちり.散る">ちり</w>
+              <w lemmaRef="#ぬ.ぬ">ぬ</w>
+              <w lemmaRef="#べし.べし">へし</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#てる.照る">てる</w>
+              <w lemmaRef="#ひ.日">日</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#ひかり.光">ひかり</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みる.見る">見る</w>
+              <w lemmaRef="#とき.時">時</w>
+              <w lemmaRef="#なく.無し">なく</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
           </l>
         </div>
         <lb/>

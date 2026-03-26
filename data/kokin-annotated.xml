@@ -12002,11 +12002,30 @@
           </note>
           <lb/>
           <l n="283" xml:id="n283" resp="#よみ人知らず">
-            <seg>龍田河</seg>
-            <seg>紅葉みたれて</seg>
-            <seg>流めり</seg>
-            <seg>わたらは錦</seg>
-            <seg>中やたえなむ</seg>
+            <seg>
+              <w lemmaRef="#たつたがは.竜田河">龍田河</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#もみぢ.紅葉づ">紅葉</w>
+              <w lemmaRef="#みだれ.乱る">みたれ</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ながる.流る">流</w>
+              <w lemmaRef="#めり.めり">めり</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わたら.渡る">わたら</w>
+              <w lemmaRef="#ば.ば">は</w>
+              <w lemmaRef="#にしき.錦">錦</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なか.中">中</w>
+              <w lemmaRef="#や.や">や</w>
+              <w lemmaRef="#たえ.絶ゆ">たえ</w>
+              <w lemmaRef="#な.ぬ">な</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
           </l>
           <lb/>
           <note type="左注" style="margin-top: 3em" target="#n283" resp="#よみ人知らず">この哥はある人

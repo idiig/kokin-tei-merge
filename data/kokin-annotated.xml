@@ -11351,11 +11351,34 @@
           </note>
           <lb/>
           <l n="266" xml:id="n266" resp="#よみ人知らず">
-            <seg>秋きりは</seg>
-            <seg>けさはなたちそ</seg>
-            <seg>さほ山の</seg>
-            <seg>はゝその紅葉</seg>
-            <seg>よそにても見む</seg>
+            <seg>
+              <w lemmaRef="#あきぎり.秋霧">秋きり</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#けさ.今朝">けさ</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#な.な">な</w>
+              <w lemmaRef="#たち.立つ">たち</w>
+              <w lemmaRef="#そ.そ">そ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#さほやま.佐保山">さほ山</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ははそ.柞">はゝそ</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#もみぢ.紅葉づ">紅葉</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#よそ.余所">よそ</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
           </l>
         </div>
         <pb n="1-35v" facs="#p044"/>

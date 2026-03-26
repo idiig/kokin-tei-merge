@@ -11390,11 +11390,32 @@
           </note>
           <lb/>
           <l n="267" xml:id="n267" resp="#坂上是則">
-            <seg>さほ山の</seg>
-            <seg>はゝその色は</seg>
-            <seg>うすけれと</seg>
-            <seg>秋は深くも</seg>
-            <seg>成にける哉</seg>
+            <seg>
+              <w lemmaRef="#さほやま.佐保山">さほ山</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ははそ.柞">はゝそ</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#いろ.色">色</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うすけれ.薄し">うすけれ</w>
+              <w lemmaRef="#ど.ど">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あき.秋">秋</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#ふかく.深し">深く</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なり.成る">成</w>
+              <w lemmaRef="#に.ぬ">に</w>
+              <w lemmaRef="#ける.けり">ける</w>
+              <w lemmaRef="#かな.哉">哉</w>
+            </seg>
           </l>
         </div>
         <lb/>

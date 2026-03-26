@@ -12034,11 +12034,28 @@
         <lb/>
         <div>
           <l n="284" xml:id="n284" resp="#よみ人知らず">
-            <seg>龍田河</seg>
-            <seg>もみちはなかる</seg>
-            <seg>神なひの</seg>
-            <seg>みむろの山に</seg>
-            <seg>時雨ふるらし</seg>
+            <seg>
+              <w lemmaRef="#たつたがは.立田河">龍田河</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#もみぢば.紅葉葉">もみちは</w>
+              <w lemmaRef="#ながる.流る">なかる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かむなび.神奈備">神なひ</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みむろ.三室">みむろ</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#やま.山">山</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#しぐれ.時雨る">時雨</w>
+              <w lemmaRef="#ふる.降る">ふる</w>
+              <w lemmaRef="#らし.らし">らし</w>
+            </seg>
           </l>
           <lb/>
           <note type="左注" style="margin-top: 3em" target="#n284" resp="#よみ人知らず">又はあすかゝはもみちはなかる</note>

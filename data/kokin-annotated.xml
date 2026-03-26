@@ -12633,11 +12633,36 @@
           </note>
           <lb/>
           <l n="301" xml:id="n301" resp="#藤原興風">
-            <seg>白浪に</seg>
-            <seg>秋のこのはの</seg>
-            <seg>うかへるを</seg>
-            <seg>あまのなかせる</seg>
-            <seg>舟かとそ見る</seg>
+            <seg>
+              <w lemmaRef="#しらなみ.白浪">白浪</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あき.秋">秋</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#こ.木">こ</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#は.葉">は</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うかべ.浮ぶ">うかへ</w>
+              <w lemmaRef="#る.り">る</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あま.海人">あま</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#ながせ.流す">なかせ</w>
+              <w lemmaRef="#る.り">る</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ふね.舟">舟</w>
+              <w lemmaRef="#か.か">か</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#みる.見る">見る</w>
+            </seg>
           </l>
         </div>
         <lb/>

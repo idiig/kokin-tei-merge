@@ -11427,11 +11427,36 @@
           </note>
           <lb/>
           <l n="268" xml:id="n268" resp="#在原業平">
-            <seg>うへしうへは</seg>
-            <seg>秋なき時や</seg>
-            <seg>さかさらむ</seg>
-            <seg>花こそちらめ</seg>
-            <seg>ねさへかれめや</seg>
+            <seg>
+              <w lemmaRef="#うゑ.植う">うへ</w>
+              <w lemmaRef="#し.し">し</w>
+              <w lemmaRef="#うゑ.植う">うへ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あき.秋">秋</w>
+              <w lemmaRef="#なき.無し">なき</w>
+              <w lemmaRef="#とき.時">時</w>
+              <w lemmaRef="#や.や">や</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#さか.咲く">さか</w>
+              <w lemmaRef="#ざら.ず">さら</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はな.花">花</w>
+              <w lemmaRef="#こそ.こそ">こそ</w>
+              <w lemmaRef="#ちら.散る">ちら</w>
+              <w lemmaRef="#め.む">め</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ね.根">ね</w>
+              <w lemmaRef="#さへ.さへ">さへ</w>
+              <w lemmaRef="#かれ.枯る">かれ</w>
+              <w lemmaRef="#め.む">め</w>
+              <w lemmaRef="#や.や">や</w>
+            </seg>
           </l>
         </div>
         <lb/>

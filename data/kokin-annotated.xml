@@ -12262,11 +12262,33 @@
           </note>
           <lb/>
           <l n="291" xml:id="n291" resp="#藤原関雄">
-            <seg>霜のたて</seg>
-            <seg>つゆのぬきこそ</seg>
-            <seg>よはからし</seg>
-            <seg>山の錦の</seg>
-            <seg>をれはかつちる</seg>
+            <seg>
+              <w lemmaRef="#しも.霜">霜</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#たて.経">たて</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#つゆ.露">つゆ</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#ぬき.緯">ぬき</w>
+              <w lemmaRef="#こそ.こそ">こそ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#よわく.弱し">よはか</w>
+              <w lemmaRef="#らし.らし">らし</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#やま.山">山</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#にしき.錦">錦</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おれ.織る">をれ</w>
+              <w lemmaRef="#ば.ば">は</w>
+              <w lemmaRef="#かつ.且つ">かつ</w>
+              <w lemmaRef="#ちる.散る">ちる</w>
+            </seg>
           </l>
         </div>
         <lb/>

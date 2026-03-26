@@ -12159,11 +12159,33 @@
         <lb/>
         <div>
           <l n="288" xml:id="n288" resp="#よみ人知らず">
-            <seg>ふみわけて</seg>
-            <seg>更にやとはむ</seg>
-            <seg>もみちはの</seg>
-            <seg>ふりかくしてし</seg>
-            <seg>道と見なから</seg>
+            <seg>
+              <w lemmaRef="#ふみ.踏む">ふみ</w>
+              <w lemmaRef="#わけ.分く">わけ</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#さらに.更なり">更に</w>
+              <w lemmaRef="#や.や">や</w>
+              <w lemmaRef="#とは.問ふ">とは</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#もみぢば.紅葉葉">もみちは</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ふり.降る">ふり</w>
+              <w lemmaRef="#かくし.隠す">かくし</w>
+              <w lemmaRef="#て.つ">て</w>
+              <w lemmaRef="#し.き">し</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みち.道">道</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#ながら.ながら">なから</w>
+            </seg>
           </l>
         </div>
         <lb/>

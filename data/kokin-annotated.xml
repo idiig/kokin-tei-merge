@@ -12597,11 +12597,31 @@
           </note>
           <lb/>
           <l n="300" xml:id="n300" resp="#清原深養父">
-            <seg>神なひの</seg>
-            <seg>山をすきゆく</seg>
-            <seg>秋なれは</seg>
-            <seg>龍田河にそ</seg>
-            <seg>ぬさはたむくる</seg>
+            <seg>
+              <w lemmaRef="#かむなび.神奈備">神なひ</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#やま.山">山</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#すぎ.過ぐ">すき</w>
+              <w lemmaRef="#ゆく.行く">ゆく</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あき.秋">秋</w>
+              <w lemmaRef="#なれ.なり">なれ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たつたがは.立田河">龍田河</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ぬさ.幣">ぬさ</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#たむくる.手向く">たむくる</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -11511,11 +11511,32 @@
           <pb n="1-36r" facs="#p044"/>
           <lb/>
           <l n="270" xml:id="n270" resp="#紀友則">
-            <seg>露なから</seg>
-            <seg>おりてかさゝむ</seg>
-            <seg>菊花</seg>
-            <seg>おいせぬ秋の</seg>
-            <seg>ひさしかるへく</seg>
+            <seg>
+              <w lemmaRef="#つゆ.露">露</w>
+              <w lemmaRef="#ながら.ながら">なから</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#をり.折る">おり</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#かざさ.挿頭す">かさゝ</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#きく.菊">菊</w>
+              <w lemmaRef="#の.の"/>
+              <w lemmaRef="#はな.花">花</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おい.老ゆ">おい</w>
+              <w lemmaRef="#せ.す">せ</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+              <w lemmaRef="#あき.秋">秋</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひさしかる.久し">ひさしかる</w>
+              <w lemmaRef="#べく.べし">へく</w>
+            </seg>
           </l>
         </div>
         <lb/>

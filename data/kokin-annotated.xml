@@ -12485,11 +12485,32 @@
           </note>
           <lb/>
           <l n="297" xml:id="n297" resp="#紀貫之">
-            <seg>見る人も</seg>
-            <seg>なくてちりぬる</seg>
-            <seg>おく山の</seg>
-            <seg>紅葉はよるの</seg>
-            <seg>錦なりけり</seg>
+            <seg>
+              <w lemmaRef="#みる.見る">見る</w>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なく.無し">なく</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#ちり.散る">ちり</w>
+              <w lemmaRef="#ぬる.ぬ">ぬる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おくやま.奥山">おく山</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#もみぢ.紅葉づ">紅葉</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#よる.夜">よる</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#にしき.錦">錦</w>
+              <w lemmaRef="#なり.なり">なり</w>
+              <w lemmaRef="#けり.けり">けり</w>
+            </seg>
           </l>
         </div>
         <lb/>

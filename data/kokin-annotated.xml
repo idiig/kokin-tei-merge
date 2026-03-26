@@ -12521,11 +12521,33 @@
           </note>
           <lb/>
           <l n="298" xml:id="n298" resp="#兼覧王">
-            <seg>龍田姫</seg>
-            <seg>たむくる神の</seg>
-            <seg>あれはこそ</seg>
-            <seg>秋のこのはの</seg>
-            <seg>ぬさとちるらめ</seg>
+            <seg>
+              <w lemmaRef="#たつたひめ.立田姫">龍田姫</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たむくる.手向く">たむくる</w>
+              <w lemmaRef="#かみ.神">神</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あれ.有り">あれ</w>
+              <w lemmaRef="#ば.ば">は</w>
+              <w lemmaRef="#こそ.こそ">こそ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あき.秋">秋</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#こ.木">こ</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#は.葉">は</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ぬさ.幣">ぬさ</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#ちる.散る">ちる</w>
+              <w lemmaRef="#らめ.らむ">らめ</w>
+            </seg>
           </l>
         </div>
         <lb/>

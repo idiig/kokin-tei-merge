@@ -12065,11 +12065,32 @@
         <lb/>
         <div>
           <l n="285" xml:id="n285" resp="#よみ人知らず">
-            <seg>こひしくは</seg>
-            <seg>みてもしのはむ</seg>
-            <seg>もみちはを</seg>
-            <seg>吹なちらしそ</seg>
-            <seg>山おろしの風</seg>
+            <seg>
+              <w lemmaRef="#こひしく.恋し">こひしく</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#み.見る">み</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#しのば.忍ぶ">しのは</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#もみぢば.紅葉葉">もみちは</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ふき.吹く">吹</w>
+              <w lemmaRef="#な.な">な</w>
+              <w lemmaRef="#ちらし.散らす">ちらし</w>
+              <w lemmaRef="#そ.そ">そ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#やまおろし.山颪">山おろし</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#かぜ.風">風</w>
+            </seg>
           </l>
         </div>
         <lb/>

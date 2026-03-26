@@ -12373,11 +12373,30 @@
           </note>
           <lb/>
           <l n="294" xml:id="n294" resp="#在原業平">
-            <seg>ちはやふる</seg>
-            <seg>神世もきかす</seg>
-            <seg>たつた河</seg>
-            <seg>唐紅に</seg>
-            <seg>水くゝるとは</seg>
+            <seg>
+              <w lemmaRef="#ち.千">ち</w>
+              <w lemmaRef="#はや.早し">はや</w>
+              <w lemmaRef="#ふる.振る">ふる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かみよ.神世">神世</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#きか.聞く">きか</w>
+              <w lemmaRef="#ず.ず">す</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たつたがは.立田河">たつた河</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#からくれなゐ.唐紅">唐紅</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みづ.水">水</w>
+              <w lemmaRef="#くぐる.潜る">くゝる</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -12222,11 +12222,35 @@
         <lb/>
         <div>
           <l n="290" xml:id="n290" resp="#よみ人知らず">
-            <seg>吹風の</seg>
-            <seg>色のちくさに</seg>
-            <seg>見えつるは</seg>
-            <seg>秋のこのはの</seg>
-            <seg>ちれはなりけり</seg>
+            <seg>
+              <w lemmaRef="#ふく.吹く">吹</w>
+              <w lemmaRef="#かぜ.風">風</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いろ.色">色</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#ちぐさに.千種なり">ちくさに</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みえ.見ゆ">見え</w>
+              <w lemmaRef="#つる.つ">つる</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あき.秋">秋</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#こ.木">こ</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#は.葉">は</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ちれ.散る">ちれ</w>
+              <w lemmaRef="#ば.ば">は</w>
+              <w lemmaRef="#なり.なり">なり</w>
+              <w lemmaRef="#けり.けり">けり</w>
+            </seg>
           </l>
         </div>
         <pb n="1-38r" facs="#p046"/>

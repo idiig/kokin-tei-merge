@@ -11741,11 +11741,35 @@
           </note>
           <lb/>
           <l n="276" xml:id="n276" resp="#紀貫之">
-            <seg>秋の菊</seg>
-            <seg>にほふ限は</seg>
-            <seg>かさしてむ</seg>
-            <seg>花よりさきと</seg>
-            <seg>しらぬわか身を</seg>
+            <seg>
+              <w lemmaRef="#あき.秋">秋</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#きく.菊">菊</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#にほふ.匂ふ">にほふ</w>
+              <w lemmaRef="#かぎり.限る">限</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かざし.挿頭す">かさし</w>
+              <w lemmaRef="#て.つ">て</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はな.花">花</w>
+              <w lemmaRef="#より.より">より</w>
+              <w lemmaRef="#さき.先">さき</w>
+              <w lemmaRef="#と.と">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#しら.知る">しら</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+              <w lemmaRef="#わ.我">わ</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#み.身">身</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
           </l>
         </div>
         <lb/>

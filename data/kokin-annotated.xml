@@ -13128,11 +13128,29 @@
           </note>
           <lb/>
           <l n="314" xml:id="n314" resp="#よみ人知らず">
-            <seg>龍田河</seg>
-            <seg>錦をりかく</seg>
-            <seg>神無月</seg>
-            <seg>時雨のあめを</seg>
-            <seg>たてぬきにして</seg>
+            <seg>
+              <w lemmaRef="#たつたがは.竜田河">龍田河</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#にしき.錦">錦</w>
+              <w lemmaRef="#をり.折る">をり</w>
+              <w lemmaRef="#かく.懸く">かく</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かみなづき.神無月">神無月</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#しぐれ.時雨る">時雨</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#あめ.雨">あめ</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たてぬき.経緯">たてぬき</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#し.す">し</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -13046,11 +13046,33 @@
           <note type="詞書" style="margin-top: 2em" target="#n312">なか月のつこもりの日大井にてよめる</note>
           <lb/>
           <l n="312" xml:id="n312" resp="#紀貫之">
-            <seg>ゆふつく夜</seg>
-            <seg>をくらの山に</seg>
-            <seg>なくしかの</seg>
-            <seg>こゑのうちにや</seg>
-            <seg>秋はくるらむ</seg>
+            <seg>
+              <w lemmaRef="#ゆふづくよ.夕月夜">ゆふつく夜</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#をぐら.小倉">をくら</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#やま.山">山</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なく.鳴く">なく</w>
+              <w lemmaRef="#しか.鹿">しか</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こゑ.声">こゑ</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#うち.内">うち</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#や.や">や</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あき.秋">秋</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#くる.暮る">くる</w>
+              <w lemmaRef="#らむ.らむ">らむ</w>
+            </seg>
           </l>
         </div>
         <lb/>

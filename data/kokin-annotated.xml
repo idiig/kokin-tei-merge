@@ -12857,11 +12857,35 @@
           <pb n="1-40r" facs="#p048"/>
           <lb/>
           <l n="307" xml:id="n307" resp="#よみ人知らず">
-            <seg>ほにもいてぬ</seg>
-            <seg>山田をもると</seg>
-            <seg>藤衣</seg>
-            <seg>いなはのつゆに</seg>
-            <seg>ぬれぬ日はなし</seg>
+            <seg>
+              <w lemmaRef="#ほ.穂">ほ</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#いで.出づ">いて</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#やまだ.山田">山田</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#もる.守る">もる</w>
+              <w lemmaRef="#と.と">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ふぢごろも.藤衣">藤衣</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いなば.稲葉">いなは</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#つゆ.露">つゆ</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ぬれ.濡る">ぬれ</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+              <w lemmaRef="#ひ.日">日</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#なし.無し">なし</w>
+            </seg>
           </l>
         </div>
         <lb/>

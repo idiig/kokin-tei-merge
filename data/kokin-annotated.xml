@@ -12933,11 +12933,37 @@
           </note>
           <lb/>
           <l n="309" xml:id="n309" resp="#素性法師">
-            <seg>もみちはゝ</seg>
-            <seg>袖にこきいれて</seg>
-            <seg>もていてなむ</seg>
-            <seg>秋は限と</seg>
-            <seg>見む人のため</seg>
+            <seg>
+              <w lemmaRef="#もみぢば.紅葉葉">もみちは</w>
+              <w lemmaRef="#は.は">ゝ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#そで.袖">袖</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#こき.扱く">こき</w>
+              <w lemmaRef="#いれ.入る">いれ</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#も.持つ">も</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#いで.出づ">いて</w>
+              <w lemmaRef="#な.ぬ">な</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あき.秋">秋</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#かぎり.限る">限</w>
+              <w lemmaRef="#と.と">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#む.む">む</w>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#ため.為">ため</w>
+            </seg>
           </l>
         </div>
         <lb/>

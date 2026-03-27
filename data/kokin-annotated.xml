@@ -13084,11 +13084,33 @@
           </note>
           <lb/>
           <l n="313" xml:id="n313" resp="#凡河内躬恒">
-            <seg>道しらは</seg>
-            <seg>尋もゆかむ</seg>
-            <seg>もみちはを</seg>
-            <seg>ぬさとたむけて</seg>
-            <seg>秋はいにけり</seg>
+            <seg>
+              <w lemmaRef="#みち.道">道</w>
+              <w lemmaRef="#しら.知る">しら</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たづね.尋ぬ">尋</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#ゆか.行く">ゆか</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#もみぢば.紅葉葉">もみちは</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ぬさ.幣">ぬさ</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#たむけ.手向く">たむけ</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あき.秋">秋</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#いに.去ぬ">いに</w>
+              <w lemmaRef="#けり.けり">けり</w>
+            </seg>
           </l>
         </div>
       </div>

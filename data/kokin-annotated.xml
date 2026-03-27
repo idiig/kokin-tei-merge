@@ -12977,11 +12977,33 @@
           </note>
           <lb/>
           <l n="310" xml:id="n310" resp="#藤原興風">
-            <seg>み山より</seg>
-            <seg>おちくる水の</seg>
-            <seg>色見てそ</seg>
-            <seg>秋は限と</seg>
-            <seg>思しりぬる</seg>
+            <seg>
+              <w lemmaRef="#みやま.深山">み山</w>
+              <w lemmaRef="#より.より">より</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おち.落つ">おち</w>
+              <w lemmaRef="#くる.来">くる</w>
+              <w lemmaRef="#みづ.水">水</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いろ.色">色</w>
+              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あき.秋">秋</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#かぎり.限る">限</w>
+              <w lemmaRef="#と.と">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おもひ.思ふ">思</w>
+              <w lemmaRef="#しり.知る">しり</w>
+              <w lemmaRef="#ぬる.ぬ">ぬる</w>
+            </seg>
           </l>
         </div>
         <lb/>

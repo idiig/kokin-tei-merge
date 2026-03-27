@@ -13016,11 +13016,29 @@
           <pb n="1-40v" facs="#p049"/>
           <lb/>
           <l n="311" xml:id="n311" resp="#紀貫之">
-            <seg>年ことに</seg>
-            <seg>もみちはなかす</seg>
-            <seg>龍田河</seg>
-            <seg>みなとや秋の</seg>
-            <seg>泊なるらむ</seg>
+            <seg>
+              <w lemmaRef="#とし.年">年</w>
+              <w lemmaRef="#ごと.毎">こと</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#もみぢば.紅葉葉">もみちは</w>
+              <w lemmaRef="#ながす.流す">なかす</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たつたがは.立田河">龍田河</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みなと.湊">みなと</w>
+              <w lemmaRef="#や.や">や</w>
+              <w lemmaRef="#あき.秋">秋</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#とまり.泊る">泊</w>
+              <w lemmaRef="#なる.なり">なる</w>
+              <w lemmaRef="#らむ.らむ">らむ</w>
+            </seg>
           </l>
         </div>
         <lb/>

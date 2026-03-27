@@ -12891,11 +12891,36 @@
         <lb/>
         <div>
           <l n="308" xml:id="n308" resp="#よみ人知らず">
-            <seg>かれる田に</seg>
-            <seg>おふるひつちの</seg>
-            <seg>ほにいてぬは</seg>
-            <seg>世を今更に</seg>
-            <seg>秋はてぬとか</seg>
+            <seg>
+              <w lemmaRef="#かれ.刈る">かれ</w>
+              <w lemmaRef="#る.り">る</w>
+              <w lemmaRef="#た.田">田</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おふる.生ふ">おふる</w>
+              <w lemmaRef="#ひづち.稲孫">ひつち</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ほ.穂">ほ</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#いで.出づ">いて</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#よ.世">世</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#いまさらに.今更なり">今更に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あき.秋">秋</w>
+              <w lemmaRef="#はて.果つ">はて</w>
+              <w lemmaRef="#ぬ.ぬ">ぬ</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#か.か">か</w>
+            </seg>
           </l>
         </div>
         <lb/>

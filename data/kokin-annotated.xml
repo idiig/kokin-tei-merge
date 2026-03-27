@@ -12783,11 +12783,34 @@
             <lb/>ませ給けれはつかうまつりける</note>
           <lb/>
           <l n="305" xml:id="n305" resp="#凡河内躬恒">
-            <seg>立とまり</seg>
-            <seg>見てを渡む</seg>
-            <seg>もみちはゝ</seg>
-            <seg>雨とふるとも</seg>
-            <seg>水はまさらし</seg>
+            <seg>
+              <w lemmaRef="#たち.立つ">立</w>
+              <w lemmaRef="#とまり.止まる">とまり</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#わたら.渡る">渡</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#もみぢば.紅葉葉">もみちは</w>
+              <w lemmaRef="#は.は">ゝ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あめ.雨">雨</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#ふる.降る">ふる</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みづ.水">水</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#まさら.増さる">まさら</w>
+              <w lemmaRef="#じ.じ">し</w>
+            </seg>
           </l>
         </div>
         <lb/>

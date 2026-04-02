@@ -14493,11 +14493,29 @@
           </note>
           <lb/>
           <l n="351" xml:id="n351" resp="#藤原興風">
-            <seg>いたつらに</seg>
-            <seg>すくす月日は</seg>
-            <seg>おもほえて</seg>
-            <seg>花見てくらす</seg>
-            <seg>春そすくなき</seg>
+            <seg>
+              <w lemmaRef="#いたづらに.徒なり">いたつらに</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#すぐす.過ぐす">すくす</w>
+              <w lemmaRef="#つきひ.月日">月日</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おもほえ.思ほゆ">おもほえ</w>
+              <w lemmaRef="#で.で">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はな.花">花</w>
+              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#くらす.暮す">くらす</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はる.春">春</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#すくなき.少なし">すくなき</w>
+            </seg>
           </l>
         </div>
         <lb/>

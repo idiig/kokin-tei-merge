@@ -13573,11 +13573,33 @@
           </note>
           <lb/>
           <l n="327" xml:id="n327" resp="#壬生忠岑">
-            <seg>みよしのゝ</seg>
-            <seg>山の白雪</seg>
-            <seg>ふみわけて</seg>
-            <seg>入にし人の</seg>
-            <seg>をとつれもせぬ</seg>
+            <seg>
+              <w lemmaRef="#みよしの.御吉野">みよしの</w>
+              <w lemmaRef="#の.の">ゝ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#やま.山">山</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#しらゆき.白雪">白雪</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ふみ.踏む">ふみ</w>
+              <w lemmaRef="#わけ.分く">わけ</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いり.入る">入</w>
+              <w lemmaRef="#に.ぬ">に</w>
+              <w lemmaRef="#し.き">し</w>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おとづれ.訪る">をとつれ</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#せ.す">せ</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+            </seg>
           </l>
         </div>
         <lb/>

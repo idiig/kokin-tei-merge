@@ -14924,11 +14924,30 @@
           <note type="詞書" style="margin-top: 2em" target="#n363">冬</note>
           <lb/>
           <l n="363" xml:id="n363" resp="#紀貫之">
-            <seg>白雪の</seg>
-            <seg>ふりしく時は</seg>
-            <seg>みよしのゝ</seg>
-            <seg>山したかせに</seg>
-            <seg>花そちりける</seg>
+            <seg>
+              <w lemmaRef="#しらゆき.白雪">白雪</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ふり.降る">ふり</w>
+              <w lemmaRef="#しく.敷く">しく</w>
+              <w lemmaRef="#とき.時">時</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みよしの.み吉野">みよしの</w>
+              <w lemmaRef="#の.の">ゝ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#やましたかぜ.山下風">山したかせ</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はな.花">花</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#ちり.散る">ちり</w>
+              <w lemmaRef="#ける.けり">ける</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -13909,11 +13909,35 @@
           </note>
           <lb/>
           <l n="336" xml:id="n336" resp="#紀貫之">
-            <seg>梅のかの</seg>
-            <seg>ふりをける雪に</seg>
-            <seg>まかひせは</seg>
-            <seg>誰かこと〳〵</seg>
-            <seg>わきておらまし</seg>
+            <seg>
+              <w lemmaRef="#うめ.梅">梅</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#か.香">か</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ふり.降る">ふり</w>
+              <w lemmaRef="#おけ.置く">をけ</w>
+              <w lemmaRef="#る.り">る</w>
+              <w lemmaRef="#ゆき.雪">雪</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#まがひ.紛ふ">まかひ</w>
+              <w lemmaRef="#せ.き">せ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たれ.誰">誰</w>
+              <w lemmaRef="#か.か">か</w>
+              <w lemmaRef="#ことごと.異異">こと〳〵</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わき.分く">わき</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#をら.折る">おら</w>
+              <w lemmaRef="#まし.まし">まし</w>
+            </seg>
           </l>
         </div>
         <lb/>

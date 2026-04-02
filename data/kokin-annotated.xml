@@ -13356,11 +13356,32 @@
         <lb/>
         <div type="和歌">
           <l n="321" xml:id="n321" resp="#よみ人知らず">
-            <seg>舊里は</seg>
-            <seg>よしのゝ山し</seg>
-            <seg>ちかけれは</seg>
-            <seg>一日もみ雪</seg>
-            <seg>ふらぬ日はなし</seg>
+            <seg>
+              <w lemmaRef="#ふるさと.古里">舊里</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#よしの.吉野">よしの</w>
+              <w lemmaRef="#の.の">ゝ</w>
+              <w lemmaRef="#やま.山">山</w>
+              <w lemmaRef="#し.し">し</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ちかけれ.近し">ちかけれ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひとひ.一日">一日</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#みゆき.御雪">み雪</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ふら.降る">ふら</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+              <w lemmaRef="#ひ.日">日</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#なし.無し">なし</w>
+            </seg>
           </l>
         </div>
         <lb/>

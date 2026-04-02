@@ -13426,11 +13426,36 @@
           </note>
           <lb/>
           <l n="323" xml:id="n323" resp="#紀貫之">
-            <seg>雪ふれは</seg>
-            <seg>冬こもりせる</seg>
-            <seg>草も木も</seg>
-            <seg>春にしられぬ</seg>
-            <seg>花そさきける</seg>
+            <seg>
+              <w lemmaRef="#ゆき.雪">雪</w>
+              <w lemmaRef="#ふれ.降る">ふれ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ふゆ.冬">冬</w>
+              <w lemmaRef="#こもり.籠る">こもり</w>
+              <w lemmaRef="#せ.す">せ</w>
+              <w lemmaRef="#る.り">る</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#くさ.草">草</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#き.木">木</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はる.春">春</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#しら.知る">しら</w>
+              <w lemmaRef="#れ.る">れ</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はな.花">花</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#さき.咲く">さき</w>
+              <w lemmaRef="#ける.けり">ける</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -14688,11 +14688,34 @@
           </note>
           <lb/>
           <l n="356" xml:id="n356" resp="#素性法師">
-            <seg>よろつ世を</seg>
-            <seg>松にそ君を</seg>
-            <seg>いはひつる</seg>
-            <seg>ちとせのかけに</seg>
-            <seg>すまむと思へは</seg>
+            <seg>
+              <w lemmaRef="#よろづよ.万世">よろつ世</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#まつ.松">松</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#きみ.君">君</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いはひ.祝ふ">いはひ</w>
+              <w lemmaRef="#つる.つ">つる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ちとせ.千年">ちとせ</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#かげ.影">かけ</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#すま.澄む">すま</w>
+              <w lemmaRef="#む.む">む</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#おもへ.思ふ">思へ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
           </l>
         </div>
         <lb/>

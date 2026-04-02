@@ -13718,11 +13718,34 @@
           <pb n="1-42v" facs="#p051"/>
           <lb/>
           <l n="331" xml:id="n331" resp="#紀貫之">
-            <seg>ふゆこもり</seg>
-            <seg>思かけぬを</seg>
-            <seg>このまより</seg>
-            <seg>花と見るまて</seg>
-            <seg>雪そふりける</seg>
+            <seg>
+              <w lemmaRef="#ふゆ.冬">ふゆ</w>
+              <w lemmaRef="#こもり.籠る">こもり</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おもひ.思ふ">思</w>
+              <w lemmaRef="#かけ.掛く">かけ</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こ.木">こ</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#ま.間">ま</w>
+              <w lemmaRef="#より.より">より</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はな.花">花</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#みる.見る">見る</w>
+              <w lemmaRef="#まで.まで">まて</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ゆき.雪">雪</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#ふり.降る">ふり</w>
+              <w lemmaRef="#ける.けり">ける</w>
+            </seg>
           </l>
         </div>
         <lb/>

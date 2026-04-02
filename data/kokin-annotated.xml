@@ -14859,11 +14859,33 @@
         <lb/>
         <div type="和歌">
           <l n="361" xml:id="n361" resp="#壬生忠岑">
-            <seg>千鳥なく</seg>
-            <seg>さほの河きり</seg>
-            <seg>立ぬらし</seg>
-            <seg>山のこのはも</seg>
-            <seg>色まさりゆく</seg>
+            <seg>
+              <w lemmaRef="#ちどり.千鳥">千鳥</w>
+              <w lemmaRef="#なく.鳴く">なく</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#さほ.佐保">さほ</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#かはぎり.河霧">河きり</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たち.立つ">立</w>
+              <w lemmaRef="#ぬ.ぬ">ぬ</w>
+              <w lemmaRef="#らし.らし">らし</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#やま.山">山</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#こ.木">こ</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#は.葉">は</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いろ.色">色</w>
+              <w lemmaRef="#まさり.増さる">まさり</w>
+              <w lemmaRef="#ゆく.行く">ゆく</w>
+            </seg>
           </l>
         </div>
         <lb/>

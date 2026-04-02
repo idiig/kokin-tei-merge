@@ -13539,11 +13539,30 @@
           <pb n="1-42r" facs="#p050"/>
           <lb/>
           <l n="326" xml:id="n326" resp="#藤原興風">
-            <seg>浦ちかく</seg>
-            <seg>ふりくる雪は</seg>
-            <seg>白浪の</seg>
-            <seg>末の松山</seg>
-            <seg>こすかとそ見る</seg>
+            <seg>
+              <w lemmaRef="#うら.浦">浦</w>
+              <w lemmaRef="#ちかく.近し">ちかく</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ふり.降る">ふり</w>
+              <w lemmaRef="#くる.来">くる</w>
+              <w lemmaRef="#ゆき.雪">雪</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#しらなみ.白浪">白浪</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#すゑのまつやま.末の松山">末の松山</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こす.越す">こす</w>
+              <w lemmaRef="#か.か">か</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#みる.見る">見る</w>
+            </seg>
           </l>
         </div>
         <lb/>

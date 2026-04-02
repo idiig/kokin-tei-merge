@@ -14604,11 +14604,33 @@
         <lb/>
         <div type="和歌">
           <l n="354" xml:id="n354" resp="#素性法師">
-            <seg>ふして思ひ</seg>
-            <seg>おきてかそふる</seg>
-            <seg>よろつよは</seg>
-            <seg>神そ知覧</seg>
-            <seg>わか君のため</seg>
+            <seg>
+              <w lemmaRef="#ふし.伏す">ふし</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#おもひ.思ふ">思ひ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おき.起く">おき</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#かぞふる.数ふ">かそふる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#よろづよ.万世">よろつよ</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かみ.神">神</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#しる.知る">知</w>
+              <w lemmaRef="#らむ.らむ">覧</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わ.我">わ</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#きみ.君">君</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#ため.為">ため</w>
+            </seg>
           </l>
         </div>
         <lb/>

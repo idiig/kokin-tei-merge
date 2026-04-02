@@ -14643,11 +14643,35 @@
           </note>
           <lb/>
           <l n="355" xml:id="n355" resp="#在原滋春">
-            <seg>鶴龜も</seg>
-            <seg>千年のゝちは</seg>
-            <seg>しらなくに</seg>
-            <seg>あかぬ心に</seg>
-            <seg>まかせはてゝむ</seg>
+            <seg>
+              <w lemmaRef="#つる.鶴">鶴</w>
+              <w lemmaRef="#かめ.亀">龜</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ちとせ.千年">千年</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#のち.後">ゝち</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#しら.知る">しら</w>
+              <w lemmaRef="#な.ず">な</w>
+              <w lemmaRef="#く.く">く</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あか.飽く">あか</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+              <w lemmaRef="#こころ.心">心</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#まかせ.任す">まかせ</w>
+              <w lemmaRef="#はて.果つ">はて</w>
+              <w lemmaRef="#て.つ">ゝ</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
           </l>
           <pb n="1-45v" facs="#p054"/>
           <lb/>

@@ -13825,11 +13825,34 @@
         <lb/>
         <div type="和歌">
           <l n="334" xml:id="n334" resp="#よみ人知らず">
-            <seg>梅花</seg>
-            <seg>それとも見えす</seg>
-            <seg>久方の</seg>
-            <seg>あまきる雪の</seg>
-            <seg>なへてふれゝは</seg>
+            <seg>
+              <w lemmaRef="#うめ.梅">梅</w>
+              <w lemmaRef="#の.の"/>
+              <w lemmaRef="#はな.花">花</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#それ.其れ">それ</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#みえ.見ゆ">見え</w>
+              <w lemmaRef="#ず.ず">す</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひさかた.久方">久方</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あま.天">あま</w>
+              <w lemmaRef="#きる.霧る">きる</w>
+              <w lemmaRef="#ゆき.雪">雪</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なべて.並べて">なへて</w>
+              <w lemmaRef="#ふれ.降る">ふれ</w>
+              <w lemmaRef="#れ.り">ゝ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
           </l>
           <lb/>
           <note type="左注" style="margin-top: 3em" target="#n334">この哥ある人のいはく

@@ -14964,11 +14964,30 @@
           </note>
           <lb/>
           <l n="364" xml:id="n364" resp="#藤原因香">
-            <seg>峯高き</seg>
-            <seg>春日の山に</seg>
-            <seg>いつる日は</seg>
-            <seg>くもる時なく</seg>
-            <seg>てらすへらなり</seg>
+            <seg>
+              <w lemmaRef="#みね.峰">峯</w>
+              <w lemmaRef="#たかき.高し">高き</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かすが.春日">春日</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#やま.山">山</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いづる.出づ">いつる</w>
+              <w lemmaRef="#ひ.日">日</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#くもる.曇る">くもる</w>
+              <w lemmaRef="#とき.時">時</w>
+              <w lemmaRef="#なく.無し">なく</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#てらす.照らす">てらす</w>
+              <w lemmaRef="#べらなり.べらなり">へらなり</w>
+            </seg>
           </l>
         </div>
       </div>

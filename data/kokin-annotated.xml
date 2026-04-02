@@ -14831,11 +14831,29 @@
           <pb n="1-46r" facs="#p054"/>
           <lb/>
           <l n="360" xml:id="n360" resp="#凡河内躬恒">
-            <seg>住の江の</seg>
-            <seg>松を秋風</seg>
-            <seg>吹からに</seg>
-            <seg>聲うちそふる</seg>
-            <seg>おきつ白浪</seg>
+            <seg>
+              <w lemmaRef="#すみのえ.住の江">住の江</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#まつ.松">松</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#あきかぜ.秋風">秋風</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ふく.吹く">吹</w>
+              <w lemmaRef="#からに.からに">からに</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こゑ.声">聲</w>
+              <w lemmaRef="#うち.打つ">うち</w>
+              <w lemmaRef="#そふる.添ふ">そふる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おき.沖">おき</w>
+              <w lemmaRef="#つ.つ">つ</w>
+              <w lemmaRef="#しらなみ.白浪">白浪</w>
+            </seg>
           </l>
         </div>
         <lb/>

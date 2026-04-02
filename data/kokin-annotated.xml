@@ -14797,11 +14797,32 @@
           <note type="詞書" style="margin-top: 2em" target="#n359">夏</note>
           <lb/>
           <l n="359" xml:id="n359" resp="#紀友則">
-            <seg>めつらしき</seg>
-            <seg>聲ならなくに</seg>
-            <seg>郭公</seg>
-            <seg>こゝらの年を</seg>
-            <seg>あかすもある哉</seg>
+            <seg>
+              <w lemmaRef="#めづらしき.珍し">めつらしき</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こゑ.声">聲</w>
+              <w lemmaRef="#なら.なり">なら</w>
+              <w lemmaRef="#な.ず">な</w>
+              <w lemmaRef="#く.く">く</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ほととぎす.郭公">郭公</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ここら.幾許">こゝら</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#とし.年">年</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あか.飽く">あか</w>
+              <w lemmaRef="#ず.ず">す</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#ある.有り">ある</w>
+              <w lemmaRef="#かな.哉">哉</w>
+            </seg>
           </l>
         </div>
         <lb/>

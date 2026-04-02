@@ -15005,11 +15005,34 @@
           </note>
           <lb/>
           <l n="365" xml:id="n365" resp="#在原行平">
-            <seg>立わかれ</seg>
-            <seg>いなはの山の</seg>
-            <seg>峯におふる</seg>
-            <seg>松としきかは</seg>
-            <seg>今かへりこむ</seg>
+            <seg>
+              <w lemmaRef="#たち.立つ">立</w>
+              <w lemmaRef="#わかれ.別る">わかれ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いなば.稲葉">いなは</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#やま.山">山</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みね.峰">峯</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#おふる.生ふ">おふる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#まつ.松">松</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#し.し">し</w>
+              <w lemmaRef="#きか.聞く">きか</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いま.今">今</w>
+              <w lemmaRef="#かへり.帰る">かへり</w>
+              <w lemmaRef="#こ.来">こ</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
           </l>
         </div>
         <lb/>

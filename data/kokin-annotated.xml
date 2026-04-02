@@ -13605,11 +13605,31 @@
         <lb/>
         <div type="和歌">
           <l n="328" xml:id="n328" resp="#壬生忠岑">
-            <seg>白雪の</seg>
-            <seg>ふりてつもれる</seg>
-            <seg>山里は</seg>
-            <seg>すむ人さへや</seg>
-            <seg>思きゆらむ</seg>
+            <seg>
+              <w lemmaRef="#しらゆき.白雪">白雪</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ふり.降る">ふり</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#つもれ.積もる">つもれ</w>
+              <w lemmaRef="#る.り">る</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#やまざと.山里">山里</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#すむ.住む">すむ</w>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#さへ.さへ">さへ</w>
+              <w lemmaRef="#や.や">や</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おもひ.思ふ">思</w>
+              <w lemmaRef="#きゆ.消ゆ">きゆ</w>
+              <w lemmaRef="#らむ.らむ">らむ</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -14141,11 +14141,33 @@
           </note>
           <lb/>
           <l n="342" xml:id="n342" resp="#紀貫之">
-            <seg>行年の</seg>
-            <seg>おしくもある哉</seg>
-            <seg>ますかゝみ</seg>
-            <seg>ゝるかけさへに</seg>
-            <seg>くれぬとおもへは</seg>
+            <seg>
+              <w lemmaRef="#ゆく.行く">行</w>
+              <w lemmaRef="#とし.年">年</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#をしく.惜し">おしく</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#ある.有り">ある</w>
+              <w lemmaRef="#かな.哉">哉</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ますかがみ.真澄鏡">ますかゝみ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みる.見る">ゝる</w>
+              <w lemmaRef="#かげ.影">かけ</w>
+              <w lemmaRef="#さへ.さへ">さへ</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#くれ.暮る">くれ</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#おもへ.思ふ">おもへ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
           </l>
         </div>
       </div>

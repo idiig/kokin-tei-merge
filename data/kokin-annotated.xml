@@ -14735,11 +14735,30 @@
             <persName corresp="#藤原定国">定国大納言</persName>右大将延喜八年七月薨四十</note>
           <lb/>
           <l n="357" xml:id="n357" resp="#素性法師">
-            <seg>かすかのに</seg>
-            <seg>わかなつみつゝ</seg>
-            <seg>よろつよを</seg>
-            <seg>いはふ心は</seg>
-            <seg>神そしるらむ</seg>
+            <seg>
+              <w lemmaRef="#かすがの.春日野">かすかの</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わかな.若菜">わかな</w>
+              <w lemmaRef="#つみ.摘む">つみ</w>
+              <w lemmaRef="#つつ.つつ">つゝ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#よろづよ.万世">よろつよ</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いはふ.祝ふ">いはふ</w>
+              <w lemmaRef="#こころ.心">心</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かみ.神">神</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#しる.知る">しる</w>
+              <w lemmaRef="#らむ.らむ">らむ</w>
+            </seg>
           </l>
         </div>
         <lb/>

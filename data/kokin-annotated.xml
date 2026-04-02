@@ -14394,11 +14394,30 @@
           </note>
           <lb/>
           <l n="349" xml:id="n349" resp="#在原業平">
-            <seg>櫻花</seg>
-            <seg>ちりかひくもれ</seg>
-            <seg>おいらくの</seg>
-            <seg>こむといふなる</seg>
-            <seg>道まかふかに</seg>
+            <seg>
+              <w lemmaRef="#さくらばな.桜花">櫻花</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ちり.散る">ちり</w>
+              <w lemmaRef="#かひ.交ふ">かひ</w>
+              <w lemmaRef="#くもれ.曇る">くもれ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おいらく.老いらく">おいらく</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こ.来">こ</w>
+              <w lemmaRef="#む.む">む</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#いふ.言ふ">いふ</w>
+              <w lemmaRef="#なる.なり">なる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みち.道">道</w>
+              <w lemmaRef="#まがふ.紛ふ">まかふ</w>
+              <w lemmaRef="#がに.がに">かに</w>
+            </seg>
           </l>
         </div>
         <lb/>

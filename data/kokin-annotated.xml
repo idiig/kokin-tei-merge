@@ -14891,11 +14891,32 @@
         <lb/>
         <div type="和歌">
           <l n="362" xml:id="n362" resp="#坂上是則">
-            <seg>秋くれと</seg>
-            <seg>色もかはらぬ</seg>
-            <seg>ときは山</seg>
-            <seg>よその紅葉を</seg>
-            <seg>風そかしける</seg>
+            <seg>
+              <w lemmaRef="#あき.秋">秋</w>
+              <w lemmaRef="#くれ.来">くれ</w>
+              <w lemmaRef="#ど.ど">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いろ.色">色</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#かはら.変はる">かはら</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ときはやま.常盤山">ときは山</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#よそ.余所">よそ</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#もみぢ.紅葉づ">紅葉</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かぜ.風">風</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#かし.貸す">かし</w>
+              <w lemmaRef="#ける.けり">ける</w>
+            </seg>
           </l>
         </div>
         <lb/>

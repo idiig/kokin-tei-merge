@@ -13641,11 +13641,32 @@
           </note>
           <lb/>
           <l n="329" xml:id="n329" resp="#凡河内躬恒">
-            <seg>雪ふりて</seg>
-            <seg>人もかよはぬ</seg>
-            <seg>道なれや</seg>
-            <seg>あとはかもなく</seg>
-            <seg>思きゆ覧</seg>
+            <seg>
+              <w lemmaRef="#ゆき.雪">雪</w>
+              <w lemmaRef="#ふり.降る">ふり</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#かよは.通ふ">かよは</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みち.道">道</w>
+              <w lemmaRef="#なれ.なり">なれ</w>
+              <w lemmaRef="#や.や">や</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あとはか.跡計">あとはか</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#なく.無し">なく</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おもひ.思ふ">思</w>
+              <w lemmaRef="#きゆ.消ゆ">きゆ</w>
+              <w lemmaRef="#らむ.らむ">覧</w>
+            </seg>
           </l>
         </div>
         <lb/>

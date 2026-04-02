@@ -13505,11 +13505,28 @@
           </note>
           <lb/>
           <l n="325" xml:id="n325" resp="#坂上是則">
-            <seg>みよしのゝ</seg>
-            <seg>山の白雪</seg>
-            <seg>つもるらし</seg>
-            <seg>ふるさとさむく</seg>
-            <seg>ふりまさるなり</seg>
+            <seg>
+              <w lemmaRef="#みよしの.御吉野">みよしの</w>
+              <w lemmaRef="#の.の">ゝ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#やま.山">山</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#しらゆき.白雪">白雪</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#つもる.積もる">つもる</w>
+              <w lemmaRef="#らし.らし">らし</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ふるさと.古里">ふるさと</w>
+              <w lemmaRef="#さむく.寒し">さむく</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なり.成る">ふり</w>
+              <w lemmaRef="#まさる.増さる">まさる</w>
+              <w lemmaRef="#なり.なり">なり</w>
+            </seg>
           </l>
         </div>
         <lb/>

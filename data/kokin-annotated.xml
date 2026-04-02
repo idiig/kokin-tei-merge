@@ -13161,11 +13161,35 @@
           </note>
           <lb/>
           <l n="315" xml:id="n315" resp="#源宗于">
-            <seg>山里は</seg>
-            <seg>冬そさひしさ</seg>
-            <seg>まさりける</seg>
-            <seg>人めも草も</seg>
-            <seg>枯ぬとおもへは</seg>
+            <seg>
+              <w lemmaRef="#やまざと.山里">山里</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ふゆ.冬">冬</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#さびし.寂し">さひし</w>
+              <w lemmaRef="#さ.さ">さ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#まさり.増さる">まさり</w>
+              <w lemmaRef="#ける.けり">ける</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひとめ.人目">人め</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#くさ.草">草</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かれ.離る">枯</w>
+              <w lemmaRef="#ぬ.ぬ">ぬ</w>
+              <w lemmaRef="#かれ.枯る">と</w>
+              <w lemmaRef="#に.ぬ">お</w>
+              <w lemmaRef="#と.と">も</w>
+              <w lemmaRef="#おもへ.思ふ">へ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
           </l>
         </div>
         <lb/>

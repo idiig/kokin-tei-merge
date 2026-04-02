@@ -13200,11 +13200,32 @@
           </note>
           <lb/>
           <l n="316" xml:id="n316" resp="#よみ人知らず">
-            <seg>おほそらの</seg>
-            <seg>月のひかりし</seg>
-            <seg>きよけれは</seg>
-            <seg>影見し水そ</seg>
-            <seg>まつ氷ける</seg>
+            <seg>
+              <w lemmaRef="#おほぞら.大空">おほそら</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#つき.月">月</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#ひかり.光">ひかり</w>
+              <w lemmaRef="#し.し">し</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#きよけれ.清し">きよけれ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かげ.影">影</w>
+              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#し.き">し</w>
+              <w lemmaRef="#みづ.水">水</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#まづ.先づ">まつ</w>
+              <w lemmaRef="#こほり.凍る">氷</w>
+              <w lemmaRef="#ける.けり">ける</w>
+            </seg>
           </l>
         </div>
         <lb/>

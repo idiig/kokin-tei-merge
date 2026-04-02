@@ -13757,11 +13757,31 @@
           </note>
           <lb/>
           <l n="332" xml:id="n332" resp="#坂上是則">
-            <seg>あさほらけ</seg>
-            <seg>在曙の月と</seg>
-            <seg>見るまてに</seg>
-            <seg>吉野のさとに</seg>
-            <seg>ふれる白雪</seg>
+            <seg>
+              <w lemmaRef="#あさぼらけ.朝ぼらけ">あさほらけ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ありあけ.有明">在曙</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#つき.月">月</w>
+              <w lemmaRef="#と.と">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みる.見る">見る</w>
+              <w lemmaRef="#まで.まで">まて</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#よしの.吉野">吉野</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#さと.里">さと</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ふれ.降る">ふれ</w>
+              <w lemmaRef="#る.り">る</w>
+              <w lemmaRef="#しらゆき.白雪">白雪</w>
+            </seg>
           </l>
         </div>
         <lb/>

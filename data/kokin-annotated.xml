@@ -14764,11 +14764,32 @@
         <lb/>
         <div type="和歌">
           <l n="358" xml:id="n358" resp="#凡河内躬恒">
-            <seg>山高み</seg>
-            <seg>くもゐに見ゆる</seg>
-            <seg>櫻花</seg>
-            <seg>心の行て</seg>
-            <seg>おらぬ日そなき</seg>
+            <seg>
+              <w lemmaRef="#やま.山">山</w>
+              <w lemmaRef="#たか.高し">高</w>
+              <w lemmaRef="#み.み">み</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#くもゐ.雲居">くもゐ</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#みゆる.見ゆ">見ゆる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#さくらばな.桜花">櫻花</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こころ.心">心</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#ゆき.行く">行</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#をら.折る">おら</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+              <w lemmaRef="#ひ.日">日</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#なき.無し">なき</w>
+            </seg>
           </l>
         </div>
         <lb/>

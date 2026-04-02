@@ -14314,11 +14314,29 @@
             <persName corresp="#光孝天皇">仁和の御時</persName>僧正遍昭に七十の賀たまひける時の御うた</note>
           <lb/>
           <l n="347" xml:id="n347" resp="#光孝天皇">
-            <seg>かくしつゝ</seg>
-            <seg>とにもかくにも</seg>
-            <seg>なからへて</seg>
-            <seg>君かやちよに</seg>
-            <seg>あふよしも哉</seg>
+            <seg>
+              <w lemmaRef="#かく.斯く">かく</w>
+              <w lemmaRef="#し.す">し</w>
+              <w lemmaRef="#つつ.つつ">つゝ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#とにもかくにも.とにもかくにも">とにもかくにも</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ながらへ.永らふ">なからへ</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#きみ.君">君</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#やちよ.八千世">やちよ</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あふ.会ふ">あふ</w>
+              <w lemmaRef="#よし.由">よし</w>
+              <w lemmaRef="#もがな.もがな">も哉</w>
+            </seg>
           </l>
         </div>
         <lb/>

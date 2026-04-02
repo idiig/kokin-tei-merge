@@ -14445,11 +14445,33 @@
           </note>
           <lb/>
           <l n="350" xml:id="n350" resp="#紀惟岳">
-            <seg>龜の尾の</seg>
-            <seg>山のいはねを</seg>
-            <seg>とめておつる</seg>
-            <seg>瀧の白玉</seg>
-            <seg>千世のかすかも</seg>
+            <seg>
+              <w lemmaRef="#かめのを.亀の尾">龜の尾</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#やま.山">山</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#いはね.岩根">いはね</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#とめ.尋む">とめ</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#おつる.落つ">おつる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たき.滝">瀧</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#しらたま.白玉">白玉</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ちよ.千世">千世</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#かず.数">かす</w>
+              <w lemmaRef="#か.か">か</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
           </l>
         </div>
         <lb/>

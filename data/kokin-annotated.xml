@@ -14106,11 +14106,30 @@
           </note>
           <lb/>
           <l n="341" xml:id="n341" resp="#春道列樹">
-            <seg>昨日といひ</seg>
-            <seg>けふとくらして</seg>
-            <seg>あすかゝは</seg>
-            <seg>流てはやき</seg>
-            <seg>月日なりけり</seg>
+            <seg>
+              <w lemmaRef="#きのふ.昨日">昨日</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#いひ.言ふ">いひ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#けふ.今日">けふ</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#くらし.暮す">くらし</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あすかがは.飛鳥河">あすかゝは</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ながれ.流る">流</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#はやき.早し">はやき</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#つきひ.月日">月日</w>
+              <w lemmaRef="#なり.なり">なり</w>
+              <w lemmaRef="#けり.けり">けり</w>
+            </seg>
           </l>
         </div>
         <lb/>

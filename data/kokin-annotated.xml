@@ -14185,11 +14185,34 @@
           </note>
           <lb/>
           <l n="343" xml:id="n343" resp="#よみ人知らず">
-            <seg>わか君は</seg>
-            <seg>ちよにやちよに</seg>
-            <seg>さゝれいしの</seg>
-            <seg>巖と成て</seg>
-            <seg>苔のむすまて</seg>
+            <seg>
+              <w lemmaRef="#わ.我">わ</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#きみ.君">君</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ちよ.千世">ちよ</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#やちよ.八千世">やちよ</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#さざれいし.小石">さゝれいし</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いはほ.巌">巖</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#なり.成る">成</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こけ.苔">苔</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#むす.生す">むす</w>
+              <w lemmaRef="#まで.まで">まて</w>
+            </seg>
           </l>
         </div>
         <lb/>

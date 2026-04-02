@@ -13792,11 +13792,34 @@
           </note>
           <lb/>
           <l n="333" xml:id="n333" resp="#よみ人知らず">
-            <seg>けぬかうへに</seg>
-            <seg>又もふりしけ</seg>
-            <seg>春霞</seg>
-            <seg>たちなはみ雪</seg>
-            <seg>まれにこそ見め</seg>
+            <seg>
+              <w lemmaRef="#け.消ゆ">け</w>
+              <w lemmaRef="#ぬ.ぬ">ぬ</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#うへ.上">うへ</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#また.又">又</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#ふり.降る">ふり</w>
+              <w lemmaRef="#しけ.敷く">しけ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はるがすみ.春霞">春霞</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たち.立つ">たち</w>
+              <w lemmaRef="#な.ぬ">な</w>
+              <w lemmaRef="#ば.ば">は</w>
+              <w lemmaRef="#みゆき.御雪">み雪</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#まれに.稀なり">まれに</w>
+              <w lemmaRef="#こそ.こそ">こそ</w>
+              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#め.む">め</w>
+            </seg>
           </l>
         </div>
         <lb/>

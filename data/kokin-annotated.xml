@@ -14352,11 +14352,32 @@
           </note>
           <lb/>
           <l n="348" xml:id="n348" resp="#遍昭">
-            <seg>ちはやふる</seg>
-            <seg>神やきりけむ</seg>
-            <seg>つくからに</seg>
-            <seg>ちとせの坂も</seg>
-            <seg>こえぬへら也</seg>
+            <seg>
+              <w lemmaRef="#ち.千">ち</w>
+              <w lemmaRef="#はや.早し">はや</w>
+              <w lemmaRef="#ふる.振る">ふる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かみ.神">神</w>
+              <w lemmaRef="#や.や">や</w>
+              <w lemmaRef="#きり.伐る">きり</w>
+              <w lemmaRef="#けむ.けむ">けむ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#つく.突く">つく</w>
+              <w lemmaRef="#からに.からに">からに</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ちとせ.千年">ちとせ</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#さか.坂">坂</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こえ.越ゆ">こえ</w>
+              <w lemmaRef="#ぬ.ぬ">ぬ</w>
+              <w lemmaRef="#べらなり.べらなり">へら也</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -14249,11 +14249,30 @@
         <lb/>
         <div type="和歌">
           <l n="345" xml:id="n345" resp="#よみ人知らず">
-            <seg>しほの山</seg>
-            <seg>さしてのいそに</seg>
-            <seg>すむ千鳥</seg>
-            <seg>きみかみよをは</seg>
-            <seg>やちよとそ鳴</seg>
+            <seg>
+              <w lemmaRef="#しほのやま.塩の山">しほの山</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#さしでのいそ.差出の磯">さしてのいそ</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#すむ.住む">すむ</w>
+              <w lemmaRef="#ちどり.千鳥">千鳥</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#きみ.君">きみ</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#みよ.御世">みよ</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#やちよ.八千世">やちよ</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#なく.鳴く">鳴</w>
+            </seg>
           </l>
         </div>
         <lb/>

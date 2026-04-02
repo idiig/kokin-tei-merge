@@ -14029,11 +14029,34 @@
           </note>
           <lb/>
           <l n="339" xml:id="n339" resp="#在原元方">
-            <seg>荒玉の</seg>
-            <seg>年のをはりに</seg>
-            <seg>なることに</seg>
-            <seg>雪もわか身も</seg>
-            <seg>ふりまさりつゝ</seg>
+            <seg>
+              <w lemmaRef="#あらたま.新玉">荒玉</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#とし.年">年</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#をはり.終る">をはり</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なる.成る">なる</w>
+              <w lemmaRef="#ごと.毎">こと</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ゆき.雪">雪</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#わ.我">わ</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#み.身">身</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ふり.降る">ふり</w>
+              <w lemmaRef="#まさり.増さる">まさり</w>
+              <w lemmaRef="#つつ.つつ">つゝ</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -19179,11 +19179,35 @@
           </note>
           <lb/>
           <l n="476" xml:id="n476" resp="#在原業平">
-            <seg>見すもあらす</seg>
-            <seg>見もせぬ人の</seg>
-            <seg>こひしくは</seg>
-            <seg>あやなくけふや</seg>
-            <seg>なかめくらさむ</seg>
+            <seg>
+              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#ず.ず">す</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#あら.有り">あら</w>
+              <w lemmaRef="#ず.ず">す</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#せ.す">せ</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こひしく.恋し">こひしく</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あやなく.文無し">あやなく</w>
+              <w lemmaRef="#けふ.今日">けふ</w>
+              <w lemmaRef="#や.や">や</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ながめ.眺む">なかめ</w>
+              <w lemmaRef="#くらさ.暮す">くらさ</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
           </l>
         </div>
         <lb/>

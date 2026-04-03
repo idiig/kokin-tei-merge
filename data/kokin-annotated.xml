@@ -17128,11 +17128,34 @@
           </note>
           <lb/>
           <l n="421" xml:id="n421" resp="#素性法師">
-            <seg>たむけには</seg>
-            <seg>つゝりの袖も</seg>
-            <seg>きるへきに</seg>
-            <seg>紅葉にあける</seg>
-            <seg>神やかへさむ</seg>
+            <seg>
+              <w lemmaRef="#たむけ.手向く">たむけ</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#つづり.綴る">つゝり</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#そで.袖">袖</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#きる.裁る">きる</w>
+              <w lemmaRef="#べき.べし">へき</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#もみぢ.紅葉づ">紅葉</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#あけ.飽く">あけ</w>
+              <w lemmaRef="#る.り">る</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かみ.神">神</w>
+              <w lemmaRef="#や.や">や</w>
+              <w lemmaRef="#かへさ.返す">かへさ</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
           </l>
         </div>
       </div>

@@ -17635,11 +17635,33 @@
           </note>
           <lb/>
           <l n="435" xml:id="n435" resp="#遍昭">
-            <seg>ちりぬれは</seg>
-            <seg>のちはあくたに</seg>
-            <seg>なる花を</seg>
-            <seg>思しらすも</seg>
-            <seg>迷てふ哉</seg>
+            <seg>
+              <w lemmaRef="#ちり.散る">ちり</w>
+              <w lemmaRef="#ぬれ.ぬ">ぬれ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#のち.後">のち</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#あくた.芥">あくた</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なる.成る">なる</w>
+              <w lemmaRef="#はな.花">花</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おもひ.思ふ">思</w>
+              <w lemmaRef="#しら.知る">しら</w>
+              <w lemmaRef="#ず.ず">す</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#まどふ.惑ふ">迷</w>
+              <w lemmaRef="#てふ.てふ">てふ</w>
+              <w lemmaRef="#かな.哉">哉</w>
+            </seg>
           </l>
         </div>
         <lb/>

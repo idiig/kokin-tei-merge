@@ -18245,11 +18245,32 @@
           </note>
           <lb/>
           <l n="451" xml:id="n451" resp="#在原滋春">
-            <seg>いのちとて</seg>
-            <seg>つゆをたのむに</seg>
-            <seg>かたけれは</seg>
-            <seg>物わひしらに</seg>
-            <seg>なくのへのむし</seg>
+            <seg>
+              <w lemmaRef="#いのち.命">いのち</w>
+              <w lemmaRef="#とて.とて">とて</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#つゆ.露">つゆ</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#たのむ.頼む">たのむ</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かたけれ.難し">かたけれ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#もの.物">物</w>
+              <w lemmaRef="#わびし.侘し">わひし</w>
+              <w lemmaRef="#ら.ら">ら</w>
+              <w lemmaRef="#に.なり">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なく.鳴く">なく</w>
+              <w lemmaRef="#のべ.野辺">のへ</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#むし.虫">むし</w>
+            </seg>
           </l>
         </div>
         <lb/>

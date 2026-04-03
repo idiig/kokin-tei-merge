@@ -19833,11 +19833,31 @@
         <lb/>
         <div type="和歌">
           <l n="495" xml:id="n495" resp="#よみ人知らず">
-            <seg>思いつる</seg>
-            <seg>ときはの山の</seg>
-            <seg>いはつゝし</seg>
-            <seg>いはねはこそあれ</seg>
-            <seg>こひしき物を</seg>
+            <seg>
+              <w lemmaRef="#おもひ.思ふ">思</w>
+              <w lemmaRef="#いづる.出づ">いつる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ときは.常磐">ときは</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#やま.山">山</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いはつつじ.岩躑躅">いはつゝし</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いは.言ふ">いは</w>
+              <w lemmaRef="#ね.ず">ね</w>
+              <w lemmaRef="#ば.ば">は</w>
+              <w lemmaRef="#こそ.こそ">こそ</w>
+              <w lemmaRef="#あれ.有り">あれ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こひしき.恋し">こひしき</w>
+              <w lemmaRef="#もの.物">物</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
           </l>
         </div>
         <lb/>

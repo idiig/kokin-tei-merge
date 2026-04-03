@@ -19103,11 +19103,33 @@
         <lb/>
         <div type="和歌">
           <l n="474" xml:id="n474" resp="#在原元方">
-            <seg>立帰り</seg>
-            <seg>あはれとそ思</seg>
-            <seg>よそにても</seg>
-            <seg>人に心を</seg>
-            <seg>おきつ白浪</seg>
+            <seg>
+              <w lemmaRef="#たち.立つ">立</w>
+              <w lemmaRef="#かへり.返る">帰り</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あはれ.哀れ">あはれ</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#おもふ.思ふ">思</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#よそ.余所">よそ</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#こころ.心">心</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おき.沖">おき</w>
+              <w lemmaRef="#つ.つ">つ</w>
+              <w lemmaRef="#しらなみ.白浪">白浪</w>
+            </seg>
           </l>
         </div>
         <lb/>

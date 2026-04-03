@@ -16119,11 +16119,30 @@
           </note>
           <lb/>
           <l n="394" xml:id="n394" resp="#遍昭">
-            <seg>山風に</seg>
-            <seg>さくらふきまき</seg>
-            <seg>みたれなむ</seg>
-            <seg>花のまきれに</seg>
-            <seg>たちとまるへく</seg>
+            <seg>
+              <w lemmaRef="#やまかぜ.山風">山風</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#さくら.桜">さくら</w>
+              <w lemmaRef="#ふき.吹く">ふき</w>
+              <w lemmaRef="#まき.捲く">まき</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みだれ.乱る">みたれ</w>
+              <w lemmaRef="#なむ.なむ">なむ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はな.花">花</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#まぎれ.紛る">まきれ</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たち.立つ">たち</w>
+              <w lemmaRef="#とまる.止まる">とまる</w>
+              <w lemmaRef="#べく.べし">へく</w>
+            </seg>
           </l>
         </div>
         <lb/>

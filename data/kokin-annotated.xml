@@ -17569,11 +17569,31 @@
           <note type="詞書" style="margin-top: 2em" target="#n433 #n434">あふひかつら</note>
           <lb/>
           <l n="433" xml:id="n433" resp="#よみ人知らず">
-            <seg>かく許</seg>
-            <seg>あふひのまれに</seg>
-            <seg>なる人を</seg>
-            <seg>いかゝつらしと</seg>
-            <seg>おもはさるへき</seg>
+            <seg>
+              <w lemmaRef="#かく.斯く">かく</w>
+              <w lemmaRef="#ばかり.許り">許</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あふ.逢ふ">あふ</w>
+              <w lemmaRef="#ひ.日">ひ</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#まれに.稀なり">まれに</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なる.なり">なる</w>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いかが.如何が">いかゝ</w>
+              <w lemmaRef="#つらし.辛し">つらし</w>
+              <w lemmaRef="#と.と">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おもは.思ふ">おもは</w>
+              <w lemmaRef="#ざる.ず">さる</w>
+              <w lemmaRef="#べき.べし">へき</w>
+            </seg>
           </l>
           <lb/>
           <l n="434" xml:id="n434" resp="#よみ人知らず">

@@ -15113,11 +15113,31 @@
             <lb/>よめる</note>
           <lb/>
           <l n="368" xml:id="n368" resp="#小野千古母">
-            <seg>たらちねの</seg>
-            <seg>おやのまもりと</seg>
-            <seg>あひそふる</seg>
-            <seg>心許は</seg>
-            <seg>せきなとゝめそ</seg>
+            <seg>
+              <w lemmaRef="#たらちね.垂乳根">たらちね</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おや.親">おや</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#まもり.守る">まもり</w>
+              <w lemmaRef="#と.と">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あひ.相">あひ</w>
+              <w lemmaRef="#添ふる.添ふ">そふる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こころ.心">心</w>
+              <w lemmaRef="#ばかり.許り">許</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#せき.堰く">せき</w>
+              <w lemmaRef="#な.な">な</w>
+              <w lemmaRef="#とどめ.留む">とゝめ</w>
+              <w lemmaRef="#そ.そ">そ</w>
+            </seg>
           </l>
         </div>
         <lb/>

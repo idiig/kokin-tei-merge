@@ -19798,11 +19798,35 @@
         <lb/>
         <div type="和歌">
           <l n="494" xml:id="n494" resp="#よみ人知らず">
-            <seg>山たかみ</seg>
-            <seg>したゆく水の</seg>
-            <seg>したにのみ</seg>
-            <seg>流てこひむ</seg>
-            <seg>こひはしぬとも</seg>
+            <seg>
+              <w lemmaRef="#やま.山">山</w>
+              <w lemmaRef="#たか.高し">たか</w>
+              <w lemmaRef="#み.み">み</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#した.下">した</w>
+              <w lemmaRef="#ゆく.行く">ゆく</w>
+              <w lemmaRef="#みづ.水">水</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#した.下">した</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#のみ.のみ">のみ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ながれ.流る">流</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#こひ.恋ふ">こひ</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こひ.恋ふ">こひ</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#しぬ.死ぬ">しぬ</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
           </l>
         </div>
         <pb n="2-3r" facs="#p075"/>

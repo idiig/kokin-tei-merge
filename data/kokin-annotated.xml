@@ -19930,11 +19930,35 @@
           <note type="勘物" style="margin-top: 1em" resp="#藤原定家" target="#n498">はつ</note>
           <lb/>
           <l n="498" xml:id="n498" resp="#よみ人知らず">
-            <seg>わかそのゝ</seg>
-            <seg>むめのほつえに</seg>
-            <seg>鶯の</seg>
-            <seg>ねに鳴ぬへき</seg>
-            <seg>こひもする哉</seg>
+            <seg>
+              <w lemmaRef="#わ.我">わ</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#その.園">その</w>
+              <w lemmaRef="#の.の">ゝ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うめ.梅">むめ</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#ほつえ.末枝">ほつえ</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うぐひす.鶯">鶯</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ね.音">ね</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#なき.鳴く">鳴</w>
+              <w lemmaRef="#ぬ.ぬ">ぬ</w>
+              <w lemmaRef="#べき.べし">へき</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こひ.恋ふ">こひ</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#する.す">する</w>
+              <w lemmaRef="#かな.哉">哉</w>
+            </seg>
           </l>
         </div>
         <lb/>

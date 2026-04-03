@@ -18655,11 +18655,32 @@
           </note>
           <lb/>
           <l n="462" xml:id="n462" resp="#壬生忠岑">
-            <seg>夏草の</seg>
-            <seg>うへはしけれる</seg>
-            <seg>ぬま水の</seg>
-            <seg>行方のなき</seg>
-            <seg>わか心哉</seg>
+            <seg>
+              <w lemmaRef="#なつくさ.夏草">夏草</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うへ.上">うへ</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#しげれ.繁る">しけれ</w>
+              <w lemmaRef="#る.り">る</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ぬまみづ.沼水">ぬま水</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ゆく.行く">行</w>
+              <w lemmaRef="#かた.方">方</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#なき.無し">なき</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わ.我">わ</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#こころ.心">心</w>
+              <w lemmaRef="#かな.哉">哉</w>
+            </seg>
           </l>
         </div>
         <lb/>

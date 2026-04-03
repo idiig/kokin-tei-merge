@@ -18094,11 +18094,34 @@
           </note>
           <lb/>
           <l n="447" xml:id="n447" resp="#平篤行">
-            <seg>郭公</seg>
-            <seg>峯の雲にや</seg>
-            <seg>ましりにし</seg>
-            <seg>ありとはきけと</seg>
-            <seg>見るよしもなき</seg>
+            <seg>
+              <w lemmaRef="#ほととぎす.時鳥">郭公</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みね.峰">峯</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#くも.雲">雲</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#や.や">や</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#まじり.交じる">ましり</w>
+              <w lemmaRef="#に.ぬ">に</w>
+              <w lemmaRef="#し.き">し</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あり.有り">あり</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#きけ.聞く">きけ</w>
+              <w lemmaRef="#ど.ど">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みる.見る">見る</w>
+              <w lemmaRef="#よし.由">よし</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#なき.無し">なき</w>
+            </seg>
           </l>
         </div>
         <lb/>

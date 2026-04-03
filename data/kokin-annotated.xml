@@ -16517,11 +16517,35 @@
           </note>
           <lb/>
           <l n="405" xml:id="n405" resp="#紀友則">
-            <seg>したのおひの</seg>
-            <seg>道は方〳〵</seg>
-            <seg>わかるとも</seg>
-            <seg>行廻ても</seg>
-            <seg>あはむとそ思</seg>
+            <seg>
+              <w lemmaRef="#した.下">した</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#おび.帯">おひ</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みち.道">道</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#かたがた.旁">方〳〵</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わかる.別る">わかる</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ゆき.行く">行</w>
+              <w lemmaRef="#めぐり.巡る">廻</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あは.逢ふ">あは</w>
+              <w lemmaRef="#む.む">む</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#おもふ.思ふ">思</w>
+            </seg>
           </l>
         </div>
       </div>

@@ -18057,11 +18057,33 @@
           </note>
           <lb/>
           <l n="446" xml:id="n446" resp="#紀利貞">
-            <seg>山高み</seg>
-            <seg>つねにあらしの</seg>
-            <seg>ふくさとは</seg>
-            <seg>にほひもあへす</seg>
-            <seg>花そちりける</seg>
+            <seg>
+              <w lemmaRef="#やま.山">山</w>
+              <w lemmaRef="#たか.高し">高</w>
+              <w lemmaRef="#み.み">み</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#つねに.常なり">つねに</w>
+              <w lemmaRef="#あらし.嵐">あらし</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ふく.吹く">ふく</w>
+              <w lemmaRef="#さと.里">さと</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#にほひ.匂ふ">にほひ</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#あへ.敢ふ">あへ</w>
+              <w lemmaRef="#ず.ず">す</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はな.花">花</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#ちり.散る">ちり</w>
+              <w lemmaRef="#ける.けり">ける</w>
+            </seg>
           </l>
         </div>
         <lb/>

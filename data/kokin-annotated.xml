@@ -15378,11 +15378,34 @@
           </note>
           <lb/>
           <l n="375" xml:id="n375" resp="#よみ人知らず">
-            <seg>唐衣</seg>
-            <seg>たつひはきかし</seg>
-            <seg>あさつゆの</seg>
-            <seg>をきてしゆけは</seg>
-            <seg>けぬへき物を</seg>
+            <seg>
+              <w lemmaRef="#からころも.唐衣">唐衣</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たつ.立つ">たつ</w>
+              <w lemmaRef="#ひ.日">ひ</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#きか.聞く">きか</w>
+              <w lemmaRef="#じ.じ">し</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あさつゆ.朝露">あさつゆ</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おき.置く">をき</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#し.し">し</w>
+              <w lemmaRef="#ゆけ.行く">ゆけ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#け.消ゆ">け</w>
+              <w lemmaRef="#ぬ.ぬ">ぬ</w>
+              <w lemmaRef="#べき.べし">へき</w>
+              <w lemmaRef="#もの.物">物</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
           </l>
           <lb/>
           <note type="左注" style="margin-top: 3em" target="#n375">このうたはある人つかさをたまはりてあたらしきめ

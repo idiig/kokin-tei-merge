@@ -18315,11 +18315,35 @@
           </note>
           <lb/>
           <l n="453" xml:id="n453" resp="#真静法師">
-            <seg>煙たち</seg>
-            <seg>もゆとも見えぬ</seg>
-            <seg>草のはを</seg>
-            <seg>誰かわらひと</seg>
-            <seg>なつけそめけむ</seg>
+            <seg>
+              <w lemmaRef="#けぶり.煙">煙</w>
+              <w lemmaRef="#たち.立つ">たち</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#もゆ.燃ゆ">もゆ</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#みえ.見ゆ">見え</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#くさ.草">草</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#は.葉">は</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たれ.誰">誰</w>
+              <w lemmaRef="#か.か">か</w>
+              <w lemmaRef="#わらび.藁火">わらひ</w>
+              <w lemmaRef="#と.と">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#な.名">な</w>
+              <w lemmaRef="#つけ.付く">つけ</w>
+              <w lemmaRef="#そめ.初む">そめ</w>
+              <w lemmaRef="#けむ.けむ">けむ</w>
+            </seg>
           </l>
         </div>
         <lb/>

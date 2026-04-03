@@ -15156,11 +15156,33 @@
           </note>
           <lb/>
           <l n="369" xml:id="n369" resp="#紀利貞">
-            <seg>けふわかれ</seg>
-            <seg>あすはあふみと</seg>
-            <seg>おもへとも</seg>
-            <seg>夜やふけぬらむ</seg>
-            <seg>袖のつゆけき</seg>
+            <seg>
+              <w lemmaRef="#けふ.今日">けふ</w>
+              <w lemmaRef="#わかれ.別る">わかれ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あす.明日">あす</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#あふみ.近江">あふみ</w>
+              <w lemmaRef="#と.と">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おもへ.思ふ">おもへ</w>
+              <w lemmaRef="#ど.ど">と</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#よ.夜">夜</w>
+              <w lemmaRef="#や.や">や</w>
+              <w lemmaRef="#ふけ.更く">ふけ</w>
+              <w lemmaRef="#ぬ.ぬ">ぬ</w>
+              <w lemmaRef="#らむ.らむ">らむ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#そで.袖">袖</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#つゆけき.露けし">つゆけき</w>
+            </seg>
           </l>
         </div>
         <lb/>

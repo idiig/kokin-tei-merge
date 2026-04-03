@@ -16647,11 +16647,26 @@
           </note>
           <lb/>
           <l n="408" xml:id="n408" resp="#よみ人知らず">
-            <seg>宮こいてゝ</seg>
-            <seg>けふみかの原</seg>
-            <seg>泉河</seg>
-            <seg>かは風さむし</seg>
-            <seg>衣かせ山</seg>
+            <seg>
+              <w lemmaRef="#みやこ.都">宮こ</w>
+              <w lemmaRef="#いで.出づ">いて</w>
+              <w lemmaRef="#て.て">ゝ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#けふ.今日">けふ</w>
+              <w lemmaRef="#みかのはら.瓶原">みかの原</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いづみがは.泉河">泉河</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かはかぜ.川風">かは風</w>
+              <w lemmaRef="#さむし.寒し">さむし</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ころも.衣">衣</w>
+              <w lemmaRef="#かせやま.鹿背山">かせ山</w>
+            </seg>
           </l>
         </div>
         <lb/>

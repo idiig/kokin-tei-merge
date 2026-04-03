@@ -16154,11 +16154,34 @@
           <pb n="1-50v" facs="#p059"/>
           <lb/>
           <l n="395" xml:id="n395" resp="#幽仙法師">
-            <seg>ことならは</seg>
-            <seg>君とまるへく</seg>
-            <seg>にほは南</seg>
-            <seg>かへすは花の</seg>
-            <seg>うきにやはあらぬ</seg>
+            <seg>
+              <w lemmaRef="#こと.如">こと</w>
+              <w lemmaRef="#なら.なり">なら</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#きみ.君">君</w>
+              <w lemmaRef="#とまる.止まる">とまる</w>
+              <w lemmaRef="#べく.べし">へく</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#にほは.匂ふ">にほは</w>
+              <w lemmaRef="#なむ.なむ">南</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かへす.返す">かへす</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#はな.花">花</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うき.憂し">うき</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#や.や">や</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#あら.有り">あら</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+            </seg>
           </l>
         </div>
         <lb/>

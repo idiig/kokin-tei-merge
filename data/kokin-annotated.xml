@@ -16884,11 +16884,33 @@
           </note>
           <lb/>
           <l n="414" xml:id="n414" resp="#凡河内躬恒">
-            <seg>きえはつる</seg>
-            <seg>時しなけれは</seg>
-            <seg>こしちなる</seg>
-            <seg>しら山のなは</seg>
-            <seg>雪にそ有ける</seg>
+            <seg>
+              <w lemmaRef="#きえ.消ゆ">きえ</w>
+              <w lemmaRef="#はつる.果つ">はつる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#とき.時">時</w>
+              <w lemmaRef="#し.し">し</w>
+              <w lemmaRef="#なけれ.無し">なけれ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こしぢ.越路">こしち</w>
+              <w lemmaRef="#なる.なり">なる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#しらやま.白山">しら山</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#な.名">な</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ゆき.雪">雪</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#あり.有り">有</w>
+              <w lemmaRef="#ける.けり">ける</w>
+            </seg>
           </l>
         </div>
         <lb/>

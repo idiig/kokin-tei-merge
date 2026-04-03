@@ -17709,11 +17709,36 @@
           </note>
           <lb/>
           <l n="437" xml:id="n437" resp="#紀友則">
-            <seg>白露を</seg>
-            <seg>たまにぬくとや</seg>
-            <seg>さゝかにの</seg>
-            <seg>花にもはにも</seg>
-            <seg>絲をみなへし</seg>
+            <seg>
+              <w lemmaRef="#しらつゆ.白露">白露</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たま.珠">たま</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#ぬく.貫く">ぬく</w>
+              <w lemmaRef="#や.や">と</w>
+              <w lemmaRef="#と.と">や</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ささがに.蜘蛛">さゝかに</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はな.花">花</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#は.葉">は</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いと.糸">絲</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#みな.皆">みな</w>
+              <w lemmaRef="#へ.経">へ</w>
+              <w lemmaRef="#し.き">し</w>
+            </seg>
           </l>
           <lb/>
           <l n="438" xml:id="n438" resp="#紀友則">

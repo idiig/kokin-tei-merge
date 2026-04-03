@@ -16564,11 +16564,32 @@
           </note>
           <lb/>
           <l n="406" xml:id="n406" resp="#安倍仲麻呂">
-            <seg>あまの原</seg>
-            <seg>ふりさけ見れは</seg>
-            <seg>かすかなる</seg>
-            <seg>みかさの山に</seg>
-            <seg>いてし月かも</seg>
+            <seg>
+              <w lemmaRef="#あまのはら.天の原">あまの原</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ふり.振る">ふり</w>
+              <w lemmaRef="#さけ.放く">さけ</w>
+              <w lemmaRef="#みれ.見る">見れ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かすが.春日">かすか</w>
+              <w lemmaRef="#なる.なり">なる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みかさ.三笠">みかさ</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#やま.山">山</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いで.出づ">いて</w>
+              <w lemmaRef="#し.き">し</w>
+              <w lemmaRef="#つき.月">月</w>
+              <w lemmaRef="#か.か">か</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
           </l>
           <lb/>
           <note type="左注" style="margin-top: 3em" target="#n406">この哥はむかし

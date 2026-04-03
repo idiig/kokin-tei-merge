@@ -15501,11 +15501,32 @@
           </note>
           <lb/>
           <l n="378" xml:id="n378" resp="#清原深養父">
-            <seg>雲井にも</seg>
-            <seg>かよふ心の</seg>
-            <seg>をくれねは</seg>
-            <seg>わかると人に</seg>
-            <seg>見ゆ許也</seg>
+            <seg>
+              <w lemmaRef="#くもゐ.雲井">雲井</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かよふ.通ふ">かよふ</w>
+              <w lemmaRef="#こころ.心">心</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おくれ.後る">をくれ</w>
+              <w lemmaRef="#ね.ず">ね</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わかる.別る">わかる</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みゆ.見ゆ">見ゆ</w>
+              <w lemmaRef="#ばかり.許り">許</w>
+              <w lemmaRef="#なり.なり">也</w>
+            </seg>
           </l>
         </div>
         <lb/>

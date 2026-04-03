@@ -17782,11 +17782,32 @@
           </note>
           <lb/>
           <l n="439" xml:id="n439" resp="#紀貫之">
-            <seg>をくら山</seg>
-            <seg>みねたちならし</seg>
-            <seg>なく鹿の</seg>
-            <seg>へにけむ秋を</seg>
-            <seg>しる人そなき</seg>
+            <seg>
+              <w lemmaRef="#をぐらやま.小倉山">をくら山</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みね.峰">みね</w>
+              <w lemmaRef="#たち.立つ">たち</w>
+              <w lemmaRef="#ならし.平す">ならし</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なく.鳴く">なく</w>
+              <w lemmaRef="#しか.鹿">鹿</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#へ.経">へ</w>
+              <w lemmaRef="#に.ぬ">に</w>
+              <w lemmaRef="#けむ.けむ">けむ</w>
+              <w lemmaRef="#あき.秋">秋</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#しる.知る">しる</w>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#なき.無し">なき</w>
+            </seg>
           </l>
         </div>
         <lb/>

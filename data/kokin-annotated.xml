@@ -16672,11 +16672,31 @@
         <lb/>
         <div type="和歌">
           <l n="409" xml:id="n409" resp="#よみ人知らず">
-            <seg>ほの〳〵と</seg>
-            <seg>あかしの浦の</seg>
-            <seg>あさきりに</seg>
-            <seg>嶋かくれ行</seg>
-            <seg>舟をしそ思</seg>
+            <seg>
+              <w lemmaRef="#ほのぼのと.仄仄と">ほの〳〵と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あかし.明石">あかし</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#うら.浦">浦</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あさぎり.朝霧">あさきり</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#しま.島">嶋</w>
+              <w lemmaRef="#かくれ.隠る">かくれ</w>
+              <w lemmaRef="#ゆく.行く">行</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ふね.舟">舟</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#し.し">し</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#おもふ.思ふ">思</w>
+            </seg>
           </l>
           <lb/>
           <note type="左注" style="margin-top: 3em" target="#n409">この哥はある人のいはく

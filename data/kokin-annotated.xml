@@ -16413,11 +16413,31 @@
         <lb/>
         <div type="和歌">
           <l n="402" xml:id="n402" resp="#よみ人知らず">
-            <seg>かきくらし</seg>
-            <seg>ことはふら南</seg>
-            <seg>春雨に</seg>
-            <seg>ぬれきぬきせて</seg>
-            <seg>君をとゝめむ</seg>
+            <seg>
+              <w lemmaRef="#かき.掻く">かき</w>
+              <w lemmaRef="#くらし.暗す">くらし</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こと.事">こと</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#ふら.降る">ふら</w>
+              <w lemmaRef="#なむ.なむ">南</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はるさめ.春雨">春雨</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ぬれぎぬ.濡衣">ぬれきぬ</w>
+              <w lemmaRef="#きせ.着す">きせ</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#きみ.君">君</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#とどめ.止む">とゝめ</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
           </l>
         </div>
         <lb/>

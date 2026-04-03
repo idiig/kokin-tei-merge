@@ -19995,11 +19995,34 @@
         <lb/>
         <div type="和歌">
           <l n="500" xml:id="n500" resp="#よみ人知らず">
-            <seg>夏なれは</seg>
-            <seg>やとにふすふる</seg>
-            <seg>かやり火の</seg>
-            <seg>いつまてわか身</seg>
-            <seg>したもえをせむ</seg>
+            <seg>
+              <w lemmaRef="#なつ.夏">夏</w>
+              <w lemmaRef="#なれ.なり">なれ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#やど.宿">やと</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#ふすぶる.燻ぶ">ふすふる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かやりび.蚊遣火">かやり火</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いつ.何時">いつ</w>
+              <w lemmaRef="#まで.まで">まて</w>
+              <w lemmaRef="#わ.我">わ</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#み.身">身</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#した.下">した</w>
+              <w lemmaRef="#もえ.燃ゆ">もえ</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#せ.す">せ</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
           </l>
         </div>
         <lb/>

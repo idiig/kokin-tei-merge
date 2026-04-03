@@ -15299,11 +15299,37 @@
           <pb n="1-47v" facs="#p056"/>
           <lb/>
           <l n="373" xml:id="n373" resp="#伊香子淳行">
-            <seg>思へとも</seg>
-            <seg>身をしわけねは</seg>
-            <seg>めに見えぬ</seg>
-            <seg>心を君に</seg>
-            <seg>たくへてそやる</seg>
+            <seg>
+              <w lemmaRef="#おもへ.思ふ">思へ</w>
+              <w lemmaRef="#ど.ど">と</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#み.身">身</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#し.し">し</w>
+              <w lemmaRef="#わけ.分く">わけ</w>
+              <w lemmaRef="#ね.ず">ね</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#め.目">め</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#みえ.見ゆ">見え</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こころ.心">心</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#きみ.君">君</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たぐへ.類ふ">たくへ</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#やる.遣る">やる</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -18132,11 +18132,33 @@
           </note>
           <lb/>
           <l n="448" xml:id="n448" resp="#よみ人知らず">
-            <seg>空蝉の</seg>
-            <seg>からは木ことに</seg>
-            <seg>とゝむれと</seg>
-            <seg>たまのゆくゑを</seg>
-            <seg>見ぬそかなしき</seg>
+            <seg>
+              <w lemmaRef="#うつせみ.空蝉">空蝉</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#から.殻">から</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#き.木">木</w>
+              <w lemmaRef="#ごと.毎">こと</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#とどむれ.止む">とゝむれ</w>
+              <w lemmaRef="#ど.ど">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たま.魂">たま</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#ゆくへ.行方">ゆくゑ</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#かなしき.悲し">かなしき</w>
+            </seg>
           </l>
         </div>
         <lb/>

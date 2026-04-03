@@ -15538,11 +15538,30 @@
           </note>
           <lb/>
           <l n="379" xml:id="n379" resp="#良岑秀崇">
-            <seg>白雲の</seg>
-            <seg>こなたかなたに</seg>
-            <seg>立わかれ</seg>
-            <seg>心をぬさと</seg>
-            <seg>くたくたひ哉</seg>
+            <seg>
+              <w lemmaRef="#しらくも.白雲">白雲</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こなた.此方">こなた</w>
+              <w lemmaRef="#かなた.彼方">かなた</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たち.立つ">立</w>
+              <w lemmaRef="#わかれ.別る">わかれ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こころ.心">心</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#ぬさ.幣">ぬさ</w>
+              <w lemmaRef="#と.と">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#くだく.砕く">くたく</w>
+              <w lemmaRef="#たび.旅">たひ</w>
+              <w lemmaRef="#かな.哉">哉</w>
+            </seg>
           </l>
         </div>
         <lb/>

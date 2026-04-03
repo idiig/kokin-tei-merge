@@ -17892,11 +17892,36 @@
           </note>
           <lb/>
           <l n="442" xml:id="n442" resp="#紀友則">
-            <seg>わかやとの</seg>
-            <seg>はなふみちらす</seg>
-            <seg>とりうたむ</seg>
-            <seg>のはなけれはや</seg>
-            <seg>こゝにしもくる</seg>
+            <seg>
+              <w lemmaRef="#わ.我">わ</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#やど.宿">やと</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はな.花">はな</w>
+              <w lemmaRef="#ふみ.踏む">ふみ</w>
+              <w lemmaRef="#ちらす.散らす">ちらす</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#とり.鳥">とり</w>
+              <w lemmaRef="#うた.打つ">うた</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#の.野">の</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#なけれ.無し">なけれ</w>
+              <w lemmaRef="#ば.ば">は</w>
+              <w lemmaRef="#や.や">や</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ここ.此処">こゝ</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#し.し">し</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#くる.来">くる</w>
+            </seg>
           </l>
         </div>
         <lb/>

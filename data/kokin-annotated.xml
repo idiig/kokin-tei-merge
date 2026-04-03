@@ -17534,11 +17534,33 @@
           </note>
           <lb/>
           <l n="432" xml:id="n432" resp="#よみ人知らず">
-            <seg>秋はきぬ</seg>
-            <seg>今やまかきの</seg>
-            <seg>きり〳〵す</seg>
-            <seg>よな〳〵なかむ</seg>
-            <seg>風のさむさに</seg>
+            <seg>
+              <w lemmaRef="#あき.秋">秋</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#き.来">き</w>
+              <w lemmaRef="#ぬ.ぬ">ぬ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いま.今">今</w>
+              <w lemmaRef="#や.や">や</w>
+              <w lemmaRef="#まがき.籬">まかき</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#きりぎりす.蟋蟀">きり〳〵す</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#よなよな.夜な夜な">よな〳〵</w>
+              <w lemmaRef="#なか.鳴く">なか</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かぜ.風">風</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#さむ.寒し">さむ</w>
+              <w lemmaRef="#さ.さ">さ</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
           </l>
         </div>
         <pb n="1-56v" facs="#p065"/>

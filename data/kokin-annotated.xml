@@ -15075,11 +15075,33 @@
         <lb/>
         <div type="和歌">
           <l n="367" xml:id="n367" resp="#よみ人知らず">
-            <seg>限なき</seg>
-            <seg>雲井のよそに</seg>
-            <seg>わかるとも</seg>
-            <seg>人を心に</seg>
-            <seg>をくらさむやは</seg>
+            <seg>
+              <w lemmaRef="#かぎり.限る">限</w>
+              <w lemmaRef="#なき.無し">なき</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#くもゐ.雲井">雲井</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#よそ.余所">よそ</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わかる.分かる">わかる</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#こころ.心">心</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おくらさ.後らす">をくらさ</w>
+              <w lemmaRef="#む.む">む</w>
+              <w lemmaRef="#や.や">や</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
           </l>
         </div>
         <lb/>

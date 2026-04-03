@@ -19863,11 +19863,31 @@
         <lb/>
         <div type="和歌">
           <l n="496" xml:id="n496" resp="#よみ人知らず">
-            <seg>人しれす</seg>
-            <seg>おもへはくるし</seg>
-            <seg>紅の</seg>
-            <seg>すゑつむ花の</seg>
-            <seg>いろにいてなむ</seg>
+            <seg>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#しれ.知る">しれ</w>
+              <w lemmaRef="#ず.ず">す</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おもへ.思ふ">おもへ</w>
+              <w lemmaRef="#ば.ば">は</w>
+              <w lemmaRef="#くるし.苦し">くるし</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#くれなゐ.紅">紅</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#すゑつむはな.末摘花">すゑつむ花</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いろ.色">いろ</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#いで.出づ">いて</w>
+              <w lemmaRef="#な.ぬ">な</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -19036,11 +19036,32 @@
           </note>
           <lb/>
           <l n="472" xml:id="n472" resp="#藤原勝臣">
-            <seg>白浪の</seg>
-            <seg>跡なき方に</seg>
-            <seg>行舟も</seg>
-            <seg>風そたよりの</seg>
-            <seg>しるへなりける</seg>
+            <seg>
+              <w lemmaRef="#しらなみ.白浪">白浪</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あと.跡">跡</w>
+              <w lemmaRef="#なき.無し">なき</w>
+              <w lemmaRef="#かた.方">方</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ゆく.行く">行</w>
+              <w lemmaRef="#ふね.舟">舟</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かぜ.風">風</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#たより.頼る">たより</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#しるべ.標">しるへ</w>
+              <w lemmaRef="#なり.なり">なり</w>
+              <w lemmaRef="#ける.けり">ける</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -17281,11 +17281,33 @@
           </note>
           <lb/>
           <l n="425" xml:id="n425" resp="#壬生忠岑">
-            <seg>たもとより</seg>
-            <seg>はなれて玉を</seg>
-            <seg>つゝまめや</seg>
-            <seg>これ南それと</seg>
-            <seg>うつせ見むかし</seg>
+            <seg>
+              <w lemmaRef="#たもと.袂">たもと</w>
+              <w lemmaRef="#より.より">より</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はなれ.離る">はなれ</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#たま.珠">玉</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#つつま.包む">つゝま</w>
+              <w lemmaRef="#め.む">め</w>
+              <w lemmaRef="#や.や">や</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#これ.此れ">これ</w>
+              <w lemmaRef="#なむ.なむ">南</w>
+              <w lemmaRef="#それ.其れ">それ</w>
+              <w lemmaRef="#と.と">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うつせ.移す">うつせ</w>
+              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#む.む">む</w>
+              <w lemmaRef="#かし.かし">かし</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -17934,11 +17934,35 @@
           </note>
           <lb/>
           <l n="443" xml:id="n443" resp="#よみ人知らず">
-            <seg>ありと見て</seg>
-            <seg>たのむそかたき</seg>
-            <seg>うつせみの</seg>
-            <seg>世をはなしとや</seg>
-            <seg>思ひなしてむ</seg>
+            <seg>
+              <w lemmaRef="#あり.有り">あり</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たのむ.頼む">たのむ</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#かたき.難し">かたき</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うつせみ.空蝉">うつせみ</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#よ.世">世</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#ば.ば">は</w>
+              <w lemmaRef="#なし.無し">なし</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#や.や">や</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おもひ.思ふ">思ひ</w>
+              <w lemmaRef="#なし.為す">なし</w>
+              <w lemmaRef="#て.つ">て</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
           </l>
         </div>
         <lb/>

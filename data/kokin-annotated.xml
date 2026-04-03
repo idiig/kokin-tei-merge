@@ -16078,11 +16078,34 @@
           </note>
           <lb/>
           <l n="393" xml:id="n393">
-            <seg>別をは</seg>
-            <seg>山の櫻に</seg>
-            <seg>まかせてむ</seg>
-            <seg>とめむとめしは</seg>
-            <seg>花のまに〳〵</seg>
+            <seg>
+              <w lemmaRef="#わかれ.別る">別</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#やま.山">山</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#さくら.桜">櫻</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#まかせ.任す">まかせ</w>
+              <w lemmaRef="#て.つ">て</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#とめ.止む">とめ</w>
+              <w lemmaRef="#む.む">む</w>
+              <w lemmaRef="#とめ.止む">とめ</w>
+              <w lemmaRef="#じ.じ">し</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はな.花">花</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#まにまに.随に">まに〳〵</w>
+            </seg>
           </l>
         </div>
         <lb/>

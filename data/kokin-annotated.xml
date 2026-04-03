@@ -17318,11 +17318,32 @@
           </note>
           <lb/>
           <l n="426" xml:id="n426" resp="#よみ人知らず">
-            <seg>あなうめに</seg>
-            <seg>つねなるへくも</seg>
-            <seg>見えぬ哉</seg>
-            <seg>こひしかるへき</seg>
-            <seg>かはにほひつゝ</seg>
+            <seg>
+              <w lemmaRef="#あな.あな">あな</w>
+              <w lemmaRef="#う.憂し">う</w>
+              <w lemmaRef="#め.目">め</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#つねなる.常なり">つねなる</w>
+              <w lemmaRef="#べく.べし">へく</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みえ.見ゆ">見え</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+              <w lemmaRef="#かな.哉">哉</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こひしかる.恋し">こひしかる</w>
+              <w lemmaRef="#べき.べし">へき</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#か.香">か</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#にほひ.匂ふ">にほひ</w>
+              <w lemmaRef="#つつ.つつ">つゝ</w>
+            </seg>
           </l>
         </div>
         <pb n="1-56r" facs="#p064"/>

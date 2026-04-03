@@ -15462,11 +15462,34 @@
           </note>
           <lb/>
           <l n="377" xml:id="n377" resp="#よみ人知らず">
-            <seg>えそしらぬ</seg>
-            <seg>今心見よ</seg>
-            <seg>いのちあらは</seg>
-            <seg>我やわするゝ</seg>
-            <seg>人やとはぬと</seg>
+            <seg>
+              <w lemmaRef="#え.え">え</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#しら.知る">しら</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いま.今">今</w>
+              <w lemmaRef="#こころ.心">心</w>
+              <w lemmaRef="#みよ.見る">見よ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いのち.命">いのち</w>
+              <w lemmaRef="#あら.有り">あら</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#われ.我">我</w>
+              <w lemmaRef="#や.や">や</w>
+              <w lemmaRef="#わするる.忘る">わするゝ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#や.や">や</w>
+              <w lemmaRef="#とは.訪ふ">とは</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+              <w lemmaRef="#と.と">と</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -16802,11 +16802,34 @@
           </note>
           <lb/>
           <l n="412" xml:id="n412" resp="#よみ人知らず">
-            <seg>北へ行</seg>
-            <seg>鴈そなくなる</seg>
-            <seg>つれてこし</seg>
-            <seg>かすはたらてそ</seg>
-            <seg>かへるへらなる</seg>
+            <seg>
+              <w lemmaRef="#きた.北">北</w>
+              <w lemmaRef="#へ.へ">へ</w>
+              <w lemmaRef="#ゆく.行く">行</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かり.雁">鴈</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#なく.鳴く">なく</w>
+              <w lemmaRef="#なる.なり">なる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#つれ.連る">つれ</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#こ.来">こ</w>
+              <w lemmaRef="#し.き">し</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かず.数">かす</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#たら.足る">たら</w>
+              <w lemmaRef="#で.で">て</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かへる.帰る">かへる</w>
+              <w lemmaRef="#べらなる.べらなり">へらなる</w>
+            </seg>
           </l>
           <lb/>
           <note type="左注" style="margin-top: 3em" target="#n412">このうたはある人おとこ女もろともに人のくにへ

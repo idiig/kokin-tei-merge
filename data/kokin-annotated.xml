@@ -17976,11 +17976,32 @@
           </note>
           <lb/>
           <l n="444" xml:id="n444" resp="#矢田部名実">
-            <seg>うちつけに</seg>
-            <seg>こしとや花の</seg>
-            <seg>色を見む</seg>
-            <seg>をくしらつゆの</seg>
-            <seg>そむる許を</seg>
+            <seg>
+              <w lemmaRef="#うちつけに.打ち付けなり">うちつけに</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こし.濃し">こし</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#や.や">や</w>
+              <w lemmaRef="#はな.花">花</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いろ.色">色</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おく.置く">をく</w>
+              <w lemmaRef="#しらつゆ.白露">しらつゆ</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#そむる.染む">そむる</w>
+              <w lemmaRef="#ばかり.許り">許</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
           </l>
         </div>
         <pb n="1-57v" facs="#p066"/>

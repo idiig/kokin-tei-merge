@@ -18210,11 +18210,31 @@
           </note>
           <lb/>
           <l n="450" xml:id="n450" resp="#高向利春">
-            <seg>花の色は</seg>
-            <seg>たゝひとさかり</seg>
-            <seg>こけれとも</seg>
-            <seg>返々そ</seg>
-            <seg>つゆはそめける</seg>
+            <seg>
+              <w lemmaRef="#はな.花">花</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#いろ.色">色</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ただ.唯">たゝ</w>
+              <w lemmaRef="#ひとさかり.一盛り">ひとさかり</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こけれ.濃し">こけれ</w>
+              <w lemmaRef="#ど.ど">と</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かへすがへす.返す返す">返々</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#つゆ.露">つゆ</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#そめ.染む">そめ</w>
+              <w lemmaRef="#ける.けり">ける</w>
+            </seg>
           </l>
         </div>
         <lb/>

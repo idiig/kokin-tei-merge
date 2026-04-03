@@ -17054,11 +17054,33 @@
           </note>
           <lb/>
           <l n="419" xml:id="n419" resp="#紀有常">
-            <seg>ひとゝせに</seg>
-            <seg>ひとたひきます</seg>
-            <seg>君まては</seg>
-            <seg>やとかす人も</seg>
-            <seg>あらしとそ思</seg>
+            <seg>
+              <w lemmaRef="#ひととせ.一年">ひとゝせ</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひとたび.一度">ひとたひ</w>
+              <w lemmaRef="#き.来">き</w>
+              <w lemmaRef="#ます.坐す">ます</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#きみ.君">君</w>
+              <w lemmaRef="#まて.待つ">まて</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#やど.宿">やと</w>
+              <w lemmaRef="#かす.貸す">かす</w>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あら.有り">あら</w>
+              <w lemmaRef="#じ.じ">し</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#おもふ.思ふ">思</w>
+            </seg>
           </l>
         </div>
         <pb n="1-55r" facs="#p063"/>

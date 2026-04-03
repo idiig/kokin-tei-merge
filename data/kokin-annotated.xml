@@ -19366,11 +19366,31 @@
           </note>
           <lb/>
           <l n="481" xml:id="n481" resp="#凡河内躬恒">
-            <seg>はつかりの</seg>
-            <seg>はつかにこゑを</seg>
-            <seg>きゝしより</seg>
-            <seg>なかそらにのみ</seg>
-            <seg>物を思哉</seg>
+            <seg>
+              <w lemmaRef="#はつかり.初雁">はつかり</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はつかに.僅かなり">はつかに</w>
+              <w lemmaRef="#こゑ.声">こゑ</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#きき.聞く">きゝ</w>
+              <w lemmaRef="#し.き">し</w>
+              <w lemmaRef="#より.より">より</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なかぞら.中空">なかそら</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#のみ.のみ">のみ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#もの.物">物</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#おもふ.思ふ">思</w>
+              <w lemmaRef="#かな.哉">哉</w>
+            </seg>
           </l>
         </div>
         <lb/>

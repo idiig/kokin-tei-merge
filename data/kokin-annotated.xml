@@ -16849,11 +16849,29 @@
           </note>
           <lb/>
           <l n="413" xml:id="n413" resp="#乙">
-            <seg>山かくす</seg>
-            <seg>春の霞そ</seg>
-            <seg>うらめしき</seg>
-            <seg>いつれ宮この</seg>
-            <seg>さかひなるらむ</seg>
+            <seg>
+              <w lemmaRef="#やま.山">山</w>
+              <w lemmaRef="#かくす.隠す">かくす</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はる.春">春</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#かすみ.霞む">霞</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うらめしき.恨めし">うらめしき</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いづれ.何れ">いつれ</w>
+              <w lemmaRef="#みやこ.都">宮こ</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#さかひ.境">さかひ</w>
+              <w lemmaRef="#なる.なり">なる</w>
+              <w lemmaRef="#らむ.らむ">らむ</w>
+            </seg>
           </l>
         </div>
         <pb n="1-54r" facs="#p062"/>

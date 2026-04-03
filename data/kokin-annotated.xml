@@ -18587,11 +18587,31 @@
           <pb n="1-59r" facs="#p067"/>
           <lb/>
           <l n="460" xml:id="n460" resp="#紀貫之">
-            <seg>うはたまの</seg>
-            <seg>わかくろかみや</seg>
-            <seg>かはる覧</seg>
-            <seg>鏡の影に</seg>
-            <seg>ふれるしらゆき</seg>
+            <seg>
+              <w lemmaRef="#うばたま.烏羽玉">うはたま</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わ.我">わ</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#くろかみ.黒髪">くろかみ</w>
+              <w lemmaRef="#や.や">や</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かはる.変はる">かはる</w>
+              <w lemmaRef="#らむ.らむ">覧</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かがみ.鏡">鏡</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#かげ.影">影</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ふれ.降る">ふれ</w>
+              <w lemmaRef="#る.り">る</w>
+              <w lemmaRef="#しらゆき.白雪">しらゆき</w>
+            </seg>
           </l>
         </div>
         <lb/>

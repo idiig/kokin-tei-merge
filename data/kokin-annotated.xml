@@ -15916,11 +15916,38 @@
           </note>
           <lb/>
           <l n="389" xml:id="n389" resp="#藤原兼茂">
-            <seg>したはれて</seg>
-            <seg>きにし心の</seg>
-            <seg>身にしあれは</seg>
-            <seg>帰さまには</seg>
-            <seg>道もしられす</seg>
+            <seg>
+              <w lemmaRef="#したは.慕ふ">したは</w>
+              <w lemmaRef="#れ.る">れ</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#き.来">き</w>
+              <w lemmaRef="#に.ぬ">に</w>
+              <w lemmaRef="#し.き">し</w>
+              <w lemmaRef="#こころ.心">心</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#み.身">身</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#し.し">し</w>
+              <w lemmaRef="#あれ.有り">あれ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かへる.帰る">帰</w>
+              <w lemmaRef="#さま.様">さま</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みち.道">道</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#しら.知る">しら</w>
+              <w lemmaRef="#れ.る">れ</w>
+              <w lemmaRef="#ず.ず">す</w>
+            </seg>
           </l>
         </div>
         <lb/>

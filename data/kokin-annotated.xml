@@ -19569,11 +19569,33 @@
         <lb/>
         <div type="和歌">
           <l n="487" xml:id="n487" resp="#よみ人知らず">
-            <seg>ちはやふる</seg>
-            <seg>かもの社の</seg>
-            <seg>ゆふたすき</seg>
-            <seg>ひと日も君を</seg>
-            <seg>かけぬ日はなし</seg>
+            <seg>
+              <w lemmaRef="#ち.千">ち</w>
+              <w lemmaRef="#はや.早し">はや</w>
+              <w lemmaRef="#ふる.振る">ふる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かも.賀茂">かも</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#やしろ.社">社</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ゆふだすき.木綿襷">ゆふたすき</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひとひ.一日">ひと日</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#きみ.君">君</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かけ.掛く">かけ</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+              <w lemmaRef="#ひ.日">日</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#なし.無し">なし</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -15261,11 +15261,32 @@
           </note>
           <lb/>
           <l n="372" xml:id="n372" resp="#在原滋春">
-            <seg>わかれては</seg>
-            <seg>ほとをへたつと</seg>
-            <seg>おもへはや</seg>
-            <seg>かつ見なからに</seg>
-            <seg>かねてこひしき</seg>
+            <seg>
+              <w lemmaRef="#わかれ.別る">わかれ</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ほど.程">ほと</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#へだつ.隔つ">へたつ</w>
+              <w lemmaRef="#と.と">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おもへ.思ふ">おもへ</w>
+              <w lemmaRef="#ば.ば">は</w>
+              <w lemmaRef="#や.や">や</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かつ.且つ">かつ</w>
+              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#ながら.ながら">なから</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かねて.予て">かねて</w>
+              <w lemmaRef="#こひしき.恋し">こひしき</w>
+            </seg>
           </l>
         </div>
         <lb/>

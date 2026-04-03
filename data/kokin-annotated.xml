@@ -18547,11 +18547,35 @@
           </note>
           <lb/>
           <l n="459" xml:id="n459" resp="#伊勢">
-            <seg>浪の花</seg>
-            <seg>おきからさきて</seg>
-            <seg>ちりくめり</seg>
-            <seg>水の春とは</seg>
-            <seg>風やなる覧</seg>
+            <seg>
+              <w lemmaRef="#なみ.浪">浪</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#はな.花">花</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おき.沖">おき</w>
+              <w lemmaRef="#から.から">から</w>
+              <w lemmaRef="#さき.咲く">さき</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ちり.散る">ちり</w>
+              <w lemmaRef="#く.来">く</w>
+              <w lemmaRef="#めり.めり">めり</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みづ.水">水</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#はる.春">春</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かぜ.風">風</w>
+              <w lemmaRef="#や.や">や</w>
+              <w lemmaRef="#なる.成る">なる</w>
+              <w lemmaRef="#らむ.らむ">覧</w>
+            </seg>
           </l>
         </div>
         <lb/>

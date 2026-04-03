@@ -15961,11 +15961,33 @@
           </note>
           <lb/>
           <l n="390" xml:id="n390" resp="#紀貫之">
-            <seg>かつこえて</seg>
-            <seg>わかれもゆくか</seg>
-            <seg>相坂は</seg>
-            <seg>人たのめなる</seg>
-            <seg>名にこそ有けれ</seg>
+            <seg>
+              <w lemmaRef="#かつ.且つ">かつ</w>
+              <w lemmaRef="#こえ.越ゆ">こえ</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わかれ.別る">わかれ</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#ゆく.行く">ゆく</w>
+              <w lemmaRef="#か.か">か</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あふさか.逢坂">相坂</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#たのめ.頼む">たのめ</w>
+              <w lemmaRef="#なる.なり">なる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#な.名">名</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#こそ.こそ">こそ</w>
+              <w lemmaRef="#あり.有り">有</w>
+              <w lemmaRef="#けれ.けり">けれ</w>
+            </seg>
           </l>
         </div>
         <lb/>

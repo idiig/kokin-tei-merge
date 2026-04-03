@@ -15876,11 +15876,35 @@
           </note>
           <lb/>
           <l n="388" xml:id="n388">
-            <seg>人やりの</seg>
-            <seg>道ならなくに</seg>
-            <seg>おほかたは</seg>
-            <seg>いきうしといひて</seg>
-            <seg>いさ帰なむ</seg>
+            <seg>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#やり.遣る">やり</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みち.道">道</w>
+              <w lemmaRef="#なら.なり">なら</w>
+              <w lemmaRef="#な.ず">な</w>
+              <w lemmaRef="#く.く">く</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おほかた.大方">おほかた</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ゆき.行く">いき</w>
+              <w lemmaRef="#うし.憂し">うし</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#いひ.言ふ">いひ</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いさ.いざ">いさ</w>
+              <w lemmaRef="#かへり.帰る">帰</w>
+              <w lemmaRef="#な.ぬ">な</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
           </l>
         </div>
         <lb/>

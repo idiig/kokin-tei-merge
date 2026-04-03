@@ -18963,11 +18963,35 @@
           </note>
           <lb/>
           <l n="470" xml:id="n470" resp="#素性法師">
-            <seg>をとにのみ</seg>
-            <seg>きくの白露</seg>
-            <seg>よるはおきて</seg>
-            <seg>ひるはおもひに</seg>
-            <seg>あへすけぬへし</seg>
+            <seg>
+              <w lemmaRef="#おと.音">をと</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#のみ.のみ">のみ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#きく.菊">きく</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#しらつゆ.白露">白露</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#よる.夜">よる</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#おき.置く">おき</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひる.昼">ひる</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#おもひ.思ふ">おもひ</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あへ.敢ふ">あへ</w>
+              <w lemmaRef="#ず.ず">す</w>
+              <w lemmaRef="#け.消ゆ">け</w>
+              <w lemmaRef="#ぬ.ぬ">ぬ</w>
+              <w lemmaRef="#べし.べし">へし</w>
+            </seg>
           </l>
         </div>
         <lb/>

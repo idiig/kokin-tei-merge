@@ -15343,11 +15343,30 @@
             </note>
             <lb/>
             <l n="374" xml:id="n374" resp="#難波万雄">
-              <seg>相坂の</seg>
-              <seg>関しまさしき</seg>
-              <seg>物ならは</seg>
-              <seg>あかすわかるゝ</seg>
-              <seg>君をとゝめよ</seg>
+              <seg>
+                <w lemmaRef="#あふさか.相坂">相坂</w>
+                <w lemmaRef="#の.の">の</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#せき.関">関</w>
+                <w lemmaRef="#し.し">し</w>
+                <w lemmaRef="#まさしき.正し">まさしき</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#もの.物">物</w>
+                <w lemmaRef="#なら.なり">なら</w>
+                <w lemmaRef="#ば.ば">は</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#あか.飽く">あか</w>
+                <w lemmaRef="#ず.ず">す</w>
+                <w lemmaRef="#わかるる.別る">わかるゝ</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#きみ.君">君</w>
+                <w lemmaRef="#を.を">を</w>
+                <w lemmaRef="#とどめよ.止む">とゝめよ</w>
+              </seg>
             </l>
           </note>
         </div>

@@ -16716,11 +16716,34 @@
           </note>
           <lb/>
           <l n="410" xml:id="n410" resp="#在原業平">
-            <seg>唐衣</seg>
-            <seg>きつゝなれにし</seg>
-            <seg>つましあれは</seg>
-            <seg>ゝる〳〵きぬる</seg>
-            <seg>たひをしそ思</seg>
+            <seg>
+              <w lemmaRef="#からころも.唐衣">唐衣</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#き.着る">き</w>
+              <w lemmaRef="#つつ.つつ">つゝ</w>
+              <w lemmaRef="#なれ.馴る">なれ</w>
+              <w lemmaRef="#に.ぬ">に</w>
+              <w lemmaRef="#し.き">し</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#つま.褄">つま</w>
+              <w lemmaRef="#し.し">し</w>
+              <w lemmaRef="#あれ.有り">あれ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はるばる.遥遥">ゝる〳〵</w>
+              <w lemmaRef="#き.来">き</w>
+              <w lemmaRef="#ぬる.ぬ">ぬる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たび.旅">たひ</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#し.し">し</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#おもふ.思ふ">思</w>
+            </seg>
           </l>
         </div>
         <lb/>

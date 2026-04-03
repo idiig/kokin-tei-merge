@@ -15190,11 +15190,29 @@
           <note type="詞書" style="margin-top: 2em" target="#n370">こしへまかりける人によみてつかはしける</note>
           <lb/>
           <l n="370" xml:id="n370" resp="#紀利貞">
-            <seg>かへる山</seg>
-            <seg>ありとはきけと</seg>
-            <seg>春霞</seg>
-            <seg>立わかれなは</seg>
-            <seg>こひしかるへし</seg>
+            <seg>
+              <w lemmaRef="#かへるやま.帰山">かへる山</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あり.有り">あり</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#きけ.聞く">きけ</w>
+              <w lemmaRef="#ど.ど">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はるがすみ.春霞">春霞</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たち.立つ">立</w>
+              <w lemmaRef="#わかれ.別る">わかれ</w>
+              <w lemmaRef="#な.ぬ">な</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こひしかる.恋し">こひしかる</w>
+              <w lemmaRef="#べし.べし">へし</w>
+            </seg>
           </l>
         </div>
         <lb/>

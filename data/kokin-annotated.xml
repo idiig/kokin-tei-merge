@@ -18281,11 +18281,30 @@
           </note>
           <lb/>
           <l n="452" xml:id="n452" resp="#景式王">
-            <seg>さ夜ふけて</seg>
-            <seg>なかはたけゆく</seg>
-            <seg>久方の</seg>
-            <seg>月吹かへせ</seg>
-            <seg>秋の山かせ</seg>
+            <seg>
+              <w lemmaRef="#さよ.小夜">さ夜</w>
+              <w lemmaRef="#ふけ.更く">ふけ</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なかば.半ば">なかは</w>
+              <w lemmaRef="#たけ.長く">たけ</w>
+              <w lemmaRef="#ゆく.行く">ゆく</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひさかた.久方">久方</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#つき.月">月</w>
+              <w lemmaRef="#ふき.吹く">吹</w>
+              <w lemmaRef="#かへせ.返す">かへせ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あき.秋">秋</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#やまかぜ.山風">山かせ</w>
+            </seg>
           </l>
         </div>
         <lb/>

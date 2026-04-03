@@ -17390,11 +17390,30 @@
           <note type="詞書" style="margin-top: 2em" target="#n428">すもゝの花</note>
           <lb/>
           <l n="428" xml:id="n428" resp="#紀貫之">
-            <seg>今いくか</seg>
-            <seg>春しなけれは</seg>
-            <seg>うくひすも</seg>
-            <seg>ゝのはなかめて</seg>
-            <seg>思へら也</seg>
+            <seg>
+              <w lemmaRef="#いま.今">今</w>
+              <w lemmaRef="#いくか.幾日">いくか</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はる.春">春</w>
+              <w lemmaRef="#し.し">し</w>
+              <w lemmaRef="#なけれ.無し">なけれ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うぐひす.鴬">うくひす</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#もの.物">ゝの</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#ながめ.眺む">なかめ</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おもふ.思ふ">思</w>
+              <w lemmaRef="#べらなり.べらなり">へら也</w>
+            </seg>
           </l>
         </div>
         <lb/>

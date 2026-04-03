@@ -18354,11 +18354,34 @@
           </note>
           <lb/>
           <l n="454" xml:id="n454" resp="#紀乳母">
-            <seg>いさゝめに</seg>
-            <seg>時まつまにそ</seg>
-            <seg>ひはへぬる</seg>
-            <seg>心はせをは</seg>
-            <seg>人に見えつゝ</seg>
+            <seg>
+              <w lemmaRef="#いささめに.率爾に">いさゝめに</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#とき.時">時</w>
+              <w lemmaRef="#まつ.待つ">まつ</w>
+              <w lemmaRef="#ま.間">ま</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひ.日">ひ</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#へ.経">へ</w>
+              <w lemmaRef="#ぬる.ぬ">ぬる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こころ.心">心</w>
+              <w lemmaRef="#はせ.馳す">はせ</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#みえ.見ゆ">見え</w>
+              <w lemmaRef="#つつ.つつ">つゝ</w>
+            </seg>
           </l>
         </div>
         <lb/>

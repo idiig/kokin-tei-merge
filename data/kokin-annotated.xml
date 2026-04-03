@@ -15723,11 +15723,28 @@
           <pb n="1-49r" facs="#p057"/>
           <lb/>
           <l n="384" xml:id="n384" resp="#紀貫之">
-            <seg>をとは山</seg>
-            <seg>こたかくなきて</seg>
-            <seg>郭公</seg>
-            <seg>君か別を</seg>
-            <seg>惜へら也</seg>
+            <seg>
+              <w lemmaRef="#おとはやま.音羽山">をとは山</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こ.木">こ</w>
+              <w lemmaRef="#たかく.高し">たかく</w>
+              <w lemmaRef="#なき.鳴く">なき</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ほととぎす.郭公">郭公</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#きみ.君">君</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#わかれ.別る">別</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#をしむ.惜しむ">惜</w>
+              <w lemmaRef="#べらなり.べらなり">へら也</w>
+            </seg>
           </l>
         </div>
         <lb/>

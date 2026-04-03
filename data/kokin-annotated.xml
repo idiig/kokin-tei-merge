@@ -19002,11 +19002,30 @@
           </note>
           <lb/>
           <l n="471" xml:id="n471" resp="#紀貫之">
-            <seg>吉野河</seg>
-            <seg>いは浪高く</seg>
-            <seg>行水の</seg>
-            <seg>早そ人を</seg>
-            <seg>思そめてし</seg>
+            <seg>
+              <w lemmaRef="#よしのがは.吉野河">吉野河</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いはなみ.岩波">いは浪</w>
+              <w lemmaRef="#たかく.高し">高く</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ゆく.行く">行</w>
+              <w lemmaRef="#みづ.水">水</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はやく.早し">早</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おもひ.思ふ">思</w>
+              <w lemmaRef="#そめ.染む">そめ</w>
+              <w lemmaRef="#て.つ">て</w>
+              <w lemmaRef="#し.き">し</w>
+            </seg>
           </l>
         </div>
         <lb/>

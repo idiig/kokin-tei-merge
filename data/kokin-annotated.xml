@@ -19257,11 +19257,33 @@
           <pb n="2-2r" facs="#p074"/>
           <lb/>
           <l n="478" xml:id="n478" resp="#壬生忠岑">
-            <seg>春日野ゝ</seg>
-            <seg>雪まをわけて</seg>
-            <seg>おひいてくる</seg>
-            <seg>草のはつかに</seg>
-            <seg>見えし君はも</seg>
+            <seg>
+              <w lemmaRef="#かすがの.春日野">春日野</w>
+              <w lemmaRef="#の.の">ゝ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ゆきま.雪間">雪ま</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#わき.分く">わけ</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おひ.生ふ">おひ</w>
+              <w lemmaRef="#いで.出づ">いて</w>
+              <w lemmaRef="#くる.来">くる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#くさ.草">草</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#はつかに.僅かなり">はつかに</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みえ.見ゆ">見え</w>
+              <w lemmaRef="#し.き">し</w>
+              <w lemmaRef="#きみ.君">君</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
           </l>
         </div>
         <lb/>

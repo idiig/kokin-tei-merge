@@ -17244,11 +17244,33 @@
           </note>
           <lb/>
           <l n="424" xml:id="n424" resp="#在原滋春">
-            <seg>浪のうつ</seg>
-            <seg>せ見れは玉そ</seg>
-            <seg>みたれける</seg>
-            <seg>ひろはゝ袖に</seg>
-            <seg>はかなからむや</seg>
+            <seg>
+              <w lemmaRef="#なみ.浪">浪</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#うつ.打つ">うつ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#せ.瀬">せ</w>
+              <w lemmaRef="#みれ.見る">見れ</w>
+              <w lemmaRef="#ば.ば">は</w>
+              <w lemmaRef="#たま.珠">玉</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みだれ.乱る">みたれ</w>
+              <w lemmaRef="#ける.けり">ける</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひろは.拾ふ">ひろは</w>
+              <w lemmaRef="#ば.ば">ゝ</w>
+              <w lemmaRef="#そで.袖">袖</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はかなから.儚し">はかなから</w>
+              <w lemmaRef="#む.む">む</w>
+              <w lemmaRef="#や.や">や</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -17094,11 +17094,30 @@
           </note>
           <lb/>
           <l n="420" xml:id="n420" resp="#菅原道真">
-            <seg>このたひは</seg>
-            <seg>ぬさもとりあへす</seg>
-            <seg>たむけ山</seg>
-            <seg>紅葉の錦</seg>
-            <seg>神のまに〳〵</seg>
+            <seg>
+              <w lemmaRef="#こ.此">こ</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#たび.旅">たひ</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ぬさ.幣">ぬさ</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#とりあへず.取り敢へず">とりあへす</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たむけやま.手向山">たむけ山</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#もみぢ.紅葉づ">紅葉</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#にしき.錦">錦</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かみ.神">神</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#まにまに.随に">まに〳〵</w>
+            </seg>
           </l>
         </div>
         <lb/>

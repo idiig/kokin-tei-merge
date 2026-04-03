@@ -15574,11 +15574,32 @@
           </note>
           <lb/>
           <l n="380" xml:id="n380" resp="#紀貫之">
-            <seg>しらくもの</seg>
-            <seg>やへにかさなる</seg>
-            <seg>をちにても</seg>
-            <seg>思はむ人に</seg>
-            <seg>心へたつな</seg>
+            <seg>
+              <w lemmaRef="#しらくも.白雲">しらくも</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#やへ.八重">やへ</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#かさなる.重なる">かさなる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#をち.遠方">をち</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おもは.思ふ">思は</w>
+              <w lemmaRef="#む.む">む</w>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こころ.心">心</w>
+              <w lemmaRef="#へだつ.隔つ">へたつ</w>
+              <w lemmaRef="#な.な">な</w>
+            </seg>
           </l>
         </div>
         <lb/>

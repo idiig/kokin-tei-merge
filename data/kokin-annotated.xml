@@ -17597,11 +17597,34 @@
           </l>
           <lb/>
           <l n="434" xml:id="n434" resp="#よみ人知らず">
-            <seg>人めゆへ</seg>
-            <seg>のちにあふひの</seg>
-            <seg>はるけくは</seg>
-            <seg>わかつらきにや</seg>
-            <seg>思なされむ</seg>
+            <seg>
+              <w lemmaRef="#ひとめ.人目">人め</w>
+              <w lemmaRef="#ゆゑ.故">ゆへ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#のち.後">のち</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#あふ.逢ふ">あふ</w>
+              <w lemmaRef="#ひ.日">ひ</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はるけく.遥けし">はるけく</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わ.我">わ</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#つらき.辛し">つらき</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#や.や">や</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おもひ.思ふ">思</w>
+              <w lemmaRef="#なさ.為す">なさ</w>
+              <w lemmaRef="#れ.る">れ</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -15607,11 +15607,33 @@
           <note type="詞書" style="margin-top: 2em" target="#n381">人をわかれける時によみける</note>
           <lb/>
           <l n="381" xml:id="n381" resp="#紀貫之">
-            <seg>別てふ</seg>
-            <seg>方は色にも</seg>
-            <seg>あらなくに</seg>
-            <seg>心にしみて</seg>
-            <seg>わひしかるらむ</seg>
+            <seg>
+              <w lemmaRef="#わかれ.別る">別</w>
+              <w lemmaRef="#てふ.てふ">てふ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こと.事">方</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#いろ.色">色</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あら.有り">あら</w>
+              <w lemmaRef="#な.ず">な</w>
+              <w lemmaRef="#く.く">く</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こころ.心">心</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#しみ.染む">しみ</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わびしかる.侘し">わひしかる</w>
+              <w lemmaRef="#らむ.らむ">らむ</w>
+            </seg>
           </l>
         </div>
         <lb/>

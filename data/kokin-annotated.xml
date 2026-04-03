@@ -15043,11 +15043,33 @@
           </note>
           <lb/>
           <l n="366" xml:id="n366" resp="#よみ人知らず">
-            <seg>すかるなく</seg>
-            <seg>秋のはき原</seg>
-            <seg>あさたちて</seg>
-            <seg>たひ行人を</seg>
-            <seg>いつとかまたむ</seg>
+            <seg>
+              <w lemmaRef="#すがる.蜂">すかる</w>
+              <w lemmaRef="#なく.鳴く">なく</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あき.秋">秋</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#はぎはら.萩原">はき原</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あさ.朝">あさ</w>
+              <w lemmaRef="#たち.立つ">たち</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たび.旅">たひ</w>
+              <w lemmaRef="#ゆく.行く">行</w>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いつ.何時">いつ</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#か.か">か</w>
+              <w lemmaRef="#また.待つ">また</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
           </l>
         </div>
         <lb/>

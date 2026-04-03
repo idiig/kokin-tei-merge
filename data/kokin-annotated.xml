@@ -18396,11 +18396,33 @@
             <persName corresp="#藤原忠房">たゝふさ</persName>かもとに侍ける</note>
           <lb/>
           <l n="455" xml:id="n455" resp="#兵衛">
-            <seg>あちきなし</seg>
-            <seg>なけきなつめそ</seg>
-            <seg>うき事に</seg>
-            <seg>あひくるみをは</seg>
-            <seg>すてぬものから</seg>
+            <seg>
+              <w lemmaRef="#あぢきなし.味気無し">あちきなし</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なげき.嘆く">なけき</w>
+              <w lemmaRef="#な.な">な</w>
+              <w lemmaRef="#つめ.詰む">つめ</w>
+              <w lemmaRef="#そ.そ">そ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うき.憂し">うき</w>
+              <w lemmaRef="#こと.事">事</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あひ.逢ふ">あひ</w>
+              <w lemmaRef="#くる.来">くる</w>
+              <w lemmaRef="#み.身">み</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#すて.捨つ">すて</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+              <w lemmaRef="#もの.物">もの</w>
+              <w lemmaRef="#から.から">から</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -17742,11 +17742,33 @@
           </l>
           <lb/>
           <l n="438" xml:id="n438" resp="#紀友則">
-            <seg>朝露を</seg>
-            <seg>わけそほちつゝ</seg>
-            <seg>花見むと</seg>
-            <seg>今その山を</seg>
-            <seg>みなへしりぬる</seg>
+            <seg>
+              <w lemmaRef="#あさつゆ.朝露">朝露</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わけ.分く">わけ</w>
+              <w lemmaRef="#そぼち.濡つ">そほち</w>
+              <w lemmaRef="#つつ.つつ">つゝ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はな.花">花</w>
+              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#む.む">む</w>
+              <w lemmaRef="#と.と">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いま.今">今</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#のやま.野山">の山</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みな.皆">みな</w>
+              <w lemmaRef="#へ.経">へ</w>
+              <w lemmaRef="#しり.知る">しり</w>
+              <w lemmaRef="#ぬる.ぬ">ぬる</w>
+            </seg>
           </l>
         </div>
         <lb/>

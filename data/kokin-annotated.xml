@@ -16314,11 +16314,33 @@
           </note>
           <lb/>
           <l n="399" xml:id="n399" resp="#凡河内躬恒">
-            <seg>わかるれと</seg>
-            <seg>うれしくもあるか</seg>
-            <seg>こよひより</seg>
-            <seg>あひ見ぬさきに</seg>
-            <seg>なにをこひまし</seg>
+            <seg>
+              <w lemmaRef="#わかるれ.別る">わかるれ</w>
+              <w lemmaRef="#ど.ど">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うれしく.嬉し">うれしく</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#ある.有り">ある</w>
+              <w lemmaRef="#か.か">か</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こよひ.今宵">こよひ</w>
+              <w lemmaRef="#より.より">より</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あひ.逢ふ">あひ</w>
+              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+              <w lemmaRef="#さき.先">さき</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なに.何">なに</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#こひ.恋ふ">こひ</w>
+              <w lemmaRef="#まし.まし">まし</w>
+            </seg>
           </l>
         </div>
         <lb/>

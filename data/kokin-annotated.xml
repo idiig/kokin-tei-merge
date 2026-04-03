@@ -16479,11 +16479,32 @@
           </note>
           <lb/>
           <l n="404" xml:id="n404" resp="#紀貫之">
-            <seg>結手の</seg>
-            <seg>しつくにゝこる</seg>
-            <seg>山の井の</seg>
-            <seg>あかても人に</seg>
-            <seg>別ぬる哉</seg>
+            <seg>
+              <w lemmaRef="#むすぶ.結ぶ">結</w>
+              <w lemmaRef="#て.手">手</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#しづく.滴">しつく</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#にごる.濁る">ゝこる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#やまのゐ.山の井">山の井</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あか.飽く">あか</w>
+              <w lemmaRef="#で.で">て</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わかれ.別る">別</w>
+              <w lemmaRef="#ぬる.ぬ">ぬる</w>
+              <w lemmaRef="#かな.哉">哉</w>
+            </seg>
           </l>
         </div>
         <pb n="1-51v" facs="#p060"/>

@@ -18929,11 +18929,30 @@
           </note>
           <lb/>
           <l n="469" xml:id="n469" resp="#よみ人知らず">
-            <seg>郭公</seg>
-            <seg>なくやさ月の</seg>
-            <seg>あやめくさ</seg>
-            <seg>あやめもしらぬ</seg>
-            <seg>こひもする哉</seg>
+            <seg>
+              <w lemmaRef="#ほととぎす.時鳥">郭公</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なく.鳴く">なく</w>
+              <w lemmaRef="#や.や">や</w>
+              <w lemmaRef="#さつき.五月">さ月</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あやめぐさ.菖蒲草">あやめくさ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あやめ.文目">あやめ</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#しら.知る">しら</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こひ.恋ふ">こひ</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#する.す">する</w>
+              <w lemmaRef="#かな.哉">哉</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -18845,11 +18845,33 @@
           </note>
           <lb/>
           <l n="467" xml:id="n467" resp="#大江千里">
-            <seg>のちまきの</seg>
-            <seg>をくれておふる</seg>
-            <seg>なへなれと</seg>
-            <seg>あたにはならぬ</seg>
-            <seg>たのみとそきく</seg>
+            <seg>
+              <w lemmaRef="#のち.後">のち</w>
+              <w lemmaRef="#まき.蒔く">まき</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おくれ.後る">をくれ</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#おふる.生ふ">おふる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なへ.苗">なへ</w>
+              <w lemmaRef="#なれ.なり">なれ</w>
+              <w lemmaRef="#ど.ど">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あだに.徒なり">あたに</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#なら.成る">なら</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たのみ.頼む">たのみ</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#きく.聞く">きく</w>
+            </seg>
           </l>
         </div>
         <lb/>

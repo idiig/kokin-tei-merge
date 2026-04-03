@@ -15795,11 +15795,34 @@
             <persName corresp="#平元規">元規</persName>蔵人右衛門尉</note>
           <lb/>
           <l n="386" xml:id="n386">
-            <seg>秋きりの</seg>
-            <seg>友に立いてゝ</seg>
-            <seg>別なは</seg>
-            <seg>ゝれぬおもひに</seg>
-            <seg>こひやわたらむ</seg>
+            <seg>
+              <w lemmaRef="#あきぎり.秋霧">秋きり</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#とも.共">友</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#たち.立つ">立</w>
+              <w lemmaRef="#いで.出づ">いて</w>
+              <w lemmaRef="#て.て">ゝ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わかれ.別る">別</w>
+              <w lemmaRef="#な.ぬ">な</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はれ.晴る">ゝれ</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+              <w lemmaRef="#おもひ.思ふ">おもひ</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こひ.恋ふ">こひ</w>
+              <w lemmaRef="#や.や">や</w>
+              <w lemmaRef="#わたら.渡る">わたら</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
           </l>
         </div>
         <lb/>

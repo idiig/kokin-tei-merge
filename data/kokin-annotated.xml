@@ -16922,11 +16922,31 @@
           </note>
           <lb/>
           <l n="415" xml:id="n415" resp="#紀貫之">
-            <seg>いとによる</seg>
-            <seg>物ならなくに</seg>
-            <seg>わかれちの</seg>
-            <seg>心ほそくも</seg>
-            <seg>おもほゆる哉</seg>
+            <seg>
+              <w lemmaRef="#いと.糸">いと</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#よる.撚る">よる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#もの.物">物</w>
+              <w lemmaRef="#なら.なり">なら</w>
+              <w lemmaRef="#な.ず">な</w>
+              <w lemmaRef="#く.く">く</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わかれぢ.別地">わかれち</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こころ.心">心</w>
+              <w lemmaRef="#ほそく.細し">ほそく</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おもほゆる.思ほゆ">おもほゆる</w>
+              <w lemmaRef="#かな.哉">哉</w>
+            </seg>
           </l>
         </div>
         <lb/>

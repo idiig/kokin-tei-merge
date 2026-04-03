@@ -15682,11 +15682,35 @@
           <note type="詞書" style="margin-top: 2em" target="#n383">こしのくにへまかりける人によみてつかはしける</note>
           <lb/>
           <l n="383" xml:id="n383" resp="#凡河内躬恒">
-            <seg>よそにのみ</seg>
-            <seg>こひやわたらむ</seg>
-            <seg>しら山の</seg>
-            <seg>雪見るへくも</seg>
-            <seg>あらぬわか身は</seg>
+            <seg>
+              <w lemmaRef="#よそ.余所">よそ</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#のみ.のみ">のみ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こひ.恋ふ">こひ</w>
+              <w lemmaRef="#や.や">や</w>
+              <w lemmaRef="#わたら.渡る">わたら</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#しらやま.白山">しら山</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ゆき.雪">雪</w>
+              <w lemmaRef="#みる.見る">見る</w>
+              <w lemmaRef="#べく.べし">へく</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あら.有り">あら</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+              <w lemmaRef="#わ.我">わ</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#み.身">身</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -19330,11 +19330,32 @@
           </note>
           <lb/>
           <l n="480" xml:id="n480" resp="#在原元方">
-            <seg>たよりにも</seg>
-            <seg>あらぬおもひの</seg>
-            <seg>あやしきは</seg>
-            <seg>心を人に</seg>
-            <seg>つくるなりけり</seg>
+            <seg>
+              <w lemmaRef="#たより.頼る">たより</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あら.有り">あら</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+              <w lemmaRef="#おもひ.思ふ">おもひ</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あやしき.怪し">あやしき</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こころ.心">心</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#つくる.付く">つくる</w>
+              <w lemmaRef="#なり.なり">なり</w>
+              <w lemmaRef="#けり.けり">けり</w>
+            </seg>
           </l>
         </div>
         <lb/>

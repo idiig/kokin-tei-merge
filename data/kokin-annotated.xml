@@ -15425,11 +15425,30 @@
           <pb n="1-48r" facs="#p056"/>
           <lb/>
           <l n="376" xml:id="n376" resp="#寵">
-            <seg>あさなけに</seg>
-            <seg>見へきゝみとし</seg>
-            <seg>たのまねは</seg>
-            <seg>思立ぬる</seg>
-            <seg>草枕なり</seg>
+            <seg>
+              <w lemmaRef="#あさなけに.朝な日に">あさなけに</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#べき.べし">へき</w>
+              <w lemmaRef="#きみ.君">ゝみ</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#し.し">し</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たのま.頼む">たのま</w>
+              <w lemmaRef="#ね.ず">ね</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おもひ.思ふ">思</w>
+              <w lemmaRef="#たち.立つ">立</w>
+              <w lemmaRef="#ぬる.ぬ">ぬる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#くさまくら.草枕">草枕</w>
+              <w lemmaRef="#なり.なり">なり</w>
+            </seg>
           </l>
         </div>
         <lb/>

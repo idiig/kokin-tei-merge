@@ -16039,11 +16039,34 @@
           </note>
           <lb/>
           <l n="392" xml:id="n392" resp="#遍昭">
-            <seg>ゆふくれの</seg>
-            <seg>まかきは山と</seg>
-            <seg>見えなゝむ</seg>
-            <seg>よるはこえしと</seg>
-            <seg>やとりとるへく</seg>
+            <seg>
+              <w lemmaRef="#ゆふ.夕">ゆふ</w>
+              <w lemmaRef="#くれ.暮る">くれ</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#まがき.籬">まかき</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#やま.山">山</w>
+              <w lemmaRef="#と.と">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みえ.見ゆ">見え</w>
+              <w lemmaRef="#な.ぬ">な</w>
+              <w lemmaRef="#なむ.なむ">ゝむ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#よる.夜">よる</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#こえ.越ゆ">こえ</w>
+              <w lemmaRef="#じ.じ">し</w>
+              <w lemmaRef="#と.と">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#やどり.宿る">やとり</w>
+              <w lemmaRef="#とる.取る">とる</w>
+              <w lemmaRef="#べく.べし">へく</w>
+            </seg>
           </l>
         </div>
         <lb/>

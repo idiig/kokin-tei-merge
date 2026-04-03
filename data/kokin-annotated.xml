@@ -19437,11 +19437,35 @@
           <pb n="2-2v" facs="#p075"/>
           <lb/>
           <l n="483" xml:id="n483" resp="#よみ人知らず">
-            <seg>かたいとを</seg>
-            <seg>こなたかなたに</seg>
-            <seg>よりかけて</seg>
-            <seg>あはすはなにを</seg>
-            <seg>玉の緒にせむ</seg>
+            <seg>
+              <w lemmaRef="#かたいと.片糸">かたいと</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こなた.此方">こなた</w>
+              <w lemmaRef="#かなた.彼方">かなた</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#より.撚る">より</w>
+              <w lemmaRef="#かけ.掛く">かけ</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あは.逢ふ">あは</w>
+              <w lemmaRef="#ず.ず">す</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#なに.何">なに</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たま.玉">玉</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#を.緒">緒</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#せ.す">せ</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
           </l>
         </div>
         <lb/>

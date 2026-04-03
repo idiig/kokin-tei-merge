@@ -16612,11 +16612,31 @@
           </note>
           <lb/>
           <l n="407" xml:id="n407" resp="#小野篁">
-            <seg>わたの原</seg>
-            <seg>やそしまかけて</seg>
-            <seg>こきいてぬと</seg>
-            <seg>人にはつけよ</seg>
-            <seg>あまのつり舟</seg>
+            <seg>
+              <w lemmaRef="#わたのはら.海原">わたの原</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#やそしま.八十島">やそしま</w>
+              <w lemmaRef="#かけ.掛く">かけ</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こぎ.漕ぐ">こき</w>
+              <w lemmaRef="#いで.出づ">いて</w>
+              <w lemmaRef="#ぬ.ぬ">ぬ</w>
+              <w lemmaRef="#と.と">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#つげよ.告ぐ">つけよ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あま.海人">あま</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#つりぶね.釣舟">つり舟</w>
+            </seg>
           </l>
         </div>
         <lb/>

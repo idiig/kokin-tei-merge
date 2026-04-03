@@ -17207,11 +17207,33 @@
           <note type="詞書" style="margin-top: 2em" target="#n423">ほとゝきす</note>
           <lb/>
           <l n="423" xml:id="n423" resp="#藤原敏行">
-            <seg>くへきほと</seg>
-            <seg>ゝきすきぬれや</seg>
-            <seg>まちわひて</seg>
-            <seg>なくなるこゑの</seg>
-            <seg>人をとよむる</seg>
+            <seg>
+              <w lemmaRef="#く.来">く</w>
+              <w lemmaRef="#べき.べし">へき</w>
+              <w lemmaRef="#ほど.程">ほと</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#とき.時">ゝき</w>
+              <w lemmaRef="#すぎ.過ぐ">すき</w>
+              <w lemmaRef="#ぬれ.ぬ">ぬれ</w>
+              <w lemmaRef="#や.や">や</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#まち.待つ">まち</w>
+              <w lemmaRef="#わび.侘ぶ">わひ</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なく.鳴く">なく</w>
+              <w lemmaRef="#なる.なり">なる</w>
+              <w lemmaRef="#こゑ.声">こゑ</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#とよむる.響む">とよむる</w>
+            </seg>
           </l>
         </div>
         <lb/>

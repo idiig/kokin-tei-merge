@@ -17459,11 +17459,33 @@
           </note>
           <lb/>
           <l n="430" xml:id="n430" resp="#小野滋蔭">
-            <seg>葦引の</seg>
-            <seg>山たちはなれ</seg>
-            <seg>ゆくゝもの</seg>
-            <seg>やとりさためぬ</seg>
-            <seg>よにこそ有けれ</seg>
+            <seg>
+              <w lemmaRef="#あし.足">葦</w>
+              <w lemmaRef="#ひき.曳く">引</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#やま.山">山</w>
+              <w lemmaRef="#たち.立つ">たち</w>
+              <w lemmaRef="#はなれ.離る">はなれ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ゆく.行く">ゆく</w>
+              <w lemmaRef="#くも.雲">ゝも</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#やどり.宿る">やとり</w>
+              <w lemmaRef="#さだめ.定む">さため</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#よ.世">よ</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#こそ.こそ">こそ</w>
+              <w lemmaRef="#あり.有り">有</w>
+              <w lemmaRef="#けれ.けり">けれ</w>
+            </seg>
           </l>
         </div>
         <lb/>

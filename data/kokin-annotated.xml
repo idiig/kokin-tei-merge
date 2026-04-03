@@ -19072,11 +19072,31 @@
           </note>
           <lb/>
           <l n="473" xml:id="n473" resp="#在原元方">
-            <seg>をとは山</seg>
-            <seg>をとにきゝつゝ</seg>
-            <seg>相坂の</seg>
-            <seg>関のこなたに</seg>
-            <seg>年をふる哉</seg>
+            <seg>
+              <w lemmaRef="#おとはやま.音羽山">をとは山</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おと.音">をと</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#きき.聞く">きゝ</w>
+              <w lemmaRef="#つつ.つつ">つゝ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あふさか.相坂">相坂</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#せき.関">関</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#こなた.此方">こなた</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#とし.年">年</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#ふる.降る">ふる</w>
+              <w lemmaRef="#かな.哉">哉</w>
+            </seg>
           </l>
         </div>
         <pb n="2-1v" facs="#p074"/>

@@ -19401,11 +19401,31 @@
           </note>
           <lb/>
           <l n="482" xml:id="n482" resp="#紀貫之">
-            <seg>あふことは</seg>
-            <seg>くもゐはるかに</seg>
-            <seg>なる神の</seg>
-            <seg>をとにきゝつゝ</seg>
-            <seg>こひ渡哉</seg>
+            <seg>
+              <w lemmaRef="#あふ.逢ふ">あふ</w>
+              <w lemmaRef="#こと.事">こと</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#くもゐ.雲居">くもゐ</w>
+              <w lemmaRef="#はるかに.遥かなり">はるかに</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なる.鳴る">なる</w>
+              <w lemmaRef="#かみ.神">神</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おと.音">をと</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#きき.聞く">きゝ</w>
+              <w lemmaRef="#つつ.つつ">つゝ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こひ.恋ふ">こひ</w>
+              <w lemmaRef="#わたる.渡る">渡</w>
+              <w lemmaRef="#かな.哉">哉</w>
+            </seg>
           </l>
         </div>
         <lb/>

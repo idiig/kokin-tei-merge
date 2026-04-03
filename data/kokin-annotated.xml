@@ -17818,11 +17818,32 @@
           </note>
           <lb/>
           <l n="440" xml:id="n440" resp="#紀友則">
-            <seg>あきちかう</seg>
-            <seg>のはなりにけり</seg>
-            <seg>白露の</seg>
-            <seg>をける草はも</seg>
-            <seg>色かはり行</seg>
+            <seg>
+              <w lemmaRef="#あき.秋">あき</w>
+              <w lemmaRef="#ちかう.近し">ちかう</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#の.野">の</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#なり.成る">なり</w>
+              <w lemmaRef="#に.ぬ">に</w>
+              <w lemmaRef="#けり.けり">けり</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#しらつゆ.白露">白露</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おけ.置く">をけ</w>
+              <w lemmaRef="#る.り">る</w>
+              <w lemmaRef="#くさば.草葉">草は</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いろ.色">色</w>
+              <w lemmaRef="#かはり.変はる">かはり</w>
+              <w lemmaRef="#ゆく.行く">行</w>
+            </seg>
           </l>
         </div>
         <lb/>

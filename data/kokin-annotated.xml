@@ -18434,11 +18434,31 @@
           </note>
           <lb/>
           <l n="456" xml:id="n456" resp="#安倍清行">
-            <seg>浪のをとの</seg>
-            <seg>けさからことに</seg>
-            <seg>きこゆるは</seg>
-            <seg>春のしらへや</seg>
-            <seg>あらたまるらむ</seg>
+            <seg>
+              <w lemmaRef="#なみ.浪">浪</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#おと.音">をと</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#けさ.今朝">けさ</w>
+              <w lemmaRef="#から.から">から</w>
+              <w lemmaRef="#ことに.異なり">ことに</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#きこゆる.聞こゆ">きこゆる</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はる.春">春</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#しらべ.調ぶ">しらへ</w>
+              <w lemmaRef="#や.や">や</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あらたまる.改まる">あらたまる</w>
+              <w lemmaRef="#らむ.らむ">らむ</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -16443,11 +16443,30 @@
         <lb/>
         <div type="和歌">
           <l n="403" xml:id="n403" resp="#よみ人知らず">
-            <seg>しゐて行</seg>
-            <seg>人をとゝめむ</seg>
-            <seg>さくら花</seg>
-            <seg>いつれを道と</seg>
-            <seg>まとふまてちれ</seg>
+            <seg>
+              <w lemmaRef="#しひて.強ひて">しゐて</w>
+              <w lemmaRef="#ゆく.行く">行</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#とどめ.止む">とゝめ</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#さくらばな.桜花">さくら花</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いづれ.何れ">いつれ</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#みち.道">道</w>
+              <w lemmaRef="#と.と">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#まどふ.惑ふ">まとふ</w>
+              <w lemmaRef="#まで.まで">まて</w>
+              <w lemmaRef="#ちれ.散る">ちれ</w>
+            </seg>
           </l>
         </div>
         <lb/>

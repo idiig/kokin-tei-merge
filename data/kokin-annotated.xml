@@ -18510,11 +18510,33 @@
           </note>
           <lb/>
           <l n="458" xml:id="n458" resp="#阿保経覧">
-            <seg>かの方に</seg>
-            <seg>いつからさきに</seg>
-            <seg>渡りけむ</seg>
-            <seg>浪ちはあとも</seg>
-            <seg>のこらさりけり</seg>
+            <seg>
+              <w lemmaRef="#か.彼">か</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#かた.方">方</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いつ.何時">いつ</w>
+              <w lemmaRef="#から.から">から</w>
+              <w lemmaRef="#さき.先">さき</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わたり.渡る">渡り</w>
+              <w lemmaRef="#けむ.けむ">けむ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なみぢ.浪路">浪ち</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#あと.跡">あと</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#のこら.残る">のこら</w>
+              <w lemmaRef="#ざり.ず">さり</w>
+              <w lemmaRef="#けり.けり">けり</w>
+            </seg>
           </l>
         </div>
         <lb/>

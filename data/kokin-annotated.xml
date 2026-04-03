@@ -16958,11 +16958,32 @@
           </note>
           <lb/>
           <l n="416" xml:id="n416" resp="#凡河内躬恒">
-            <seg>夜をさむみ</seg>
-            <seg>をくはつしもを</seg>
-            <seg>はらひつゝ</seg>
-            <seg>草の枕に</seg>
-            <seg>あまたゝひねぬ</seg>
+            <seg>
+              <w lemmaRef="#よ.夜">夜</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#さむ.寒し">さむ</w>
+              <w lemmaRef="#み.み">み</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おく.置く">をく</w>
+              <w lemmaRef="#はつしも.初霜">はつしも</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はらひ.払ふ">はらひ</w>
+              <w lemmaRef="#つつ.つつ">つゝ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#くさ.草">草</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#まくら.枕">枕</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あまたたび.数多度">あまたゝひ</w>
+              <w lemmaRef="#ね.寝">ね</w>
+              <w lemmaRef="#ぬ.ぬ">ぬ</w>
+            </seg>
           </l>
         </div>
         <lb/>

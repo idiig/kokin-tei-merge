@@ -18619,11 +18619,32 @@
           <note type="詞書" style="margin-top: 2em" target="#n461">よとかは</note>
           <lb/>
           <l n="461" xml:id="n461" resp="#紀貫之">
-            <seg>葦引の</seg>
-            <seg>山へにをれは</seg>
-            <seg>白雲の</seg>
-            <seg>いかにせよとか</seg>
-            <seg>はるゝ時なき</seg>
+            <seg>
+              <w lemmaRef="#あし.足">葦</w>
+              <w lemmaRef="#ひき.曳く">引</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#やまべ.山辺">山へ</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#をれ.居り">をれ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#しらくも.白雲">白雲</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いかに.如何に">いかに</w>
+              <w lemmaRef="#せよ.す">せよ</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#か.か">か</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はるる.晴る">はるゝ</w>
+              <w lemmaRef="#とき.時">時</w>
+              <w lemmaRef="#なき.無し">なき</w>
+            </seg>
           </l>
         </div>
         <lb/>

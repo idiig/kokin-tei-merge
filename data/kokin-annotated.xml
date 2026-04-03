@@ -16001,11 +16001,33 @@
           <pb n="1-50r" facs="#p058"/>
           <lb/>
           <l n="391" xml:id="n391" resp="#藤原兼輔">
-            <seg>君か行</seg>
-            <seg>こしの白山</seg>
-            <seg>しらねとも</seg>
-            <seg>雪のまに〳〵</seg>
-            <seg>あとはたつねむ</seg>
+            <seg>
+              <w lemmaRef="#きみ.君">君</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#ゆく.行く">行</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こし.越">こし</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#しらやま.白山">白山</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#しら.知る">しら</w>
+              <w lemmaRef="#ね.ず">ね</w>
+              <w lemmaRef="#ど.ど">と</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ゆき.雪">雪</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#まにまに.随に">まに〳〵</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あと.跡">あと</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#たづね.尋ぬ">たつね</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
           </l>
         </div>
         <lb/>

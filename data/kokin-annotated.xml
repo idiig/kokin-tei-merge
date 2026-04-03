@@ -16351,11 +16351,32 @@
           </note>
           <lb/>
           <l n="400" xml:id="n400" resp="#よみ人知らず">
-            <seg>あかすして</seg>
-            <seg>わかるゝ袖の</seg>
-            <seg>白玉を</seg>
-            <seg>君かゝたみと</seg>
-            <seg>つゝみてそ行</seg>
+            <seg>
+              <w lemmaRef="#あか.飽く">あか</w>
+              <w lemmaRef="#ず.ず">す</w>
+              <w lemmaRef="#して.して">して</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わかるる.別る">わかるゝ</w>
+              <w lemmaRef="#そで.袖">袖</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#しらたま.白玉">白玉</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#きみ.君">君</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#かたみ.形見">ゝたみ</w>
+              <w lemmaRef="#と.と">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#つつみ.包む">つゝみ</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#ゆく.行く">行</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -18016,11 +18016,37 @@
           </note>
           <lb/>
           <l n="445" xml:id="n445" resp="#文屋康秀">
-            <seg>花の木に</seg>
-            <seg>あらさらめとも</seg>
-            <seg>さきにけり</seg>
-            <seg>ふりにしこの身</seg>
-            <seg>なる時も哉</seg>
+            <seg>
+              <w lemmaRef="#はな.花">花</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#き.木">木</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あら.有り">あら</w>
+              <w lemmaRef="#ざら.ず">さら</w>
+              <w lemmaRef="#め.む">め</w>
+              <w lemmaRef="#ど.ど">と</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#さき.咲く">さき</w>
+              <w lemmaRef="#に.ぬ">に</w>
+              <w lemmaRef="#けり.けり">けり</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ふり.古る">ふり</w>
+              <w lemmaRef="#に.ぬ">に</w>
+              <w lemmaRef="#し.き">し</w>
+              <w lemmaRef="#こ.木">こ</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#み.身">身</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なる.成る">なる</w>
+              <w lemmaRef="#とき.時">時</w>
+              <w lemmaRef="#もがな.もがな">も哉</w>
+            </seg>
           </l>
         </div>
         <lb/>

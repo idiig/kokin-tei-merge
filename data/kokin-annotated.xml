@@ -16762,11 +16762,36 @@
             <lb/>とひけれはこれなむみやことりといひけるをきゝてよめる</note>
           <lb/>
           <l n="411" xml:id="n411" resp="#在原業平">
-            <seg>名にしおはゝ</seg>
-            <seg>いさことゝはむ</seg>
-            <seg>宮ことり</seg>
-            <seg>わか思ふ人は</seg>
-            <seg>有やなしやと</seg>
+            <seg>
+              <w lemmaRef="#な.名">名</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#し.し">し</w>
+              <w lemmaRef="#おは.負ふ">おは</w>
+              <w lemmaRef="#ば.ば">ゝ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いさ.いざ">いさ</w>
+              <w lemmaRef="#こと.言">こと</w>
+              <w lemmaRef="#とは.問ふ">ゝは</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みやこどり.都鳥">宮ことり</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わ.我">わ</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#おもふ.思ふ">思ふ</w>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あり.有り">有</w>
+              <w lemmaRef="#や.や">や</w>
+              <w lemmaRef="#なし.無し">なし</w>
+              <w lemmaRef="#や.や">や</w>
+              <w lemmaRef="#と.と">と</w>
+            </seg>
           </l>
         </div>
         <lb/>

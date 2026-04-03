@@ -19536,11 +19536,34 @@
         <lb/>
         <div type="和歌">
           <l n="486" xml:id="n486" resp="#よみ人知らず">
-            <seg>つれもなき</seg>
-            <seg>人をやねたく</seg>
-            <seg>しらつゆの</seg>
-            <seg>おくとはなけき</seg>
-            <seg>ぬとはしのはむ</seg>
+            <seg>
+              <w lemmaRef="#つれ.連る">つれ</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#なき.無し">なき</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#や.や">や</w>
+              <w lemmaRef="#ねたく.妬し">ねたく</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#しらつゆ.白露">しらつゆ</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おく.置く">おく</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#なげき.嘆く">なけき</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ぬ.寝">ぬ</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#しのば.忍ぶ">しのは</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
           </l>
         </div>
         <lb/>

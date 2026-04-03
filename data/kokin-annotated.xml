@@ -18169,11 +18169,33 @@
           </note>
           <lb/>
           <l n="449" xml:id="n449" resp="#清原深養父">
-            <seg>うはたまの</seg>
-            <seg>夢になにかは</seg>
-            <seg>なくさまむ</seg>
-            <seg>うつゝにたにも</seg>
-            <seg>あかぬ心を</seg>
+            <seg>
+              <w lemmaRef="#うばたま.烏羽玉">うはたま</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ゆめ.夢">夢</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#なに.何">なに</w>
+              <w lemmaRef="#か.か">か</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なぐさま.慰む">なくさま</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うつつ.現">うつゝ</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#だに.だに">たに</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あか.飽く">あか</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+              <w lemmaRef="#こころ.心">心</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
           </l>
         </div>
         <pb n="1-58r" facs="#p066"/>

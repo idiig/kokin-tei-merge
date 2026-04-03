@@ -16272,11 +16272,35 @@
           </note>
           <lb/>
           <l n="398" xml:id="n398">
-            <seg>おしむらむ</seg>
-            <seg>人の心を</seg>
-            <seg>しらぬまに</seg>
-            <seg>秋の時雨と</seg>
-            <seg>身そふりにける</seg>
+            <seg>
+              <w lemmaRef="#をしむ.惜しむ">おしむ</w>
+              <w lemmaRef="#らむ.らむ">らむ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#こころ.心">心</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#しら.知る">しら</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+              <w lemmaRef="#ま.間">ま</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あき.秋">秋</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#しぐれ.時雨る">時雨</w>
+              <w lemmaRef="#と.と">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#み.身">身</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#ふり.古る">ふり</w>
+              <w lemmaRef="#に.ぬ">に</w>
+              <w lemmaRef="#ける.けり">ける</w>
+            </seg>
           </l>
         </div>
         <pb n="1-51r" facs="#p059"/>

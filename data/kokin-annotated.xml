@@ -18884,11 +18884,34 @@
           </note>
           <lb/>
           <l n="468" xml:id="n468" resp="#聖宝">
-            <seg>花のなか</seg>
-            <seg>めにあくやとて</seg>
-            <seg>わけゆけは</seg>
-            <seg>こゝろそともに</seg>
-            <seg>ちりぬへらなる</seg>
+            <seg>
+              <w lemmaRef="#はな.花">花</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#なか.中">なか</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#め.目">め</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#あく.飽く">あく</w>
+              <w lemmaRef="#や.や">や</w>
+              <w lemmaRef="#とて.とて">とて</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わけ.分く">わけ</w>
+              <w lemmaRef="#ゆけ.行く">ゆけ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こころ.心">こゝろ</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#とも.共">とも</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ちり.散る">ちり</w>
+              <w lemmaRef="#ぬ.ぬ">ぬ</w>
+              <w lemmaRef="#べらなる.べらなり">へらなる</w>
+            </seg>
           </l>
         </div>
       </div>

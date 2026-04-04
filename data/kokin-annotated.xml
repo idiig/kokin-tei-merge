@@ -26362,11 +26362,33 @@
           <pb n="2-16v" facs="#p089"/>
           <lb/>
           <l n="682" xml:id="n682" resp="#よみ人知らず">
-            <seg>いしま行</seg>
-            <seg>水の白浪</seg>
-            <seg>立帰</seg>
-            <seg>かくこそは見め</seg>
-            <seg>あかすもあるかな</seg>
+            <seg>
+              <w lemmaRef="#いしま.石間">いしま</w>
+              <w lemmaRef="#ゆく.行く">行</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みづ.水">水</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#しらなみ.白浪">白浪</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たち.立つ">立</w>
+              <w lemmaRef="#かへり.返る">帰</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かく.斯く">かく</w>
+              <w lemmaRef="#こそ.こそ">こそ</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#め.む">め</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あか.飽く">あか</w>
+              <w lemmaRef="#ず.ず">す</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#ある.有り">ある</w>
+              <w lemmaRef="#かな.哉">かな</w>
+            </seg>
           </l>
         </div>
         <lb/>

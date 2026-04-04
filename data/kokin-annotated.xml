@@ -22464,11 +22464,34 @@
           </note>
           <lb/>
           <l n="575" xml:id="n575" resp="#素性法師">
-            <seg>はかなくて</seg>
-            <seg>夢にも人を</seg>
-            <seg>見つる夜は</seg>
-            <seg>朝のとこそ</seg>
-            <seg>おきうかりける</seg>
+            <seg>
+              <w lemmaRef="#はかなく.儚し">はかなく</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ゆめ.夢">夢</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#つる.つ">つる</w>
+              <w lemmaRef="#よ.夜">夜</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あした.朝">朝</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#とこ.床">とこ</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おき.起く">おき</w>
+              <w lemmaRef="#うかり.憂し">うかり</w>
+              <w lemmaRef="#ける.けり">ける</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -26429,11 +26429,31 @@
           </note>
           <lb/>
           <l n="684" xml:id="n684" resp="#紀友則">
-            <seg>春霞</seg>
-            <seg>たなひく山の</seg>
-            <seg>櫻花</seg>
-            <seg>見れともあかぬ</seg>
-            <seg>きみにもある哉</seg>
+            <seg>
+              <w lemmaRef="#はるがすみ.春霞">春霞</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たなびく.棚引く">たなひく</w>
+              <w lemmaRef="#やま.山">山</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#さくらばな.桜花">櫻花</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みれ.見る">見れ</w>
+              <w lemmaRef="#ど.ど">と</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#あか.飽く">あか</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#きみ.君">きみ</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#ある.有り">ある</w>
+              <w lemmaRef="#かな.哉">哉</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -23498,11 +23498,34 @@
           </note>
           <lb/>
           <l n="604" xml:id="n604" resp="#紀貫之">
-            <seg>つのくにの</seg>
-            <seg>なにはのあしの</seg>
-            <seg>めもはるに</seg>
-            <seg>しけきわかこひ</seg>
-            <seg>人しるらめや</seg>
+            <seg>
+              <w lemmaRef="#つのくに.津の国">つのくに</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なには.難波">なには</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#あし.葦">あし</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#め.芽">め</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#はる.張る">はる</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#しげき.繁し">しけき</w>
+              <w lemmaRef="#わ.我">わ</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#こひ.恋ふ">こひ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#しる.知る">しる</w>
+              <w lemmaRef="#らめ.らむ">らめ</w>
+              <w lemmaRef="#や.や">や</w>
+            </seg>
           </l>
         </div>
         <pb n="2-9v" facs="#p082"/>

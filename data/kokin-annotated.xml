@@ -21666,11 +21666,35 @@
           </note>
           <lb/>
           <l n="552" xml:id="n552" resp="#小野小町">
-            <seg>思つゝ</seg>
-            <seg>ぬれはや人の</seg>
-            <seg>見えつ覧</seg>
-            <seg>夢としりせは</seg>
-            <seg>さめさらましを</seg>
+            <seg>
+              <w lemmaRef="#おもひ.思ふ">思</w>
+              <w lemmaRef="#つつ.つつ">つゝ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ぬれ.寝">ぬれ</w>
+              <w lemmaRef="#ば.ば">は</w>
+              <w lemmaRef="#や.や">や</w>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みえ.見ゆ">見え</w>
+              <w lemmaRef="#つ.つ">つ</w>
+              <w lemmaRef="#らむ.らむ">覧</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ゆめ.夢">夢</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#しり.知る">しり</w>
+              <w lemmaRef="#せ.き">せ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#さめ.覚む">さめ</w>
+              <w lemmaRef="#ざら.ず">さら</w>
+              <w lemmaRef="#まし.まし">まし</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
           </l>
         </div>
         <lb/>

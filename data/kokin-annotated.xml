@@ -21392,11 +21392,31 @@
         <lb/>
         <div type="和歌">
           <l n="544" xml:id="n544" resp="#よみ人知らず">
-            <seg>夏虫の</seg>
-            <seg>身をいたつらに</seg>
-            <seg>なすことも</seg>
-            <seg>ひとつ思ひに</seg>
-            <seg>よりてなりけり</seg>
+            <seg>
+              <w lemmaRef="#なつむし.夏虫">夏虫</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#み.身">身</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#いたづらに.徒なり">いたつらに</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なす.為す">なす</w>
+              <w lemmaRef="#こと.事">こと</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひとつ.一つ">ひとつ</w>
+              <w lemmaRef="#おもひ.思ふ">思ひ</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#より.因る">より</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#なり.なり">なり</w>
+              <w lemmaRef="#けり.けり">けり</w>
+            </seg>
           </l>
         </div>
         <lb/>

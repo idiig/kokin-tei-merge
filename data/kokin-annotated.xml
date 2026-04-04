@@ -26678,11 +26678,34 @@
           </note>
           <lb/>
           <l n="691" xml:id="n691" resp="#素性法師">
-            <seg>今こむと</seg>
-            <seg>いひし許に</seg>
-            <seg>長月の</seg>
-            <seg>ありあけの月を</seg>
-            <seg>まちいてつる哉</seg>
+            <seg>
+              <w lemmaRef="#いま.今">今</w>
+              <w lemmaRef="#こ.来">こ</w>
+              <w lemmaRef="#む.む">む</w>
+              <w lemmaRef="#と.と">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いひ.言ふ">いひ</w>
+              <w lemmaRef="#し.き">し</w>
+              <w lemmaRef="#ばかり.許り">許</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ながつき.長月">長月</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ありあけ.有明">ありあけ</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#つき.月">月</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#まち.待つ">まち</w>
+              <w lemmaRef="#いで.出づ">いて</w>
+              <w lemmaRef="#つる.つ">つる</w>
+              <w lemmaRef="#かな.哉">哉</w>
+            </seg>
           </l>
         </div>
         <lb/>

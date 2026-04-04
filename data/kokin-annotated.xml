@@ -22647,11 +22647,33 @@
           </note>
           <lb/>
           <l n="580" xml:id="n580" resp="#凡河内躬恒">
-            <seg>秋きりの</seg>
-            <seg>はるゝ時なき</seg>
-            <seg>心には</seg>
-            <seg>たちゐのそらも</seg>
-            <seg>おもほえなくに</seg>
+            <seg>
+              <w lemmaRef="#あきぎり.秋霧">秋きり</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はるる.晴る">はるゝ</w>
+              <w lemmaRef="#とき.時">時</w>
+              <w lemmaRef="#なき.無し">なき</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こころ.心">心</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たち.立つ">たち</w>
+              <w lemmaRef="#ゐ.居る">ゐ</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#そら.空">そら</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おもほえ.思ほゆ">おもほえ</w>
+              <w lemmaRef="#な.ず">な</w>
+              <w lemmaRef="#く.く">く</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
           </l>
         </div>
         <lb/>

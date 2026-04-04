@@ -22428,11 +22428,32 @@
         <lb/>
         <div type="和歌">
           <l n="574" xml:id="n574" resp="#紀貫之">
-            <seg>夢ちにも</seg>
-            <seg>つゆやをく覧</seg>
-            <seg>よもすから</seg>
-            <seg>かよへるそての</seg>
-            <seg>ひちてかはかぬ</seg>
+            <seg>
+              <w lemmaRef="#ゆめぢ.夢路">夢ち</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#つゆ.露">つゆ</w>
+              <w lemmaRef="#や.や">や</w>
+              <w lemmaRef="#おく.置く">をく</w>
+              <w lemmaRef="#らむ.らむ">覧</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#よもすがら.終夜">よもすから</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かよへ.通ふ">かよへ</w>
+              <w lemmaRef="#る.り">る</w>
+              <w lemmaRef="#そで.袖">そて</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひち.漬つ">ひち</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#かわか.乾く">かはか</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+            </seg>
           </l>
         </div>
         <lb/>

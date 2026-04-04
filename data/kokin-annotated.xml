@@ -23712,11 +23712,32 @@
           </note>
           <lb/>
           <l n="610" xml:id="n610" resp="#春道列樹">
-            <seg>梓弓</seg>
-            <seg>ひけはもとすゑ</seg>
-            <seg>わか方に</seg>
-            <seg>よるこそまされ</seg>
-            <seg>こひの心は</seg>
+            <seg>
+              <w lemmaRef="#あづさゆみ.梓弓">梓弓</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひけ.引く">ひけ</w>
+              <w lemmaRef="#ば.ば">は</w>
+              <w lemmaRef="#もと.本">もと</w>
+              <w lemmaRef="#すゑ.末">すゑ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わ.我">わ</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#かた.方">方</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#よる.夜">よる</w>
+              <w lemmaRef="#こそ.こそ">こそ</w>
+              <w lemmaRef="#まされ.増さる">まされ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こひ.恋ふ">こひ</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#こころ.心">心</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -21808,11 +21808,34 @@
           </note>
           <lb/>
           <l n="556" xml:id="n556" resp="#安倍清行">
-            <seg>つゝめとも</seg>
-            <seg>袖にたまらぬ</seg>
-            <seg>白玉は</seg>
-            <seg>人を見ぬめの</seg>
-            <seg>涙なりけり</seg>
+            <seg>
+              <w lemmaRef="#つつめ.包む">つゝめ</w>
+              <w lemmaRef="#ど.ど">と</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#そで.袖">袖</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#たまら.溜る">たまら</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#しらたま.白玉">白玉</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+              <w lemmaRef="#め.目">め</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なみだ.涙">涙</w>
+              <w lemmaRef="#なり.なり">なり</w>
+              <w lemmaRef="#けり.けり">けり</w>
+            </seg>
           </l>
         </div>
         <pb n="2-6r" facs="#p078"/>

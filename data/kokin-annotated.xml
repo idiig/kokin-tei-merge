@@ -25513,11 +25513,32 @@
           <pb n="2-14v" facs="#p087"/>
           <lb/>
           <l n="659" xml:id="n659" resp="#よみ人知らず">
-            <seg>思へとも</seg>
-            <seg>人めつゝみの</seg>
-            <seg>高けれは</seg>
-            <seg>河と見なから</seg>
-            <seg>えこそわたらね</seg>
+            <seg>
+              <w lemmaRef="#おもへ.思ふ">思へ</w>
+              <w lemmaRef="#ど.ど">と</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひとめ.人目">人め</w>
+              <w lemmaRef="#つつみ.堤">つゝみ</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たかけれ.高し">高けれ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かは.河">河</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#ながら.ながら">なから</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#え.得">え</w>
+              <w lemmaRef="#こそ.こそ">こそ</w>
+              <w lemmaRef="#わたら.渡る">わたら</w>
+              <w lemmaRef="#ね.ず">ね</w>
+            </seg>
           </l>
         </div>
         <lb/>

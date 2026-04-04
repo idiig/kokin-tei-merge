@@ -24687,11 +24687,34 @@
           </note>
           <lb/>
           <l n="636" xml:id="n636" resp="#凡河内躬恒">
-            <seg>長しとも</seg>
-            <seg>思そはてぬ</seg>
-            <seg>昔より</seg>
-            <seg>あふ人からの</seg>
-            <seg>秋のよなれは</seg>
+            <seg>
+              <w lemmaRef="#ながし.長し">長し</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おもひ.思ふ">思</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#はて.果つ">はて</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#むかし.昔">昔</w>
+              <w lemmaRef="#より.より">より</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あふ.逢ふ">あふ</w>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#から.から">から</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あき.秋">秋</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#よ.夜">よ</w>
+              <w lemmaRef="#なれ.なり">なれ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
           </l>
         </div>
         <lb/>

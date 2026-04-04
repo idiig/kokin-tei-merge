@@ -23782,11 +23782,31 @@
         <lb/>
         <div type="和歌">
           <l n="612" xml:id="n612" resp="#凡河内躬恒">
-            <seg>我のみそ</seg>
-            <seg>悲かりける</seg>
-            <seg>ひこほしも</seg>
-            <seg>あはてすくせる</seg>
-            <seg>年しなけれは</seg>
+            <seg>
+              <w lemmaRef="#われ.我">我</w>
+              <w lemmaRef="#のみ.のみ">のみ</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かなしかり.悲し">悲かり</w>
+              <w lemmaRef="#ける.けり">ける</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひこぼし.彦星">ひこほし</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あは.逢ふ">あは</w>
+              <w lemmaRef="#で.で">て</w>
+              <w lemmaRef="#すぐせ.過ぐす">すくせ</w>
+              <w lemmaRef="#る.り">る</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#とし.年">年</w>
+              <w lemmaRef="#し.し">し</w>
+              <w lemmaRef="#なけれ.無し">なけれ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -20224,11 +20224,33 @@
         <lb/>
         <div type="和歌">
           <l n="507" xml:id="n507" resp="#よみ人知らず">
-            <seg>思ふとも</seg>
-            <seg>こふともあはむ</seg>
-            <seg>物なれや</seg>
-            <seg>ゆふてもたゆく</seg>
-            <seg>とくるしたひも</seg>
+            <seg>
+              <w lemmaRef="#おもふ.思ふ">思ふ</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こふ.恋ふ">こふ</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#あは.逢ふ">あは</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#もの.物">物</w>
+              <w lemmaRef="#なれ.なり">なれ</w>
+              <w lemmaRef="#や.や">や</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ゆふ.結ふ">ゆふ</w>
+              <w lemmaRef="#て.手">て</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#たゆく.弛し">たゆく</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#とくる.解く">とくる</w>
+              <w lemmaRef="#したひも.下紐">したひも</w>
+            </seg>
           </l>
         </div>
         <lb/>

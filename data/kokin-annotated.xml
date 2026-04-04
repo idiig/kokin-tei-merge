@@ -26606,11 +26606,31 @@
           <note type="詞書" style="margin-top: 2em" target="#n689 #n690 #n691 #n692 #n693 #n694 #n695 #n696 #n697 #n698 #n699 #n700 #n701 #n702 #n703 #n704">題しらす</note>
           <lb/>
           <l n="689" xml:id="n689" resp="#よみ人知らず">
-            <seg>さむしろに</seg>
-            <seg>衣かたしき</seg>
-            <seg>こよひもや</seg>
-            <seg>我を松らむ</seg>
-            <seg>うちの橋姫</seg>
+            <seg>
+              <w lemmaRef="#さむしろ.狭筵">さむしろ</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ころも.衣">衣</w>
+              <w lemmaRef="#かた.片">かた</w>
+              <w lemmaRef="#しき.敷く">しき</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こよひ.今宵">こよひ</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#や.や">や</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#われ.我">我</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#まつ.待つ">松</w>
+              <w lemmaRef="#らむ.らむ">らむ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うぢ.宇治">うち</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#はしひめ.橋姫">橋姫</w>
+            </seg>
           </l>
           <lb/>
           <note type="左注" style="margin-top: 3em" target="#n689">又はうちのたまひめ</note>

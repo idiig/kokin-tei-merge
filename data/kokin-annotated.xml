@@ -21732,11 +21732,31 @@
         <lb/>
         <div type="和歌">
           <l n="554" xml:id="n554" resp="#小野小町">
-            <seg>いとせめて</seg>
-            <seg>戀しき時は</seg>
-            <seg>むはたまの</seg>
-            <seg>夜の衣を</seg>
-            <seg>返してそきる</seg>
+            <seg>
+              <w lemmaRef="#いと.いと">いと</w>
+              <w lemmaRef="#せめて.責めて">せめて</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こひしき.恋し">戀しき</w>
+              <w lemmaRef="#とき.時">時</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#むばたま.烏羽玉">むはたま</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#よる.夜">夜</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#ころも.衣">衣</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かへし.返す">返し</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#きる.着る">きる</w>
+            </seg>
           </l>
         </div>
         <lb/>

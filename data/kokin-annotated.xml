@@ -24610,11 +24610,31 @@
           </note>
           <lb/>
           <l n="634" xml:id="n634" resp="#よみ人知らず">
-            <seg>こひ〳〵て</seg>
-            <seg>まれにこよひそ</seg>
-            <seg>相坂の</seg>
-            <seg>ゆふつけ鳥は</seg>
-            <seg>なかすもあら南</seg>
+            <seg>
+              <w lemmaRef="#こひ.恋ふ">こひ</w>
+              <w lemmaRef="#こひ.恋ふ">〳〵</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#まれに.稀なり">まれに</w>
+              <w lemmaRef="#こよひ.今宵">こよひ</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あふさか.相坂">相坂</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ゆふつけどり.木綿付鳥">ゆふつけ鳥</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なか.鳴く">なか</w>
+              <w lemmaRef="#ず.ず">す</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#あら.有り">あら</w>
+              <w lemmaRef="#なむ.なむ">南</w>
+            </seg>
           </l>
         </div>
         <pb n="2-12v" facs="#p085"/>

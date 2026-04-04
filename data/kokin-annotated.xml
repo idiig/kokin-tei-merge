@@ -24349,11 +24349,32 @@
           </note>
           <lb/>
           <l n="627" xml:id="n627" resp="#よみ人知らず">
-            <seg>かねてより</seg>
-            <seg>風にさきたつ</seg>
-            <seg>浪なれや</seg>
-            <seg>逢事なきに</seg>
-            <seg>またき立らむ</seg>
+            <seg>
+              <w lemmaRef="#かねて.予て">かねて</w>
+              <w lemmaRef="#より.より">より</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かぜ.風">風</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#さき.先">さき</w>
+              <w lemmaRef="#たつ.立つ">たつ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なみ.浪">浪</w>
+              <w lemmaRef="#なれ.なり">なれ</w>
+              <w lemmaRef="#や.や">や</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あふ.逢ふ">逢</w>
+              <w lemmaRef="#こと.事">事</w>
+              <w lemmaRef="#なき.無し">なき</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#まだき.夙">またき</w>
+              <w lemmaRef="#たつ.立つ">立</w>
+              <w lemmaRef="#らむ.らむ">らむ</w>
+            </seg>
           </l>
         </div>
         <lb/>

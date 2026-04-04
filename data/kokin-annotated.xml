@@ -21952,11 +21952,34 @@
           </note>
           <lb/>
           <l n="560" xml:id="n560" resp="#小野美材">
-            <seg>わかこひは</seg>
-            <seg>み山かくれの</seg>
-            <seg>草なれや</seg>
-            <seg>しけさまされと</seg>
-            <seg>しる人のなき</seg>
+            <seg>
+              <w lemmaRef="#わ.我">わ</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#こひ.恋ふ">こひ</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みやま.深山">み山</w>
+              <w lemmaRef="#かくれ.隠る">かくれ</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#くさ.草">草</w>
+              <w lemmaRef="#なれ.なり">なれ</w>
+              <w lemmaRef="#や.や">や</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#しげ.繁し">しけ</w>
+              <w lemmaRef="#さ.さ">さ</w>
+              <w lemmaRef="#まされ.増さる">まされ</w>
+              <w lemmaRef="#ど.ど">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#しる.知る">しる</w>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#なき.無し">なき</w>
+            </seg>
           </l>
         </div>
         <lb/>

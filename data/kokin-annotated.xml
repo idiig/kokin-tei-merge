@@ -22613,11 +22613,30 @@
           </note>
           <lb/>
           <l n="579" xml:id="n579" resp="#紀貫之">
-            <seg>さ月山</seg>
-            <seg>こすゑを高み</seg>
-            <seg>郭公</seg>
-            <seg>なくねそらなる</seg>
-            <seg>こひもする哉</seg>
+            <seg>
+              <w lemmaRef="#さつきやま.五月山">さ月山</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こずゑ.梢">こすゑ</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#たか.高し">高</w>
+              <w lemmaRef="#み.み">み</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ほととぎす.時鳥">郭公</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なく.鳴く">なく</w>
+              <w lemmaRef="#ね.音">ね</w>
+              <w lemmaRef="#そら.空">そら</w>
+              <w lemmaRef="#なる.なり">なる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こひ.恋ふ">こひ</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#する.す">する</w>
+              <w lemmaRef="#かな.哉">哉</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -26570,11 +26570,34 @@
             <persName corresp="#宇多天皇">寛平御時</persName>きさいの宮の哥合のうた</note>
           <lb/>
           <l n="688" xml:id="n688" resp="#よみ人知らず">
-            <seg>思ふてふ</seg>
-            <seg>事のはのみや</seg>
-            <seg>秋をへて</seg>
-            <seg>色もかはらぬ</seg>
-            <seg>物にはある覧</seg>
+            <seg>
+              <w lemmaRef="#おもふ.思ふ">思ふ</w>
+              <w lemmaRef="#てふ.てふ">てふ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ことのは.言の葉">事のは</w>
+              <w lemmaRef="#のみ.のみ">のみ</w>
+              <w lemmaRef="#や.や">や</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あき.秋">秋</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#へ.経">へ</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いろ.色">色</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#かはら.変はる">かはら</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#もの.物">物</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#ある.有り">ある</w>
+              <w lemmaRef="#らむ.らむ">覧</w>
+            </seg>
           </l>
         </div>
         <pb n="2-17r" facs="#p089"/>

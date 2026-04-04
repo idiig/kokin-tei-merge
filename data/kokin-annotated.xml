@@ -22760,11 +22760,34 @@
           </note>
           <lb/>
           <l n="583" xml:id="n583" resp="#紀貫之">
-            <seg>あきのゝに</seg>
-            <seg>みたれてさける</seg>
-            <seg>花の色の</seg>
-            <seg>ちくさに物を</seg>
-            <seg>思ころ哉</seg>
+            <seg>
+              <w lemmaRef="#あき.秋">あき</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#の.野">ゝ</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みだれ.乱る">みたれ</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#さけ.咲く">さけ</w>
+              <w lemmaRef="#る.り">る</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はな.花">花</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#いろ.色">色</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ちぐさに.千種なり">ちくさに</w>
+              <w lemmaRef="#もの.物">物</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おもふ.思ふ">思</w>
+              <w lemmaRef="#ころ.頃">ころ</w>
+              <w lemmaRef="#かな.哉">哉</w>
+            </seg>
           </l>
         </div>
         <lb/>

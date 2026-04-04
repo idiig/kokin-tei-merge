@@ -24116,11 +24116,35 @@
         <lb/>
         <div type="和歌">
           <l n="621" xml:id="n621" resp="#よみ人知らず">
-            <seg>あはぬ夜の</seg>
-            <seg>ふる白雪と</seg>
-            <seg>つもりなは</seg>
-            <seg>我さへともに</seg>
-            <seg>けぬへきものを</seg>
+            <seg>
+              <w lemmaRef="#あは.逢ふ">あは</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+              <w lemmaRef="#よ.夜">夜</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ふる.降る">ふる</w>
+              <w lemmaRef="#しらゆき.白雪">白雪</w>
+              <w lemmaRef="#と.と">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#つもり.積もる">つもり</w>
+              <w lemmaRef="#な.ぬ">な</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#われ.我">我</w>
+              <w lemmaRef="#さへ.さへ">さへ</w>
+              <w lemmaRef="#とも.共">とも</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#け.消ゆ">け</w>
+              <w lemmaRef="#ぬ.ぬ">ぬ</w>
+              <w lemmaRef="#べき.べし">へき</w>
+              <w lemmaRef="#もの.物">もの</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
           </l>
           <lb/>
           <note type="左注" style="margin-top: 3em" target="#n621">この哥はある人のいはく

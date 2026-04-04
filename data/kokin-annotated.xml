@@ -22684,11 +22684,34 @@
           </note>
           <lb/>
           <l n="581" xml:id="n581" resp="#清原深養父">
-            <seg>虫のこと</seg>
-            <seg>こゑにたてゝは</seg>
-            <seg>なかねとも</seg>
-            <seg>涙のみこそ</seg>
-            <seg>したになかるれ</seg>
+            <seg>
+              <w lemmaRef="#むし.虫">虫</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#ごと.如">こと</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こゑ.声">こゑ</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#たて.立つ">たて</w>
+              <w lemmaRef="#て.て">ゝ</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なか.泣く">なか</w>
+              <w lemmaRef="#ね.ず">ね</w>
+              <w lemmaRef="#ど.ど">と</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なみだ.涙">涙</w>
+              <w lemmaRef="#のみ.のみ">のみ</w>
+              <w lemmaRef="#こそ.こそ">こそ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#した.下">した</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#ながるれ.流る">なかるれ</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -20953,11 +20953,32 @@
         <lb/>
         <div type="和歌">
           <l n="530" xml:id="n530" resp="#よみ人知らず">
-            <seg>篝火の</seg>
-            <seg>影となる身の</seg>
-            <seg>わひしきは</seg>
-            <seg>流てしたに</seg>
-            <seg>もゆるなりけり</seg>
+            <seg>
+              <w lemmaRef="#かがりび.篝火">篝火</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かげ.影">影</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#なる.成る">なる</w>
+              <w lemmaRef="#み.身">身</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わびしき.侘し">わひしき</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ながれ.流る">流</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#した.下">した</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#もゆる.燃ゆ">もゆる</w>
+              <w lemmaRef="#なり.なり">なり</w>
+              <w lemmaRef="#けり.けり">けり</w>
+            </seg>
           </l>
         </div>
         <pb n="2-4v" facs="#p077"/>

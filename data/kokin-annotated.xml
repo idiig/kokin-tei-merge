@@ -26716,11 +26716,37 @@
           </note>
           <lb/>
           <l n="692" xml:id="n692" resp="#よみ人知らず">
-            <seg>月夜よし</seg>
-            <seg>よゝしと人に</seg>
-            <seg>つけやらは</seg>
-            <seg>こてふにゝたり</seg>
-            <seg>またすしもあらす</seg>
+            <seg>
+              <w lemmaRef="#つきよ.月夜">月夜</w>
+              <w lemmaRef="#よし.良し">よし</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#よ.夜">よ</w>
+              <w lemmaRef="#よし.良し">ゝし</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#つげ.告ぐ">つけ</w>
+              <w lemmaRef="#やら.遣る">やら</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こ.来">こ</w>
+              <w lemmaRef="#てふ.てふ">てふ</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#に.似る">ゝ</w>
+              <w lemmaRef="#たり.たり">たり</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#また.待つ">また</w>
+              <w lemmaRef="#ず.ず">す</w>
+              <w lemmaRef="#し.し">し</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#あら.有り">あら</w>
+              <w lemmaRef="#ず.ず">す</w>
+            </seg>
           </l>
         </div>
         <lb/>

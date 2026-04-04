@@ -20094,11 +20094,35 @@
         <lb/>
         <div type="和歌">
           <l n="503" xml:id="n503" resp="#よみ人知らず">
-            <seg>思ふには</seg>
-            <seg>忍る事そ</seg>
-            <seg>まけにける</seg>
-            <seg>色にはいてしと</seg>
-            <seg>おもひし物を</seg>
+            <seg>
+              <w lemmaRef="#おもふ.思ふ">思ふ</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#しのぶる.忍ぶ">忍る</w>
+              <w lemmaRef="#こと.事">事</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#まけ.負く">まけ</w>
+              <w lemmaRef="#に.ぬ">に</w>
+              <w lemmaRef="#ける.けり">ける</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いろ.色">色</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#いで.出づ">いて</w>
+              <w lemmaRef="#じ.じ">し</w>
+              <w lemmaRef="#と.と">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おもひ.思ふ">おもひ</w>
+              <w lemmaRef="#し.き">し</w>
+              <w lemmaRef="#もの.物">物</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
           </l>
         </div>
         <lb/>

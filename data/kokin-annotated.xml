@@ -20379,11 +20379,38 @@
         <lb/>
         <div type="和歌">
           <l n="512" xml:id="n512" resp="#よみ人知らず">
-            <seg>たねしあれは</seg>
-            <seg>いはにも松は</seg>
-            <seg>おひにけり</seg>
-            <seg>戀をしこひは</seg>
-            <seg>あはさらめやも</seg>
+            <seg>
+              <w lemmaRef="#たね.種">たね</w>
+              <w lemmaRef="#し.し">し</w>
+              <w lemmaRef="#あれ.有り">あれ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いは.岩">いは</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#まつ.松">松</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おひ.生ふ">おひ</w>
+              <w lemmaRef="#に.ぬ">に</w>
+              <w lemmaRef="#けり.けり">けり</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こひ.恋ふ">戀</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#し.し">し</w>
+              <w lemmaRef="#こひ.恋ふ">こひ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あは.逢ふ">あは</w>
+              <w lemmaRef="#ざら.ず">さら</w>
+              <w lemmaRef="#め.む">め</w>
+              <w lemmaRef="#や.や">や</w>
+              <w lemmaRef="#は.は">も</w>
+            </seg>
           </l>
         </div>
         <lb/>

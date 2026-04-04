@@ -25694,11 +25694,35 @@
           </note>
           <lb/>
           <l n="664" xml:id="n664" resp="#よみ人知らず">
-            <seg>山しなの</seg>
-            <seg>をとはの山の</seg>
-            <seg>をとにたに</seg>
-            <seg>人のしるへく</seg>
-            <seg>わかこひめかも</seg>
+            <seg>
+              <w lemmaRef="#やましな.山科">山しな</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おとは.音羽">をとは</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#やま.山">山</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おと.音">をと</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#だに.だに">たに</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#しる.知る">しる</w>
+              <w lemmaRef="#べく.べし">へく</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わ.我">わ</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#こひ.恋ふ">こひ</w>
+              <w lemmaRef="#め.む">め</w>
+              <w lemmaRef="#か.か">か</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
           </l>
           <lb/>
           <note type="左注" style="margin-top: 3em" target="#n664">この哥ある人

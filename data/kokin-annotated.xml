@@ -25959,11 +25959,33 @@
           </note>
           <lb/>
           <l n="671" xml:id="n671" resp="#よみ人知らず">
-            <seg>風ふけは</seg>
-            <seg>浪打岸の</seg>
-            <seg>松なれや</seg>
-            <seg>ねにあらはれて</seg>
-            <seg>なきぬへら也</seg>
+            <seg>
+              <w lemmaRef="#かぜ.風">風</w>
+              <w lemmaRef="#ふけ.吹く">ふけ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なみ.浪">浪</w>
+              <w lemmaRef="#うつ.打つ">打</w>
+              <w lemmaRef="#きし.岸">岸</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#まつ.松">松</w>
+              <w lemmaRef="#なれ.なり">なれ</w>
+              <w lemmaRef="#や.や">や</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ね.音">ね</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#あらはれ.現はる">あらはれ</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なき.泣く">なき</w>
+              <w lemmaRef="#ぬ.ぬ">ぬ</w>
+              <w lemmaRef="#べらなり.べらなり">へら也</w>
+            </seg>
           </l>
           <pb n="2-15v" facs="#p088"/>
           <lb/>

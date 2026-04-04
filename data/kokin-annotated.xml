@@ -25848,11 +25848,34 @@
         <lb/>
         <div type="和歌">
           <l n="668" xml:id="n668" resp="#紀友則">
-            <seg>わかこひを</seg>
-            <seg>しのひかねては</seg>
-            <seg>あしひきの</seg>
-            <seg>山橘の</seg>
-            <seg>色にいてぬへし</seg>
+            <seg>
+              <w lemmaRef="#わ.我">わ</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#こひ.恋ふ">こひ</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#しのび.忍ぶ">しのひ</w>
+              <w lemmaRef="#かね.兼ぬ">かね</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あし.足">あし</w>
+              <w lemmaRef="#ひき.曳く">ひき</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#やまたちばな.山橘">山橘</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いろ.色">色</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#いで.出づ">いて</w>
+              <w lemmaRef="#ぬ.ぬ">ぬ</w>
+              <w lemmaRef="#べし.べし">へし</w>
+            </seg>
           </l>
         </div>
         <lb/>

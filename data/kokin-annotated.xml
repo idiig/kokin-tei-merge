@@ -22942,11 +22942,32 @@
           <note type="詞書" style="margin-top: 2em" target="#n588">やまとに侍ける人につかはしける</note>
           <lb/>
           <l n="588" xml:id="n588" resp="#紀貫之">
-            <seg>こえぬまは</seg>
-            <seg>よしのゝ山の</seg>
-            <seg>さくら花</seg>
-            <seg>人つてにのみ</seg>
-            <seg>きゝ渡哉</seg>
+            <seg>
+              <w lemmaRef="#こえ.越ゆ">こえ</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+              <w lemmaRef="#ま.間">ま</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#よしの.吉野">よしの</w>
+              <w lemmaRef="#の.の">ゝ</w>
+              <w lemmaRef="#やま.山">山</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#さくらばな.桜花">さくら花</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#つて.伝つ">つて</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#のみ.のみ">のみ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#きき.聞く">きゝ</w>
+              <w lemmaRef="#わたる.渡る">渡</w>
+              <w lemmaRef="#かな.哉">哉</w>
+            </seg>
           </l>
         </div>
         <lb/>

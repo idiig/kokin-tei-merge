@@ -26284,11 +26284,36 @@
           </note>
           <lb/>
           <l n="680" xml:id="n680" resp="#藤原忠行">
-            <seg>君といへは</seg>
-            <seg>見まれ見すまれ</seg>
-            <seg>ふしのねの</seg>
-            <seg>めつらしけなく</seg>
-            <seg>もゆるわかこひ</seg>
+            <seg>
+              <w lemmaRef="#きみ.君">君</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#いへ.言ふ">いへ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#まれ.まれ">まれ</w>
+              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#ず.ず">す</w>
+              <w lemmaRef="#まれ.まれ">まれ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ふじ.富士">ふし</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#ね.嶺">ね</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#めづらし.珍し">めつらし</w>
+              <w lemmaRef="#げ.げ">け</w>
+              <w lemmaRef="#なく.無し">なく</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#もゆる.燃ゆ">もゆる</w>
+              <w lemmaRef="#わ.我">わ</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#こひ.恋ふ">こひ</w>
+            </seg>
           </l>
         </div>
         <lb/>

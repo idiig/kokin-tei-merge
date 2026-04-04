@@ -25019,11 +25019,36 @@
           </note>
           <lb/>
           <l n="645" xml:id="n645" resp="#よみ人知らず">
-            <seg>きみやこし</seg>
-            <seg>我や雪釼</seg>
-            <seg>おもほえす</seg>
-            <seg>夢かうつゝか</seg>
-            <seg>ねてかさめてか</seg>
+            <seg>
+              <w lemmaRef="#きみ.君">きみ</w>
+              <w lemmaRef="#や.や">や</w>
+              <w lemmaRef="#こ.来">こ</w>
+              <w lemmaRef="#し.き">し</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#われ.我">我</w>
+              <w lemmaRef="#や.や">や</w>
+              <w lemmaRef="#ゆき.行く">雪</w>
+              <w lemmaRef="#けむ.けむ">釼</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おもほえ.思ほゆ">おもほえ</w>
+              <w lemmaRef="#ず.ず">す</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ゆめ.夢">夢</w>
+              <w lemmaRef="#か.か">か</w>
+              <w lemmaRef="#うつつ.現">うつゝ</w>
+              <w lemmaRef="#か.か">か</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ね.寝">ね</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#か.か">か</w>
+              <w lemmaRef="#さめ.覚む">さめ</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#か.か">か</w>
+            </seg>
           </l>
         </div>
         <lb/>

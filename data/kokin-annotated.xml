@@ -25296,11 +25296,32 @@
           <pb n="2-14r" facs="#p086"/>
           <lb/>
           <l n="653" xml:id="n653" resp="#小野春風">
-            <seg>花すゝき</seg>
-            <seg>ほにいてゝこひは</seg>
-            <seg>なをゝしみ</seg>
-            <seg>したゆふひもの</seg>
-            <seg>むすほゝれつゝ</seg>
+            <seg>
+              <w lemmaRef="#はなすすき.花薄">花すゝき</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ほ.穂">ほ</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#いで.出づ">いて</w>
+              <w lemmaRef="#て.て">ゝ</w>
+              <w lemmaRef="#こひ.恋ふ">こひ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#な.名">な</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#をしみ.惜しむ">ゝしみ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#した.下">した</w>
+              <w lemmaRef="#ゆふ.結ふ">ゆふ</w>
+              <w lemmaRef="#ひも.紐">ひも</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#むすぼほれ.結ぼほる">むすほゝれ</w>
+              <w lemmaRef="#つつ.つつ">つゝ</w>
+            </seg>
           </l>
         </div>
         <lb/>

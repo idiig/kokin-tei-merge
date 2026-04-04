@@ -22085,11 +22085,33 @@
         <lb/>
         <div type="和歌">
           <l n="564" xml:id="n564" resp="#紀友則">
-            <seg>わかやとの</seg>
-            <seg>菊のかきねに</seg>
-            <seg>をくしもの</seg>
-            <seg>きえかへりてそ</seg>
-            <seg>こひしかりける</seg>
+            <seg>
+              <w lemmaRef="#わ.我">わ</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#やど.宿">やと</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#きく.菊">菊</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#かきね.垣根">かきね</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おく.置く">をく</w>
+              <w lemmaRef="#しも.霜">しも</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#きえ.消ゆ">きえ</w>
+              <w lemmaRef="#かへり.返る">かへり</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こひしかり.恋し">こひしかり</w>
+              <w lemmaRef="#ける.けり">ける</w>
+            </seg>
           </l>
         </div>
         <lb/>

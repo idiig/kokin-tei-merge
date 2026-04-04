@@ -22193,11 +22193,32 @@
           </note>
           <lb/>
           <l n="567" xml:id="n567" resp="#藤原興風">
-            <seg>君こふる</seg>
-            <seg>涙のとこに</seg>
-            <seg>みちぬれは</seg>
-            <seg>みをつくしとそ</seg>
-            <seg>我はなりける</seg>
+            <seg>
+              <w lemmaRef="#きみ.君">君</w>
+              <w lemmaRef="#こふる.恋ふ">こふる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なみだ.涙">涙</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#とこ.床">とこ</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みち.満つ">みち</w>
+              <w lemmaRef="#ぬれ.ぬ">ぬれ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みをつくし.澪標">みをつくし</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#われ.我">我</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#なり.成る">なり</w>
+              <w lemmaRef="#ぬる.ぬ">ける</w>
+            </seg>
           </l>
         </div>
         <lb/>

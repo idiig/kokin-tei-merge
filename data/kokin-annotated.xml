@@ -24977,11 +24977,33 @@
           </note>
           <lb/>
           <l n="644" xml:id="n644" resp="#在原業平">
-            <seg>ねぬるよの</seg>
-            <seg>ゆめをはかなみ</seg>
-            <seg>まとろめは</seg>
-            <seg>いやはかなにも</seg>
-            <seg>なりまさる哉</seg>
+            <seg>
+              <w lemmaRef="#ね.寝">ね</w>
+              <w lemmaRef="#ぬる.ぬ">ぬる</w>
+              <w lemmaRef="#よ.夜">よ</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ゆめ.夢">ゆめ</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#はかな.儚し">はかな</w>
+              <w lemmaRef="#み.み">み</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#まどろめ.微睡む">まとろめ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いや.弥">いや</w>
+              <w lemmaRef="#はかな.儚し">はかな</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なり.成る">なり</w>
+              <w lemmaRef="#まさる.増さる">まさる</w>
+              <w lemmaRef="#かな.哉">哉</w>
+            </seg>
           </l>
         </div>
         <lb/>

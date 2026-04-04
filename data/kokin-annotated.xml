@@ -22876,11 +22876,30 @@
           </note>
           <lb/>
           <l n="586" xml:id="n586" resp="#壬生忠岑">
-            <seg>秋風に</seg>
-            <seg>かきなすことの</seg>
-            <seg>こゑにさへ</seg>
-            <seg>はかなく人の</seg>
-            <seg>こひしかるらむ</seg>
+            <seg>
+              <w lemmaRef="#あきかぜ.秋風">秋風</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かき.掻く">かき</w>
+              <w lemmaRef="#なす.鳴す">なす</w>
+              <w lemmaRef="#こと.琴">こと</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こゑ.声">こゑ</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#さへ.さへ">さへ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はかなく.儚し">はかなく</w>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こひしかる.恋し">こひしかる</w>
+              <w lemmaRef="#らむ.らむ">らむ</w>
+            </seg>
           </l>
         </div>
         <lb/>

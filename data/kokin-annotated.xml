@@ -26818,11 +26818,30 @@
         <lb/>
         <div type="和歌">
           <l n="695" xml:id="n695" resp="#よみ人知らず">
-            <seg>あなこひし</seg>
-            <seg>今も見てしか</seg>
-            <seg>山かつの</seg>
-            <seg>かきほにさける</seg>
-            <seg>山となてしこ</seg>
+            <seg>
+              <w lemmaRef="#あな.あな">あな</w>
+              <w lemmaRef="#こひし.恋し">こひし</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いま.今">今</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#て.つ">て</w>
+              <w lemmaRef="#しか.き">しか</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#やまがつ.山賤">山かつ</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かきほ.垣穂">かきほ</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#さけ.咲く">さけ</w>
+              <w lemmaRef="#る.り">る</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#やまとなでしこ.大和撫子">山となてしこ</w>
+            </seg>
           </l>
         </div>
         <lb/>

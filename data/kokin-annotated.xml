@@ -25923,11 +25923,32 @@
           </note>
           <lb/>
           <l n="670" xml:id="n670" resp="#平貞文">
-            <seg>枕より</seg>
-            <seg>又しる人も</seg>
-            <seg>なきこひを</seg>
-            <seg>涙せきあへす</seg>
-            <seg>もらしつる哉</seg>
+            <seg>
+              <w lemmaRef="#まくら.枕">枕</w>
+              <w lemmaRef="#より.より">より</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#また.又">又</w>
+              <w lemmaRef="#しる.知る">しる</w>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なき.無し">なき</w>
+              <w lemmaRef="#こひ.恋ふ">こひ</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なみだ.涙">涙</w>
+              <w lemmaRef="#せき.堰く">せき</w>
+              <w lemmaRef="#あへ.敢ふ">あへ</w>
+              <w lemmaRef="#ず.ず">す</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#もらし.漏らす">もらし</w>
+              <w lemmaRef="#つる.つ">つる</w>
+              <w lemmaRef="#かな.哉">哉</w>
+            </seg>
           </l>
         </div>
         <lb/>

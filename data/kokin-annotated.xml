@@ -20506,11 +20506,33 @@
         <lb/>
         <div type="和歌">
           <l n="516" xml:id="n516" resp="#よみ人知らず">
-            <seg>よゐ〳〵に</seg>
-            <seg>枕さためむ</seg>
-            <seg>方もなし</seg>
-            <seg>いかにねしよか</seg>
-            <seg>ゆめに見えけむ</seg>
+            <seg>
+              <w lemmaRef="#よひよひ.宵宵">よゐ〳〵</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#まくら.枕">枕</w>
+              <w lemmaRef="#さだめ.定む">さため</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かた.方">方</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#なし.無し">なし</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いかに.如何に">いかに</w>
+              <w lemmaRef="#ね.寝">ね</w>
+              <w lemmaRef="#し.き">し</w>
+              <w lemmaRef="#よ.夜">よ</w>
+              <w lemmaRef="#か.か">か</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ゆめ.夢">ゆめ</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#みえ.見ゆ">見え</w>
+              <w lemmaRef="#けむ.けむ">けむ</w>
+            </seg>
           </l>
         </div>
         <lb/>

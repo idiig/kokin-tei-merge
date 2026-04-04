@@ -25775,11 +25775,36 @@
           </note>
           <lb/>
           <l n="666" xml:id="n666" resp="#平貞文">
-            <seg>白河の</seg>
-            <seg>しらすともいはし</seg>
-            <seg>そこきよみ</seg>
-            <seg>流てよゝに</seg>
-            <seg>すまむと思へは</seg>
+            <seg>
+              <w lemmaRef="#しらかは.白河">白河</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#しら.知る">しら</w>
+              <w lemmaRef="#ず.ず">す</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#いは.言ふ">いは</w>
+              <w lemmaRef="#じ.じ">し</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#そこ.底">そこ</w>
+              <w lemmaRef="#きよ.清し">きよ</w>
+              <w lemmaRef="#み.み">み</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ながれ.流る">流</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#よよ.世世">よゝ</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#すま.澄む">すま</w>
+              <w lemmaRef="#む.む">む</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#おもへ.思ふ">思へ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
           </l>
         </div>
         <lb/>

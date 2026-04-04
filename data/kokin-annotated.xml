@@ -23321,11 +23321,30 @@
         <lb/>
         <div type="和歌">
           <l n="599" xml:id="n599" resp="#紀貫之">
-            <seg>白玉と</seg>
-            <seg>見えし涙も</seg>
-            <seg>年ふれは</seg>
-            <seg>から紅に</seg>
-            <seg>うつろひにけり</seg>
+            <seg>
+              <w lemmaRef="#しらたま.白玉">白玉</w>
+              <w lemmaRef="#と.と">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みえ.見ゆ">見え</w>
+              <w lemmaRef="#し.き">し</w>
+              <w lemmaRef="#なみだ.涙">涙</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#とし.年">年</w>
+              <w lemmaRef="#ふれ.経">ふれ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#からくれなゐ.唐紅">から紅</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うつろひ.移ろふ">うつろひ</w>
+              <w lemmaRef="#に.ぬ">に</w>
+              <w lemmaRef="#けり.けり">けり</w>
+            </seg>
           </l>
         </div>
         <lb/>

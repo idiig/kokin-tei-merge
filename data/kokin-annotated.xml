@@ -23015,11 +23015,34 @@
           </note>
           <lb/>
           <l n="590" xml:id="n590" resp="#坂上是則">
-            <seg>わかこひに</seg>
-            <seg>くらふの山の</seg>
-            <seg>さくら花</seg>
-            <seg>まなくちるとも</seg>
-            <seg>かすはまさらし</seg>
+            <seg>
+              <w lemmaRef="#わ.我">わ</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#こひ.恋ふ">こひ</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#くらぶ.暗部">くらふ</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#やま.山">山</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#さくらばな.桜花">さくら花</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ま.間">ま</w>
+              <w lemmaRef="#なく.無し">なく</w>
+              <w lemmaRef="#ちる.散る">ちる</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かず.数">かす</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#まさら.増さる">まさら</w>
+              <w lemmaRef="#じ.じ">し</w>
+            </seg>
           </l>
         </div>
         <lb/>

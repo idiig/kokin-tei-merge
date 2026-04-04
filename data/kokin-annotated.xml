@@ -21329,11 +21329,32 @@
         <lb/>
         <div type="和歌">
           <l n="542" xml:id="n542" resp="#よみ人知らず">
-            <seg>春たては</seg>
-            <seg>きゆる氷の</seg>
-            <seg>ゝこりなく</seg>
-            <seg>君か心は</seg>
-            <seg>我にとけ南</seg>
+            <seg>
+              <w lemmaRef="#はる.春">春</w>
+              <w lemmaRef="#たて.立つ">たて</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#きゆる.消ゆ">きゆる</w>
+              <w lemmaRef="#こほり.氷">氷</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#のこり.残る">ゝこり</w>
+              <w lemmaRef="#なく.無し">なく</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#きみ.君">君</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#こころ.心">心</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#われ.我">我</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#とけ.解く">とけ</w>
+              <w lemmaRef="#なむ.なむ">南</w>
+            </seg>
           </l>
         </div>
         <pb n="2-5r" facs="#p077"/>

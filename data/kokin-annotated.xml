@@ -24537,11 +24537,33 @@
           </note>
           <lb/>
           <l n="632" xml:id="n632" resp="#在原業平">
-            <seg>ひとしれぬ</seg>
-            <seg>わかゝよひちの</seg>
-            <seg>せきもりは</seg>
-            <seg>よひ〳〵ことに</seg>
-            <seg>うちもねななむ</seg>
+            <seg>
+              <w lemmaRef="#ひと.人">ひと</w>
+              <w lemmaRef="#しれ.知る">しれ</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わ.我">わ</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#かよひぢ.通ひ路">ゝよひち</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#せきもり.関守">せきもり</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#よひよひ.宵宵">よひ〳〵</w>
+              <w lemmaRef="#ごと.毎">こと</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うち.打つ">うち</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#ね.寝">ね</w>
+              <w lemmaRef="#な.ぬ">な</w>
+              <w lemmaRef="#なむ.なむ">なむ</w>
+            </seg>
           </l>
         </div>
         <lb/>

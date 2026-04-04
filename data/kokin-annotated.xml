@@ -23158,11 +23158,30 @@
         <lb/>
         <div type="和歌">
           <l n="594" xml:id="n594" resp="#紀友則">
-            <seg>あつまちの</seg>
-            <seg>さやの中山</seg>
-            <seg>中〳〵に</seg>
-            <seg>なにしか人を</seg>
-            <seg>思そめけむ</seg>
+            <seg>
+              <w lemmaRef="#あづまぢ.東路">あつまち</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#さや.小夜">さや</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#なかやま.中山">中山</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なかなかに.中中なり">中〳〵に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なに.何">なに</w>
+              <w lemmaRef="#し.し">し</w>
+              <w lemmaRef="#か.か">か</w>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おもひ.思ふ">思</w>
+              <w lemmaRef="#そめ.染む">そめ</w>
+              <w lemmaRef="#けむ.けむ">けむ</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -22799,11 +22799,35 @@
           <pb n="2-8r" facs="#p080"/>
           <lb/>
           <l n="584" xml:id="n584" resp="#凡河内躬恒">
-            <seg>ひとりして</seg>
-            <seg>物を思へは</seg>
-            <seg>秋の田の</seg>
-            <seg>いなはのそよと</seg>
-            <seg>いふ人のなき</seg>
+            <seg>
+              <w lemmaRef="#ひとり.一人">ひとり</w>
+              <w lemmaRef="#して.して">して</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#もの.物">物</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#おもへ.思ふ">思へ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あき.秋">秋</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#よ.夜">田</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いなば.稲葉">いなは</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#そ.其">そ</w>
+              <w lemmaRef="#よ.よ">よ</w>
+              <w lemmaRef="#と.と">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いふ.言ふ">いふ</w>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#なき.無し">なき</w>
+            </seg>
           </l>
         </div>
         <lb/>

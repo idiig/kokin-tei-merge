@@ -26498,11 +26498,32 @@
           </note>
           <lb/>
           <l n="686" xml:id="n686" resp="#凡河内躬恒">
-            <seg>かれはてむ</seg>
-            <seg>後をはしらて</seg>
-            <seg>夏草の</seg>
-            <seg>深くも人の</seg>
-            <seg>おもほゆる哉</seg>
+            <seg>
+              <w lemmaRef="#かれ.枯る">かれ</w>
+              <w lemmaRef="#はて.果つ">はて</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#のち.後">後</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#ば.ば">は</w>
+              <w lemmaRef="#しら.知る">しら</w>
+              <w lemmaRef="#で.で">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なつくさ.夏草">夏草</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ふかく.深し">深く</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おもほゆる.思ほゆ">おもほゆる</w>
+              <w lemmaRef="#かな.哉">哉</w>
+            </seg>
           </l>
         </div>
         <lb/>

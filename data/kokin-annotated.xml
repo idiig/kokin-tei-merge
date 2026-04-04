@@ -24757,11 +24757,32 @@
           </note>
           <lb/>
           <l n="638" xml:id="n638" resp="#藤原国経">
-            <seg>あけぬとて</seg>
-            <seg>今はの心</seg>
-            <seg>つくからに</seg>
-            <seg>なといひしらぬ</seg>
-            <seg>思ひそふらむ</seg>
+            <seg>
+              <w lemmaRef="#あけ.明く">あけ</w>
+              <w lemmaRef="#ぬ.ぬ">ぬ</w>
+              <w lemmaRef="#とて.とて">とて</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いま.今">今</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#こころ.心">心</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#つく.付く">つく</w>
+              <w lemmaRef="#からに.からに">からに</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#など.何故">なと</w>
+              <w lemmaRef="#いひ.言ふ">いひ</w>
+              <w lemmaRef="#しら.知る">しら</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おもひ.思ふ">思ひ</w>
+              <w lemmaRef="#そふ.添ふ">そふ</w>
+              <w lemmaRef="#らむ.らむ">らむ</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -24493,11 +24493,35 @@
           <pb n="2-12r" facs="#p084"/>
           <lb/>
           <l n="631" xml:id="n631" resp="#よみ人知らず">
-            <seg>こりすまに</seg>
-            <seg>又もなきなは</seg>
-            <seg>立ぬへし</seg>
-            <seg>人にくからぬ</seg>
-            <seg>世にしすまへは</seg>
+            <seg>
+              <w lemmaRef="#こり.懲る">こり</w>
+              <w lemmaRef="#ず.ず">す</w>
+              <w lemmaRef="#ま.ま">ま</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#また.又">又</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#なきな.無き名">なきな</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たち.立つ">立</w>
+              <w lemmaRef="#ぬ.ぬ">ぬ</w>
+              <w lemmaRef="#べし.べし">へし</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#にくから.憎し">にくから</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#よ.世">世</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#し.し">し</w>
+              <w lemmaRef="#すまふ.住まふ">すまへ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
           </l>
         </div>
         <lb/>

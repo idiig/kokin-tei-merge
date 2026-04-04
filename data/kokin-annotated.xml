@@ -24312,11 +24312,33 @@
           </note>
           <lb/>
           <l n="626" xml:id="n626" resp="#在原元方">
-            <seg>逢事の</seg>
-            <seg>なきさにしよる</seg>
-            <seg>浪なれは</seg>
-            <seg>浦見てのみそ</seg>
-            <seg>立帰ける</seg>
+            <seg>
+              <w lemmaRef="#あふ.逢ふ">逢</w>
+              <w lemmaRef="#こと.事">事</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なぎさ.渚">なきさ</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#し.し">し</w>
+              <w lemmaRef="#よる.寄る">よる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なみ.浪">浪</w>
+              <w lemmaRef="#なれ.なり">なれ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うらみ.恨む">浦見</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#のみ.のみ">のみ</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たち.立つ">立</w>
+              <w lemmaRef="#かへり.帰る">帰</w>
+              <w lemmaRef="#ける.けり">ける</w>
+            </seg>
           </l>
         </div>
         <lb/>

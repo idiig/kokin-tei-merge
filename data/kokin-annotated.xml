@@ -22502,11 +22502,30 @@
           </note>
           <lb/>
           <l n="576" xml:id="n576" resp="#藤原忠房">
-            <seg>いつはりの</seg>
-            <seg>涙なりせは</seg>
-            <seg>唐衣</seg>
-            <seg>しの日に袖は</seg>
-            <seg>しほらさらまし</seg>
+            <seg>
+              <w lemmaRef="#いつはり.偽る">いつはり</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なみだ.涙">涙</w>
+              <w lemmaRef="#なり.なり">なり</w>
+              <w lemmaRef="#せ.き">せ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#からころも.唐衣">唐衣</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#しのび.忍ぶ">しの日</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#そで.袖">袖</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#しぼら.絞る">しほら</w>
+              <w lemmaRef="#ざら.ず">さら</w>
+              <w lemmaRef="#まし.まし">まし</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -25582,11 +25582,34 @@
           </note>
           <lb/>
           <l n="661" xml:id="n661" resp="#紀友則">
-            <seg>紅の</seg>
-            <seg>色にはいてし</seg>
-            <seg>かくれぬの</seg>
-            <seg>したにかよひて</seg>
-            <seg>こひはしぬとも</seg>
+            <seg>
+              <w lemmaRef="#くれなゐ.紅">紅</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いろ.色">色</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#いで.出づ">いて</w>
+              <w lemmaRef="#じ.じ">し</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かくれぬ.隠れ沼">かくれぬ</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#した.下">した</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#かよひ.通ふ">かよひ</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こひ.恋ふ">こひ</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#しぬ.死ぬ">しぬ</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
           </l>
         </div>
         <lb/>

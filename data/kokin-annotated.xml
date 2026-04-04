@@ -23532,11 +23532,34 @@
         <lb/>
         <div type="和歌">
           <l n="605" xml:id="n605" resp="#紀貫之">
-            <seg>手もふれて</seg>
-            <seg>月日へにける</seg>
-            <seg>しらまゆみ</seg>
-            <seg>おきふしよるは</seg>
-            <seg>いこそねられね</seg>
+            <seg>
+              <w lemmaRef="#て.手">手</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#ふれ.触る">ふれ</w>
+              <w lemmaRef="#で.で">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#つきひ.月日">月日</w>
+              <w lemmaRef="#へ.経">へ</w>
+              <w lemmaRef="#に.ぬ">に</w>
+              <w lemmaRef="#ける.けり">ける</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#しらまゆみ.白檀弓">しらまゆみ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おき.起く">おき</w>
+              <w lemmaRef="#ふし.伏す">ふし</w>
+              <w lemmaRef="#よる.夜">よる</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#い.寝">い</w>
+              <w lemmaRef="#こそ.こそ">こそ</w>
+              <w lemmaRef="#ね.寝">ね</w>
+              <w lemmaRef="#られ.らる">られ</w>
+              <w lemmaRef="#ね.ず">ね</w>
+            </seg>
           </l>
         </div>
         <lb/>

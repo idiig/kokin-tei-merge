@@ -21700,11 +21700,33 @@
         <lb/>
         <div type="和歌">
           <l n="553" xml:id="n553" resp="#小野小町">
-            <seg>うたゝねに</seg>
-            <seg>こひしき人を</seg>
-            <seg>見てしより</seg>
-            <seg>夢てふ物は</seg>
-            <seg>たのみそめてき</seg>
+            <seg>
+              <w lemmaRef="#うたたね.うたた寝">うたゝね</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こひしき.恋し">こひしき</w>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#て.つ">て</w>
+              <w lemmaRef="#し.き">し</w>
+              <w lemmaRef="#より.より">より</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ゆめ.夢">夢</w>
+              <w lemmaRef="#てふ.てふ">てふ</w>
+              <w lemmaRef="#もの.物">物</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たのみ.頼む">たのみ</w>
+              <w lemmaRef="#そめ.染む">そめ</w>
+              <w lemmaRef="#て.つ">て</w>
+              <w lemmaRef="#き.き">き</w>
+            </seg>
           </l>
         </div>
         <lb/>

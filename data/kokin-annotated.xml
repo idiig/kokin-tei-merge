@@ -22296,11 +22296,33 @@
           </note>
           <lb/>
           <l n="570" xml:id="n570" resp="#よみ人知らず">
-            <seg>わりなくも</seg>
-            <seg>ねてもさめても</seg>
-            <seg>こひしきか</seg>
-            <seg>心をいつち</seg>
-            <seg>やらはわすれむ</seg>
+            <seg>
+              <w lemmaRef="#わりなく.理無し">わりなく</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ね.寝">ね</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#さめ.覚む">さめ</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こひしき.恋し">こひしき</w>
+              <w lemmaRef="#か.か">か</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こころ.心">心</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#いづち.何方">いつち</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#やら.遣る">やら</w>
+              <w lemmaRef="#ば.ば">は</w>
+              <w lemmaRef="#わすれ.忘る">わすれ</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
           </l>
         </div>
         <lb/>

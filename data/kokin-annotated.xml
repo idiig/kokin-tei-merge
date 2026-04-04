@@ -24646,11 +24646,37 @@
           </note>
           <lb/>
           <l n="635" xml:id="n635" resp="#小野小町">
-            <seg>秋のよも</seg>
-            <seg>なのみなりけり</seg>
-            <seg>あふといへは</seg>
-            <seg>ことそともなく</seg>
-            <seg>あけぬるものを</seg>
+            <seg>
+              <w lemmaRef="#あき.秋">秋</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#よ.夜">よ</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#な.名">な</w>
+              <w lemmaRef="#のみ.のみ">のみ</w>
+              <w lemmaRef="#なり.なり">なり</w>
+              <w lemmaRef="#けり.けり">けり</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あふ.逢ふ">あふ</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#いへ.言ふ">いへ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こと.事">こと</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#なく.無し">なく</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あけ.明く">あけ</w>
+              <w lemmaRef="#ぬる.ぬ">ぬる</w>
+              <w lemmaRef="#もの.物">もの</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
           </l>
         </div>
         <lb/>

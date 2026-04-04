@@ -25094,11 +25094,30 @@
           </note>
           <lb/>
           <l n="647" xml:id="n647" resp="#よみ人知らず">
-            <seg>むはたまの</seg>
-            <seg>やみのうつゝは</seg>
-            <seg>さたかなる</seg>
-            <seg>夢にいくらも</seg>
-            <seg>まさらさりけり</seg>
+            <seg>
+              <w lemmaRef="#むばたま.烏羽玉">むはたま</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#やみ.闇">やみ</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#うつつ.現">うつゝ</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#さだかなる.定かなり">さたかなる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ゆめ.夢">夢</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#いくら.幾ら">いくら</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#まさら.増さる">まさら</w>
+              <w lemmaRef="#ざり.ず">さり</w>
+              <w lemmaRef="#けり.けり">けり</w>
+            </seg>
           </l>
         </div>
         <lb/>

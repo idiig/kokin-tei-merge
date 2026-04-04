@@ -24279,11 +24279,29 @@
           <pb n="2-11v" facs="#p084"/>
           <lb/>
           <l n="625" xml:id="n625" resp="#壬生忠岑">
-            <seg>有あけの</seg>
-            <seg>つれなく見えし</seg>
-            <seg>別より</seg>
-            <seg>暁許</seg>
-            <seg>うき物はなし</seg>
+            <seg>
+              <w lemmaRef="#ありあけ.晨明">有あけ</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#つれなく.連れ無し">つれなく</w>
+              <w lemmaRef="#みえ.見ゆ">見え</w>
+              <w lemmaRef="#し.き">し</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わかれ.別る">別</w>
+              <w lemmaRef="#より.より">より</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あかつき.暁">暁</w>
+              <w lemmaRef="#ばかり.許り">許</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うき.憂し">うき</w>
+              <w lemmaRef="#もの.物">物</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#なし.無し">なし</w>
+            </seg>
           </l>
         </div>
         <lb/>

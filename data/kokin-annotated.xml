@@ -21454,11 +21454,32 @@
         <lb/>
         <div type="和歌">
           <l n="546" xml:id="n546" resp="#よみ人知らず">
-            <seg>いつとても</seg>
-            <seg>こひしからすは</seg>
-            <seg>あらねとも</seg>
-            <seg>秋の夕は</seg>
-            <seg>あやしかりけり</seg>
+            <seg>
+              <w lemmaRef="#いつ.何時">いつ</w>
+              <w lemmaRef="#とて.とて">とて</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こひしから.恋し">こひしから</w>
+              <w lemmaRef="#ず.ず">す</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あら.有り">あら</w>
+              <w lemmaRef="#ね.ず">ね</w>
+              <w lemmaRef="#ど.ど">と</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あき.秋">秋</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#ゆふべ.夕べ">夕</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あやしかり.怪し">あやしかり</w>
+              <w lemmaRef="#けり.けり">けり</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -26919,11 +26919,34 @@
           </note>
           <lb/>
           <l n="698" xml:id="n698" resp="#清原深養父">
-            <seg>こひしとは</seg>
-            <seg>たかなつけゝむ</seg>
-            <seg>事ならむ</seg>
-            <seg>しぬとそたゝに</seg>
-            <seg>いふへかりける</seg>
+            <seg>
+              <w lemmaRef="#こひし.恋し">こひし</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#た.誰">た</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#な.名">な</w>
+              <w lemmaRef="#つけ.付く">つけ</w>
+              <w lemmaRef="#けむ.けむ">ゝむ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こと.事">事</w>
+              <w lemmaRef="#なら.なり">なら</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#しぬ.死ぬ">しぬ</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#ただに.唯に">たゝに</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いふ.言ふ">いふ</w>
+              <w lemmaRef="#べかり.べし">へかり</w>
+              <w lemmaRef="#ける.けり">ける</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -25653,11 +25653,37 @@
         <lb/>
         <div type="和歌">
           <l n="663" xml:id="n663" resp="#凡河内躬恒">
-            <seg>さゝのはに</seg>
-            <seg>をくはつしもの</seg>
-            <seg>夜をさむみ</seg>
-            <seg>しみはつくとも</seg>
-            <seg>色にいてめやは</seg>
+            <seg>
+              <w lemmaRef="#ささ.笹">さゝ</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おく.置く">をく</w>
+              <w lemmaRef="#はつしも.初霜">はつしも</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#よ.夜">夜</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#さむ.寒し">さむ</w>
+              <w lemmaRef="#み.み">み</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#しみ.凍む">しみ</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#つく.付く">つく</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いろ.色">色</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#いで.出づ">いて</w>
+              <w lemmaRef="#め.む">め</w>
+              <w lemmaRef="#や.や">やは</w>
+            </seg>
           </l>
         </div>
         <lb/>

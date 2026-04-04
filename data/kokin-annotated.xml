@@ -23390,11 +23390,31 @@
           </note>
           <lb/>
           <l n="601" xml:id="n601" resp="#壬生忠岑">
-            <seg>風ふけは</seg>
-            <seg>峯にわかるゝ</seg>
-            <seg>白雲の</seg>
-            <seg>たえてつれなき</seg>
-            <seg>君か心か</seg>
+            <seg>
+              <w lemmaRef="#かぜ.風">風</w>
+              <w lemmaRef="#ふけ.吹く">ふけ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みね.峰">峯</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#わかるる.別る">わかるゝ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#しらくも.白雲">白雲</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たえ.絶ゆ">たえ</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#つれなき.連れ無し">つれなき</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#きみ.君">君</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#こころ.心">心</w>
+              <w lemmaRef="#か.か">か</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -21205,11 +21205,32 @@
         <lb/>
         <div type="和歌">
           <l n="538" xml:id="n538" resp="#よみ人知らず">
-            <seg>うき草の</seg>
-            <seg>うへはしけれる</seg>
-            <seg>ふちなれや</seg>
-            <seg>深き心を</seg>
-            <seg>しる人のなき</seg>
+            <seg>
+              <w lemmaRef="#うきくさ.浮草">うき草</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うへ.上">うへ</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#しげれ.繁る">しけれ</w>
+              <w lemmaRef="#る.り">る</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ふち.淵">ふち</w>
+              <w lemmaRef="#なれ.なり">なれ</w>
+              <w lemmaRef="#や.や">や</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ふかき.深し">深き</w>
+              <w lemmaRef="#こころ.心">心</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#しる.知る">しる</w>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#なき.無し">なき</w>
+            </seg>
           </l>
         </div>
         <lb/>

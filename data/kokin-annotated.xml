@@ -25886,11 +25886,33 @@
           </note>
           <lb/>
           <l n="669" xml:id="n669" resp="#よみ人知らず">
-            <seg>おほかたは</seg>
-            <seg>わかなもみなと</seg>
-            <seg>こきいてなむ</seg>
-            <seg>世をうみへたに</seg>
-            <seg>みるめすくなし</seg>
+            <seg>
+              <w lemmaRef="#おほかた.大方">おほかた</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わ.我">わ</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#な.名">な</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#みなと.水門">みなと</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こぎ.漕ぐ">こき</w>
+              <w lemmaRef="#いで.出づ">いて</w>
+              <w lemmaRef="#なむ.なむ">なむ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#よ.世">世</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#うみべた.海辺">うみへた</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みる.見る">みる</w>
+              <w lemmaRef="#め.む">め</w>
+              <w lemmaRef="#すくなし.少なし">すくなし</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -25737,11 +25737,34 @@
           <pb n="2-15r" facs="#p087"/>
           <lb/>
           <l n="665" xml:id="n665" resp="#清原深養父">
-            <seg>みつしほの</seg>
-            <seg>なかれひるまを</seg>
-            <seg>あひかたみ</seg>
-            <seg>ゝるめのうらに</seg>
-            <seg>よるをこそまて</seg>
+            <seg>
+              <w lemmaRef="#みつ.満つ">みつ</w>
+              <w lemmaRef="#しほ.潮">しほ</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ながれ.流る">なかれ</w>
+              <w lemmaRef="#ひる.干る">ひる</w>
+              <w lemmaRef="#ま.間">ま</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あひ.逢ふ">あひ</w>
+              <w lemmaRef="#がた.難し">かた</w>
+              <w lemmaRef="#み.み">み</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みるめ.海松藻">ゝるめ</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#うら.浦">うら</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#よる.夜">よる</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#こそ.こそ">こそ</w>
+              <w lemmaRef="#まて.待つ">まて</w>
+            </seg>
           </l>
         </div>
         <lb/>

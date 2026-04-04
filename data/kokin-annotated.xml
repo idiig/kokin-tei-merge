@@ -23855,11 +23855,32 @@
           </note>
           <lb/>
           <l n="614" xml:id="n614" resp="#凡河内躬恒">
-            <seg>たのめつゝ</seg>
-            <seg>あはて年ふる</seg>
-            <seg>いつはりに</seg>
-            <seg>こりぬ心を</seg>
-            <seg>人はしらなむ</seg>
+            <seg>
+              <w lemmaRef="#たのめ.頼む">たのめ</w>
+              <w lemmaRef="#つつ.つつ">つゝ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あは.逢ふ">あは</w>
+              <w lemmaRef="#で.で">て</w>
+              <w lemmaRef="#とし.年">年</w>
+              <w lemmaRef="#ふる.経">ふる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いつはり.偽る">いつはり</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こり.懲る">こり</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+              <w lemmaRef="#こころ.心">心</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#しら.知る">しら</w>
+              <w lemmaRef="#なむ.なむ">なむ</w>
+            </seg>
           </l>
         </div>
         <lb/>

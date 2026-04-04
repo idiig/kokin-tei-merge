@@ -21886,11 +21886,32 @@
           </note>
           <lb/>
           <l n="558" xml:id="n558" resp="#藤原敏行">
-            <seg>こひわひて</seg>
-            <seg>うちぬるなかに</seg>
-            <seg>行かよふ</seg>
-            <seg>夢のたゝちは</seg>
-            <seg>うつゝなら南</seg>
+            <seg>
+              <w lemmaRef="#こひ.恋ふ">こひ</w>
+              <w lemmaRef="#わび.侘ぶ">わひ</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うち.打つ">うち</w>
+              <w lemmaRef="#ぬる.寝">ぬる</w>
+              <w lemmaRef="#なか.中">なか</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ゆき.行く">行</w>
+              <w lemmaRef="#かよふ.通ふ">かよふ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ゆめ.夢">夢</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#ただぢ.直路">たゝち</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うつつ.現">うつゝ</w>
+              <w lemmaRef="#なら.なり">なら</w>
+              <w lemmaRef="#なむ.なむ">南</w>
+            </seg>
           </l>
         </div>
         <lb/>

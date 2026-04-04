@@ -21177,11 +21177,29 @@
         <lb/>
         <div type="和歌">
           <l n="537" xml:id="n537" resp="#よみ人知らず">
-            <seg>相坂の</seg>
-            <seg>関になかるゝ</seg>
-            <seg>いはし水</seg>
-            <seg>いはて心に</seg>
-            <seg>思ひこそすれ</seg>
+            <seg>
+              <w lemmaRef="#あふさか.逢坂">相坂</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#せき.関">関</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#ながるる.流る">なかるゝ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いはしみづ.岩清水">いはし水</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いは.言ふ">いは</w>
+              <w lemmaRef="#で.で">て</w>
+              <w lemmaRef="#こころ.心">心</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おもひ.思ふ">思ひ</w>
+              <w lemmaRef="#こそ.こそ">こそ</w>
+              <w lemmaRef="#すれ.す">すれ</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -23053,11 +23053,32 @@
           </note>
           <lb/>
           <l n="591" xml:id="n591" resp="#宗岳大頼">
-            <seg>冬河の</seg>
-            <seg>うへはこほれる</seg>
-            <seg>我なれや</seg>
-            <seg>したに流て</seg>
-            <seg>こひわたる覧</seg>
+            <seg>
+              <w lemmaRef="#ふゆがは.冬河">冬河</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うへ.上">うへ</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#こほれ.凍る">こほれ</w>
+              <w lemmaRef="#る.り">る</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#われ.我">我</w>
+              <w lemmaRef="#なれ.なり">なれ</w>
+              <w lemmaRef="#や.や">や</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#した.下">した</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#ながれ.流る">流</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こひ.恋ふ">こひ</w>
+              <w lemmaRef="#わたる.渡る">わたる</w>
+              <w lemmaRef="#らむ.らむ">覧</w>
+            </seg>
           </l>
         </div>
         <lb/>

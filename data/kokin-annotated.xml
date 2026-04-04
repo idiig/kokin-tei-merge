@@ -25335,11 +25335,30 @@
           </note>
           <lb/>
           <l n="654" xml:id="n654" resp="#よみ人知らず">
-            <seg>おもふとち</seg>
-            <seg>ひとり〳〵か</seg>
-            <seg>こひしなは</seg>
-            <seg>誰によそへて</seg>
-            <seg>藤衣きむ</seg>
+            <seg>
+              <w lemmaRef="#おもふどち.思ふどち">おもふとち</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひとり.一人">ひとり</w>
+              <w lemmaRef="#ひとり.一人">〳〵</w>
+              <w lemmaRef="#が.が">か</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こひ.恋ふ">こひ</w>
+              <w lemmaRef="#しな.死ぬ">しな</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たれ.誰">誰</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#よそへ.比ふ">よそへ</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ふぢごろも.藤衣">藤衣</w>
+              <w lemmaRef="#き.着る">き</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
           </l>
         </div>
         <lb/>

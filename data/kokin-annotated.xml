@@ -23221,11 +23221,33 @@
         <lb/>
         <div type="和歌">
           <l n="596" xml:id="n596" resp="#紀友則">
-            <seg>年をへて</seg>
-            <seg>きえぬ思ひは</seg>
-            <seg>有なから</seg>
-            <seg>よるのたもとは</seg>
-            <seg>猶こほりけり</seg>
+            <seg>
+              <w lemmaRef="#とし.年">年</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#へ.経">へ</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#きえ.消ゆ">きえ</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+              <w lemmaRef="#おもひ.思ふ">思ひ</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あり.有り">有</w>
+              <w lemmaRef="#ながら.ながら">なから</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#よる.夜">よる</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#たもと.袂">たもと</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なほ.猶">猶</w>
+              <w lemmaRef="#こほり.凍る">こほり</w>
+              <w lemmaRef="#けり.けり">けり</w>
+            </seg>
           </l>
         </div>
         <lb/>

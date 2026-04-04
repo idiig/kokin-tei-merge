@@ -26324,11 +26324,33 @@
           </note>
           <lb/>
           <l n="681" xml:id="n681" resp="#伊勢">
-            <seg>夢にたに</seg>
-            <seg>見ゆとは見えし</seg>
-            <seg>あさな〳〵</seg>
-            <seg>わかおもかけに</seg>
-            <seg>はつる身なれは</seg>
+            <seg>
+              <w lemmaRef="#ゆめ.夢">夢</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#だに.だに">たに</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みゆ.見ゆ">見ゆ</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#みえ.見ゆ">見え</w>
+              <w lemmaRef="#じ.じ">し</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あさなあさな.朝な朝な">あさな〳〵</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#われ.我">わ</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#おもかげ.面影">おもかけ</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はづる.恥づ">はつる</w>
+              <w lemmaRef="#み.身">身</w>
+              <w lemmaRef="#なれ.なり">なれ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
           </l>
         </div>
         <lb/>

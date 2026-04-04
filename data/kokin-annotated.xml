@@ -22020,11 +22020,33 @@
         <lb/>
         <div type="和歌">
           <l n="562" xml:id="n562" resp="#紀友則">
-            <seg>ゆふされは</seg>
-            <seg>螢よりけに</seg>
-            <seg>もゆれとも</seg>
-            <seg>ひかり見ねはや</seg>
-            <seg>人のつれなき</seg>
+            <seg>
+              <w lemmaRef="#ゆふ.夕">ゆふ</w>
+              <w lemmaRef="#され.去る">され</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ほたる.蛍">螢</w>
+              <w lemmaRef="#より.より">より</w>
+              <w lemmaRef="#けに.異に">けに</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#もゆれ.燃ゆ">もゆれ</w>
+              <w lemmaRef="#ど.ど">と</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひかり.光">ひかり</w>
+              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#ね.ず">ね</w>
+              <w lemmaRef="#ば.ば">は</w>
+              <w lemmaRef="#や.や">や</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#つれなき.連れ無し">つれなき</w>
+            </seg>
           </l>
         </div>
         <lb/>

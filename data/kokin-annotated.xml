@@ -22576,11 +22576,32 @@
           </note>
           <lb/>
           <l n="578" xml:id="n578" resp="#藤原敏行">
-            <seg>わかことく</seg>
-            <seg>物や悲き</seg>
-            <seg>郭公</seg>
-            <seg>時そともなく</seg>
-            <seg>よたゝなく覧</seg>
+            <seg>
+              <w lemmaRef="#わ.我">わ</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#ごとく.如し">ことく</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#もの.物">物</w>
+              <w lemmaRef="#や.や">や</w>
+              <w lemmaRef="#かなしき.悲し">悲き</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ほととぎす.時鳥">郭公</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#とき.時">時</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#なく.無し">なく</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#よ.夜">よ</w>
+              <w lemmaRef="#ただ.唯">たゝ</w>
+              <w lemmaRef="#なく.鳴く">なく</w>
+              <w lemmaRef="#らむ.らむ">覧</w>
+            </seg>
           </l>
         </div>
         <pb n="2-7v" facs="#p080"/>

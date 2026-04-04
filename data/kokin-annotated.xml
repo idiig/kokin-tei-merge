@@ -23748,11 +23748,34 @@
           </note>
           <lb/>
           <l n="611" xml:id="n611" resp="#凡河内躬恒">
-            <seg>わかこひは</seg>
-            <seg>ゆくゑもしらす</seg>
-            <seg>はてもなし</seg>
-            <seg>あふを限と</seg>
-            <seg>思許そ</seg>
+            <seg>
+              <w lemmaRef="#わ.我">わ</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#こひ.恋ふ">こひ</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ゆくへ.行方">ゆくゑ</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#しら.知る">しら</w>
+              <w lemmaRef="#ず.ず">す</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はて.果つ">はて</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#なし.無し">なし</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あふ.逢ふ">あふ</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#かぎり.限る">限</w>
+              <w lemmaRef="#と.と">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おもふ.思ふ">思</w>
+              <w lemmaRef="#ばかり.許り">許</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+            </seg>
           </l>
         </div>
         <pb n="2-10r" facs="#p082"/>

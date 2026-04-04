@@ -24795,11 +24795,33 @@
           </note>
           <lb/>
           <l n="639" xml:id="n639" resp="#藤原敏行">
-            <seg>曙ぬとて</seg>
-            <seg>帰みちには</seg>
-            <seg>こきたれて</seg>
-            <seg>雨も涙も</seg>
-            <seg>ふりそほちつゝ</seg>
+            <seg>
+              <w lemmaRef="#あけ.明く">曙</w>
+              <w lemmaRef="#ぬ.ぬ">ぬ</w>
+              <w lemmaRef="#とて.とて">とて</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かへる.帰る">帰</w>
+              <w lemmaRef="#みち.道">みち</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こき.扱く">こき</w>
+              <w lemmaRef="#たれ.垂る">たれ</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あめ.雨">雨</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#なみだ.涙">涙</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ふり.古る">ふり</w>
+              <w lemmaRef="#そぼち.濡つ">そほち</w>
+              <w lemmaRef="#つつ.つつ">つゝ</w>
+            </seg>
           </l>
         </div>
         <lb/>

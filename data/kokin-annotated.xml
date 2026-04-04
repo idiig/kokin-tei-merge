@@ -22536,11 +22536,36 @@
           </note>
           <lb/>
           <l n="577" xml:id="n577" resp="#大江千里">
-            <seg>ねになきて</seg>
-            <seg>ひちにしかとも</seg>
-            <seg>はるさめに</seg>
-            <seg>ぬれにし袖と</seg>
-            <seg>ゝはゝこたへむ</seg>
+            <seg>
+              <w lemmaRef="#ね.音">ね</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#なき.鳴く">なき</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひち.漬つ">ひち</w>
+              <w lemmaRef="#に.ぬ">に</w>
+              <w lemmaRef="#しか.き">しか</w>
+              <w lemmaRef="#ど.ど">と</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はるさめ.春雨">はるさめ</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ぬれ.濡る">ぬれ</w>
+              <w lemmaRef="#に.ぬ">に</w>
+              <w lemmaRef="#し.き">し</w>
+              <w lemmaRef="#そで.袖">袖</w>
+              <w lemmaRef="#と.と">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#とは.問ふ">ゝは</w>
+              <w lemmaRef="#ば.ば">ゝ</w>
+              <w lemmaRef="#こたへ.答ふ">こたへ</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
           </l>
         </div>
         <lb/>

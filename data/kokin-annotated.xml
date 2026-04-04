@@ -24385,11 +24385,29 @@
           </note>
           <lb/>
           <l n="628" xml:id="n628" resp="#壬生忠岑">
-            <seg>みちのくに</seg>
-            <seg>有といふなる</seg>
-            <seg>なとり河</seg>
-            <seg>なきなとりては</seg>
-            <seg>くるしかりけり</seg>
+            <seg>
+              <w lemmaRef="#みちのく.陸奥">みちのく</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あり.有り">有</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#いふ.言ふ">いふ</w>
+              <w lemmaRef="#なる.なり">なる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なとりがは.名取河">なとり河</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なきな.無き名">なきな</w>
+              <w lemmaRef="#とり.取る">とり</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#くるしかり.苦し">くるしかり</w>
+              <w lemmaRef="#けり.けり">けり</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -22117,11 +22117,35 @@
         <lb/>
         <div type="和歌">
           <l n="565" xml:id="n565" resp="#紀友則">
-            <seg>河のせに</seg>
-            <seg>なひく玉もの</seg>
-            <seg>みかくれて</seg>
-            <seg>人にしられぬ</seg>
-            <seg>こひもする哉</seg>
+            <seg>
+              <w lemmaRef="#かは.河">河</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#せ.瀬">せ</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なびく.靡く">なひく</w>
+              <w lemmaRef="#たまも.玉藻">玉も</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#み.水">み</w>
+              <w lemmaRef="#かくれ.隠る">かくれ</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#しら.知る">しら</w>
+              <w lemmaRef="#れ.る">れ</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こひ.恋ふ">こひ</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#する.す">する</w>
+              <w lemmaRef="#かな.哉">哉</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -23126,11 +23126,33 @@
           </note>
           <lb/>
           <l n="593" xml:id="n593" resp="#紀友則">
-            <seg>夜ゐ〳〵に</seg>
-            <seg>ぬきてわかぬる</seg>
-            <seg>かり衣</seg>
-            <seg>かけておもはぬ</seg>
-            <seg>時のまもなし</seg>
+            <seg>
+              <w lemmaRef="#よひよひ.宵宵">夜ゐ〳〵</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ぬぎ.脱ぐ">ぬき</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#わ.我">わ</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#ぬる.寝">ぬる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かりごろも.狩衣">かり衣</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かけ.掛く">かけ</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#おもは.思ふ">おもは</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#とき.時">時</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#ま.間">ま</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#なし.無し">なし</w>
+            </seg>
           </l>
         </div>
         <lb/>

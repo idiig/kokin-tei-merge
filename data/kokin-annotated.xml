@@ -20919,11 +20919,35 @@
         <lb/>
         <div type="和歌">
           <l n="529" xml:id="n529" resp="#よみ人知らず">
-            <seg>かゝり火に</seg>
-            <seg>あらぬわか身の</seg>
-            <seg>なそもかく</seg>
-            <seg>涙の河に</seg>
-            <seg>うきてもゆ覧</seg>
+            <seg>
+              <w lemmaRef="#かがりび.篝火">かゝり火</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あら.有り">あら</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+              <w lemmaRef="#わ.我">わ</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#み.身">身</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なぞ.何故">なそ</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#かく.斯く">かく</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なみだ.涙">涙</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#かは.河">河</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うき.浮く">うき</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#もゆ.燃ゆ">もゆ</w>
+              <w lemmaRef="#らむ.らむ">覧</w>
+            </seg>
           </l>
         </div>
         <lb/>

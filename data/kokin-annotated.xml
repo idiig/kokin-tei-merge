@@ -24871,11 +24871,30 @@
           </note>
           <lb/>
           <l n="641" xml:id="n641" resp="#よみ人知らず">
-            <seg>郭公</seg>
-            <seg>夢かうつゝか</seg>
-            <seg>あさつゆの</seg>
-            <seg>おきて別し</seg>
-            <seg>暁のこゑ</seg>
+            <seg>
+              <w lemmaRef="#ほととぎす.時鳥">郭公</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ゆめ.夢">夢</w>
+              <w lemmaRef="#か.か">か</w>
+              <w lemmaRef="#うつつ.現">うつゝ</w>
+              <w lemmaRef="#か.か">か</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あさつゆ.朝露">あさつゆ</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おき.起く">おき</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#わかれ.別る">別</w>
+              <w lemmaRef="#し.き">し</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あかつき.暁">暁</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#こゑ.声">こゑ</w>
+            </seg>
           </l>
         </div>
         <lb/>

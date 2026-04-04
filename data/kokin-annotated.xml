@@ -24239,11 +24239,35 @@
           </note>
           <lb/>
           <l n="624" xml:id="n624" resp="#源宗于">
-            <seg>あはすして</seg>
-            <seg>こよひあけなは</seg>
-            <seg>春の日の</seg>
-            <seg>長くや人を</seg>
-            <seg>つらしと思はむ</seg>
+            <seg>
+              <w lemmaRef="#あは.逢ふ">あは</w>
+              <w lemmaRef="#ず.ず">す</w>
+              <w lemmaRef="#して.して">して</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こよひ.今宵">こよひ</w>
+              <w lemmaRef="#あけ.明く">あけ</w>
+              <w lemmaRef="#な.ぬ">な</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はる.春">春</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#ひ.日">日</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ながく.長し">長く</w>
+              <w lemmaRef="#や.や">や</w>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#つらし.辛し">つらし</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#おもは.思ふ">思は</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
           </l>
         </div>
         <lb/>

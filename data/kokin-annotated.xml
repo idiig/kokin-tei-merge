@@ -21269,11 +21269,31 @@
         <lb/>
         <div type="和歌">
           <l n="540" xml:id="n540" resp="#よみ人知らず">
-            <seg>心かへ</seg>
-            <seg>する物にもか</seg>
-            <seg>ゝたこひは</seg>
-            <seg>くるしき物と</seg>
-            <seg>人にしらせむ</seg>
+            <seg>
+              <w lemmaRef="#こころ.心">心</w>
+              <w lemmaRef="#かへ.替ふ">かへ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#する.す">する</w>
+              <w lemmaRef="#もの.物">物</w>
+              <w lemmaRef="#に.なり">に</w>
+              <w lemmaRef="#もが.もが">もか</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かたこひ.片恋">ゝたこひ</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#くるしき.苦し">くるしき</w>
+              <w lemmaRef="#もの.物">物</w>
+              <w lemmaRef="#と.と">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#知らせ.知らす">しらせ</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
           </l>
         </div>
         <lb/>

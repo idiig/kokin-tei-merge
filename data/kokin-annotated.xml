@@ -25473,11 +25473,35 @@
         <lb/>
         <div type="和歌">
           <l n="658" xml:id="n658" resp="#小野小町">
-            <seg>夢ちには</seg>
-            <seg>あしもやすめす</seg>
-            <seg>かよへとも</seg>
-            <seg>うつゝにひとめ</seg>
-            <seg>見しことはあらす</seg>
+            <seg>
+              <w lemmaRef="#ゆめぢ.夢路">夢ち</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あし.足">あし</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#やすめ.休む">やすめ</w>
+              <w lemmaRef="#ず.ず">す</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かよへ.通ふ">かよへ</w>
+              <w lemmaRef="#ど.ど">と</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うつつ.現">うつゝ</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#ひとめ.一目">ひとめ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#し.き">し</w>
+              <w lemmaRef="#ごと.如">こと</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#あら.有り">あら</w>
+              <w lemmaRef="#ず.ず">す</w>
+            </seg>
           </l>
         </div>
         <lb/>

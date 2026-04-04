@@ -21847,11 +21847,33 @@
           </note>
           <lb/>
           <l n="557" xml:id="n557" resp="#小野小町">
-            <seg>をろかなる</seg>
-            <seg>涙そ袖に</seg>
-            <seg>玉はなす</seg>
-            <seg>我はせきあへす</seg>
-            <seg>たきつせなれは</seg>
+            <seg>
+              <w lemmaRef="#おろかなる.愚かなり">をろかなる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なみだ.涙">涙</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#そで.袖">袖</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たま.玉">玉</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#なす.為す">なす</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#われ.我">我</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#せき.塞く">せき</w>
+              <w lemmaRef="#あへ.敢ふ">あへ</w>
+              <w lemmaRef="#ず.ず">す</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たぎつ.激つ">たきつ</w>
+              <w lemmaRef="#せ.瀬">せ</w>
+              <w lemmaRef="#なれ.なり">なれ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
           </l>
         </div>
         <lb/>

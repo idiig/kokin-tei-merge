@@ -24940,11 +24940,32 @@
           </note>
           <lb/>
           <l n="643" xml:id="n643" resp="#大江千里">
-            <seg>けさは霜</seg>
-            <seg>おきけむ方も</seg>
-            <seg>しらさりつ</seg>
-            <seg>思いつるそ</seg>
-            <seg>きえて悲き</seg>
+            <seg>
+              <w lemmaRef="#けさ.今朝">けさ</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#しも.霜">霜</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おき.置く">おき</w>
+              <w lemmaRef="#けむ.けむ">けむ</w>
+              <w lemmaRef="#かた.方">方</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#しら.知る">しら</w>
+              <w lemmaRef="#ざり.ず">さり</w>
+              <w lemmaRef="#つ.つ">つ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おもひ.思ふ">思</w>
+              <w lemmaRef="#いづる.出づ">いつる</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#きえ.消ゆ">きえ</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#かなしき.悲し">悲き</w>
+            </seg>
           </l>
         </div>
         <lb/>

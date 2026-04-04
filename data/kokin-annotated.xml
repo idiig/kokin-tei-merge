@@ -21990,11 +21990,31 @@
           </note>
           <lb/>
           <l n="561" xml:id="n561" resp="#紀友則">
-            <seg>夜ゐのまも</seg>
-            <seg>はかなく見ゆる</seg>
-            <seg>夏虫に</seg>
-            <seg>迷まされる</seg>
-            <seg>こひもする哉</seg>
+            <seg>
+              <w lemmaRef="#よひ.宵">夜ゐ</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#ま.間">ま</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はかなく.儚し">はかなく</w>
+              <w lemmaRef="#みゆる.見ゆ">見ゆる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なつむし.夏虫">夏虫</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#まどひ.惑ふ">迷</w>
+              <w lemmaRef="#まされ.増さる">まされ</w>
+              <w lemmaRef="#る.り">る</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こひ.恋ふ">こひ</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#する.す">する</w>
+              <w lemmaRef="#かな.哉">哉</w>
+            </seg>
           </l>
         </div>
         <lb/>

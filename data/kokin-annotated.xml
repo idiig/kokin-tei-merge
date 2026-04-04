@@ -24418,11 +24418,31 @@
           </note>
           <lb/>
           <l n="629" xml:id="n629" resp="#御春有助">
-            <seg>あやなくて</seg>
-            <seg>またきなき名の</seg>
-            <seg>龍田河</seg>
-            <seg>わたらてやまむ</seg>
-            <seg>物ならなくに</seg>
+            <seg>
+              <w lemmaRef="#あやなく.文無し">あやなく</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#まだき.夙">またき</w>
+              <w lemmaRef="#なきな.無き名">なき名</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たつたがは.立田河">龍田河</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わたら.渡る">わたら</w>
+              <w lemmaRef="#で.で">て</w>
+              <w lemmaRef="#やま.止む">やま</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#もの.物">物</w>
+              <w lemmaRef="#なら.なり">なら</w>
+              <w lemmaRef="#な.ず">な</w>
+              <w lemmaRef="#く.く">く</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -23565,11 +23565,32 @@
         <lb/>
         <div type="和歌">
           <l n="606" xml:id="n606" resp="#紀貫之">
-            <seg>人しれぬ</seg>
-            <seg>思ひのみこそ</seg>
-            <seg>わひしけれ</seg>
-            <seg>わかなけきをは</seg>
-            <seg>我のみそしる</seg>
+            <seg>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#しれ.知る">しれ</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おもひ.思ふ">思ひ</w>
+              <w lemmaRef="#のみ.のみ">のみ</w>
+              <w lemmaRef="#こそ.こそ">こそ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わびしけれ.侘し">わひしけれ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わ.我">わ</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#なげき.嘆く">なけき</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#われ.我">我</w>
+              <w lemmaRef="#のみ.のみ">のみ</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#しる.知る">しる</w>
+            </seg>
           </l>
         </div>
         <lb/>

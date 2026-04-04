@@ -26786,11 +26786,33 @@
         <lb/>
         <div type="和歌">
           <l n="694" xml:id="n694" resp="#よみ人知らず">
-            <seg>宮木のゝ</seg>
-            <seg>本あらのこはき</seg>
-            <seg>露をゝもみ</seg>
-            <seg>風をまつこと</seg>
-            <seg>君をこそまて</seg>
+            <seg>
+              <w lemmaRef="#みやぎの.宮城野">宮木の</w>
+              <w lemmaRef="#の.の">ゝ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#もとあら.本荒">本あら</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#こはぎ.小萩">こはき</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#つゆ.露">露</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#おも.重し">ゝも</w>
+              <w lemmaRef="#み.み">み</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かぜ.風">風</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#まつ.待つ">まつ</w>
+              <w lemmaRef="#ごと.如">こと</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#きみ.君">君</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#こそ.こそ">こそ</w>
+              <w lemmaRef="#まて.待つ">まて</w>
+            </seg>
           </l>
         </div>
         <lb/>

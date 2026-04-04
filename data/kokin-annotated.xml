@@ -22910,11 +22910,31 @@
           </note>
           <lb/>
           <l n="587" xml:id="n587" resp="#紀貫之">
-            <seg>まこもかる</seg>
-            <seg>よとのさは水</seg>
-            <seg>雨ふれは</seg>
-            <seg>つねよりことに</seg>
-            <seg>まさるわかこひ</seg>
+            <seg>
+              <w lemmaRef="#まこも.真菰">まこも</w>
+              <w lemmaRef="#かる.刈る">かる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#よど.淀">よと</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#さはみづ.沢水">さは水</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あめ.雨">雨</w>
+              <w lemmaRef="#ふれ.降る">ふれ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#つね.常">つね</w>
+              <w lemmaRef="#より.より">より</w>
+              <w lemmaRef="#ことに.異なり">ことに</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#まさる.増さる">まさる</w>
+              <w lemmaRef="#わ.我">わ</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#こひ.恋ふ">こひ</w>
+            </seg>
           </l>
         </div>
         <lb/>

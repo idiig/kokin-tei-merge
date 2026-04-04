@@ -24836,11 +24836,31 @@
           <pb n="2-13r" facs="#p085"/>
           <lb/>
           <l n="640" xml:id="n640" resp="#寵">
-            <seg>しのゝめの</seg>
-            <seg>わかれをゝしみ</seg>
-            <seg>我そまつ</seg>
-            <seg>鳥よりさきに</seg>
-            <seg>なきはしめつる</seg>
+            <seg>
+              <w lemmaRef="#しののめ.東雲">しのゝめ</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わかれ.別る">わかれ</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#をしみ.惜しむ">ゝしみ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#われ.我">我</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#まづ.先づ">まつ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#とり.鳥">鳥</w>
+              <w lemmaRef="#より.より">より</w>
+              <w lemmaRef="#さき.先">さき</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なき.鳴く">なき</w>
+              <w lemmaRef="#はじめ.始む">はしめ</w>
+              <w lemmaRef="#つる.つ">つる</w>
+            </seg>
           </l>
         </div>
         <lb/>

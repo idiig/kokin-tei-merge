@@ -26464,11 +26464,30 @@
           </note>
           <lb/>
           <l n="685" xml:id="n685" resp="#清原深養父">
-            <seg>心をそ</seg>
-            <seg>わりなき物と</seg>
-            <seg>思ひぬる</seg>
-            <seg>見る物からや</seg>
-            <seg>こひしかるへき</seg>
+            <seg>
+              <w lemmaRef="#こころ.心">心</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わりなき.理無し">わりなき</w>
+              <w lemmaRef="#もの.物">物</w>
+              <w lemmaRef="#と.と">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おもひ.思ふ">思ひ</w>
+              <w lemmaRef="#ぬる.ぬ">ぬる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みる.見る">見る</w>
+              <w lemmaRef="#もの.物">物</w>
+              <w lemmaRef="#から.から">から</w>
+              <w lemmaRef="#や.や">や</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こひしかる.恋し">こひしかる</w>
+              <w lemmaRef="#べき.べし">へき</w>
+            </seg>
           </l>
         </div>
         <lb/>

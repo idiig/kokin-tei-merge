@@ -20160,11 +20160,32 @@
         <lb/>
         <div type="和歌">
           <l n="505" xml:id="n505" resp="#よみ人知らず">
-            <seg>あさちふの</seg>
-            <seg>をのゝしのはら</seg>
-            <seg>忍ふとも</seg>
-            <seg>人しるらめや</seg>
-            <seg>いふ人なしに</seg>
+            <seg>
+              <w lemmaRef="#あさぢふ.浅茅生">あさちふ</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#をの.小野">をの</w>
+              <w lemmaRef="#の.の">ゝ</w>
+              <w lemmaRef="#しのはら.篠原">しのはら</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#しのぶ.忍ぶ">忍ふ</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#しる.知る">しる</w>
+              <w lemmaRef="#らめ.らむ">らめ</w>
+              <w lemmaRef="#や.や">や</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いふ.言ふ">いふ</w>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#なし.無し">なし</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
           </l>
         </div>
         <lb/>

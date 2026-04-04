@@ -23355,11 +23355,31 @@
           </note>
           <lb/>
           <l n="600" xml:id="n600" resp="#凡河内躬恒">
-            <seg>夏虫を</seg>
-            <seg>なにかいひけむ</seg>
-            <seg>心から</seg>
-            <seg>我もおもひに</seg>
-            <seg>もえぬへら也</seg>
+            <seg>
+              <w lemmaRef="#なつむし.夏虫">夏虫</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なに.何">なに</w>
+              <w lemmaRef="#か.か">か</w>
+              <w lemmaRef="#いひ.言ふ">いひ</w>
+              <w lemmaRef="#けむ.けむ">けむ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こころ.心">心</w>
+              <w lemmaRef="#から.から">から</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#われ.我">我</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#おもひ.思ふ">おもひ</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#もえ.燃ゆ">もえ</w>
+              <w lemmaRef="#ぬ.ぬ">ぬ</w>
+              <w lemmaRef="#べらなり.べらなり">へら也</w>
+            </seg>
           </l>
         </div>
         <lb/>

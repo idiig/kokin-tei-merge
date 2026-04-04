@@ -24199,11 +24199,36 @@
           </note>
           <lb/>
           <l n="623" xml:id="n623" resp="#小野小町">
-            <seg>みるめなき</seg>
-            <seg>わか身をうらと</seg>
-            <seg>しらねはや</seg>
-            <seg>かれなてあまの</seg>
-            <seg>あしたゆくゝる</seg>
+            <seg>
+              <w lemmaRef="#みるめ.海松藻">みるめ</w>
+              <w lemmaRef="#なき.無し">なき</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わ.我">わ</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#み.身">身</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#うら.浦">うら</w>
+              <w lemmaRef="#と.と">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#しら.知る">しら</w>
+              <w lemmaRef="#ね.ず">ね</w>
+              <w lemmaRef="#ば.ば">は</w>
+              <w lemmaRef="#や.や">や</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かれ.離る">かれ</w>
+              <w lemmaRef="#な.ぬ">な</w>
+              <w lemmaRef="#で.で">て</w>
+              <w lemmaRef="#あま.海人">あま</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あし.足">あし</w>
+              <w lemmaRef="#たゆく.弛し">たゆく</w>
+              <w lemmaRef="#くる.来">ゝる</w>
+            </seg>
           </l>
         </div>
         <lb/>

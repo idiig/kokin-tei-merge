@@ -23891,11 +23891,35 @@
           </note>
           <lb/>
           <l n="615" xml:id="n615" resp="#紀友則">
-            <seg>いのちやは</seg>
-            <seg>なにそはつゆの</seg>
-            <seg>あた物を</seg>
-            <seg>あふにしかへは</seg>
-            <seg>おしからなくに</seg>
+            <seg>
+              <w lemmaRef="#いのち.命">いのち</w>
+              <w lemmaRef="#や.や">や</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なに.何">なに</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#つゆ.露">つゆ</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あだもの.徒物">あた物</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あふ.逢ふ">あふ</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#し.し">し</w>
+              <w lemmaRef="#かへ.換ふ">かへ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#をしから.惜し">おしから</w>
+              <w lemmaRef="#な.ず">な</w>
+              <w lemmaRef="#く.く">く</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
           </l>
         </div>
       </div>

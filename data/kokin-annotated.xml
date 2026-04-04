@@ -26133,11 +26133,37 @@
           </note>
           <lb/>
           <l n="676" xml:id="n676" resp="#伊勢">
-            <seg>しるといへは</seg>
-            <seg>枕たにせて</seg>
-            <seg>ねし物を</seg>
-            <seg>ちりならぬなの</seg>
-            <seg>そらにたつらむ</seg>
+            <seg>
+              <w lemmaRef="#しる.知る">しる</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#いへ.言ふ">いへ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#まくら.枕">枕</w>
+              <w lemmaRef="#だに.だに">たに</w>
+              <w lemmaRef="#せ.す">せ</w>
+              <w lemmaRef="#で.で">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ね.寝">ね</w>
+              <w lemmaRef="#し.き">し</w>
+              <w lemmaRef="#もの.物">物</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ちり.塵">ちり</w>
+              <w lemmaRef="#なら.なり">なら</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+              <w lemmaRef="#な.名">な</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#そら.空">そら</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#たつ.立つ">たつ</w>
+              <w lemmaRef="#らむ.らむ">らむ</w>
+            </seg>
           </l>
         </div>
       </div>

@@ -22156,11 +22156,33 @@
           </note>
           <lb/>
           <l n="566" xml:id="n566" resp="#壬生忠岑">
-            <seg>かきくらし</seg>
-            <seg>ふる白雪の</seg>
-            <seg>したきえに</seg>
-            <seg>きえて物思</seg>
-            <seg>ころにもある哉</seg>
+            <seg>
+              <w lemmaRef="#かき.掻く">かき</w>
+              <w lemmaRef="#くらし.暗す">くらし</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ふる.降る">ふる</w>
+              <w lemmaRef="#しらゆき.白雪">白雪</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#した.下">した</w>
+              <w lemmaRef="#きえ.消ゆ">きえ</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#きえ.消ゆ">きえ</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#もの.物">物</w>
+              <w lemmaRef="#おもふ.思ふ">思</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ころ.頃">ころ</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#ある.有り">ある</w>
+              <w lemmaRef="#かな.哉">哉</w>
+            </seg>
           </l>
         </div>
         <lb/>

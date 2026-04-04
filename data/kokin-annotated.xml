@@ -21767,11 +21767,33 @@
           </note>
           <lb/>
           <l n="555" xml:id="n555" resp="#素性法師">
-            <seg>秋風の</seg>
-            <seg>身にさむけれは</seg>
-            <seg>つれもなき</seg>
-            <seg>人をそたのむ</seg>
-            <seg>くるゝ夜ことに</seg>
+            <seg>
+              <w lemmaRef="#あきかぜ.秋風">秋風</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#み.身">身</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#さむけれ.寒し">さむけれ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#つれ.連る">つれ</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#なき.無し">なき</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#たのむ.頼む">たのむ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#くるる.暮る">くるゝ</w>
+              <w lemmaRef="#よ.夜">夜</w>
+              <w lemmaRef="#ごと.毎">こと</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
           </l>
         </div>
         <lb/>

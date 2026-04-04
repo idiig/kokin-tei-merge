@@ -24900,11 +24900,36 @@
         <lb/>
         <div type="和歌">
           <l n="642" xml:id="n642" resp="#よみ人知らず">
-            <seg>玉匣</seg>
-            <seg>あけは君かな</seg>
-            <seg>たちぬへみ</seg>
-            <seg>夜深くこしを</seg>
-            <seg>人見けむかも</seg>
+            <seg>
+              <w lemmaRef="#たまくしげ.玉匣">玉匣</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あけ.明く">あけ</w>
+              <w lemmaRef="#ば.ば">は</w>
+              <w lemmaRef="#きみ.君">君</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#な.名">な</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たち.立つ">たち</w>
+              <w lemmaRef="#ぬ.ぬ">ぬ</w>
+              <w lemmaRef="#べ.べし">へ</w>
+              <w lemmaRef="#み.み">み</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#よ.夜">夜</w>
+              <w lemmaRef="#ふかく.深し">深く</w>
+              <w lemmaRef="#こ.来">こ</w>
+              <w lemmaRef="#し.き">し</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#けむ.けむ">けむ</w>
+              <w lemmaRef="#か.か">か</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -25815,11 +25815,34 @@
           </note>
           <lb/>
           <l n="667" xml:id="n667" resp="#紀友則">
-            <seg>したにのみ</seg>
-            <seg>こふれはくるし</seg>
-            <seg>たまのをの</seg>
-            <seg>たえてみたれむ</seg>
-            <seg>人なとかめそ</seg>
+            <seg>
+              <w lemmaRef="#した.下">した</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#のみ.のみ">のみ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こふれ.恋ふ">こふれ</w>
+              <w lemmaRef="#ば.ば">は</w>
+              <w lemmaRef="#くるし.苦し">くるし</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たま.玉">たま</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#を.緒">を</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たえ.絶ゆ">たえ</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#みだれ.乱る">みたれ</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#な.な">な</w>
+              <w lemmaRef="#とがめ.咎む">とかめ</w>
+              <w lemmaRef="#そ.そ">そ</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -21917,11 +21917,31 @@
         <lb/>
         <div type="和歌">
           <l n="559" xml:id="n559" resp="#藤原敏行">
-            <seg>すみの江の</seg>
-            <seg>岸による浪</seg>
-            <seg>よるさへや</seg>
-            <seg>ゆめのかよひち</seg>
-            <seg>人めよくらむ</seg>
+            <seg>
+              <w lemmaRef="#すみのえ.住の江">すみの江</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#きし.岸">岸</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#よる.寄る">よる</w>
+              <w lemmaRef="#なみ.浪">浪</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#よる.夜">よる</w>
+              <w lemmaRef="#さへ.さへ">さへ</w>
+              <w lemmaRef="#や.や">や</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ゆめ.夢">ゆめ</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#かよひぢ.通ひ路">かよひち</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひとめ.人目">人め</w>
+              <w lemmaRef="#よく.避く">よく</w>
+              <w lemmaRef="#らむ.らむ">らむ</w>
+            </seg>
           </l>
         </div>
         <lb/>

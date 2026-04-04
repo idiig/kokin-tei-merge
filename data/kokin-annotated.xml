@@ -25440,11 +25440,34 @@
         <lb/>
         <div type="和歌">
           <l n="657" xml:id="n657" resp="#小野小町">
-            <seg>限なき</seg>
-            <seg>思ひのまゝに</seg>
-            <seg>よるもこむ</seg>
-            <seg>ゆめちをさへに</seg>
-            <seg>人はとかめし</seg>
+            <seg>
+              <w lemmaRef="#かぎり.限る">限</w>
+              <w lemmaRef="#なき.無し">なき</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おもひ.思ふ">思ひ</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#まま.侭">まゝ</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#よる.夜">よる</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#こ.来">こ</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ゆめぢ.夢路">ゆめち</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#さへ.さへ">さへ</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#とがめ.咎む">とかめ</w>
+              <w lemmaRef="#じ.じ">し</w>
+            </seg>
           </l>
         </div>
         <lb/>

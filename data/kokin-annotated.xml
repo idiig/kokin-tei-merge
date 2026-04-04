@@ -24016,11 +24016,32 @@
           </note>
           <lb/>
           <l n="618" xml:id="n618" resp="#在原業平">
-            <seg>あさみこそ</seg>
-            <seg>袖はひつらめ</seg>
-            <seg>涙河</seg>
-            <seg>身さへ流と</seg>
-            <seg>きかはたのまむ</seg>
+            <seg>
+              <w lemmaRef="#あさ.浅し">あさ</w>
+              <w lemmaRef="#み.み">み</w>
+              <w lemmaRef="#こそ.こそ">こそ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#そで.袖">袖</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#ひつ.漬つ">ひつ</w>
+              <w lemmaRef="#らめ.らむ">らめ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なみだがは.涙河">涙河</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#み.身">身</w>
+              <w lemmaRef="#さへ.さへ">さへ</w>
+              <w lemmaRef="#ながる.流る">流</w>
+              <w lemmaRef="#と.と">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#きか.聞く">きか</w>
+              <w lemmaRef="#ば.ば">は</w>
+              <w lemmaRef="#たのま.頼む">たのま</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
           </l>
         </div>
         <pb n="2-11r" facs="#p083"/>

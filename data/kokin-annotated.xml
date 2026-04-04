@@ -26248,11 +26248,32 @@
           </note>
           <lb/>
           <l n="679" xml:id="n679" resp="#紀貫之">
-            <seg>いその神</seg>
-            <seg>ふるのなか道</seg>
-            <seg>中〳〵に</seg>
-            <seg>見すはこひしと</seg>
-            <seg>おもはましやは</seg>
+            <seg>
+              <w lemmaRef="#いそ.磯">いそ</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#かみ.神">神</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ふる.布留">ふる</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#なかみち.中道">なか道</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なかなかに.中中なり">中〳〵に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#ず.ず">す</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#こひし.恋し">こひし</w>
+              <w lemmaRef="#と.と">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おもは.思ふ">おもは</w>
+              <w lemmaRef="#まし.まし">まし</w>
+              <w lemmaRef="#や.や">や</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -24453,11 +24453,35 @@
           </note>
           <lb/>
           <l n="630" xml:id="n630" resp="#在原元方">
-            <seg>人はいさ</seg>
-            <seg>我はなきなの</seg>
-            <seg>おしけれは</seg>
-            <seg>昔も今も</seg>
-            <seg>しらすとをいはむ</seg>
+            <seg>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#いさ.いさ">いさ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#われ.我">我</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#なきな.無き名">なきな</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#をしけれ.惜し">おしけれ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#むかし.昔">昔</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#いま.今">今</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#しら.知る">しら</w>
+              <w lemmaRef="#ず.ず">す</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#いは.言ふ">いは</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -23089,11 +23089,33 @@
           </note>
           <lb/>
           <l n="592" xml:id="n592" resp="#壬生忠岑">
-            <seg>たきつせに</seg>
-            <seg>ねさしとゝめぬ</seg>
-            <seg>うき草の</seg>
-            <seg>うきたるこひも</seg>
-            <seg>我はするかな</seg>
+            <seg>
+              <w lemmaRef="#たぎつ.激つ">たきつ</w>
+              <w lemmaRef="#せ.瀬">せ</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ね.根">ね</w>
+              <w lemmaRef="#さし.差す">さし</w>
+              <w lemmaRef="#とどめ.留む">とゝめ</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うきくさ.浮草">うき草</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うき.浮く">うき</w>
+              <w lemmaRef="#たる.たり">たる</w>
+              <w lemmaRef="#こひ.恋ふ">こひ</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#われ.我">我</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#する.す">する</w>
+              <w lemmaRef="#かな.哉">かな</w>
+            </seg>
           </l>
         </div>
         <lb/>

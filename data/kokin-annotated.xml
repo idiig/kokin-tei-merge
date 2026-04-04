@@ -25369,11 +25369,33 @@
           </note>
           <lb/>
           <l n="655" xml:id="n655" resp="#橘清樹">
-            <seg>なきこふる</seg>
-            <seg>涙に袖の</seg>
-            <seg>そほちなは</seg>
-            <seg>ぬきかへかてら</seg>
-            <seg>よるこそはきめ</seg>
+            <seg>
+              <w lemmaRef="#なき.泣く">なき</w>
+              <w lemmaRef="#こふる.恋ふ">こふる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なみだ.涙">涙</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#そで.袖">袖</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#そぼち.濡つ">そほち</w>
+              <w lemmaRef="#な.ぬ">な</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ぬぎ.脱ぐ">ぬき</w>
+              <w lemmaRef="#かへ.換ふ">かへ</w>
+              <w lemmaRef="#がてら.がてら">かてら</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#よる.夜">よる</w>
+              <w lemmaRef="#こそ.こそ">こそ</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#き.着る">き</w>
+              <w lemmaRef="#め.む">め</w>
+            </seg>
           </l>
         </div>
         <lb/>

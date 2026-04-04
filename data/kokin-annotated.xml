@@ -24574,11 +24574,32 @@
           </note>
           <lb/>
           <l n="633" xml:id="n633" resp="#紀貫之">
-            <seg>しのふれと</seg>
-            <seg>こひしき時は</seg>
-            <seg>あしひきの</seg>
-            <seg>山より月の</seg>
-            <seg>いてゝこそくれ</seg>
+            <seg>
+              <w lemmaRef="#しのぶれ.忍ぶ">しのふれ</w>
+              <w lemmaRef="#ど.ど">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こひしき.恋し">こひしき</w>
+              <w lemmaRef="#とき.時">時</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あし.足">あし</w>
+              <w lemmaRef="#ひき.曳く">ひき</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#やま.山">山</w>
+              <w lemmaRef="#より.より">より</w>
+              <w lemmaRef="#つき.月">月</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いで.出づ">いて</w>
+              <w lemmaRef="#て.て">ゝ</w>
+              <w lemmaRef="#こそ.こそ">こそ</w>
+              <w lemmaRef="#くれ.来">くれ</w>
+            </seg>
           </l>
         </div>
         <lb/>

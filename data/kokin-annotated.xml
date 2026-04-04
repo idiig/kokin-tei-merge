@@ -22723,11 +22723,33 @@
           </note>
           <lb/>
           <l n="582" xml:id="n582" resp="#よみ人知らず">
-            <seg>秋なれは</seg>
-            <seg>山とよむまて</seg>
-            <seg>鳴鹿に</seg>
-            <seg>我おとらめや</seg>
-            <seg>ひとりぬるよは</seg>
+            <seg>
+              <w lemmaRef="#あき.秋">秋</w>
+              <w lemmaRef="#なれ.なり">なれ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#やま.山">山</w>
+              <w lemmaRef="#とよむ.響む">とよむ</w>
+              <w lemmaRef="#まで.まで">まて</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なく.鳴く">鳴</w>
+              <w lemmaRef="#しか.鹿">鹿</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#われ.我">我</w>
+              <w lemmaRef="#おとら.劣る">おとら</w>
+              <w lemmaRef="#め.む">め</w>
+              <w lemmaRef="#や.や">や</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひとり.独り">ひとり</w>
+              <w lemmaRef="#ぬる.寝">ぬる</w>
+              <w lemmaRef="#よ.夜">よ</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -20568,11 +20568,33 @@
         <lb/>
         <div type="和歌">
           <l n="518" xml:id="n518" resp="#よみ人知らず">
-            <seg>人の身も</seg>
-            <seg>ならはし物を</seg>
-            <seg>あはすして</seg>
-            <seg>いさ心みむ</seg>
-            <seg>こひやしぬると</seg>
+            <seg>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#み.身">身</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ならはしもの.習はし物">ならはし物</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あは.逢ふ">あは</w>
+              <w lemmaRef="#ず.ず">す</w>
+              <w lemmaRef="#して.して">して</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いさ.いざ">いさ</w>
+              <w lemmaRef="#こころ.心">心</w>
+              <w lemmaRef="#み.見る">み</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こひ.恋ふ">こひ</w>
+              <w lemmaRef="#や.や">や</w>
+              <w lemmaRef="#しぬる.死ぬ">しぬる</w>
+              <w lemmaRef="#と.と">と</w>
+            </seg>
           </l>
         </div>
         <pb n="2-4r" facs="#p076"/>

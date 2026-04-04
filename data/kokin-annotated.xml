@@ -25620,11 +25620,34 @@
           </note>
           <lb/>
           <l n="662" xml:id="n662" resp="#凡河内躬恒">
-            <seg>冬の池に</seg>
-            <seg>すむにほとりの</seg>
-            <seg>つれもなく</seg>
-            <seg>そこにかよふと</seg>
-            <seg>人にしらすな</seg>
+            <seg>
+              <w lemmaRef="#ふゆ.冬">冬</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#いけ.池">池</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#すむ.住む">すむ</w>
+              <w lemmaRef="#にほどり.鳰鳥">にほとり</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#つれ.連る">つれ</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#なく.無し">なく</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#そこ.底">そこ</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#かよふ.通ふ">かよふ</w>
+              <w lemmaRef="#と.と">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#しらする.知らす">しらす</w>
+              <w lemmaRef="#な.な">な</w>
+            </seg>
           </l>
         </div>
         <lb/>

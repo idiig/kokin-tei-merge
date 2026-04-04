@@ -23420,11 +23420,34 @@
         <lb/>
         <div type="和歌">
           <l n="602" xml:id="n602" resp="#壬生忠岑">
-            <seg>月影に</seg>
-            <seg>わか身をかふる</seg>
-            <seg>物ならは</seg>
-            <seg>つれなき人も</seg>
-            <seg>あはれとや見む</seg>
+            <seg>
+              <w lemmaRef="#つきかげ.月影">月影</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わ.我">わ</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#み.身">身</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#かふる.変ふ">かふる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#もの.物">物</w>
+              <w lemmaRef="#なら.なり">なら</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#つれなき.連れ無し">つれなき</w>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あはれ.哀れ">あはれ</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#や.や">や</w>
+              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -22397,11 +22397,32 @@
           <note type="詞書" style="margin-top: 2em" target="#n573 #n574">題しらす</note>
           <lb/>
           <l n="573" xml:id="n573" resp="#紀貫之">
-            <seg>世とゝもに</seg>
-            <seg>流てそ行</seg>
-            <seg>涙河</seg>
-            <seg>冬もこほらぬ</seg>
-            <seg>みなわなりけり</seg>
+            <seg>
+              <w lemmaRef="#よ.世">世</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#とも.共">ゝも</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ながれ.流る">流</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#ゆく.行く">行</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なみだがは.涙河">涙河</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ふゆ.冬">冬</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#こほら.凍る">こほら</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みなわ.水泡">みなわ</w>
+              <w lemmaRef="#なり.なり">なり</w>
+              <w lemmaRef="#けり.けり">けり</w>
+            </seg>
           </l>
         </div>
         <lb/>

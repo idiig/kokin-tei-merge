@@ -23939,11 +23939,36 @@
           </note>
           <lb/>
           <l n="616" xml:id="n616" resp="#在原業平">
-            <seg>おきもせす</seg>
-            <seg>ねもせてよるを</seg>
-            <seg>あかしては</seg>
-            <seg>春の物とて</seg>
-            <seg>なかめくらしつ</seg>
+            <seg>
+              <w lemmaRef="#おき.起く">おき</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#せ.す">せ</w>
+              <w lemmaRef="#ず.ず">す</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ね.寝">ね</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#せ.す">せ</w>
+              <w lemmaRef="#で.で">て</w>
+              <w lemmaRef="#よる.夜">よる</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あかし.明かす">あかし</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はる.春">春</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#もの.物">物</w>
+              <w lemmaRef="#とて.とて">とて</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ながめ.眺む">なかめ</w>
+              <w lemmaRef="#くらし.暮す">くらし</w>
+              <w lemmaRef="#つ.つ">つ</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -26883,11 +26883,32 @@
           </note>
           <lb/>
           <l n="697" xml:id="n697" resp="#紀貫之">
-            <seg>しきしまの</seg>
-            <seg>やまとにはあらぬ</seg>
-            <seg>唐衣</seg>
-            <seg>ころもへすして</seg>
-            <seg>逢よしも哉</seg>
+            <seg>
+              <w lemmaRef="#しきしま.敷島">しきしま</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#やまと.大和">やまと</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#あら.有り">あら</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#からころも.唐衣">唐衣</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ころ.頃">ころ</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#へ.経">へ</w>
+              <w lemmaRef="#ず.ず">す</w>
+              <w lemmaRef="#して.して">して</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あふ.逢ふ">逢</w>
+              <w lemmaRef="#よし.由">よし</w>
+              <w lemmaRef="#もがな.もがな">も哉</w>
+            </seg>
           </l>
         </div>
         <lb/>

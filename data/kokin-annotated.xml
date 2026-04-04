@@ -24158,11 +24158,37 @@
           </note>
           <lb/>
           <l n="622" xml:id="n622" resp="#在原業平">
-            <seg>秋のゝに</seg>
-            <seg>さゝわけしあさの</seg>
-            <seg>袖よりも</seg>
-            <seg>あはてこしよそ</seg>
-            <seg>ひちまさりける</seg>
+            <seg>
+              <w lemmaRef="#あき.秋">秋</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#の.野">ゝ</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ささ.笹">さゝ</w>
+              <w lemmaRef="#わけ.分く">わけ</w>
+              <w lemmaRef="#し.き">し</w>
+              <w lemmaRef="#あさ.朝">あさ</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#そで.袖">袖</w>
+              <w lemmaRef="#より.より">より</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あは.逢ふ">あは</w>
+              <w lemmaRef="#で.で">て</w>
+              <w lemmaRef="#こ.来">こ</w>
+              <w lemmaRef="#し.き">し</w>
+              <w lemmaRef="#よ.夜">よ</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひち.漬つ">ひち</w>
+              <w lemmaRef="#まさり.増さる">まさり</w>
+              <w lemmaRef="#ける.けり">ける</w>
+            </seg>
           </l>
         </div>
         <lb/>

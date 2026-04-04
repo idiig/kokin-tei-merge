@@ -23187,11 +23187,35 @@
         <lb/>
         <div type="和歌">
           <l n="595" xml:id="n595" resp="#紀友則">
-            <seg>しきたへの</seg>
-            <seg>枕のしたに</seg>
-            <seg>海はあれと</seg>
-            <seg>人を見るめは</seg>
-            <seg>おひすそ有ける</seg>
+            <seg>
+              <w lemmaRef="#しきたへ.敷妙">しきたへ</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#まくら.枕">枕</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#した.下">した</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うみ.海">海</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#あれ.有り">あれ</w>
+              <w lemmaRef="#ど.ど">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#みるめ.海松藻">見るめ</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おひ.生ふ">おひ</w>
+              <w lemmaRef="#ず.ず">す</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#あり.有り">有</w>
+              <w lemmaRef="#ける.けり">ける</w>
+            </seg>
           </l>
         </div>
         <lb/>

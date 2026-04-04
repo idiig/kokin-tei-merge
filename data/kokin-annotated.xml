@@ -22258,11 +22258,34 @@
         <lb/>
         <div type="和歌">
           <l n="569" xml:id="n569" resp="#藤原興風">
-            <seg>わひぬれは</seg>
-            <seg>しひてわすれむと</seg>
-            <seg>おもへとも</seg>
-            <seg>ゆめといふ物そ</seg>
-            <seg>人たのめなる</seg>
+            <seg>
+              <w lemmaRef="#わび.侘ぶ">わひ</w>
+              <w lemmaRef="#ぬれ.ぬ">ぬれ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#しひて.強ひて">しひて</w>
+              <w lemmaRef="#わすれ.忘る">わすれ</w>
+              <w lemmaRef="#む.む">む</w>
+              <w lemmaRef="#と.と">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おもへ.思ふ">おもへ</w>
+              <w lemmaRef="#ど.ど">と</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ゆめ.夢">ゆめ</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#いふ.言ふ">いふ</w>
+              <w lemmaRef="#もの.物">物</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#たのめ.頼む">たのめ</w>
+              <w lemmaRef="#なる.なり">なる</w>
+            </seg>
           </l>
         </div>
         <lb/>

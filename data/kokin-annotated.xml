@@ -25059,11 +25059,31 @@
           </note>
           <lb/>
           <l n="646" xml:id="n646" resp="#在原業平">
-            <seg>かきくらす</seg>
-            <seg>心のやみに</seg>
-            <seg>迷にき</seg>
-            <seg>夢うつゝとは</seg>
-            <seg>よひとさためよ</seg>
+            <seg>
+              <w lemmaRef="#かき.掻く">かき</w>
+              <w lemmaRef="#くらす.暗す">くらす</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こころ.心">心</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#やみ.闇">やみ</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#まどひ.惑ふ">迷</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#き.き">き</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ゆめ.夢">夢</w>
+              <w lemmaRef="#うつつ.現">うつゝ</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#よひと.世人">よひと</w>
+              <w lemmaRef="#さだめよ.定む">さためよ</w>
+            </seg>
           </l>
         </div>
         <lb/>

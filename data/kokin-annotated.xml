@@ -23981,11 +23981,30 @@
           </note>
           <lb/>
           <l n="617" xml:id="n617" resp="#藤原敏行">
-            <seg>つれ〳〵の</seg>
-            <seg>なかめにまさる</seg>
-            <seg>涙河</seg>
-            <seg>そてのみぬれて</seg>
-            <seg>あふよしもなし</seg>
+            <seg>
+              <w lemmaRef="#つれづれ.徒然">つれ〳〵</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ながめ.長雨">なかめ</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#まさる.増さる">まさる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なみだがは.涙河">涙河</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#そで.袖">そて</w>
+              <w lemmaRef="#のみ.のみ">のみ</w>
+              <w lemmaRef="#ぬれ.濡る">ぬれ</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あふ.逢ふ">あふ</w>
+              <w lemmaRef="#よし.由">よし</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#なし.無し">なし</w>
+            </seg>
           </l>
         </div>
         <lb/>

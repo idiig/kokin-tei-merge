@@ -33328,11 +33328,30 @@
           </note>
           <lb/>
           <l n="872" xml:id="n872" resp="#遍昭">
-            <seg>あまつ風</seg>
-            <seg>雲のかよひち</seg>
-            <seg>ふきとちよ</seg>
-            <seg>をとめのすかた</seg>
-            <seg>しはしとゝめむ</seg>
+            <seg>
+              <w lemmaRef="#あま.天">あま</w>
+              <w lemmaRef="#つ.つ">つ</w>
+              <w lemmaRef="#かぜ.風">風</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#くも.雲">雲</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#かよひぢ.通ひ路">かよひち</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ふき.吹く">ふき</w>
+              <w lemmaRef="#とぢよ.閉づ">とちよ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#をとめ.乙女">をとめ</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#すがた.姿">すかた</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#しばし.暫し">しはし</w>
+              <w lemmaRef="#とどめ.止む">とゝめ</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
           </l>
         </div>
         <lb/>

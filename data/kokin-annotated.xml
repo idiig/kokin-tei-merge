@@ -32675,11 +32675,33 @@
           </note>
           <lb/>
           <l n="855" xml:id="n855" resp="#よみ人知らず">
-            <seg>なき人の</seg>
-            <seg>やとにかよはゝ</seg>
-            <seg>郭公</seg>
-            <seg>かけてねにのみ</seg>
-            <seg>なくとつけ南</seg>
+            <seg>
+              <w lemmaRef="#なき.亡し">なき</w>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#やど.宿">やと</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#かよは.通ふ">かよは</w>
+              <w lemmaRef="#ば.ば">ゝ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ほととぎす.郭公">郭公</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かけ.掛く">かけ</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#ね.音">ね</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#のみ.のみ">のみ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なく.鳴く">なく</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#つげ.告ぐ">つけ</w>
+              <w lemmaRef="#なむ.なむ">南</w>
+            </seg>
           </l>
         </div>
         <lb/>

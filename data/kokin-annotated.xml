@@ -27524,11 +27524,31 @@
           </note>
           <lb/>
           <l n="716" xml:id="n716" resp="#よみ人知らず">
-            <seg>空蝉の</seg>
-            <seg>世の人ことの</seg>
-            <seg>しけゝれは</seg>
-            <seg>わすれぬものゝ</seg>
-            <seg>かれぬへら也</seg>
+            <seg>
+              <w lemmaRef="#うつせみ.空蝉">空蝉</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#よ.世">世</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#ひとごと.人言">人こと</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#しげけれ.繁し">しけゝれ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わすれ.忘る">わすれ</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+              <w lemmaRef="#もの.物">もの</w>
+              <w lemmaRef="#の.の">ゝ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かれ.離る">かれ</w>
+              <w lemmaRef="#ぬ.ぬ">ぬ</w>
+              <w lemmaRef="#べらなり.べらなり">へら也</w>
+            </seg>
           </l>
         </div>
         <lb/>

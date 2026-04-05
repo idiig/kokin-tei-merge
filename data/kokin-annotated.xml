@@ -31405,11 +31405,31 @@
           <pb n="2-28r" facs="#p100"/>
           <lb/>
           <l n="823" xml:id="n823" resp="#平貞文">
-            <seg>あきかせの</seg>
-            <seg>吹うらかへす</seg>
-            <seg>くすのはの</seg>
-            <seg>うらみても猶</seg>
-            <seg>うらめしき哉</seg>
+            <seg>
+              <w lemmaRef="#あきかぜ.秋風">あきかせ</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ふき.吹く">吹</w>
+              <w lemmaRef="#うら.裏">うら</w>
+              <w lemmaRef="#かへす.返す">かへす</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#くず.葛">くす</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#は.葉">は</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うらみ.恨む">うらみ</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#なほ.猶">猶</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うらめしき.恨めし">うらめしき</w>
+              <w lemmaRef="#かな.哉">哉</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -33240,11 +33240,36 @@
           </note>
           <lb/>
           <l n="870" xml:id="n870" resp="#布留今道">
-            <seg>日のひかり</seg>
-            <seg>やふしわかねは</seg>
-            <seg>いその神</seg>
-            <seg>ふりにしさとに</seg>
-            <seg>花もさきけり</seg>
+            <seg>
+              <w lemmaRef="#ひ.日">日</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#ひかり.光">ひかり</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#やぶ.薮">やふ</w>
+              <w lemmaRef="#し.し">し</w>
+              <w lemmaRef="#わか.分く">わか</w>
+              <w lemmaRef="#ね.ず">ね</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いそ.磯">いそ</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#かみ.神">神</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ふり.古る">ふり</w>
+              <w lemmaRef="#に.ぬ">に</w>
+              <w lemmaRef="#し.き">し</w>
+              <w lemmaRef="#さと.里">さと</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はな.花">花</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#さき.咲く">さき</w>
+              <w lemmaRef="#けり.けり">けり</w>
+            </seg>
           </l>
         </div>
         <lb/>

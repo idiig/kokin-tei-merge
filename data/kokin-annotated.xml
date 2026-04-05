@@ -29772,11 +29772,33 @@
           </note>
           <lb/>
           <l n="779" xml:id="n779" resp="#兼覧王">
-            <seg>住の江の</seg>
-            <seg>松ほとひさに</seg>
-            <seg>成ぬれは</seg>
-            <seg>あしたつのねに</seg>
-            <seg>なかぬ日はなし</seg>
+            <seg>
+              <w lemmaRef="#すみのえ.住の江">住の江</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#まつ.松">松</w>
+              <w lemmaRef="#ほど.程">ほと</w>
+              <w lemmaRef="#ひさに.久なり">ひさに</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なり.成る">成</w>
+              <w lemmaRef="#ぬれ.ぬ">ぬれ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あしたづ.葦鶴">あしたつ</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#ね.音">ね</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なか.泣く">なか</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+              <w lemmaRef="#ひ.日">日</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#なし.無し">なし</w>
+            </seg>
           </l>
         </div>
         <lb/>

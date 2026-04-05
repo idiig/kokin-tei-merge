@@ -30538,11 +30538,36 @@
           </note>
           <lb/>
           <l n="799" xml:id="n799" resp="#素性法師">
-            <seg>思ふとも</seg>
-            <seg>かれなむ人を</seg>
-            <seg>いかゝせむ</seg>
-            <seg>あかすちりぬる</seg>
-            <seg>花とこそ見め</seg>
+            <seg>
+              <w lemmaRef="#おもふ.思ふ">思ふ</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かれ.離る">かれ</w>
+              <w lemmaRef="#な.ぬ">な</w>
+              <w lemmaRef="#む.む">む</w>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いかが.如何が">いかゝ</w>
+              <w lemmaRef="#せ.す">せ</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あか.飽く">あか</w>
+              <w lemmaRef="#ず.ず">す</w>
+              <w lemmaRef="#ちり.散る">ちり</w>
+              <w lemmaRef="#ぬる.ぬ">ぬる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はな.花">花</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#こそ.こそ">こそ</w>
+              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#め.む">め</w>
+            </seg>
           </l>
         </div>
         <lb/>

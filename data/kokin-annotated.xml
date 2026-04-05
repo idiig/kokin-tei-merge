@@ -30124,11 +30124,32 @@
           </note>
           <lb/>
           <l n="788" xml:id="n788" resp="#源宗于">
-            <seg>つれもなく</seg>
-            <seg>なりゆく人の</seg>
-            <seg>事のはそ</seg>
-            <seg>秋よりさきの</seg>
-            <seg>紅葉なりける</seg>
+            <seg>
+              <w lemmaRef="#つれ.連る">つれ</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#なく.無し">なく</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なり.成る">なり</w>
+              <w lemmaRef="#ゆく.行く">ゆく</w>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ことのは.言の葉">事のは</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あき.秋">秋</w>
+              <w lemmaRef="#より.より">より</w>
+              <w lemmaRef="#さき.先">さき</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#もみぢ.紅葉づ">紅葉</w>
+              <w lemmaRef="#なり.なり">なり</w>
+              <w lemmaRef="#ける.けり">ける</w>
+            </seg>
           </l>
         </div>
         <lb/>

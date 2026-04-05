@@ -31369,11 +31369,31 @@
           </note>
           <lb/>
           <l n="822" xml:id="n822" resp="#小野小町">
-            <seg>秋風に</seg>
-            <seg>あふたのみこそ</seg>
-            <seg>悲けれ</seg>
-            <seg>わか身むなしく</seg>
-            <seg>成ぬとおもへは</seg>
+            <seg>
+              <w lemmaRef="#あきかぜ.秋風">秋風</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あふ.逢ふ">あふ</w>
+              <w lemmaRef="#たのみ.頼む">たのみ</w>
+              <w lemmaRef="#こそ.こそ">こそ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かなしけれ.悲し">悲けれ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わ.我">わ</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#み.身">身</w>
+              <w lemmaRef="#むなしく.空し">むなしく</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なり.成る">成</w>
+              <w lemmaRef="#ぬ.ぬ">ぬ</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#おもへ.思ふ">おもへ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -30084,11 +30084,36 @@
           </note>
           <lb/>
           <l n="787" xml:id="n787" resp="#紀友則">
-            <seg>秋風は</seg>
-            <seg>身をわけてしも</seg>
-            <seg>ふかなくに</seg>
-            <seg>人の心の</seg>
-            <seg>そらになるらむ</seg>
+            <seg>
+              <w lemmaRef="#あきかぜ.秋風">秋風</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#み.身">身</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#わけ.分く">わけ</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#し.し">し</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ふか.吹く">ふか</w>
+              <w lemmaRef="#な.ず">な</w>
+              <w lemmaRef="#く.く">く</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#こころ.心">心</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#そら.空">そら</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#なる.成る">なる</w>
+              <w lemmaRef="#らむ.らむ">らむ</w>
+            </seg>
           </l>
         </div>
         <lb/>

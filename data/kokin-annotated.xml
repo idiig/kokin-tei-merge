@@ -32346,11 +32346,33 @@
           </note>
           <lb/>
           <l n="847" xml:id="n847" resp="#遍昭">
-            <seg>みな人は</seg>
-            <seg>花の衣に</seg>
-            <seg>なりぬなり</seg>
-            <seg>苔のたもとよ</seg>
-            <seg>かはきたにせよ</seg>
+            <seg>
+              <w lemmaRef="#みな.皆">みな</w>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はな.花">花</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#ころも.衣">衣</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なり.成る">なり</w>
+              <w lemmaRef="#ぬ.ぬ">ぬ</w>
+              <w lemmaRef="#なり.なり">なり</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こけ.苔">苔</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#たもと.袂">たもと</w>
+              <w lemmaRef="#よ.よ">よ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かわき.乾く">かはき</w>
+              <w lemmaRef="#だに.だに">たに</w>
+              <w lemmaRef="#せよ.す">せよ</w>
+            </seg>
           </l>
         </div>
         <lb/>

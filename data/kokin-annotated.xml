@@ -33663,11 +33663,32 @@
           <note type="詞書" style="margin-top: 2em" target="#n881">池に月の見えけるをよめる</note>
           <lb/>
           <l n="881" xml:id="n881" resp="#紀貫之">
-            <seg>ふたつなき</seg>
-            <seg>物と思しを</seg>
-            <seg>みなそこに</seg>
-            <seg>山の葉ならて</seg>
-            <seg>いつる月影</seg>
+            <seg>
+              <w lemmaRef="#ふたつ.二つ">ふたつ</w>
+              <w lemmaRef="#なき.無し">なき</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#もの.物">物</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#おもひ.思ふ">思</w>
+              <w lemmaRef="#し.き">し</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みづぞこ.水底">みなそこ</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#やま.山">山</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#は.端">葉</w>
+              <w lemmaRef="#なら.なり">なら</w>
+              <w lemmaRef="#で.で">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いづる.出づ">いつる</w>
+              <w lemmaRef="#つきかげ.月影">月影</w>
+            </seg>
           </l>
         </div>
         <lb/>

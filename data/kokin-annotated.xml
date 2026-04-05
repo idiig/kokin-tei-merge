@@ -28661,11 +28661,37 @@
           </note>
           <lb/>
           <l n="747" xml:id="n747" resp="#在原業平">
-            <seg>月やあらぬ</seg>
-            <seg>春や昔の</seg>
-            <seg>春ならぬ</seg>
-            <seg>わか身ひとつは</seg>
-            <seg>本の身にして</seg>
+            <seg>
+              <w lemmaRef="#つき.月">月</w>
+              <w lemmaRef="#や.や">や</w>
+              <w lemmaRef="#あら.有り">あら</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はる.春">春</w>
+              <w lemmaRef="#や.や">や</w>
+              <w lemmaRef="#むかし.昔">昔</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はる.春">春</w>
+              <w lemmaRef="#なら.なり">なら</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わ.我">わ</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#み.身">身</w>
+              <w lemmaRef="#ひとつ.一つ">ひとつ</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#もと.元">本</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#み.身">身</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#して.して">して</w>
+            </seg>
           </l>
         </div>
         <lb/>

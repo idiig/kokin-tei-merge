@@ -32106,11 +32106,31 @@
           </note>
           <lb/>
           <l n="841" xml:id="n841" resp="#壬生忠岑">
-            <seg>藤衣</seg>
-            <seg>はつるゝいとは</seg>
-            <seg>わひ人の</seg>
-            <seg>涙の玉の</seg>
-            <seg>をとそなりける</seg>
+            <seg>
+              <w lemmaRef="#ふぢごろも.藤衣">藤衣</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はつるる.解る">はつるゝ</w>
+              <w lemmaRef="#いと.糸">いと</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わびびと.侘人">わひ人</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なみだ.涙">涙</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#たま.玉">玉</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#を.緒">を</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#なり.なり">なり</w>
+              <w lemmaRef="#ける.けり">ける</w>
+            </seg>
           </l>
         </div>
         <lb/>

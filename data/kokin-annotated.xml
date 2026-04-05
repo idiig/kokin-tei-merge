@@ -32216,11 +32216,34 @@
           </note>
           <lb/>
           <l n="844" xml:id="n844" resp="#よみ人知らず">
-            <seg>葦引の</seg>
-            <seg>山邊に今は</seg>
-            <seg>すみそめの</seg>
-            <seg>衣の袖は</seg>
-            <seg>ひる時もなし</seg>
+            <seg>
+              <w lemmaRef="#あし.足">葦</w>
+              <w lemmaRef="#ひき.曳く">引</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#やまべ.山辺">山邊</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#いま.今">今</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#すみ.墨">すみ</w>
+              <w lemmaRef="#そめ.染む">そめ</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ころも.衣">衣</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#そで.袖">袖</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひる.干る">ひる</w>
+              <w lemmaRef="#とき.時">時</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#なし.無し">なし</w>
+            </seg>
           </l>
         </div>
         <lb/>

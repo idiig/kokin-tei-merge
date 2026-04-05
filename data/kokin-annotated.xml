@@ -33628,11 +33628,34 @@
           </note>
           <lb/>
           <l n="880" xml:id="n880" resp="#紀貫之">
-            <seg>かつ見れと</seg>
-            <seg>うとくもある哉</seg>
-            <seg>月影の</seg>
-            <seg>いたらぬさとも</seg>
-            <seg>あらしと思へは</seg>
+            <seg>
+              <w lemmaRef="#かつ.且つ">かつ</w>
+              <w lemmaRef="#みれ.見る">見れ</w>
+              <w lemmaRef="#ど.ど">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うとく.疎し">うとく</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#ある.有り">ある</w>
+              <w lemmaRef="#かな.哉">哉</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#つきかげ.月影">月影</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いたら.至る">いたら</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+              <w lemmaRef="#さと.里">さと</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あら.有り">あら</w>
+              <w lemmaRef="#じ.じ">し</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#おもへ.思ふ">思へ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
           </l>
         </div>
         <lb/>

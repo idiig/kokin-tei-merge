@@ -29195,11 +29195,33 @@
         <lb/>
         <div type="和歌">
           <l n="762" xml:id="n762" resp="#よみ人知らず">
-            <seg>玉かつら</seg>
-            <seg>今はたゆとや</seg>
-            <seg>吹風の</seg>
-            <seg>をとにも人の</seg>
-            <seg>きこえさる覧</seg>
+            <seg>
+              <w lemmaRef="#たまかづら.玉葛">玉かつら</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いま.今">今</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#たゆ.絶ゆ">たゆ</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#や.や">や</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ふく.吹く">吹</w>
+              <w lemmaRef="#かぜ.風">風</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おと.音">をと</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#きこえ.聞ゆ">きこえ</w>
+              <w lemmaRef="#ざる.ず">さる</w>
+              <w lemmaRef="#らむ.らむ">覧</w>
+            </seg>
           </l>
         </div>
         <lb/>

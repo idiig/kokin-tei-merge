@@ -32552,11 +32552,31 @@
           <pb n="2-32r" facs="#p104"/>
           <lb/>
           <l n="852" xml:id="n852">
-            <seg>きみまさて</seg>
-            <seg>煙たえにし</seg>
-            <seg>ゝほかまの</seg>
-            <seg>浦さひしくも</seg>
-            <seg>見え渡哉</seg>
+            <seg>
+              <w lemmaRef="#きみ.君">きみ</w>
+              <w lemmaRef="#まさ.坐す">まさ</w>
+              <w lemmaRef="#で.で">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#けぶり.煙">煙</w>
+              <w lemmaRef="#たえ.絶ゆ">たえ</w>
+              <w lemmaRef="#に.ぬ">に</w>
+              <w lemmaRef="#し.き">し</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#しほがま.塩釜">ゝほかま</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うら.心">浦</w>
+              <w lemmaRef="#さびしく.寂し">さひしく</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みえ.見ゆ">見え</w>
+              <w lemmaRef="#わたる.渡る">渡</w>
+              <w lemmaRef="#かな.哉">哉</w>
+            </seg>
           </l>
         </div>
         <lb/>

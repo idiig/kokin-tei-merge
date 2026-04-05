@@ -33291,11 +33291,32 @@
           </note>
           <lb/>
           <l n="871" xml:id="n871" resp="#在原業平">
-            <seg>おほはらや</seg>
-            <seg>をしほの山も</seg>
-            <seg>けふこそは</seg>
-            <seg>神世の事も</seg>
-            <seg>思いつらめ</seg>
+            <seg>
+              <w lemmaRef="#おほはら.大原">おほはら</w>
+              <w lemmaRef="#や.や">や</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#をしほ.小塩">をしほ</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#やま.山">山</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#けふ.今日">けふ</w>
+              <w lemmaRef="#こそ.こそ">こそ</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かみよ.神世">神世</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#こと.事">事</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おもふ.思ふ">思</w>
+              <w lemmaRef="#いづ.出づ">いつ</w>
+              <w lemmaRef="#らめ.らむ">らめ</w>
+            </seg>
           </l>
         </div>
         <lb/>

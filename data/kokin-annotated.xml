@@ -34193,11 +34193,32 @@
         <lb/>
         <div type="和歌">
           <l n="896" xml:id="n896" resp="#よみ人知らず">
-            <seg>さかさまに</seg>
-            <seg>年もゆか南</seg>
-            <seg>とりもあへす</seg>
-            <seg>ゝくるよはひや</seg>
-            <seg>ともにかへると</seg>
+            <seg>
+              <w lemmaRef="#さかさまに.逆様なり">さかさまに</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#とし.年">年</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#ゆか.行く">ゆか</w>
+              <w lemmaRef="#なむ.なむ">南</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#とり.取る">とり</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#あへ.敢ふ">あへ</w>
+              <w lemmaRef="#ず.ず">す</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#すぐる.過ぐ">ゝくる</w>
+              <w lemmaRef="#よはひ.齢">よはひ</w>
+              <w lemmaRef="#や.や">や</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#とも.共">とも</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#かへる.帰る">かへる</w>
+              <w lemmaRef="#と.と">と</w>
+            </seg>
           </l>
         </div>
         <lb/>

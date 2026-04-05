@@ -31107,11 +31107,34 @@
           <pb n="2-27v" facs="#p100"/>
           <lb/>
           <l n="814" xml:id="n814" resp="#藤原興風">
-            <seg>怨ても</seg>
-            <seg>なきてもいはむ</seg>
-            <seg>方そなき</seg>
-            <seg>かゝみに見ゆる</seg>
-            <seg>影ならすして</seg>
+            <seg>
+              <w lemmaRef="#うらみ.怨む">怨</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なき.泣く">なき</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#いは.言ふ">いは</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かた.方">方</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#なき.無し">なき</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かがみ.鏡">かゝみ</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#みゆる.見ゆ">見ゆる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かげ.影">影</w>
+              <w lemmaRef="#なら.なり">なら</w>
+              <w lemmaRef="#ず.ず">す</w>
+              <w lemmaRef="#して.して">して</w>
+            </seg>
           </l>
         </div>
         <lb/>

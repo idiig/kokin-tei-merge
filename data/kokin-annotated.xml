@@ -28385,11 +28385,32 @@
           </note>
           <lb/>
           <l n="740" xml:id="n740" resp="#閑院">
-            <seg>相坂の</seg>
-            <seg>ゆふつけ鳥に</seg>
-            <seg>あらはこそ</seg>
-            <seg>君かゆきゝを</seg>
-            <seg>なく〳〵も見め</seg>
+            <seg>
+              <w lemmaRef="#あふさか.相坂">相坂</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ゆふつけどり.木綿付鳥">ゆふつけ鳥</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あら.有り">あら</w>
+              <w lemmaRef="#ば.ば">は</w>
+              <w lemmaRef="#こそ.こそ">こそ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#きみ.君">君</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#ゆきき.行き来">ゆきゝ</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なく.泣く">なく</w>
+              <w lemmaRef="#なく.泣く">〳〵</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#め.む">め</w>
+            </seg>
           </l>
         </div>
         <lb/>

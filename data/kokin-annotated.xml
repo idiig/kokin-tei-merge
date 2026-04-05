@@ -31800,11 +31800,36 @@
           </note>
           <lb/>
           <l n="833" xml:id="n833" resp="#紀友則">
-            <seg>ねても見ゆ</seg>
-            <seg>ねても見えけり</seg>
-            <seg>おほかたは</seg>
-            <seg>うつせみの世そ</seg>
-            <seg>夢には有ける</seg>
+            <seg>
+              <w lemmaRef="#ね.寝">ね</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#みゆ.見ゆ">見ゆ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ね.寝">ね</w>
+              <w lemmaRef="#で.で">て</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#みえ.見ゆ">見え</w>
+              <w lemmaRef="#けり.けり">けり</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おほかた.大方">おほかた</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うつせみ.空蝉">うつせみ</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#よ.世">世</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ゆめ.夢">夢</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#あり.有り">有</w>
+              <w lemmaRef="#ける.けり">ける</w>
+            </seg>
           </l>
         </div>
         <lb/>

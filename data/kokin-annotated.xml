@@ -27383,11 +27383,29 @@
         <lb/>
         <div type="和歌">
           <l n="712" xml:id="n712" resp="#よみ人知らず">
-            <seg>いつはりの</seg>
-            <seg>なき世なりせは</seg>
-            <seg>いか許</seg>
-            <seg>人の事のは</seg>
-            <seg>うれしからまし</seg>
+            <seg>
+              <w lemmaRef="#いつはり.偽る">いつはり</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なき.無し">なき</w>
+              <w lemmaRef="#よ.世">世</w>
+              <w lemmaRef="#なり.なり">なり</w>
+              <w lemmaRef="#せ.き">せ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いかばかり.如何許り">いか許</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#ことのは.言の葉">事のは</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うれしから.嬉し">うれしから</w>
+              <w lemmaRef="#まし.まし">まし</w>
+            </seg>
           </l>
         </div>
         <lb/>

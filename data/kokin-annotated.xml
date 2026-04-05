@@ -31724,11 +31724,31 @@
           <pb n="2-29r" facs="#p101"/>
           <lb/>
           <l n="831" xml:id="n831" resp="#勝延">
-            <seg>空蝉は</seg>
-            <seg>からを見つゝも</seg>
-            <seg>なくさめつ</seg>
-            <seg>深草の山</seg>
-            <seg>煙たにたて</seg>
+            <seg>
+              <w lemmaRef="#うつせみ.空蝉">空蝉</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#から.殻">から</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#つつ.つつ">つゝ</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なぐさめ.慰む">なくさめ</w>
+              <w lemmaRef="#つ.つ">つ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ふかくさ.深草">深草</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#やま.山">山</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#けぶり.煙">煙</w>
+              <w lemmaRef="#だに.だに">たに</w>
+              <w lemmaRef="#たて.立つ">たて</w>
+            </seg>
           </l>
         </div>
         <lb/>

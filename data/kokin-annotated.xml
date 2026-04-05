@@ -28533,11 +28533,36 @@
           </note>
           <lb/>
           <l n="744" xml:id="n744" resp="#よみ人知らず">
-            <seg>あふまての</seg>
-            <seg>かたみも我は</seg>
-            <seg>なにせむに</seg>
-            <seg>見ても心の</seg>
-            <seg>なくさまなくに</seg>
+            <seg>
+              <w lemmaRef="#あふ.逢ふ">あふ</w>
+              <w lemmaRef="#まで.まで">まて</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かたみ.形見">かたみ</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#われ.我">我</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なに.何">なに</w>
+              <w lemmaRef="#せ.す">せ</w>
+              <w lemmaRef="#む.む">む</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#こころ.心">心</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なぐさま.慰む">なくさま</w>
+              <w lemmaRef="#な.ず">な</w>
+              <w lemmaRef="#く.く">く</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
           </l>
         </div>
         <pb n="2-21v" facs="#p094"/>

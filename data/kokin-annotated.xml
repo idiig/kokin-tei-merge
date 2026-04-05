@@ -33699,11 +33699,30 @@
           </note>
           <lb/>
           <l n="882" xml:id="n882" resp="#よみ人知らず">
-            <seg>あまの河</seg>
-            <seg>雲のみおにて</seg>
-            <seg>はやけれは</seg>
-            <seg>ひかりとゝめす</seg>
-            <seg>月そなかるゝ</seg>
+            <seg>
+              <w lemmaRef="#あまのかは.天の河">あまの河</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#くも.雲">雲</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#みを.水脈">みお</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はやけれ.早し">はやけれ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひかり.光">ひかり</w>
+              <w lemmaRef="#とどめ.止む">とゝめ</w>
+              <w lemmaRef="#ず.ず">す</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#つき.月">月</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#ながるる.流る">なかるゝ</w>
+            </seg>
           </l>
         </div>
         <pb n="2-36v" facs="#p109"/>

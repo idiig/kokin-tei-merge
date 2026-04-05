@@ -30462,11 +30462,33 @@
           </note>
           <lb/>
           <l n="797" xml:id="n797" resp="#小野小町">
-            <seg>いろ見えて</seg>
-            <seg>うつろふ物は</seg>
-            <seg>世中の</seg>
-            <seg>人の心の</seg>
-            <seg>花にそ有ける</seg>
+            <seg>
+              <w lemmaRef="#いろ.色">いろ</w>
+              <w lemmaRef="#みえ.見ゆ">見え</w>
+              <w lemmaRef="#で.で">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うつろふ.移ろふ">うつろふ</w>
+              <w lemmaRef="#もの.物">物</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#よのなか.世の中">世中</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#こころ.心">心</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はな.花">花</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#あり.有り">有</w>
+              <w lemmaRef="#ける.けり">ける</w>
+            </seg>
           </l>
         </div>
         <lb/>

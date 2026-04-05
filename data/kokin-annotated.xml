@@ -27899,11 +27899,35 @@
           </note>
           <lb/>
           <l n="727" xml:id="n727" resp="#小野小町">
-            <seg>あまのすむ</seg>
-            <seg>さとのしるへに</seg>
-            <seg>あらなくに</seg>
-            <seg>怨むとのみ</seg>
-            <seg>人のいふらむ</seg>
+            <seg>
+              <w lemmaRef="#あま.海人">あま</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#すむ.住む">すむ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#さと.里">さと</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#しるべ.標">しるへ</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あら.有り">あら</w>
+              <w lemmaRef="#な.ず">な</w>
+              <w lemmaRef="#く.く">く</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うらみ.怨む">怨</w>
+              <w lemmaRef="#む.む">む</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#のみ.のみ">のみ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#いふ.言ふ">いふ</w>
+              <w lemmaRef="#らむ.らむ">らむ</w>
+            </seg>
           </l>
         </div>
         <lb/>

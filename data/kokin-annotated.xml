@@ -30166,11 +30166,34 @@
           </note>
           <lb/>
           <l n="789" xml:id="n789" resp="#兵衛">
-            <seg>しての山</seg>
-            <seg>ふもとを見てそ</seg>
-            <seg>かへりにし</seg>
-            <seg>つらき人より</seg>
-            <seg>まつこえしとて</seg>
+            <seg>
+              <w lemmaRef="#しで.死出">して</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#やま.山">山</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ふもと.麓">ふもと</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かへり.帰る">かへり</w>
+              <w lemmaRef="#に.ぬ">に</w>
+              <w lemmaRef="#し.き">し</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#つらき.辛し">つらき</w>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#より.より">より</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#まづ.先づ">まつ</w>
+              <w lemmaRef="#こえ.越ゆ">こえ</w>
+              <w lemmaRef="#じ.じ">し</w>
+              <w lemmaRef="#とて.とて">とて</w>
+            </seg>
           </l>
         </div>
         <lb/>

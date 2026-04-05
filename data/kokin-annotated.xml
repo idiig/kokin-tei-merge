@@ -32512,11 +32512,35 @@
           </note>
           <lb/>
           <l n="851" xml:id="n851" resp="#紀貫之">
-            <seg>色もかも</seg>
-            <seg>昔のこさに</seg>
-            <seg>ゝほへとも</seg>
-            <seg>うへけむ人の</seg>
-            <seg>影そこひしき</seg>
+            <seg>
+              <w lemmaRef="#いろ.色">色</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#か.香">か</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#むかし.昔">昔</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#こ.濃し">こ</w>
+              <w lemmaRef="#さ.さ">さ</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#にほへ.匂ふ">ゝほへ</w>
+              <w lemmaRef="#ど.ど">と</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うゑ.植う">うへ</w>
+              <w lemmaRef="#けむ.けむ">けむ</w>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かげ.影">影</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#こひしき.恋し">こひしき</w>
+            </seg>
           </l>
         </div>
         <lb/>

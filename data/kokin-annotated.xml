@@ -27831,11 +27831,30 @@
           </note>
           <lb/>
           <l n="725" xml:id="n725" resp="#よみ人知らず">
-            <seg>思ふより</seg>
-            <seg>いかにせよとか</seg>
-            <seg>秋風に</seg>
-            <seg>なひくあさちの</seg>
-            <seg>いろことになる</seg>
+            <seg>
+              <w lemmaRef="#おもふ.思ふ">思ふ</w>
+              <w lemmaRef="#より.より">より</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いかに.如何に">いかに</w>
+              <w lemmaRef="#せよ.す">せよ</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#か.か">か</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あきかぜ.秋風">秋風</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なびく.靡く">なひく</w>
+              <w lemmaRef="#あさぢ.浅茅">あさち</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いろ.色">いろ</w>
+              <w lemmaRef="#ことに.異なり">ことに</w>
+              <w lemmaRef="#なる.成る">なる</w>
+            </seg>
           </l>
         </div>
         <lb/>

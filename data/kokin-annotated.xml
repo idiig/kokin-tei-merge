@@ -31762,11 +31762,32 @@
           </note>
           <lb/>
           <l n="832" xml:id="n832" resp="#上野岑雄">
-            <seg>深草の</seg>
-            <seg>ゝへの櫻し</seg>
-            <seg>心あらは</seg>
-            <seg>ことし許は</seg>
-            <seg>すみそめにさけ</seg>
+            <seg>
+              <w lemmaRef="#ふかくさ.深草">深草</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#のべ.野辺">ゝへ</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#さくら.桜">櫻</w>
+              <w lemmaRef="#し.し">し</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こころ.心">心</w>
+              <w lemmaRef="#あら.有り">あら</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ことし.今年">ことし</w>
+              <w lemmaRef="#ばかり.許り">許</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#すみ.墨">すみ</w>
+              <w lemmaRef="#そめ.染む">そめ</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#さけ.咲く">さけ</w>
+            </seg>
           </l>
         </div>
         <lb/>

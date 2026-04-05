@@ -32791,11 +32791,33 @@
           <pb n="2-33r" facs="#p105"/>
           <lb/>
           <l n="858" xml:id="n858" resp="#よみ人知らず">
-            <seg>聲をたに</seg>
-            <seg>きかてわかるゝ</seg>
-            <seg>玉よりも</seg>
-            <seg>なきとこにねむ</seg>
-            <seg>君そかなしき</seg>
+            <seg>
+              <w lemmaRef="#こゑ.声">聲</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#だに.だに">たに</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#きか.聞く">きか</w>
+              <w lemmaRef="#で.で">て</w>
+              <w lemmaRef="#わかるる.別る">わかるゝ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たま.魂">玉</w>
+              <w lemmaRef="#より.より">より</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なき.無し">なき</w>
+              <w lemmaRef="#とこ.床">とこ</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#ね.寝">ね</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#きみ.君">君</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#かなしき.悲し">かなしき</w>
+            </seg>
           </l>
         </div>
         <lb/>

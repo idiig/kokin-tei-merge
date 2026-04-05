@@ -31678,11 +31678,35 @@
           </note>
           <lb/>
           <l n="830" xml:id="n830" resp="#素性法師">
-            <seg>ちのなみた</seg>
-            <seg>おちてそたきつ</seg>
-            <seg>白河は</seg>
-            <seg>君かよまての</seg>
-            <seg>名にこそ有けれ</seg>
+            <seg>
+              <w lemmaRef="#ち.血">ち</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#なみだ.涙">なみた</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おち.落つ">おち</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#たぎつ.激つ">たきつ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#しらかは.白河">白河</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#きみ.君">君</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#よ.世">よ</w>
+              <w lemmaRef="#まで.まで">まて</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#な.名">名</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#こそ.こそ">こそ</w>
+              <w lemmaRef="#あり.有り">有</w>
+              <w lemmaRef="#けれ.けり">けれ</w>
+            </seg>
           </l>
         </div>
         <lb/>

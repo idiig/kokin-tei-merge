@@ -27217,11 +27217,34 @@
           </note>
           <lb/>
           <l n="707" xml:id="n707" resp="#在原業平">
-            <seg>おほぬさと</seg>
-            <seg>なにこそたてれ</seg>
-            <seg>流ても</seg>
-            <seg>つゐによるせは</seg>
-            <seg>ありてふものを</seg>
+            <seg>
+              <w lemmaRef="#おほぬさ.大幣">おほぬさ</w>
+              <w lemmaRef="#と.と">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#な.名">な</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#こそ.こそ">こそ</w>
+              <w lemmaRef="#たて.立つ">たて</w>
+              <w lemmaRef="#れ.り">れ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ながれ.流る">流</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#つひに.遂に">つゐに</w>
+              <w lemmaRef="#よる.寄る">よる</w>
+              <w lemmaRef="#せ.瀬">せ</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あり.有り">あり</w>
+              <w lemmaRef="#てふ.てふ">てふ</w>
+              <w lemmaRef="#もの.物">もの</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
           </l>
         </div>
         <lb/>

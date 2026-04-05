@@ -33521,11 +33521,32 @@
           </note>
           <lb/>
           <l n="877" xml:id="n877" resp="#よみ人知らず">
-            <seg>をそくいつる</seg>
-            <seg>月にもある哉</seg>
-            <seg>葦引の</seg>
-            <seg>山のあなたも</seg>
-            <seg>おしむへら也</seg>
+            <seg>
+              <w lemmaRef="#おそく.遅し">をそく</w>
+              <w lemmaRef="#いづる.出づ">いつる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#つき.月">月</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#ある.有り">ある</w>
+              <w lemmaRef="#かな.哉">哉</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あし.足">葦</w>
+              <w lemmaRef="#ひき.曳く">引</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#やま.山">山</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#あなた.彼方">あなた</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#をしむ.惜しむ">おしむ</w>
+              <w lemmaRef="#べらなり.べらなり">へら也</w>
+            </seg>
           </l>
         </div>
         <lb/>

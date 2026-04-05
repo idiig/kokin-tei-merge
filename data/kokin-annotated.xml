@@ -27083,11 +27083,35 @@
         <lb/>
         <div type="和歌">
           <l n="703" xml:id="n703" resp="#よみ人知らず">
-            <seg>夏ひきの</seg>
-            <seg>てひきのいとを</seg>
-            <seg>くり返し</seg>
-            <seg>事しけくとも</seg>
-            <seg>たえむと思な</seg>
+            <seg>
+              <w lemmaRef="#なつ.夏">夏</w>
+              <w lemmaRef="#ひき.引く">ひき</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#て.手">て</w>
+              <w lemmaRef="#ひき.引く">ひき</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#いと.糸">いと</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#くり.繰る">くり</w>
+              <w lemmaRef="#かへし.返す">返し</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こと.事">事</w>
+              <w lemmaRef="#しげく.繁し">しけく</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たえ.絶ゆ">たえ</w>
+              <w lemmaRef="#む.む">む</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#おもふ.思ふ">思</w>
+              <w lemmaRef="#な.な">な</w>
+            </seg>
           </l>
           <pb n="2-18r" facs="#p090"/>
           <lb/>

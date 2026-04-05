@@ -31179,11 +31179,33 @@
         <lb/>
         <div type="和歌">
           <l n="816" xml:id="n816" resp="#よみ人知らず">
-            <seg>わたつみの</seg>
-            <seg>わか身こす浪</seg>
-            <seg>立返り</seg>
-            <seg>あまのすむてふ</seg>
-            <seg>うらみつる哉</seg>
+            <seg>
+              <w lemmaRef="#わたつみ.海神">わたつみ</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わ.我">わ</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#み.身">身</w>
+              <w lemmaRef="#こす.越す">こす</w>
+              <w lemmaRef="#なみ.浪">浪</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たち.立つ">立</w>
+              <w lemmaRef="#かへり.返る">返り</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あま.海人">あま</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#すむ.住む">すむ</w>
+              <w lemmaRef="#てふ.てふ">てふ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うら.浦">うら</w>
+              <w lemmaRef="#み.見る">み</w>
+              <w lemmaRef="#つる.つ">つる</w>
+              <w lemmaRef="#かな.哉">哉</w>
+            </seg>
           </l>
         </div>
         <lb/>

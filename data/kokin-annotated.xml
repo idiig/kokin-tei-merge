@@ -32142,11 +32142,28 @@
           </note>
           <lb/>
           <l n="842" xml:id="n842" resp="#紀貫之">
-            <seg>あさつゆの</seg>
-            <seg>おくての山田</seg>
-            <seg>かりそめに</seg>
-            <seg>うき世中を</seg>
-            <seg>思ぬる哉</seg>
+            <seg>
+              <w lemmaRef="#あさつゆ.朝露">あさつゆ</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おくて.晩稲">おくて</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#やまだ.山田">山田</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かりそめに.仮初なり">かりそめに</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うき.憂し">うき</w>
+              <w lemmaRef="#よのなか.世の中">世中</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おもひ.思ふ">思</w>
+              <w lemmaRef="#ぬる.ぬ">ぬる</w>
+              <w lemmaRef="#かな.哉">哉</w>
+            </seg>
           </l>
         </div>
         <lb/>

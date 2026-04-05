@@ -32638,11 +32638,32 @@
           </note>
           <lb/>
           <l n="854" xml:id="n854" resp="#紀友則">
-            <seg>ことならは</seg>
-            <seg>事のはさへも</seg>
-            <seg>きえならむ</seg>
-            <seg>見れは涙の</seg>
-            <seg>瀧まさりけり</seg>
+            <seg>
+              <w lemmaRef="#こと.如">こと</w>
+              <w lemmaRef="#なら.なり">なら</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ことのは.言の葉">事のは</w>
+              <w lemmaRef="#さへ.さへ">さへ</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#きえ.消ゆ">きえ</w>
+              <w lemmaRef="#な.ぬ">な</w>
+              <w lemmaRef="#なむ.なむ">らむ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みれ.見る">見れ</w>
+              <w lemmaRef="#ば.ば">は</w>
+              <w lemmaRef="#なみだ.涙">涙</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たき.滝">瀧</w>
+              <w lemmaRef="#まさり.増さる">まさり</w>
+              <w lemmaRef="#けり.けり">けり</w>
+            </seg>
           </l>
         </div>
         <pb n="2-32v" facs="#p105"/>

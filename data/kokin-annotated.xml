@@ -28817,11 +28817,34 @@
           </note>
           <lb/>
           <l n="751" xml:id="n751" resp="#在原元方">
-            <seg>久方の</seg>
-            <seg>あまつそらにも</seg>
-            <seg>すまなくに</seg>
-            <seg>人はよそにそ</seg>
-            <seg>思へらなる</seg>
+            <seg>
+              <w lemmaRef="#ひさかた.久方">久方</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あま.天">あま</w>
+              <w lemmaRef="#つ.つ">つ</w>
+              <w lemmaRef="#そら.空">そら</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#すま.住む">すま</w>
+              <w lemmaRef="#な.ず">な</w>
+              <w lemmaRef="#く.く">く</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#よそ.余所">よそ</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おもふ.思ふ">思</w>
+              <w lemmaRef="#べらなる.べらなり">へらなる</w>
+            </seg>
           </l>
         </div>
         <lb/>

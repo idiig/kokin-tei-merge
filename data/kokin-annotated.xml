@@ -31917,11 +31917,33 @@
           <note type="詞書" style="margin-top: 2em" target="#n836">あねの身まかりにける時によめる</note>
           <lb/>
           <l n="836" xml:id="n836">
-            <seg>せをせけは</seg>
-            <seg>ふちとなりても</seg>
-            <seg>よとみけり</seg>
-            <seg>別をとむる</seg>
-            <seg>しからみそなき</seg>
+            <seg>
+              <w lemmaRef="#せ.瀬">せ</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#せけ.塞く">せけ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ふち.淵">ふち</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#なり.成る">なり</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#よどみ.淀む">よとみ</w>
+              <w lemmaRef="#けり.けり">けり</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わかれ.別る">別</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#とむる.止む">とむる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#しがらみ.柵む">しからみ</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#なき.無し">なき</w>
+            </seg>
           </l>
         </div>
         <lb/>

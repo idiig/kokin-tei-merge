@@ -32597,11 +32597,34 @@
           </note>
           <lb/>
           <l n="853" xml:id="n853" resp="#御春有助">
-            <seg>君かうへし</seg>
-            <seg>ひとむらすゝき</seg>
-            <seg>むしのねの</seg>
-            <seg>しけきのへとも</seg>
-            <seg>なりにける哉</seg>
+            <seg>
+              <w lemmaRef="#きみ.君">君</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#うゑ.植う">うへ</w>
+              <w lemmaRef="#し.き">し</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひとむら.一群">ひとむら</w>
+              <w lemmaRef="#すすき.薄">すゝき</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#むし.虫">むし</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#ね.音">ね</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#しげき.繁し">しけき</w>
+              <w lemmaRef="#のべ.野辺">のへ</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なり.成る">なり</w>
+              <w lemmaRef="#に.ぬ">に</w>
+              <w lemmaRef="#ける.けり">ける</w>
+              <w lemmaRef="#かな.哉">哉</w>
+            </seg>
           </l>
         </div>
         <lb/>

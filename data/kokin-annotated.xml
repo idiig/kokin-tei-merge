@@ -28153,11 +28153,29 @@
           </note>
           <lb/>
           <l n="734" xml:id="n734" resp="#紀貫之">
-            <seg>いにしへに</seg>
-            <seg>猶立帰</seg>
-            <seg>心哉</seg>
-            <seg>こひしきことに</seg>
-            <seg>物わすれせて</seg>
+            <seg>
+              <w lemmaRef="#いにしへ.古">いにしへ</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なほ.猶">猶</w>
+              <w lemmaRef="#たち.立つ">立</w>
+              <w lemmaRef="#かへる.帰る">帰</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こころ.心">心</w>
+              <w lemmaRef="#かな.哉">哉</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こひしき.恋し">こひしき</w>
+              <w lemmaRef="#ことに.異なり">ことに</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#もの.物">物</w>
+              <w lemmaRef="#わすれ.忘る">わすれ</w>
+              <w lemmaRef="#せ.す">せ</w>
+              <w lemmaRef="#で.で">て</w>
+            </seg>
           </l>
         </div>
         <lb/>

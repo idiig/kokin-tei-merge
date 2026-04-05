@@ -30619,11 +30619,33 @@
           </note>
           <lb/>
           <l n="801" xml:id="n801" resp="#源宗于">
-            <seg>忘草</seg>
-            <seg>かれもやすると</seg>
-            <seg>つれもなき</seg>
-            <seg>人の心に</seg>
-            <seg>霜はをかなむ</seg>
+            <seg>
+              <w lemmaRef="#わすれぐさ.忘草">忘草</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かれ.枯る">かれ</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#や.や">や</w>
+              <w lemmaRef="#する.す">する</w>
+              <w lemmaRef="#と.と">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#つれ.連る">つれ</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#なき.無し">なき</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#こころ.心">心</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#しも.霜">霜</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#おか.置く">をか</w>
+              <w lemmaRef="#なむ.なむ">なむ</w>
+            </seg>
           </l>
         </div>
         <pb n="2-26v" facs="#p099"/>

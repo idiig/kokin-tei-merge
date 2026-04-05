@@ -32293,11 +32293,35 @@
           </note>
           <lb/>
           <l n="846" xml:id="n846" resp="#文屋康秀">
-            <seg>草深き</seg>
-            <seg>霞の谷に</seg>
-            <seg>影かくし</seg>
-            <seg>てる日のくれし</seg>
-            <seg>けふにやはあらぬ</seg>
+            <seg>
+              <w lemmaRef="#くさ.草">草</w>
+              <w lemmaRef="#ふかき.深し">深き</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かすみ.霞">霞</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#たに.谷">谷</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かげ.影">影</w>
+              <w lemmaRef="#かくし.隠す">かくし</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#てる.照る">てる</w>
+              <w lemmaRef="#ひ.日">日</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#くれ.暮る">くれ</w>
+              <w lemmaRef="#し.き">し</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#けふ.今日">けふ</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#や.や">や</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#あら.有り">あら</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+            </seg>
           </l>
         </div>
         <lb/>

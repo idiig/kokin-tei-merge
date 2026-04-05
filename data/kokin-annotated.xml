@@ -27021,21 +27021,60 @@
         <lb/>
         <div type="和歌">
           <l n="701" xml:id="n701" resp="#よみ人知らず">
-            <seg>あまの原</seg>
-            <seg>ふみとゝろかし</seg>
-            <seg>なる神も</seg>
-            <seg>思ふ中をは</seg>
-            <seg>さくる物かは</seg>
+            <seg>
+              <w lemmaRef="#あまのはら.天の原">あまの原</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ふみ.踏む">ふみ</w>
+              <w lemmaRef="#とどろかし.轟かす">とゝろかし</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なる.鳴る">なる</w>
+              <w lemmaRef="#かみ.神">神</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おもふ.思ふ">思ふ</w>
+              <w lemmaRef="#なか.仲">中</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#さくる.裂く">さくる</w>
+              <w lemmaRef="#もの.物">物</w>
+              <w lemmaRef="#か.か">か</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
           </l>
         </div>
         <lb/>
         <div type="和歌">
           <l n="702" xml:id="n702" resp="#よみ人知らず">
-            <seg>梓弓</seg>
-            <seg>ひきのゝつゝら</seg>
-            <seg>すゑつゐに</seg>
-            <seg>わか思ふ人に</seg>
-            <seg>事のしけゝむ</seg>
+            <seg>
+              <w lemmaRef="#あづさゆみ.梓弓">梓弓</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひきの.日置野">ひきの</w>
+              <w lemmaRef="#の.の">ゝ</w>
+              <w lemmaRef="#つづら.葛">つゝら</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#すゑ.末">すゑ</w>
+              <w lemmaRef="#つひに.遂に">つゐに</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わ.我">わ</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#おもふ.思ふ">思ふ</w>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こと.事">事</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#しげけ.繁し">しけゝ</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
           </l>
           <lb/>
           <note type="左注" style="margin-top: 3em" target="#n702">この哥はある人あめのみかとのあふみのうねめに
@@ -27044,11 +27083,35 @@
         <lb/>
         <div type="和歌">
           <l n="703" xml:id="n703" resp="#よみ人知らず">
-            <seg>夏ひきの</seg>
-            <seg>てひきのいとを</seg>
-            <seg>くり返し</seg>
-            <seg>事しけくとも</seg>
-            <seg>たえむと思な</seg>
+            <seg>
+              <w lemmaRef="#なつ.夏">夏</w>
+              <w lemmaRef="#ひき.引く">ひき</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#て.手">て</w>
+              <w lemmaRef="#ひき.引く">ひき</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#いと.糸">いと</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#くり.繰る">くり</w>
+              <w lemmaRef="#かへし.返す">返し</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こと.事">事</w>
+              <w lemmaRef="#しげく.繁し">しけく</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たえ.絶ゆ">たえ</w>
+              <w lemmaRef="#む.む">む</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#おもふ.思ふ">思</w>
+              <w lemmaRef="#な.な">な</w>
+            </seg>
           </l>
           <pb n="2-18r" facs="#p090"/>
           <lb/>
@@ -27057,11 +27120,34 @@
         <lb/>
         <div type="和歌">
           <l n="704" xml:id="n704" resp="#よみ人知らず">
-            <seg>さと人の</seg>
-            <seg>事はなつのゝ</seg>
-            <seg>しけくとも</seg>
-            <seg>かれゆく君に</seg>
-            <seg>あはさらめやは</seg>
+            <seg>
+              <w lemmaRef="#さとびと.里人">さと人</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こと.事">事</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#なつの.夏野">なつの</w>
+              <w lemmaRef="#の.の">ゝ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#しげく.繁し">しけく</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かれ.枯る">かれ</w>
+              <w lemmaRef="#ゆく.行く">ゆく</w>
+              <w lemmaRef="#きみ.君">君</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あは.逢ふ">あは</w>
+              <w lemmaRef="#ざら.ず">さら</w>
+              <w lemmaRef="#め.む">め</w>
+              <w lemmaRef="#や.や">や</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -33830,11 +33830,33 @@
             <persName corresp="#藤原因香">よるかの朝臣</persName>母</note>
           <lb/>
           <l n="885" xml:id="n885" resp="#敬信">
-            <seg>おほそらを</seg>
-            <seg>てりゆく月し</seg>
-            <seg>きよけれは</seg>
-            <seg>雲かくせとも</seg>
-            <seg>ひかりけなくに</seg>
+            <seg>
+              <w lemmaRef="#おほぞら.大空">おほそら</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#てり.照る">てり</w>
+              <w lemmaRef="#ゆく.行く">ゆく</w>
+              <w lemmaRef="#つき.月">月</w>
+              <w lemmaRef="#し.し">し</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#きよけれ.清し">きよけれ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#くも.雲">雲</w>
+              <w lemmaRef="#かくせ.隠す">かくせ</w>
+              <w lemmaRef="#ど.ど">と</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひかり.光">ひかり</w>
+              <w lemmaRef="#け.消ゆ">け</w>
+              <w lemmaRef="#な.ず">な</w>
+              <w lemmaRef="#く.く">く</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
           </l>
         </div>
         <pb n="2-37r" facs="#p109"/>

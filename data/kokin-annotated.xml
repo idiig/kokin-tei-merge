@@ -33587,11 +33587,35 @@
           </note>
           <lb/>
           <l n="879" xml:id="n879" resp="#在原業平">
-            <seg>おほかたは</seg>
-            <seg>月をもめてし</seg>
-            <seg>これそこの</seg>
-            <seg>つもれは人の</seg>
-            <seg>おいとなるもの</seg>
+            <seg>
+              <w lemmaRef="#おほかた.大方">おほかた</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#つき.月">月</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#めで.賞づ">めて</w>
+              <w lemmaRef="#じ.じ">し</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#これ.此れ">これ</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#こ.此">こ</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#つもれ.積もる">つもれ</w>
+              <w lemmaRef="#ば.ば">は</w>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おい.老ゆ">おい</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#なる.成る">なる</w>
+              <w lemmaRef="#もの.物">もの</w>
+            </seg>
           </l>
         </div>
         <lb/>

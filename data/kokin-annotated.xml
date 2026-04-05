@@ -28578,11 +28578,30 @@
           </note>
           <lb/>
           <l n="745" xml:id="n745" resp="#藤原興風">
-            <seg>あふまての</seg>
-            <seg>かたみとてこそ</seg>
-            <seg>とゝめけめ</seg>
-            <seg>涙にうかふ</seg>
-            <seg>もくつなりけり</seg>
+            <seg>
+              <w lemmaRef="#あふ.逢ふ">あふ</w>
+              <w lemmaRef="#まで.まで">まて</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かたみ.形見">かたみ</w>
+              <w lemmaRef="#とて.とて">とて</w>
+              <w lemmaRef="#こそ.こそ">こそ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#とどめ.留む">とゝめ</w>
+              <w lemmaRef="#けめ.けむ">けめ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なみだ.涙">涙</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#うかぶ.浮かぶ">うかふ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#もくづ.藻屑">もくつ</w>
+              <w lemmaRef="#なり.なり">なり</w>
+              <w lemmaRef="#けり.けり">けり</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -33364,11 +33364,33 @@
           </note>
           <lb/>
           <l n="873" xml:id="n873" resp="#源融">
-            <seg>ぬしやたれ</seg>
-            <seg>とへと白玉</seg>
-            <seg>いはなくに</seg>
-            <seg>さらはなへてや</seg>
-            <seg>あはれとおもはむ</seg>
+            <seg>
+              <w lemmaRef="#ぬし.主">ぬし</w>
+              <w lemmaRef="#や.や">や</w>
+              <w lemmaRef="#たれ.誰">たれ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#とへ.問ふ">とへ</w>
+              <w lemmaRef="#ど.ど">と</w>
+              <w lemmaRef="#しらたま.白玉">白玉</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いは.言ふ">いは</w>
+              <w lemmaRef="#な.ず">な</w>
+              <w lemmaRef="#く.く">く</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#さらば.然らば">さらは</w>
+              <w lemmaRef="#なべて.並べて">なへて</w>
+              <w lemmaRef="#や.や">や</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あはれ.哀れ">あはれ</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#おもは.思ふ">おもは</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
           </l>
         </div>
         <lb/>

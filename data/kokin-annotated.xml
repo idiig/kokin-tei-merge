@@ -31005,11 +31005,37 @@
           </note>
           <lb/>
           <l n="811" xml:id="n811" resp="#よみ人知らず">
-            <seg>それをたに</seg>
-            <seg>思事とて</seg>
-            <seg>わかやとを</seg>
-            <seg>見きとないひそ</seg>
-            <seg>人のきかくに</seg>
+            <seg>
+              <w lemmaRef="#それ.其れ">それ</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#だに.だに">たに</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おもふ.思ふ">思</w>
+              <w lemmaRef="#こと.事">事</w>
+              <w lemmaRef="#とて.とて">とて</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わ.我">わ</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#やど.宿">やと</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#き.き">き</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#な.な">な</w>
+              <w lemmaRef="#いひ.言ふ">いひ</w>
+              <w lemmaRef="#そ.そ">そ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#きか.聞く">きか</w>
+              <w lemmaRef="#く.く">く</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
           </l>
         </div>
         <lb/>

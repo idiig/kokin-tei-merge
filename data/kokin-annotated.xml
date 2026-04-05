@@ -33899,11 +33899,31 @@
         <lb/>
         <div type="和歌">
           <l n="887" xml:id="n887" resp="#よみ人知らず">
-            <seg>いにしへの</seg>
-            <seg>野中のしみつ</seg>
-            <seg>ぬるけれと</seg>
-            <seg>本の心を</seg>
-            <seg>しる人そくむ</seg>
+            <seg>
+              <w lemmaRef="#いにしへ.古">いにしへ</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#のなか.野中">野中</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#しみづ.清水">しみつ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ぬるけれ.温し">ぬるけれ</w>
+              <w lemmaRef="#ど.ど">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#もと.本">本</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#こころ.心">心</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#しる.知る">しる</w>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#くむ.汲む">くむ</w>
+            </seg>
           </l>
         </div>
         <lb/>

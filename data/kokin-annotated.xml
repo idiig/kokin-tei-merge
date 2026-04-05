@@ -30007,11 +30007,34 @@
           </note>
           <lb/>
           <l n="785" xml:id="n785" resp="#在原業平">
-            <seg>ゆきかへり</seg>
-            <seg>そらにのみして</seg>
-            <seg>ふることは</seg>
-            <seg>わかゐる山の</seg>
-            <seg>風はやみ也</seg>
+            <seg>
+              <w lemmaRef="#ゆき.行く">ゆき</w>
+              <w lemmaRef="#かへり.帰る">かへり</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#そら.空">そら</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#のみ.のみ">のみ</w>
+              <w lemmaRef="#して.して">して</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ふる.経">ふる</w>
+              <w lemmaRef="#こと.事">こと</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わ.我">わ</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#ゐる.居る">ゐる</w>
+              <w lemmaRef="#やま.山">山</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かぜ.風">風</w>
+              <w lemmaRef="#はや.早し">はや</w>
+              <w lemmaRef="#み.み">み</w>
+              <w lemmaRef="#なり.なり">也</w>
+            </seg>
           </l>
         </div>
         <pb n="2-25r" facs="#p097"/>

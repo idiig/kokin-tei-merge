@@ -27050,11 +27050,31 @@
         <lb/>
         <div type="和歌">
           <l n="702" xml:id="n702" resp="#よみ人知らず">
-            <seg>梓弓</seg>
-            <seg>ひきのゝつゝら</seg>
-            <seg>すゑつゐに</seg>
-            <seg>わか思ふ人に</seg>
-            <seg>事のしけゝむ</seg>
+            <seg>
+              <w lemmaRef="#あづさゆみ.梓弓">梓弓</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひきの.日置野">ひきの</w>
+              <w lemmaRef="#の.の">ゝ</w>
+              <w lemmaRef="#つづら.葛">つゝら</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#すゑ.末">すゑ</w>
+              <w lemmaRef="#つひに.遂に">つゐに</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わ.我">わ</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#おもふ.思ふ">思ふ</w>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こと.事">事</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#しげけ.繁し">しけゝ</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
           </l>
           <lb/>
           <note type="左注" style="margin-top: 3em" target="#n702">この哥はある人あめのみかとのあふみのうねめに

@@ -31072,11 +31072,30 @@
         <lb/>
         <div type="和歌">
           <l n="813" xml:id="n813" resp="#よみ人知らず">
-            <seg>わひはつる</seg>
-            <seg>時さへ物の</seg>
-            <seg>かなしきは</seg>
-            <seg>いつこを忍</seg>
-            <seg>涙なるらむ</seg>
+            <seg>
+              <w lemmaRef="#わび.侘ぶ">わひ</w>
+              <w lemmaRef="#はつる.果つ">はつる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#とき.時">時</w>
+              <w lemmaRef="#さへ.さへ">さへ</w>
+              <w lemmaRef="#もの.物">物</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かなしき.悲し">かなしき</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いづこ.何処">いつこ</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#しのぶ.忍ぶ">忍</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なみだ.涙">涙</w>
+              <w lemmaRef="#なる.なり">なる</w>
+              <w lemmaRef="#らむ.らむ">らむ</w>
+            </seg>
           </l>
         </div>
         <lb/>

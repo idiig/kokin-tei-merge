@@ -30691,11 +30691,37 @@
           <note type="詞書" style="margin-top: 2em" target="#n803">題しらす</note>
           <lb/>
           <l n="803" xml:id="n803" resp="#素性法師">
-            <seg>秋の田の</seg>
-            <seg>いねてふことも</seg>
-            <seg>かけなくに</seg>
-            <seg>何をうしとか</seg>
-            <seg>人のかるらむ</seg>
+            <seg>
+              <w lemmaRef="#あき.秋">秋</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#た.田">田</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いね.稲">いね</w>
+              <w lemmaRef="#てふ.てふ">てふ</w>
+              <w lemmaRef="#こと.事">こと</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かけ.掛く">かけ</w>
+              <w lemmaRef="#な.ず">な</w>
+              <w lemmaRef="#く.く">く</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なに.何">何</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#うし.憂し">うし</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#か.か">か</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#かる.離る">かる</w>
+              <w lemmaRef="#らむ.らむ">らむ</w>
+            </seg>
           </l>
         </div>
         <lb/>

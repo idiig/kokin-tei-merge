@@ -28892,11 +28892,36 @@
           </note>
           <lb/>
           <l n="753" xml:id="n753" resp="#紀友則">
-            <seg>雲もなく</seg>
-            <seg>なきたるあさの</seg>
-            <seg>我なれや</seg>
-            <seg>いとはれてのみ</seg>
-            <seg>よをはへぬらむ</seg>
+            <seg>
+              <w lemmaRef="#くも.雲">雲</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#なく.無し">なく</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なぎ.凪ぐ">なき</w>
+              <w lemmaRef="#たる.たり">たる</w>
+              <w lemmaRef="#あさ.朝">あさ</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#われ.我">我</w>
+              <w lemmaRef="#なれ.なり">なれ</w>
+              <w lemmaRef="#や.や">や</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いとは.厭ふ">いとは</w>
+              <w lemmaRef="#れ.る">れ</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#のみ.のみ">のみ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#よ.世">よ</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#ば.ば">は</w>
+              <w lemmaRef="#へ.経">へ</w>
+              <w lemmaRef="#ぬ.ぬ">ぬ</w>
+              <w lemmaRef="#らむ.らむ">らむ</w>
+            </seg>
           </l>
         </div>
         <lb/>

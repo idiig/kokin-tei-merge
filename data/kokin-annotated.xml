@@ -34224,11 +34224,33 @@
         <lb/>
         <div type="和歌">
           <l n="897" xml:id="n897" resp="#よみ人知らず">
-            <seg>とりとむる</seg>
-            <seg>物にしあらねは</seg>
-            <seg>年月を</seg>
-            <seg>あはれあなうと</seg>
-            <seg>すくしつる哉</seg>
+            <seg>
+              <w lemmaRef="#とり.取る">とり</w>
+              <w lemmaRef="#とむる.止む">とむる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#もの.物">物</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#し.し">し</w>
+              <w lemmaRef="#あら.有り">あら</w>
+              <w lemmaRef="#ね.ず">ね</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#としつき.年月">年月</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あはれ.哀れ">あはれ</w>
+              <w lemmaRef="#あな.あな">あな</w>
+              <w lemmaRef="#う.憂し">う</w>
+              <w lemmaRef="#と.と">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#すぐし.過ぐす">すくし</w>
+              <w lemmaRef="#つる.つ">つる</w>
+              <w lemmaRef="#かな.哉">哉</w>
+            </seg>
           </l>
         </div>
         <lb/>

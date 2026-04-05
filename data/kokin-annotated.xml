@@ -32472,11 +32472,35 @@
           </note>
           <lb/>
           <l n="850" xml:id="n850" resp="#紀茂行">
-            <seg>花よりも</seg>
-            <seg>人こそあたに</seg>
-            <seg>なりにけれ</seg>
-            <seg>いつれをさきに</seg>
-            <seg>こひむとか見し</seg>
+            <seg>
+              <w lemmaRef="#はな.花">花</w>
+              <w lemmaRef="#より.より">より</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#こそ.こそ">こそ</w>
+              <w lemmaRef="#あだに.徒なり">あたに</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なり.成る">なり</w>
+              <w lemmaRef="#に.ぬ">に</w>
+              <w lemmaRef="#けれ.けり">けれ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いづれ.何れ">いつれ</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#さき.先">さき</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こひ.恋ふ">こひ</w>
+              <w lemmaRef="#む.む">む</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#か.か">か</w>
+              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#し.き">し</w>
+            </seg>
           </l>
         </div>
         <lb/>

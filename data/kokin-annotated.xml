@@ -30246,11 +30246,37 @@
           </note>
           <lb/>
           <l n="791" xml:id="n791" resp="#伊勢">
-            <seg>冬かれの</seg>
-            <seg>ゝへとわか身を</seg>
-            <seg>思ひせは</seg>
-            <seg>もえても春を</seg>
-            <seg>またまし物を</seg>
+            <seg>
+              <w lemmaRef="#ふゆ.冬">冬</w>
+              <w lemmaRef="#かれ.枯る">かれ</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#のべ.野辺">ゝへ</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#わ.我">わ</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#み.身">身</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おもひ.思ふ">思ひ</w>
+              <w lemmaRef="#せ.き">せ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#もえ.燃ゆ">もえ</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#はる.春">春</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#また.待つ">また</w>
+              <w lemmaRef="#まし.まし">まし</w>
+              <w lemmaRef="#もの.物">物</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
           </l>
         </div>
         <lb/>

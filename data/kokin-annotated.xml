@@ -29466,11 +29466,36 @@
           </note>
           <lb/>
           <l n="770" xml:id="n770" resp="#遍昭">
-            <seg>わかやとは</seg>
-            <seg>道もなきまて</seg>
-            <seg>あれにけり</seg>
-            <seg>つれなき人を</seg>
-            <seg>松とせしまに</seg>
+            <seg>
+              <w lemmaRef="#わ.我">わ</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#やど.宿">やと</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みち.道">道</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#なき.無し">なき</w>
+              <w lemmaRef="#まで.まで">まて</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あれ.荒る">あれ</w>
+              <w lemmaRef="#に.ぬ">に</w>
+              <w lemmaRef="#けり.けり">けり</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#つれなき.連れ無し">つれなき</w>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#まつ.待つ">松</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#せ.す">せ</w>
+              <w lemmaRef="#し.き">し</w>
+              <w lemmaRef="#ま.間">ま</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
           </l>
         </div>
         <lb/>

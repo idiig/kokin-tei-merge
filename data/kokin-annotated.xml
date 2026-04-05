@@ -30363,11 +30363,30 @@
           </note>
           <lb/>
           <l n="794" xml:id="n794" resp="#凡河内躬恒">
-            <seg>よしのかは</seg>
-            <seg>よしや人こそ</seg>
-            <seg>つらからめ</seg>
-            <seg>はやくいひてし</seg>
-            <seg>事はわすれし</seg>
+            <seg>
+              <w lemmaRef="#よしのがは.吉野河">よしのかは</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#よしや.縦しや">よしや</w>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#こそ.こそ">こそ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#つらから.辛し">つらから</w>
+              <w lemmaRef="#め.む">め</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はやく.早し">はやく</w>
+              <w lemmaRef="#いひ.言ふ">いひ</w>
+              <w lemmaRef="#て.つ">て</w>
+              <w lemmaRef="#し.き">し</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こと.事">事</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#わすれ.忘る">わすれ</w>
+              <w lemmaRef="#じ.じ">し</w>
+            </seg>
           </l>
         </div>
         <lb/>

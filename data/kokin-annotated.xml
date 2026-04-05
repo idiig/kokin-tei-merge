@@ -31475,11 +31475,34 @@
         <lb/>
         <div type="和歌">
           <l n="825" xml:id="n825" resp="#よみ人知らず">
-            <seg>わすらるゝ</seg>
-            <seg>身をうちはしの</seg>
-            <seg>中たえて</seg>
-            <seg>人もかよはぬ</seg>
-            <seg>年そへにける</seg>
+            <seg>
+              <w lemmaRef="#わすら.忘る">わすら</w>
+              <w lemmaRef="#るる.る">るゝ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#み.身">身</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#うぢばし.宇治橋">うちはし</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なか.中">中</w>
+              <w lemmaRef="#たえ.絶ゆ">たえ</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#かよは.通ふ">かよは</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#とし.年">年</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#へ.経">へ</w>
+              <w lemmaRef="#に.ぬ">に</w>
+              <w lemmaRef="#ける.けり">ける</w>
+            </seg>
           </l>
           <lb/>
           <note type="左注" style="margin-top: 3em" target="#n825">又はこなたかなたに人もかよはす</note>

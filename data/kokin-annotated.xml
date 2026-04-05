@@ -32255,11 +32255,32 @@
           </note>
           <lb/>
           <l n="845" xml:id="n845" resp="#小野篁">
-            <seg>水のおもに</seg>
-            <seg>しつく花の色</seg>
-            <seg>さやかにも</seg>
-            <seg>君かみ影の</seg>
-            <seg>おもほゆる哉</seg>
+            <seg>
+              <w lemmaRef="#みづ.水">水</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#も.面">おも</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#しづく.沈く">しつく</w>
+              <w lemmaRef="#はな.花">花</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#いろ.色">色</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#さやかに.清かなり">さやかに</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#きみ.君">君</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#みかげ.御影">み影</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おもほゆる.思ほゆ">おもほゆる</w>
+              <w lemmaRef="#かな.哉">哉</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -29261,11 +29261,31 @@
         <lb/>
         <div type="和歌">
           <l n="764" xml:id="n764" resp="#よみ人知らず">
-            <seg>山の井の</seg>
-            <seg>浅き心も</seg>
-            <seg>おもはぬを</seg>
-            <seg>影許のみ</seg>
-            <seg>人の見ゆらむ</seg>
+            <seg>
+              <w lemmaRef="#やまのゐ.山の井">山の井</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あさき.浅し">浅き</w>
+              <w lemmaRef="#こころ.心">心</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おもは.思ふ">おもは</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+              <w lemmaRef="#に.に">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かげ.影">影</w>
+              <w lemmaRef="#ばかり.許り">許</w>
+              <w lemmaRef="#のみ.のみ">のみ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#みゆ.見ゆ">見ゆ</w>
+              <w lemmaRef="#らむ.らむ">らむ</w>
+            </seg>
           </l>
         </div>
         <pb n="2-23v" facs="#p096"/>

@@ -28704,11 +28704,33 @@
             <persName corresp="#藤原仲平">仲平</persName>　枇杷左大臣</note>
           <lb/>
           <l n="748" xml:id="n748" resp="#藤原仲平">
-            <seg>花すゝき</seg>
-            <seg>我こそしたに</seg>
-            <seg>思しか</seg>
-            <seg>ほにいてゝ人に</seg>
-            <seg>むすはれにけり</seg>
+            <seg>
+              <w lemmaRef="#はなすすき.花薄">花すゝき</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#われ.我">我</w>
+              <w lemmaRef="#こそ.こそ">こそ</w>
+              <w lemmaRef="#した.下">した</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おもひ.思ふ">思</w>
+              <w lemmaRef="#しか.き">しか</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ほ.穂">ほ</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#いで.出づ">いて</w>
+              <w lemmaRef="#て.て">ゝ</w>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#むすば.結ぶ">むすは</w>
+              <w lemmaRef="#れ.る">れ</w>
+              <w lemmaRef="#に.ぬ">に</w>
+              <w lemmaRef="#けり.けり">けり</w>
+            </seg>
           </l>
         </div>
         <pb n="2-22v" facs="#p095"/>

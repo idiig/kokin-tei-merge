@@ -29930,11 +29930,35 @@
           </note>
           <lb/>
           <l n="783" xml:id="n783" resp="#小野貞樹">
-            <seg>人を思ふ</seg>
-            <seg>心のこのはに</seg>
-            <seg>あらはこそ</seg>
-            <seg>風のまに〳〵</seg>
-            <seg>ちりもみたれめ</seg>
+            <seg>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#おもふ.思ふ">思</w>
+              <w lemmaRef="#こころ.心">ふ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#の.の">心の</w>
+              <w lemmaRef="#こ.木">こ</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#は.葉">は</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あら.有り">あら</w>
+              <w lemmaRef="#ば.ば">は</w>
+              <w lemmaRef="#こそ.こそ">こそ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かぜ.風">風</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#まにまに.随に">まに〳〵</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ちり.散る">ちり</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#みだれ.乱る">みたれ</w>
+              <w lemmaRef="#め.む">め</w>
+            </seg>
           </l>
         </div>
         <lb/>

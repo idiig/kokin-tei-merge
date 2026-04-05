@@ -28265,11 +28265,33 @@
           </note>
           <lb/>
           <l n="737" xml:id="n737" resp="#源能有">
-            <seg>今はとて</seg>
-            <seg>返す事のは</seg>
-            <seg>ひろひをきて</seg>
-            <seg>をのか物から</seg>
-            <seg>かたみとや見む</seg>
+            <seg>
+              <w lemmaRef="#いま.今">今</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#とて.とて">とて</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かへす.返す">返す</w>
+              <w lemmaRef="#ことのは.言の葉">事のは</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひろひ.拾ふ">ひろひ</w>
+              <w lemmaRef="#おき.置く">をき</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#をの.己">をの</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#もの.物">物</w>
+              <w lemmaRef="#から.から">から</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かたみ.形見">かたみ</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#や.や">や</w>
+              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
           </l>
         </div>
         <lb/>

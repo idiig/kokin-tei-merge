@@ -28302,11 +28302,34 @@
           </note>
           <lb/>
           <l n="738" xml:id="n738" resp="#藤原因香">
-            <seg>玉杵の</seg>
-            <seg>道は常にも</seg>
-            <seg>まとは南</seg>
-            <seg>人を問とも</seg>
-            <seg>我かとおもはむ</seg>
+            <seg>
+              <w lemmaRef="#たまぼこ.玉桙">玉杵</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みち.道">道</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#つねに.常なり">常に</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#まどは.惑ふ">まとは</w>
+              <w lemmaRef="#なむ.なむ">南</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#とふ.訪ふ">問</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#われ.我">我</w>
+              <w lemmaRef="#か.か">か</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#おもは.思ふ">おもは</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
           </l>
         </div>
         <lb/>

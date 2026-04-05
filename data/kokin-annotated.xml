@@ -32431,11 +32431,32 @@
           </note>
           <lb/>
           <l n="849" xml:id="n849" resp="#紀貫之">
-            <seg>郭公</seg>
-            <seg>けさなくこゑに</seg>
-            <seg>おとろけは</seg>
-            <seg>君をわかれし</seg>
-            <seg>時にそありける</seg>
+            <seg>
+              <w lemmaRef="#ほととぎす.時鳥">郭公</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#けさ.今朝">けさ</w>
+              <w lemmaRef="#なく.鳴く">なく</w>
+              <w lemmaRef="#こゑ.声">こゑ</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おどろけ.驚く">おとろけ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#きみ.君">君</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#わかれ.別る">わかれ</w>
+              <w lemmaRef="#し.き">し</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#とき.時">時</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#あり.有り">あり</w>
+              <w lemmaRef="#ける.けり">ける</w>
+            </seg>
           </l>
         </div>
         <lb/>

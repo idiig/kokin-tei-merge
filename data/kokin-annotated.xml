@@ -28855,11 +28855,33 @@
           </note>
           <lb/>
           <l n="752" xml:id="n752" resp="#よみ人知らず">
-            <seg>見ても又</seg>
-            <seg>またも見まくの</seg>
-            <seg>ほしけれは</seg>
-            <seg>なるゝを人は</seg>
-            <seg>いとふへらなり</seg>
+            <seg>
+              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#また.又">又</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#また.又">また</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#まく.まく">まく</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ほしけれ.欲し">ほしけれ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なるる.馴る">なるゝ</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いとふ.厭ふ">いとふ</w>
+              <w lemmaRef="#べらなり.べらなり">へらなり</w>
+            </seg>
           </l>
         </div>
         <lb/>

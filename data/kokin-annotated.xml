@@ -29001,11 +29001,34 @@
           </note>
           <lb/>
           <l n="756" xml:id="n756" resp="#伊勢">
-            <seg>あひにあひて</seg>
-            <seg>物思ころの</seg>
-            <seg>わかそてに</seg>
-            <seg>やとる月さへ</seg>
-            <seg>ぬるゝかほなる</seg>
+            <seg>
+              <w lemmaRef="#あひ.逢ふ">あひ</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#あひ.逢ふ">あひ</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#もの.物">物</w>
+              <w lemmaRef="#おもふ.思ふ">思</w>
+              <w lemmaRef="#ころ.頃">ころ</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わ.我">わ</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#そで.袖">そて</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#やどる.宿る">やとる</w>
+              <w lemmaRef="#つき.月">月</w>
+              <w lemmaRef="#さへ.さへ">さへ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ぬるる.濡る">ぬるゝ</w>
+              <w lemmaRef="#かほ.顔">かほ</w>
+              <w lemmaRef="#なる.なり">なる</w>
+            </seg>
           </l>
         </div>
         <lb/>

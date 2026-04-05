@@ -33155,11 +33155,33 @@
           <pb n="2-34v" facs="#p107"/>
           <lb/>
           <l n="868" xml:id="n868" resp="#在原業平">
-            <seg>柴の</seg>
-            <seg>色こき時は</seg>
-            <seg>めもはるに</seg>
-            <seg>野なる草木そ</seg>
-            <seg>わかれさりける</seg>
+            <seg>
+              <w lemmaRef="#むらさき.紫">柴</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いろ.色">色</w>
+              <w lemmaRef="#こき.濃し">こき</w>
+              <w lemmaRef="#とき.時">時</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#め.芽">め</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#はる.張る">はる</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#の.野">野</w>
+              <w lemmaRef="#なる.成る">なる</w>
+              <w lemmaRef="#くさき.草木">草木</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わかれ.分かる">わかれ</w>
+              <w lemmaRef="#ざり.ず">さり</w>
+              <w lemmaRef="#ける.けり">ける</w>
+            </seg>
           </l>
         </div>
         <lb/>

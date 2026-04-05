@@ -32393,11 +32393,30 @@
           </note>
           <lb/>
           <l n="848" xml:id="n848" resp="#源能有">
-            <seg>うちつけに</seg>
-            <seg>さひしくもある</seg>
-            <seg>かもみちは</seg>
-            <seg>もぬしなきやとは</seg>
-            <seg>色なかりけり</seg>
+            <seg>
+              <w lemmaRef="#うちつけに.打ち付けなり">うちつけに</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#さびしく.寂し">さひしく</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#ある.有り">ある</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#か.か">か</w>
+              <w lemmaRef="#もみぢば.紅葉葉">もみちは</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#ぬし.主">ぬし</w>
+              <w lemmaRef="#なき.無し">なき</w>
+              <w lemmaRef="#やど.宿">やと</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いろ.色">色</w>
+              <w lemmaRef="#なかり.無し">なかり</w>
+              <w lemmaRef="#けり.けり">けり</w>
+            </seg>
           </l>
         </div>
         <lb/>

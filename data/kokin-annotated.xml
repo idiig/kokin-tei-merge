@@ -28932,11 +28932,33 @@
           </note>
           <lb/>
           <l n="754" xml:id="n754" resp="#よみ人知らず">
-            <seg>花かたみ</seg>
-            <seg>めならふ人の</seg>
-            <seg>あまたあれは</seg>
-            <seg>わすられぬ覧</seg>
-            <seg>かすならぬ身は</seg>
+            <seg>
+              <w lemmaRef="#はながたみ.花筐">花かたみ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#め.目">め</w>
+              <w lemmaRef="#ならぶ.並ぶ">ならふ</w>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あまた.数多">あまた</w>
+              <w lemmaRef="#あれ.有り">あれ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わすら.忘る">わすら</w>
+              <w lemmaRef="#れ.る">れ</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+              <w lemmaRef="#らむ.らむ">覧</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かず.数">かす</w>
+              <w lemmaRef="#なら.なり">なら</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+              <w lemmaRef="#み.身">身</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
           </l>
         </div>
         <pb n="2-23r" facs="#p095"/>

@@ -28340,11 +28340,34 @@
           </note>
           <lb/>
           <l n="739" xml:id="n739" resp="#よみ人知らず">
-            <seg>まてといはゝ</seg>
-            <seg>ねてもゆか南</seg>
-            <seg>しひてゆく</seg>
-            <seg>こまのあしおれ</seg>
-            <seg>まへのたなはし</seg>
+            <seg>
+              <w lemmaRef="#まて.待つ">まて</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#いは.言ふ">いは</w>
+              <w lemmaRef="#ば.ば">ゝ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ね.寝">ね</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#ゆか.行く">ゆか</w>
+              <w lemmaRef="#なむ.なむ">南</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#しひて.強ひて">しひて</w>
+              <w lemmaRef="#ゆく.行く">ゆく</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こま.駒">こま</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#あし.足">あし</w>
+              <w lemmaRef="#をれ.折る">おれ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#まへ.前">まへ</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#たなはし.棚橋">たなはし</w>
+            </seg>
           </l>
         </div>
         <pb n="2-21r" facs="#p093"/>

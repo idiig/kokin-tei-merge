@@ -29133,11 +29133,31 @@
         <lb/>
         <div type="和歌">
           <l n="760" xml:id="n760" resp="#よみ人知らず">
-            <seg>あひ見ねは</seg>
-            <seg>こひこそまされ</seg>
-            <seg>みなせ河</seg>
-            <seg>なにゝふかめて</seg>
-            <seg>思そめけむ</seg>
+            <seg>
+              <w lemmaRef="#あひ.逢ふ">あひ</w>
+              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#ね.ず">ね</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こひ.恋ふ">こひ</w>
+              <w lemmaRef="#こそ.こそ">こそ</w>
+              <w lemmaRef="#まされ.増さる">まされ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みなせがは.水無瀬河">みなせ河</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なに.何">なに</w>
+              <w lemmaRef="#に.に">ゝ</w>
+              <w lemmaRef="#ふかめ.深む">ふかめ</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おもひ.思ふ">思</w>
+              <w lemmaRef="#そめ.染む">そめ</w>
+              <w lemmaRef="#けむ.けむ">けむ</w>
+            </seg>
           </l>
         </div>
         <lb/>

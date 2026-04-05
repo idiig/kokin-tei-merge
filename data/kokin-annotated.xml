@@ -31145,11 +31145,35 @@
           </note>
           <lb/>
           <l n="815" xml:id="n815" resp="#よみ人知らず">
-            <seg>ゆふされは</seg>
-            <seg>人なきとこを</seg>
-            <seg>うちはらひ</seg>
-            <seg>なけかむためと</seg>
-            <seg>なれるわか身か</seg>
+            <seg>
+              <w lemmaRef="#ゆふ.夕">ゆふ</w>
+              <w lemmaRef="#され.去る">され</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#なき.無し">なき</w>
+              <w lemmaRef="#とこ.床">とこ</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うち.打つ">うち</w>
+              <w lemmaRef="#はらひ.払ふ">はらひ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なげか.嘆く">なけか</w>
+              <w lemmaRef="#む.む">む</w>
+              <w lemmaRef="#ため.為">ため</w>
+              <w lemmaRef="#と.と">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なれ.成る">なれ</w>
+              <w lemmaRef="#る.り">る</w>
+              <w lemmaRef="#わ.我">わ</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#み.身">身</w>
+              <w lemmaRef="#か.か">か</w>
+            </seg>
           </l>
         </div>
         <lb/>

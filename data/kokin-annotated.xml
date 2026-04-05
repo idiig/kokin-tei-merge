@@ -27979,11 +27979,34 @@
           <pb n="2-20r" facs="#p092"/>
           <lb/>
           <l n="729" xml:id="n729" resp="#紀貫之">
-            <seg>色もなき</seg>
-            <seg>心を人に</seg>
-            <seg>そめしより</seg>
-            <seg>うつろはむとは</seg>
-            <seg>おもほえなくに</seg>
+            <seg>
+              <w lemmaRef="#いろ.色">色</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#なき.無し">なき</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こころ.心">心</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#そめ.染む">そめ</w>
+              <w lemmaRef="#し.き">し</w>
+              <w lemmaRef="#より.より">より</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うつろは.移ろふ">うつろは</w>
+              <w lemmaRef="#む.む">む</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おもほえ.思ほゆ">おもほえ</w>
+              <w lemmaRef="#な.ず">な</w>
+              <w lemmaRef="#く.く">く</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
           </l>
         </div>
         <lb/>

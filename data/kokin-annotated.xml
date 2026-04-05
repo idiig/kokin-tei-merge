@@ -30659,11 +30659,31 @@
           </note>
           <lb/>
           <l n="802" xml:id="n802" resp="#素性法師">
-            <seg>忘草</seg>
-            <seg>なにをかたねと</seg>
-            <seg>思しは</seg>
-            <seg>つれなき人の</seg>
-            <seg>心なりけり</seg>
+            <seg>
+              <w lemmaRef="#わすれぐさ.忘れ草">忘草</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なに.何">なに</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#か.か">か</w>
+              <w lemmaRef="#たね.種">たね</w>
+              <w lemmaRef="#と.と">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おもひ.思ふ">思</w>
+              <w lemmaRef="#し.き">し</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#つれなき.連れ無し">つれなき</w>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こころ.心">心</w>
+              <w lemmaRef="#なり.なり">なり</w>
+              <w lemmaRef="#けり.けり">けり</w>
+            </seg>
           </l>
         </div>
         <lb/>

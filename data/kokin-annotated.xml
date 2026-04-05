@@ -27021,11 +27021,30 @@
         <lb/>
         <div type="和歌">
           <l n="701" xml:id="n701" resp="#よみ人知らず">
-            <seg>あまの原</seg>
-            <seg>ふみとゝろかし</seg>
-            <seg>なる神も</seg>
-            <seg>思ふ中をは</seg>
-            <seg>さくる物かは</seg>
+            <seg>
+              <w lemmaRef="#あまのはら.天の原">あまの原</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ふみ.踏む">ふみ</w>
+              <w lemmaRef="#とどろかし.轟かす">とゝろかし</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なる.鳴る">なる</w>
+              <w lemmaRef="#かみ.神">神</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おもふ.思ふ">思ふ</w>
+              <w lemmaRef="#なか.仲">中</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#さくる.裂く">さくる</w>
+              <w lemmaRef="#もの.物">物</w>
+              <w lemmaRef="#か.か">か</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
           </l>
         </div>
         <lb/>

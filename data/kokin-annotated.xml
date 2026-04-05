@@ -27722,11 +27722,31 @@
           </note>
           <lb/>
           <l n="722" xml:id="n722" resp="#素性法師">
-            <seg>そこひなき</seg>
-            <seg>ふちやはさはく</seg>
-            <seg>山河の</seg>
-            <seg>浅きせにこそ</seg>
-            <seg>あた浪はたて</seg>
+            <seg>
+              <w lemmaRef="#そこひ.底ひ">そこひ</w>
+              <w lemmaRef="#なき.無し">なき</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ふち.淵">ふち</w>
+              <w lemmaRef="#や.や">や</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#さわぐ.騒ぐ">さはく</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#やまかは.山河">山河</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あさき.浅し">浅き</w>
+              <w lemmaRef="#せ.瀬">せ</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#こそ.こそ">こそ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あだなみ.徒浪">あた浪</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#たて.立つ">たて</w>
+            </seg>
           </l>
         </div>
         <pb n="2-19v" facs="#p092"/>

@@ -27255,11 +27255,34 @@
           </note>
           <lb/>
           <l n="708" xml:id="n708" resp="#よみ人知らず">
-            <seg>すまのあまの</seg>
-            <seg>しほやく煙</seg>
-            <seg>風をいたみ</seg>
-            <seg>おもはぬ方に</seg>
-            <seg>たなひきにけり</seg>
+            <seg>
+              <w lemmaRef="#すま.須磨">すま</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#あま.海人">あま</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#しほ.塩">しほ</w>
+              <w lemmaRef="#やく.焼く">やく</w>
+              <w lemmaRef="#けぶり.煙">煙</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かぜ.風">風</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#いた.痛し">いた</w>
+              <w lemmaRef="#み.み">み</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おもは.思ふ">おもは</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+              <w lemmaRef="#かた.方">方</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たなびき.棚引く">たなひき</w>
+              <w lemmaRef="#に.ぬ">に</w>
+              <w lemmaRef="#けり.けり">けり</w>
+            </seg>
           </l>
         </div>
         <lb/>

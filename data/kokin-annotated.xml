@@ -30578,11 +30578,37 @@
           </note>
           <lb/>
           <l n="800" xml:id="n800" resp="#よみ人知らず">
-            <seg>今はとて</seg>
-            <seg>君かゝれなは</seg>
-            <seg>わかやとの</seg>
-            <seg>花をはひとり</seg>
-            <seg>見てやしのはむ</seg>
+            <seg>
+              <w lemmaRef="#いま.今">今</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#とて.とて">とて</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#きみ.君">君</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#かれ.枯る">ゝれ</w>
+              <w lemmaRef="#な.ぬ">な</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わ.我">わ</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#やど.宿">やと</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はな.花">花</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#ひとり.一人">ひとり</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#や.や">や</w>
+              <w lemmaRef="#しのば.忍ぶ">しのは</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
           </l>
         </div>
         <lb/>

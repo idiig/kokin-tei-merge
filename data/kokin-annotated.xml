@@ -31877,11 +31877,38 @@
           </note>
           <lb/>
           <l n="835" xml:id="n835" resp="#壬生忠岑">
-            <seg>ぬるかうちに</seg>
-            <seg>見るをのみやは</seg>
-            <seg>夢といはむ</seg>
-            <seg>はかなきよをも</seg>
-            <seg>うつゝとは見す</seg>
+            <seg>
+              <w lemmaRef="#ぬる.寝">ぬる</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#うち.内">うち</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みる.見る">見る</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#のみ.のみ">のみ</w>
+              <w lemmaRef="#や.や">や</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ゆめ.夢">夢</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#いは.言ふ">いは</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はかなき.儚し">はかなき</w>
+              <w lemmaRef="#よ.世">よ</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うつつ.現">うつゝ</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#ず.ず">す</w>
+            </seg>
           </l>
         </div>
         <pb n="2-29v" facs="#p102"/>

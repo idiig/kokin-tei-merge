@@ -32175,11 +32175,34 @@
           </note>
           <lb/>
           <l n="843" xml:id="n843" resp="#壬生忠岑">
-            <seg>すみそめの</seg>
-            <seg>君かたもとは</seg>
-            <seg>雲なれや</seg>
-            <seg>たえす涙の</seg>
-            <seg>雨とのみふる</seg>
+            <seg>
+              <w lemmaRef="#すみ.墨">すみ</w>
+              <w lemmaRef="#そめ.染む">そめ</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#きみ.君">君</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#たもと.袂">たもと</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#くも.雲">雲</w>
+              <w lemmaRef="#なれ.なり">なれ</w>
+              <w lemmaRef="#や.や">や</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たえ.絶ゆ">たえ</w>
+              <w lemmaRef="#ず.ず">す</w>
+              <w lemmaRef="#なみだ.涙">涙</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あめ.雨">雨</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#のみ.のみ">のみ</w>
+              <w lemmaRef="#ふる.降る">ふる</w>
+            </seg>
           </l>
         </div>
         <lb/>

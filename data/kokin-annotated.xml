@@ -29039,11 +29039,32 @@
           </note>
           <lb/>
           <l n="757" xml:id="n757" resp="#よみ人知らず">
-            <seg>秋ならて</seg>
-            <seg>をくしらつゆは</seg>
-            <seg>ねさめする</seg>
-            <seg>わかたまくらの</seg>
-            <seg>しつくなりけり</seg>
+            <seg>
+              <w lemmaRef="#あき.秋">秋</w>
+              <w lemmaRef="#なら.なり">なら</w>
+              <w lemmaRef="#で.で">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おく.置く">をく</w>
+              <w lemmaRef="#しらつゆ.白露">しらつゆ</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ね.寝">ね</w>
+              <w lemmaRef="#さめ.覚む">さめ</w>
+              <w lemmaRef="#する.す">する</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わ.我">わ</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#たまくら.手枕">たまくら</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#しづく.雫">しつく</w>
+              <w lemmaRef="#なり.なり">なり</w>
+              <w lemmaRef="#けり.けり">けり</w>
+            </seg>
           </l>
         </div>
         <lb/>

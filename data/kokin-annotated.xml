@@ -34288,11 +34288,35 @@
         <lb/>
         <div type="和歌">
           <l n="899" xml:id="n899" resp="#よみ人知らず">
-            <seg>鏡山</seg>
-            <seg>いさたちよりて</seg>
-            <seg>見てゆかむ</seg>
-            <seg>年へぬる身は</seg>
-            <seg>おいやしぬると</seg>
+            <seg>
+              <w lemmaRef="#かがみやま.鏡山">鏡山</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いさ.いざ">いさ</w>
+              <w lemmaRef="#たち.立つ">たち</w>
+              <w lemmaRef="#より.寄る">より</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#ゆか.行く">ゆか</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#とし.年">年</w>
+              <w lemmaRef="#へ.経">へ</w>
+              <w lemmaRef="#ぬる.ぬ">ぬる</w>
+              <w lemmaRef="#み.身">身</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おい.老ゆ">おい</w>
+              <w lemmaRef="#や.や">や</w>
+              <w lemmaRef="#し.す">し</w>
+              <w lemmaRef="#ぬる.ぬ">ぬる</w>
+              <w lemmaRef="#と.と">と</w>
+            </seg>
           </l>
           <lb/>
           <note type="左注" style="margin-top: 3em" target="#n899">この哥はある人のいはく

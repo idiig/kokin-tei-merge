@@ -33767,11 +33767,36 @@
           </note>
           <lb/>
           <l n="884" xml:id="n884" resp="#在原業平">
-            <seg>あかなくに</seg>
-            <seg>またきも月の</seg>
-            <seg>かくるゝか</seg>
-            <seg>山のはにけて</seg>
-            <seg>いれすもあらなむ</seg>
+            <seg>
+              <w lemmaRef="#あか.飽く">あか</w>
+              <w lemmaRef="#な.ず">な</w>
+              <w lemmaRef="#く.く">く</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#まだき.夙">またき</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#つき.月">月</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かくるる.隠る">かくるゝ</w>
+              <w lemmaRef="#か.か">か</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#やま.山">山</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#は.端">は</w>
+              <w lemmaRef="#にげ.逃ぐ">にけ</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いれ.入る">いれ</w>
+              <w lemmaRef="#ず.ず">す</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#あら.有り">あら</w>
+              <w lemmaRef="#なむ.なむ">なむ</w>
+            </seg>
           </l>
         </div>
         <lb/>

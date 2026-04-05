@@ -33410,11 +33410,32 @@
           </note>
           <lb/>
           <l n="874" xml:id="n874" resp="#藤原敏行">
-            <seg>玉たれの</seg>
-            <seg>こかめやいつら</seg>
-            <seg>こよろきの</seg>
-            <seg>いその浪わけ</seg>
-            <seg>おきにいてにけり</seg>
+            <seg>
+              <w lemmaRef="#たまだれ.玉垂れ">玉たれ</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こがめ.小亀">こかめ</w>
+              <w lemmaRef="#や.や">や</w>
+              <w lemmaRef="#いづら.何方">いつら</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こよろぎ.小余綾">こよろき</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いそ.磯">いそ</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#なみ.浪">浪</w>
+              <w lemmaRef="#わけ.分く">わけ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おき.沖">おき</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#いで.出づ">いて</w>
+              <w lemmaRef="#に.ぬ">に</w>
+              <w lemmaRef="#けり.けり">けり</w>
+            </seg>
           </l>
         </div>
         <lb/>

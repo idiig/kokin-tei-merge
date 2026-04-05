@@ -30732,11 +30732,31 @@
           </note>
           <lb/>
           <l n="804" xml:id="n804" resp="#紀貫之">
-            <seg>はつかりの</seg>
-            <seg>なきこそわたれ</seg>
-            <seg>世中の</seg>
-            <seg>人の心の</seg>
-            <seg>秋しうけれは</seg>
+            <seg>
+              <w lemmaRef="#はつかり.初雁">はつかり</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なく.鳴く">なき</w>
+              <w lemmaRef="#こそ.こそ">こそ</w>
+              <w lemmaRef="#わたれ.渡る">わたれ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#よのなか.世の中">世中</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#こころ.心">心</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あき.秋">秋</w>
+              <w lemmaRef="#し.し">し</w>
+              <w lemmaRef="#うけれ.憂し">うけれ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
           </l>
         </div>
         <lb/>

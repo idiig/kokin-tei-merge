@@ -32947,11 +32947,31 @@
           </note>
           <lb/>
           <l n="862" xml:id="n862" resp="#在原滋春">
-            <seg>かりそめの</seg>
-            <seg>ゆきかひちとそ</seg>
-            <seg>思こし</seg>
-            <seg>今は限の</seg>
-            <seg>かとてなりけり</seg>
+            <seg>
+              <w lemmaRef="#かりそめ.仮初め">かりそめ</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ゆきかひぢ.行き交ひ路">ゆきかひち</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おもひ.思ふ">思</w>
+              <w lemmaRef="#こ.来">こ</w>
+              <w lemmaRef="#し.き">し</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いま.今">今</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#かぎり.限る">限</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かどで.門出">かとて</w>
+              <w lemmaRef="#なり.なり">なり</w>
+              <w lemmaRef="#けり.けり">けり</w>
+            </seg>
           </l>
         </div>
       </div>

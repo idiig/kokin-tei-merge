@@ -31515,11 +31515,34 @@
           </note>
           <lb/>
           <l n="826" xml:id="n826" resp="#坂上是則">
-            <seg>あふことを</seg>
-            <seg>なからのはしの</seg>
-            <seg>なからへて</seg>
-            <seg>こひわたるまに</seg>
-            <seg>年そへにける</seg>
+            <seg>
+              <w lemmaRef="#あふ.逢ふ">あふ</w>
+              <w lemmaRef="#こと.事">こと</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ながら.長柄">なから</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#はし.橋">はし</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ながらへ.永らふ">なからへ</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こひ.恋ふ">こひ</w>
+              <w lemmaRef="#わたる.渡る">わたる</w>
+              <w lemmaRef="#ま.間">ま</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#とし.年">年</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#へ.経">へ</w>
+              <w lemmaRef="#に.ぬ">に</w>
+              <w lemmaRef="#ける.けり">ける</w>
+            </seg>
           </l>
         </div>
         <lb/>

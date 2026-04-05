@@ -30931,11 +30931,32 @@
           </note>
           <lb/>
           <l n="809" xml:id="n809" resp="#菅野忠臣">
-            <seg>つれなきを</seg>
-            <seg>今はこひしと</seg>
-            <seg>おもへとも</seg>
-            <seg>心よはくも</seg>
-            <seg>おつる涙か</seg>
+            <seg>
+              <w lemmaRef="#つれなき.連れ無し">つれなき</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いま.今">今</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#こひ.恋ふ">こひ</w>
+              <w lemmaRef="#じ.じ">し</w>
+              <w lemmaRef="#と.と">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おもへ.思ふ">おもへ</w>
+              <w lemmaRef="#ど.ど">と</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こころ.心">心</w>
+              <w lemmaRef="#よわく.弱し">よはく</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おつる.落つ">おつる</w>
+              <w lemmaRef="#なみだ.涙">涙</w>
+              <w lemmaRef="#か.か">か</w>
+            </seg>
           </l>
         </div>
         <lb/>

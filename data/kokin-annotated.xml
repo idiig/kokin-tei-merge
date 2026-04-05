@@ -31553,11 +31553,35 @@
           </note>
           <lb/>
           <l n="827" xml:id="n827" resp="#紀友則">
-            <seg>うきなから</seg>
-            <seg>けぬるあわとも</seg>
-            <seg>なりなゝむ</seg>
-            <seg>流てとたに</seg>
-            <seg>たのまれぬ身は</seg>
+            <seg>
+              <w lemmaRef="#うき.浮く">うき</w>
+              <w lemmaRef="#ながら.ながら">なから</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#け.消ゆ">け</w>
+              <w lemmaRef="#ぬる.ぬ">ぬる</w>
+              <w lemmaRef="#あわ.泡">あわ</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なり.成る">なり</w>
+              <w lemmaRef="#な.ぬ">な</w>
+              <w lemmaRef="#なむ.なむ">ゝむ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ながれ.流る">流</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#だに.だに">たに</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たのま.頼む">たのま</w>
+              <w lemmaRef="#れ.る">れ</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+              <w lemmaRef="#み.身">身</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
           </l>
         </div>
         <lb/>

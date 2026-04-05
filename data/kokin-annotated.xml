@@ -28459,11 +28459,32 @@
           </note>
           <lb/>
           <l n="742" xml:id="n742" resp="#寵">
-            <seg>山かつの</seg>
-            <seg>かきほにはへる</seg>
-            <seg>あをつゝら</seg>
-            <seg>人はくれとも</seg>
-            <seg>事つてもなし</seg>
+            <seg>
+              <w lemmaRef="#やまがつ.山賤">山かつ</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かきほ.垣穂">かきほ</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#はへ.這ふ">はへ</w>
+              <w lemmaRef="#る.り">る</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あをつづら.青葛">あをつゝら</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#くれ.来">くれ</w>
+              <w lemmaRef="#ど.ど">と</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こと.事">事</w>
+              <w lemmaRef="#つて.伝つ">つて</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#なし.無し">なし</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -29430,11 +29430,32 @@
             <persName corresp="#仁明天皇">仁明</persName>御子</note>
           <lb/>
           <l n="769" xml:id="n769" resp="#貞登">
-            <seg>ひとりのみ</seg>
-            <seg>なかめふるやの</seg>
-            <seg>つまなれは</seg>
-            <seg>人を忍の</seg>
-            <seg>草そおひける</seg>
+            <seg>
+              <w lemmaRef="#ひとり.一人">ひとり</w>
+              <w lemmaRef="#のみ.のみ">のみ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ながめ.眺む">なかめ</w>
+              <w lemmaRef="#ふるや.古屋">ふるや</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#つま.妻">つま</w>
+              <w lemmaRef="#なれ.なり">なれ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#しのぶ.忍">忍</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#くさ.草">草</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#おひ.生ふ">おひ</w>
+              <w lemmaRef="#ける.けり">ける</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -28116,11 +28116,33 @@
           </note>
           <lb/>
           <l n="733" xml:id="n733" resp="#伊勢">
-            <seg>わたつみと</seg>
-            <seg>あれにしとこを</seg>
-            <seg>いまさらに</seg>
-            <seg>はらはゝそてや</seg>
-            <seg>あわとうきなむ</seg>
+            <seg>
+              <w lemmaRef="#わたつみ.海神">わたつみ</w>
+              <w lemmaRef="#と.と">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あれ.荒る">あれ</w>
+              <w lemmaRef="#に.ぬ">に</w>
+              <w lemmaRef="#し.き">し</w>
+              <w lemmaRef="#とこ.床">とこ</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いまさらに.今更なり">いまさらに</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はらは.払ふ">はらは</w>
+              <w lemmaRef="#ば.ば">ゝ</w>
+              <w lemmaRef="#そで.袖">そて</w>
+              <w lemmaRef="#や.や">や</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あわ.泡">あわ</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#うき.浮く">うき</w>
+              <w lemmaRef="#な.ぬ">な</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
           </l>
         </div>
         <lb/>

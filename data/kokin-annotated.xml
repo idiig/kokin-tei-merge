@@ -29855,11 +29855,31 @@
             <persName>仁明</persName>御子</note>
           <lb/>
           <l n="781" xml:id="n781" resp="#常康親王">
-            <seg>吹まよふ</seg>
-            <seg>野風をさむみ</seg>
-            <seg>秋はきの</seg>
-            <seg>うつりもゆくか</seg>
-            <seg>人の心の</seg>
+            <seg>
+              <w lemmaRef="#ふき.吹く">吹</w>
+              <w lemmaRef="#まよふ.迷ふ">まよふ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#のかぜ.野風">野風</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#さむ.寒し">さむ</w>
+              <w lemmaRef="#み.み">み</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あきはぎ.秋萩">秋はき</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うつり.移る">うつり</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#ゆく.行く">ゆく</w>
+              <w lemmaRef="#ひと.人">か</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#の.の">人の</w>
+              <w lemmaRef="#こころ.心">心</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
           </l>
         </div>
         <lb/>

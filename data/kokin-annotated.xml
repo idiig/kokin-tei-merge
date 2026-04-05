@@ -34157,11 +34157,35 @@
         <lb/>
         <div type="和歌">
           <l n="895" xml:id="n895" resp="#よみ人知らず">
-            <seg>おいらくの</seg>
-            <seg>こむとしりせは</seg>
-            <seg>かとさして</seg>
-            <seg>なしとこたへて</seg>
-            <seg>あはさらましを</seg>
+            <seg>
+              <w lemmaRef="#おいらく.老いらく">おいらく</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こ.来">こ</w>
+              <w lemmaRef="#む.む">む</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#しり.知る">しり</w>
+              <w lemmaRef="#せ.き">せ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かど.門">かと</w>
+              <w lemmaRef="#さし.閉す">さし</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なし.無し">なし</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#こたへ.答ふ">こたへ</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あは.逢ふ">あは</w>
+              <w lemmaRef="#ざら.ず">さら</w>
+              <w lemmaRef="#まし.まし">まし</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
           </l>
           <lb/>
           <note type="左注" style="margin-top: 3em" target="#n893 #n894 #n895">このみつの哥は昔有けるみたりのおきなのよめるとなむ</note>

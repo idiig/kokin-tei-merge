@@ -28612,11 +28612,31 @@
           </note>
           <lb/>
           <l n="746" xml:id="n746" resp="#よみ人知らず">
-            <seg>かたみこそ</seg>
-            <seg>今はあたなれ</seg>
-            <seg>これなくは</seg>
-            <seg>わするゝ時も</seg>
-            <seg>あらましものを</seg>
+            <seg>
+              <w lemmaRef="#かたみ.形見">かたみ</w>
+              <w lemmaRef="#こそ.こそ">こそ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いま.今">今</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#あだなれ.徒なり">あたなれ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#これ.此れ">これ</w>
+              <w lemmaRef="#なく.無し">なく</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わするる.忘る">わするゝ</w>
+              <w lemmaRef="#とき.時">時</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あら.有り">あら</w>
+              <w lemmaRef="#まし.まし">まし</w>
+              <w lemmaRef="#もの.物">もの</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
           </l>
         </div>
       </div>

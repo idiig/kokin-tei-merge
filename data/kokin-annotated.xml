@@ -29812,11 +29812,35 @@
           </note>
           <lb/>
           <l n="780" xml:id="n780" resp="#伊勢">
-            <seg>みわの山</seg>
-            <seg>いかにまち見む</seg>
-            <seg>年ふとも</seg>
-            <seg>尋る人も</seg>
-            <seg>あらしと思へは</seg>
+            <seg>
+              <w lemmaRef="#みわ.三輪">みわ</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#やま.山">山</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いかに.如何に">いかに</w>
+              <w lemmaRef="#まち.待つ">まち</w>
+              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#とし.年">年</w>
+              <w lemmaRef="#ふ.経">ふ</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たづぬる.尋ぬ">尋る</w>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あら.有り">あら</w>
+              <w lemmaRef="#じ.じ">し</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#おもへ.思ふ">思へ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
           </l>
         </div>
         <pb n="2-24v" facs="#p097"/>

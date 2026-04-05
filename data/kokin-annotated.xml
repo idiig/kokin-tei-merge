@@ -34338,11 +34338,33 @@
           <pb n="2-38r" facs="#p110"/>
           <lb/>
           <l n="900" xml:id="n900" resp="#伊都内親王">
-            <seg>老ぬれは</seg>
-            <seg>さらぬ別も</seg>
-            <seg>有といへは</seg>
-            <seg>いよ〳〵見まく</seg>
-            <seg>ほしきゝみ哉</seg>
+            <seg>
+              <w lemmaRef="#おい.老ゆ">老</w>
+              <w lemmaRef="#ぬれ.ぬ">ぬれ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#さら.去る">さら</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+              <w lemmaRef="#わかれ.別る">別</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あり.有り">有</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#いへ.言ふ">いへ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いよいよ.愈">いよ〳〵</w>
+              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#まく.まく">まく</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ほしき.欲し">ほしき</w>
+              <w lemmaRef="#きみ.君">ゝみ</w>
+              <w lemmaRef="#かな.哉">哉</w>
+            </seg>
           </l>
         </div>
         <lb/>

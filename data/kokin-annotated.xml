@@ -31306,11 +31306,30 @@
         <lb/>
         <div type="和歌">
           <l n="820" xml:id="n820" resp="#よみ人知らず">
-            <seg>しくれつゝ</seg>
-            <seg>もみつるよりも</seg>
-            <seg>事のはの</seg>
-            <seg>心の秋に</seg>
-            <seg>あふそわひしき</seg>
+            <seg>
+              <w lemmaRef="#しぐれ.時雨る">しくれ</w>
+              <w lemmaRef="#つつ.つつ">つゝ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#もみづる.紅葉づ">もみつる</w>
+              <w lemmaRef="#より.より">より</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ことのは.言の葉">事のは</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こころ.心">心</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#あき.秋">秋</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あふ.逢ふ">あふ</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#わびしき.侘し">わひしき</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -33447,11 +33447,31 @@
           </note>
           <lb/>
           <l n="875" xml:id="n875" resp="#兼芸法師">
-            <seg>かたちこそ</seg>
-            <seg>み山かくれの</seg>
-            <seg>くち木なれ</seg>
-            <seg>心は花に</seg>
-            <seg>なさはなり南</seg>
+            <seg>
+              <w lemmaRef="#かたち.形">かたち</w>
+              <w lemmaRef="#こそ.こそ">こそ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みやま.深山">み山</w>
+              <w lemmaRef="#かくれ.隠る">かくれ</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#くちき.朽木">くち木</w>
+              <w lemmaRef="#なれ.なり">なれ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こころ.心">心</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#はな.花">花</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なさ.成す">なさ</w>
+              <w lemmaRef="#ば.ば">は</w>
+              <w lemmaRef="#なり.成る">なり</w>
+              <w lemmaRef="#な_む.なむ">南</w>
+            </seg>
           </l>
         </div>
         <lb/>

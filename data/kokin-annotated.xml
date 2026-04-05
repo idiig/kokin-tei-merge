@@ -28229,11 +28229,32 @@
           </note>
           <lb/>
           <l n="736" xml:id="n736" resp="#藤原因香">
-            <seg>たのめこし</seg>
-            <seg>事のは今は</seg>
-            <seg>返してむ</seg>
-            <seg>わか身ふるれは</seg>
-            <seg>をき所なし</seg>
+            <seg>
+              <w lemmaRef="#たのめ.頼む">たのめ</w>
+              <w lemmaRef="#こ.来">こ</w>
+              <w lemmaRef="#し.き">し</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ことのは.言の葉">事のは</w>
+              <w lemmaRef="#いま.今">今</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かへし.返す">返し</w>
+              <w lemmaRef="#て.つ">て</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わ.我">わ</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#み.身">身</w>
+              <w lemmaRef="#ふるれ.古る">ふるれ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おきどころ.置き所">をき所</w>
+              <w lemmaRef="#なし.無し">なし</w>
+            </seg>
           </l>
         </div>
         <lb/>

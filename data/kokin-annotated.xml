@@ -31592,11 +31592,32 @@
           </note>
           <lb/>
           <l n="828" xml:id="n828" resp="#よみ人知らず">
-            <seg>流ては</seg>
-            <seg>いもせの山の</seg>
-            <seg>なかにおつる</seg>
-            <seg>よしのゝ河の</seg>
-            <seg>よしや世中</seg>
+            <seg>
+              <w lemmaRef="#ながれ.流る">流</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いもせ.妹背">いもせ</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#やま.山">山</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なか.中">なか</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#おつる.落つ">おつる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#よしの.吉野">よしの</w>
+              <w lemmaRef="#の.の">ゝ</w>
+              <w lemmaRef="#かは.河">河</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#よしや.縦しや">よしや</w>
+              <w lemmaRef="#よのなか.世の中">世中</w>
+            </seg>
           </l>
         </div>
       </div>

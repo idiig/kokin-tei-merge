@@ -31957,11 +31957,31 @@
           </note>
           <lb/>
           <l n="837" xml:id="n837" resp="#閑院">
-            <seg>さきたゝぬ</seg>
-            <seg>くひのやちたひ</seg>
-            <seg>かなしきは</seg>
-            <seg>流る水の</seg>
-            <seg>かへりこぬ也</seg>
+            <seg>
+              <w lemmaRef="#さき.先">さき</w>
+              <w lemmaRef="#たた.立つ">たゝ</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#くい.悔ゆ">くひ</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#やちたび.八千度">やちたひ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かなしき.悲し">かなしき</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ながるる.流る">流る</w>
+              <w lemmaRef="#みづ.水">水</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かへり.帰る">かへり</w>
+              <w lemmaRef="#こ.来">こ</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+              <w lemmaRef="#なり.なり">也</w>
+            </seg>
           </l>
         </div>
         <lb/>

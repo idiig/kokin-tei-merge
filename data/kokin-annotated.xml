@@ -33199,11 +33199,33 @@
           </note>
           <lb/>
           <l n="869" xml:id="n869" resp="#源能有">
-            <seg>色なしと</seg>
-            <seg>人や見るらむ</seg>
-            <seg>昔より</seg>
-            <seg>ふかき心に</seg>
-            <seg>そめてし物を</seg>
+            <seg>
+              <w lemmaRef="#いろ.色">色</w>
+              <w lemmaRef="#なし.無し">なし</w>
+              <w lemmaRef="#と.と">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#や.や">や</w>
+              <w lemmaRef="#みる.見る">見る</w>
+              <w lemmaRef="#らむ.らむ">らむ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#むかし.昔">昔</w>
+              <w lemmaRef="#より.より">より</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ふかき.深し">ふかき</w>
+              <w lemmaRef="#こころ.心">心</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#そめ.染む">そめ</w>
+              <w lemmaRef="#て.つ">て</w>
+              <w lemmaRef="#し.き">し</w>
+              <w lemmaRef="#もの.物">物</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
           </l>
         </div>
         <lb/>

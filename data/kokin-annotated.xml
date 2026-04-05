@@ -27758,11 +27758,30 @@
           </note>
           <lb/>
           <l n="723" xml:id="n723" resp="#よみ人知らず">
-            <seg>紅の</seg>
-            <seg>はつはなそめの</seg>
-            <seg>色深く</seg>
-            <seg>思し心</seg>
-            <seg>われわすれめや</seg>
+            <seg>
+              <w lemmaRef="#くれなゐ.紅">紅</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はつはな.初花">はつはな</w>
+              <w lemmaRef="#そめ.染む">そめ</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いろ.色">色</w>
+              <w lemmaRef="#ふかく.深し">深く</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おもひ.思ふ">思</w>
+              <w lemmaRef="#し.き">し</w>
+              <w lemmaRef="#こころ.心">心</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#われ.我">われ</w>
+              <w lemmaRef="#わすれ.忘る">わすれ</w>
+              <w lemmaRef="#め.む">め</w>
+              <w lemmaRef="#や.や">や</w>
+            </seg>
           </l>
         </div>
         <lb/>

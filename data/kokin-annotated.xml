@@ -32989,11 +32989,33 @@
           </note>
           <lb/>
           <l n="863" xml:id="n863" resp="#よみ人知らず">
-            <seg>わかうへに</seg>
-            <seg>露そをくなる</seg>
-            <seg>天河</seg>
-            <seg>とわたる舟の</seg>
-            <seg>かいのしつくか</seg>
+            <seg>
+              <w lemmaRef="#わ.我">わ</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#うへ.上">うへ</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#つゆ.露">露</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#おく.置く">をく</w>
+              <w lemmaRef="#なる.なり">なる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あまのかは.天の河">天河</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#と.門">と</w>
+              <w lemmaRef="#わたる.渡る">わたる</w>
+              <w lemmaRef="#ふね.舟">舟</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かい.櫂">かい</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#しづく.雫">しつく</w>
+              <w lemmaRef="#か.か">か</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -27117,11 +27117,32 @@
           </note>
           <lb/>
           <l n="706" xml:id="n706" resp="#よみ人知らず">
-            <seg>おほぬさの</seg>
-            <seg>ひくてあまたに</seg>
-            <seg>なりぬれは</seg>
-            <seg>おもへとえこそ</seg>
-            <seg>たのまさりけれ</seg>
+            <seg>
+              <w lemmaRef="#おほぬさ.大幣">おほぬさ</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひく.引く">ひく</w>
+              <w lemmaRef="#て.手">て</w>
+              <w lemmaRef="#あまた.数多">あまた</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なり.成る">なり</w>
+              <w lemmaRef="#ぬれ.ぬ">ぬれ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おもへ.思ふ">おもへ</w>
+              <w lemmaRef="#ど.ど">と</w>
+              <w lemmaRef="#え.得">え</w>
+              <w lemmaRef="#こそ.こそ">こそ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たのま.頼む">たのま</w>
+              <w lemmaRef="#ざり.ず">さり</w>
+              <w lemmaRef="#けれ.けり">けれ</w>
+            </seg>
           </l>
         </div>
         <pb n="2-18v" facs="#p091"/>

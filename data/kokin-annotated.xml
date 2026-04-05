@@ -27078,11 +27078,32 @@
           </note>
           <lb/>
           <l n="705" xml:id="n705" resp="#在原業平">
-            <seg>かす〳〵に</seg>
-            <seg>思ひおもはす</seg>
-            <seg>とひかたみ</seg>
-            <seg>身をしる雨は</seg>
-            <seg>ふりそまされる</seg>
+            <seg>
+              <w lemmaRef="#かずかずに.数々なり">かす〳〵に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おもひ.思ふ">思ひ</w>
+              <w lemmaRef="#おもは.思ふ">おもは</w>
+              <w lemmaRef="#ず.ず">す</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#とひ.問ふ">とひ</w>
+              <w lemmaRef="#がた.難し">かた</w>
+              <w lemmaRef="#み.み">み</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#み.身">身</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#しる.知る">しる</w>
+              <w lemmaRef="#あめ.雨">雨</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ふり.降る">ふり</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#まされ.増さる">まされ</w>
+              <w lemmaRef="#る.り">る</w>
+            </seg>
           </l>
         </div>
         <lb/>

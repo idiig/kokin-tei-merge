@@ -28498,11 +28498,31 @@
           </note>
           <lb/>
           <l n="743" xml:id="n743">
-            <seg>おほそらは</seg>
-            <seg>こひしき人の</seg>
-            <seg>かたみかは</seg>
-            <seg>物思ことに</seg>
-            <seg>なかめらるらむ</seg>
+            <seg>
+              <w lemmaRef="#おほぞら.大空">おほそら</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こひしき.恋し">こひしき</w>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かたみ.形見">かたみ</w>
+              <w lemmaRef="#か.か">か</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#もの.物">物</w>
+              <w lemmaRef="#おもふ.思ふ">思</w>
+              <w lemmaRef="#ごと.毎">こと</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ながめ.眺む">なかめ</w>
+              <w lemmaRef="#らる.らる">らる</w>
+              <w lemmaRef="#らむ.らむ">らむ</w>
+            </seg>
           </l>
         </div>
         <lb/>

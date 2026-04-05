@@ -32905,11 +32905,33 @@
           </note>
           <lb/>
           <l n="861" xml:id="n861" resp="#在原業平">
-            <seg>つゐにゆく</seg>
-            <seg>道とはかねて</seg>
-            <seg>きゝしかと</seg>
-            <seg>きのふけふとは</seg>
-            <seg>おもはさりしを</seg>
+            <seg>
+              <w lemmaRef="#つひに.遂に">つゐに</w>
+              <w lemmaRef="#ゆく.行く">ゆく</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みち.道">道</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#かねて.予て">かねて</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#きき.聞く">きゝ</w>
+              <w lemmaRef="#しか.き">しか</w>
+              <w lemmaRef="#ど.ど">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#きのふ.昨日">きのふ</w>
+              <w lemmaRef="#けふ.今日">けふ</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おもは.思ふ">おもは</w>
+              <w lemmaRef="#ざり.ず">さり</w>
+              <w lemmaRef="#し.き">し</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
           </l>
         </div>
         <lb/>

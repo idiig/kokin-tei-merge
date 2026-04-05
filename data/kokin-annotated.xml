@@ -27650,11 +27650,34 @@
         <lb/>
         <div type="和歌">
           <l n="720" xml:id="n720" resp="#よみ人知らず">
-            <seg>たえす行</seg>
-            <seg>あすかの河の</seg>
-            <seg>よとみなは</seg>
-            <seg>心あるとや</seg>
-            <seg>人のおもはむ</seg>
+            <seg>
+              <w lemmaRef="#たえ.絶ゆ">たえ</w>
+              <w lemmaRef="#ず.ず">す</w>
+              <w lemmaRef="#ゆく.行く">行</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あすか.飛鳥">あすか</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#かは.河">河</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#よどみ.淀む">よとみ</w>
+              <w lemmaRef="#な.ぬ">な</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こころ.心">心</w>
+              <w lemmaRef="#ある.有り">ある</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#や.や">や</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#おもは.思ふ">おもは</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
           </l>
           <lb/>
           <note type="左注" style="margin-top: 3em" target="#n720">この哥ある人のいはく

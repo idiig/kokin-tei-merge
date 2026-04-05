@@ -30046,11 +30046,34 @@
           </note>
           <lb/>
           <l n="786" xml:id="n786" resp="#景式王">
-            <seg>から衣</seg>
-            <seg>なれは身にこそ</seg>
-            <seg>まつはれめ</seg>
-            <seg>かけてのみやは</seg>
-            <seg>こひむと思し</seg>
+            <seg>
+              <w lemmaRef="#からころも.唐衣">から衣</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なれ.なり">なれ</w>
+              <w lemmaRef="#ば.ば">は</w>
+              <w lemmaRef="#み.身">身</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#こそ.こそ">こそ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#まつはれ.纏はる">まつはれ</w>
+              <w lemmaRef="#め.む">め</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かけ.掛く">かけ</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#のみ.のみ">のみ</w>
+              <w lemmaRef="#や.や">や</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こひ.恋ふ">こひ</w>
+              <w lemmaRef="#む.む">む</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#おもひ.思ふ">思</w>
+              <w lemmaRef="#し.き">し</w>
+            </seg>
           </l>
         </div>
         <lb/>

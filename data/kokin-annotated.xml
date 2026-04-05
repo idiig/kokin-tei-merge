@@ -29970,11 +29970,33 @@
             <lb/>かへりのみしけれはよみてつかはしける</note>
           <lb/>
           <l n="784" xml:id="n784" resp="#小野貞樹">
-            <seg>あま雲の</seg>
-            <seg>よそにも人の</seg>
-            <seg>なり行か</seg>
-            <seg>さすかにめには</seg>
-            <seg>見ゆる物から</seg>
+            <seg>
+              <w lemmaRef="#あまぐも.天雲">あま雲</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#よそ.余所">よそ</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なり.成る">なり</w>
+              <w lemmaRef="#ゆく.行く">行</w>
+              <w lemmaRef="#か.か">か</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#さすがに.流石に">さすかに</w>
+              <w lemmaRef="#め.目">め</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みゆる.見ゆ">見ゆる</w>
+              <w lemmaRef="#もの.物">物</w>
+              <w lemmaRef="#から.から">から</w>
+            </seg>
           </l>
         </div>
         <lb/>

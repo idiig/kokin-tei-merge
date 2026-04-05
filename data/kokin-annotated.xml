@@ -29539,11 +29539,33 @@
           </note>
           <lb/>
           <l n="772" xml:id="n772" resp="#よみ人知らず">
-            <seg>こめやとは</seg>
-            <seg>思物から</seg>
-            <seg>ひくらしの</seg>
-            <seg>なくゆふくれは</seg>
-            <seg>たちまたれつゝ</seg>
+            <seg>
+              <w lemmaRef="#こ.来">こ</w>
+              <w lemmaRef="#め.む">め</w>
+              <w lemmaRef="#や.や">や</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おもふ.思ふ">思</w>
+              <w lemmaRef="#ものから.ものから">物から</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひぐらし.蜩">ひくらし</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なく.鳴く">なく</w>
+              <w lemmaRef="#ゆふ.夕">ゆふ</w>
+              <w lemmaRef="#くれ.暮る">くれ</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たち.立つ">たち</w>
+              <w lemmaRef="#また.待つ">また</w>
+              <w lemmaRef="#れ.る">れ</w>
+              <w lemmaRef="#つつ.つつ">つゝ</w>
+            </seg>
           </l>
         </div>
         <pb n="2-24r" facs="#p096"/>

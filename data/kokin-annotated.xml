@@ -27795,11 +27795,32 @@
           </note>
           <lb/>
           <l n="724" xml:id="n724" resp="#源融">
-            <seg>みちのくの</seg>
-            <seg>しのふもちすり</seg>
-            <seg>誰ゆへに</seg>
-            <seg>みたれむと思</seg>
-            <seg>我ならなくに</seg>
+            <seg>
+              <w lemmaRef="#みちのく.陸奥">みちのく</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#しのぶ.信夫">しのふ</w>
+              <w lemmaRef="#もぢずり.捩摺">もちすり</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たれ.誰">誰</w>
+              <w lemmaRef="#ゆゑ.故">ゆへ</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みだれ.乱る">みたれ</w>
+              <w lemmaRef="#む.む">む</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#おもふ.思ふ">思</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#われ.我">我</w>
+              <w lemmaRef="#なら.なり">なら</w>
+              <w lemmaRef="#な.ず">な</w>
+              <w lemmaRef="#く.く">く</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
           </l>
         </div>
         <lb/>

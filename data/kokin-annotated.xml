@@ -30767,11 +30767,33 @@
           </note>
           <lb/>
           <l n="805" xml:id="n805" resp="#よみ人知らず">
-            <seg>あはれとも</seg>
-            <seg>うしとも物を</seg>
-            <seg>思時</seg>
-            <seg>なとか涙の</seg>
-            <seg>いとなかる覧</seg>
+            <seg>
+              <w lemmaRef="#あはれ.哀れ">あはれ</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うし.憂し">うし</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#もの.物">物</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おもふ.思ふ">思</w>
+              <w lemmaRef="#とき.時">時</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#など.何故">なと</w>
+              <w lemmaRef="#か.か">か</w>
+              <w lemmaRef="#なみだ.涙">涙</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いと.いと">いと</w>
+              <w lemmaRef="#ながる.流る">なかる</w>
+              <w lemmaRef="#らむ.らむ">覧</w>
+            </seg>
           </l>
         </div>
         <lb/>

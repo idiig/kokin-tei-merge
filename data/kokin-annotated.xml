@@ -31636,11 +31636,30 @@
           </note>
           <lb/>
           <l n="829" xml:id="n829" resp="#小野篁">
-            <seg>なく涙</seg>
-            <seg>雨とふら南</seg>
-            <seg>涙河</seg>
-            <seg>水まさりなは</seg>
-            <seg>かへりくるかに</seg>
+            <seg>
+              <w lemmaRef="#なく.泣く">なく</w>
+              <w lemmaRef="#なみだ.涙">涙</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あめ.雨">雨</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#ふら.降る">ふら</w>
+              <w lemmaRef="#なむ.なむ">南</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わたりがは.渡り河">涙河</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みづ.水">水</w>
+              <w lemmaRef="#まさり.増さる">まさり</w>
+              <w lemmaRef="#な.ぬ">な</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かへり.帰る">かへり</w>
+              <w lemmaRef="#くる.来">くる</w>
+              <w lemmaRef="#がに.がに">かに</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -34055,11 +34055,32 @@
         <lb/>
         <div type="和歌">
           <l n="892" xml:id="n892" resp="#よみ人知らず">
-            <seg>おほあらきの</seg>
-            <seg>もりのした草</seg>
-            <seg>おいぬれは</seg>
-            <seg>こまもすさめす</seg>
-            <seg>かる人もなし</seg>
+            <seg>
+              <w lemmaRef="#おほあらき.大荒木">おほあらき</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#もり.森">もり</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#したくさ.下草">した草</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おい.老ゆ">おい</w>
+              <w lemmaRef="#ぬれ.ぬ">ぬれ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こま.駒">こま</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#すさめ.荒む">すさめ</w>
+              <w lemmaRef="#ず.ず">す</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かる.刈る">かる</w>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#なし.無し">なし</w>
+            </seg>
           </l>
           <lb/>
           <note type="左注" style="margin-top: 3em">又はさくらあさのをふのしたくさおいぬれは</note>

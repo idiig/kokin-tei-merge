@@ -28190,11 +28190,32 @@
           </note>
           <lb/>
           <l n="735" xml:id="n735" resp="#大友黒主">
-            <seg>思いてゝ</seg>
-            <seg>こひしき時は</seg>
-            <seg>ゝつかりの</seg>
-            <seg>なきてわたると</seg>
-            <seg>人しるらめや</seg>
+            <seg>
+              <w lemmaRef="#おもひ.思ふ">思</w>
+              <w lemmaRef="#いで.出づ">いて</w>
+              <w lemmaRef="#て.て">ゝ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こひしき.恋し">こひしき</w>
+              <w lemmaRef="#とき.時">時</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はつかり.初雁">ゝつかり</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なき.鳴く">なき</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#わたる.渡る">わたる</w>
+              <w lemmaRef="#と.と">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#しる.知る">しる</w>
+              <w lemmaRef="#らめ.らむ">らめ</w>
+              <w lemmaRef="#や.や">や</w>
+            </seg>
           </l>
         </div>
         <lb/>

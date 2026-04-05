@@ -28742,11 +28742,32 @@
           </note>
           <lb/>
           <l n="749" xml:id="n749" resp="#藤原兼輔">
-            <seg>よそにのみ</seg>
-            <seg>きかまし物を</seg>
-            <seg>ゝとは河</seg>
-            <seg>わたるとなしに</seg>
-            <seg>みなれそめけむ</seg>
+            <seg>
+              <w lemmaRef="#よそ.余所">よそ</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#のみ.のみ">のみ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#きか.聞く">きか</w>
+              <w lemmaRef="#まし.まし">まし</w>
+              <w lemmaRef="#もの.物">物</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おとはがは.音羽河">ゝとは河</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わたる.渡る">わたる</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#なし.無し">なし</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#み.身">み</w>
+              <w lemmaRef="#なれ.馴る">なれ</w>
+              <w lemmaRef="#そめ.初む">そめ</w>
+              <w lemmaRef="#けむ.けむ">けむ</w>
+            </seg>
           </l>
         </div>
         <lb/>

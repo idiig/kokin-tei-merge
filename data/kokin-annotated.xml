@@ -31211,11 +31211,33 @@
         <lb/>
         <div type="和歌">
           <l n="817" xml:id="n817" resp="#よみ人知らず">
-            <seg>あらを田を</seg>
-            <seg>あらすき返し</seg>
-            <seg>〳〵ても</seg>
-            <seg>人の心を</seg>
-            <seg>見てこそやまめ</seg>
+            <seg>
+              <w lemmaRef="#あらをだ.新小田">あらを田</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あら.粗">あら</w>
+              <w lemmaRef="#すき.鋤く">すき</w>
+              <w lemmaRef="#かへし.返す">返し</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かへし.返す">〳〵</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#こころ.心">心</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#こそ.こそ">こそ</w>
+              <w lemmaRef="#やま.止む">やま</w>
+              <w lemmaRef="#め.む">め</w>
+            </seg>
           </l>
         </div>
         <lb/>

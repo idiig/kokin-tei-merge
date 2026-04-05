@@ -33868,11 +33868,32 @@
           </note>
           <lb/>
           <l n="886" xml:id="n886" resp="#よみ人知らず">
-            <seg>いその神</seg>
-            <seg>ふるからをのゝ</seg>
-            <seg>もとかしは</seg>
-            <seg>本の心は</seg>
-            <seg>わすられなくに</seg>
+            <seg>
+              <w lemmaRef="#いそ.磯">いそ</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#かみ.神">神</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ふるから.古幹">ふるから</w>
+              <w lemmaRef="#をの.小野">をの</w>
+              <w lemmaRef="#の.の">ゝ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#もとかしは.本柏">もとかしは</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#もと.本">本</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#こころ.心">心</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わすら.忘る">わすら</w>
+              <w lemmaRef="#れ.る">れ</w>
+              <w lemmaRef="#な.ず">な</w>
+              <w lemmaRef="#く.く">く</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
           </l>
         </div>
         <lb/>

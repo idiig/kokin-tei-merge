@@ -32752,11 +32752,32 @@
             <lb/>の手にてこのうたをなむかきつけたりける</note>
           <lb/>
           <l n="857" xml:id="n857">
-            <seg>かす〳〵に</seg>
-            <seg>我をわすれぬ</seg>
-            <seg>ものならは</seg>
-            <seg>山の霞を</seg>
-            <seg>あはれとは見よ</seg>
+            <seg>
+              <w lemmaRef="#かずかずに.数々なり">かす〳〵に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#われ.我">我</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#わすれ.忘る">わすれ</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#もの.物">もの</w>
+              <w lemmaRef="#なら.なり">なら</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#やま.山">山</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#かすみ.霞">霞</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あはれ.哀れ">あはれ</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#みよ.見る">見よ</w>
+            </seg>
           </l>
         </div>
         <lb/>

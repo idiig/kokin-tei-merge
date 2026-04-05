@@ -29392,11 +29392,31 @@
           </note>
           <lb/>
           <l n="768" xml:id="n768" resp="#兼芸法師">
-            <seg>もろこしも</seg>
-            <seg>夢に見しかは</seg>
-            <seg>ちかゝりき</seg>
-            <seg>おもはぬ中そ</seg>
-            <seg>はるけかりける</seg>
+            <seg>
+              <w lemmaRef="#もろこし.唐土">もろこし</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ゆめ.夢">夢</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#しか.き">しか</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ちかかり.近し">ちかゝり</w>
+              <w lemmaRef="#き.き">き</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おもは.思ふ">おもは</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+              <w lemmaRef="#なか.仲">中</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はるけかり.遥けし">はるけかり</w>
+              <w lemmaRef="#ける.けり">ける</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -32033,11 +32033,34 @@
           </note>
           <lb/>
           <l n="839" xml:id="n839" resp="#壬生忠岑">
-            <seg>時しもあれ</seg>
-            <seg>秋やは人の</seg>
-            <seg>わかるへき</seg>
-            <seg>あるを見るたに</seg>
-            <seg>こひしきものを</seg>
+            <seg>
+              <w lemmaRef="#とき.時">時</w>
+              <w lemmaRef="#し.し">し</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#あれ.有り">あれ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あき.秋">秋</w>
+              <w lemmaRef="#や.や">や</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わかる.別る">わかる</w>
+              <w lemmaRef="#べき.べし">へき</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ある.有り">ある</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#みる.見る">見る</w>
+              <w lemmaRef="#だに.だに">たに</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こひしき.恋し">こひしき</w>
+              <w lemmaRef="#もの.物">もの</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
           </l>
         </div>
         <lb/>

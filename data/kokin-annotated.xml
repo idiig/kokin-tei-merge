@@ -33484,11 +33484,32 @@
           </note>
           <lb/>
           <l n="876" xml:id="n876" resp="#紀友則">
-            <seg>蝉のはの</seg>
-            <seg>よるの衣は</seg>
-            <seg>うすけれと</seg>
-            <seg>うつりかこくも</seg>
-            <seg>にほひぬる哉</seg>
+            <seg>
+              <w lemmaRef="#せみ.蝉">蝉</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#は.羽">は</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#よる.夜">よる</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#ころも.衣">衣</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うすけれ.薄し">うすけれ</w>
+              <w lemmaRef="#ど.ど">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うつりが.移り香">うつりか</w>
+              <w lemmaRef="#こく.濃し">こく</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#にほひ.匂ふ">にほひ</w>
+              <w lemmaRef="#ぬる.ぬ">ぬる</w>
+              <w lemmaRef="#かな.哉">哉</w>
+            </seg>
           </l>
         </div>
         <pb n="2-36r" facs="#p108"/>

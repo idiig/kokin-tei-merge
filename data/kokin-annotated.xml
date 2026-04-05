@@ -33729,11 +33729,29 @@
         <lb/>
         <div type="和歌">
           <l n="883" xml:id="n883" resp="#よみ人知らず">
-            <seg>あかすして</seg>
-            <seg>月のかくるゝ</seg>
-            <seg>山本は</seg>
-            <seg>あなたおもてそ</seg>
-            <seg>こひしかりける</seg>
+            <seg>
+              <w lemmaRef="#あか.飽く">あか</w>
+              <w lemmaRef="#ず.ず">す</w>
+              <w lemmaRef="#して.して">して</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#つき.月">月</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#かくるる.隠る">かくるゝ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#やまもと.山本">山本</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あなた.彼方">あなた</w>
+              <w lemmaRef="#おもて.面">おもて</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こひしかり.恋し">こひしかり</w>
+              <w lemmaRef="#ける.けり">ける</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -30888,11 +30888,34 @@
           </note>
           <lb/>
           <l n="808" xml:id="n808" resp="#因幡">
-            <seg>あひ見ぬも</seg>
-            <seg>うきもわか身の</seg>
-            <seg>から衣</seg>
-            <seg>思しらすも</seg>
-            <seg>とくるひも哉</seg>
+            <seg>
+              <w lemmaRef="#あひ.逢ふ">あひ</w>
+              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うき.憂し">うき</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#わ.我">わ</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#み.身">身</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#からころも.唐衣">から衣</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おもひ.思ふ">思</w>
+              <w lemmaRef="#しら.知る">しら</w>
+              <w lemmaRef="#ず.ず">す</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#とくる.解く">とくる</w>
+              <w lemmaRef="#ひも.紐">ひも</w>
+              <w lemmaRef="#かな.哉">哉</w>
+            </seg>
           </l>
         </div>
         <lb/>

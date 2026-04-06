@@ -36454,11 +36454,31 @@
           </note>
           <lb/>
           <l n="958" xml:id="n958" resp="#よみ人知らず">
-            <seg>世にふれは</seg>
-            <seg>事のはしけき</seg>
-            <seg>くれ竹の</seg>
-            <seg>うきふしことに</seg>
-            <seg>鶯そ鳴</seg>
+            <seg>
+              <w lemmaRef="#よ.世">世</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#ふれ.経">ふれ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ことのは.言の葉">事のは</w>
+              <w lemmaRef="#しげき.繁し">しけき</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#くれたけ.呉竹">くれ竹</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うき.憂し">うき</w>
+              <w lemmaRef="#ふし.節">ふし</w>
+              <w lemmaRef="#ごと.毎">こと</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うぐひす.鶯">鶯</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#なく.鳴く">鳴</w>
+            </seg>
           </l>
         </div>
         <lb/>

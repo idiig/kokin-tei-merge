@@ -34489,11 +34489,35 @@
           </note>
           <lb/>
           <l n="904" xml:id="n904" resp="#よみ人知らず">
-            <seg>ちはやふる</seg>
-            <seg>宇治の橋守</seg>
-            <seg>なれをしそ</seg>
-            <seg>あはれとは思</seg>
-            <seg>年のへぬれは</seg>
+            <seg>
+              <w lemmaRef="#ち.千">ち</w>
+              <w lemmaRef="#はや.早し">はや</w>
+              <w lemmaRef="#ふる.振る">ふる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うぢ.宇治">宇治</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#はしもり.橋守">橋守</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なれ.汝">なれ</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#し.し">し</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あはれ.哀れ">あはれ</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#おもふ.思ふ">思</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#とし.年">年</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#へ.経">へ</w>
+              <w lemmaRef="#ぬれ.ぬ">ぬれ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
           </l>
         </div>
         <pb n="2-38v" facs="#p111"/>

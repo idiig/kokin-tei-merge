@@ -36765,11 +36765,34 @@
           </note>
           <lb/>
           <l n="966" xml:id="n966" resp="#宮道潔興">
-            <seg>つくはねの</seg>
-            <seg>このもとことに</seg>
-            <seg>たちそよる</seg>
-            <seg>春のみ山の</seg>
-            <seg>影をこひつゝ</seg>
+            <seg>
+              <w lemmaRef="#つくばね.筑波嶺">つくはね</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こ.木">こ</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#もと.下">もと</w>
+              <w lemmaRef="#ごと.毎">こと</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たち.立つ">たち</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#よる.寄る">よる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はる.春">春</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#みやま.深山">み山</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かげ.陰">影</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#こひ.恋ふ">こひ</w>
+              <w lemmaRef="#つつ.つつ">つゝ</w>
+            </seg>
           </l>
         </div>
         <lb/>

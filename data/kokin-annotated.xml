@@ -35717,11 +35717,31 @@
           </note>
           <lb/>
           <l n="937" xml:id="n937" resp="#小野貞樹">
-            <seg>宮こ人</seg>
-            <seg>いかゝとゝはゝ</seg>
-            <seg>山たかみ</seg>
-            <seg>はれぬくもゐに</seg>
-            <seg>わふとこたへよ</seg>
+            <seg>
+              <w lemmaRef="#みやこびと.都人">宮こ人</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いかが.如何が">いかゝ</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#とは.問ふ">ゝは</w>
+              <w lemmaRef="#ば.ば">ゝ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#やま.山">山</w>
+              <w lemmaRef="#たか.高し">たか</w>
+              <w lemmaRef="#み.み">み</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はれ.晴る">はれ</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+              <w lemmaRef="#くもゐ.雲居">くもゐ</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わぶ.侘ぶ">わふ</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#こたへよ.答ふ">こたへよ</w>
+            </seg>
           </l>
         </div>
         <lb/>

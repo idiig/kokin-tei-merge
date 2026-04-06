@@ -41900,11 +41900,36 @@
             <note type="詞書" style="margin-top: 2em" target="#n1071">あふみふり</note>
             <lb/>
             <l n="1071" xml:id="n1071">
-              <seg>あふみより</seg>
-              <seg>あさたちくれは</seg>
-              <seg>うねのゝに</seg>
-              <seg>たつそなくなる</seg>
-              <seg>あけぬこのよは</seg>
+              <seg>
+                <w lemmaRef="#あふみ.近江">あふみ</w>
+                <w lemmaRef="#より.より">より</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#あさ.朝">あさ</w>
+                <w lemmaRef="#たち.立つ">たち</w>
+                <w lemmaRef="#くれ.来">くれ</w>
+                <w lemmaRef="#ば.ば">は</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#うね.蒲生">うね</w>
+                <w lemmaRef="#の.の">の</w>
+                <w lemmaRef="#の.野">ゝ</w>
+                <w lemmaRef="#に.に">に</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#たづ.鶴">たつ</w>
+                <w lemmaRef="#ぞ.ぞ">そ</w>
+                <w lemmaRef="#なく.鳴く">なく</w>
+                <w lemmaRef="#なる.なり">なる</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#あけ.明く">あけ</w>
+                <w lemmaRef="#ぬ.ぬ">ぬ</w>
+                <w lemmaRef="#こ.此">こ</w>
+                <w lemmaRef="#の.の">の</w>
+                <w lemmaRef="#よ.夜">よ</w>
+                <w lemmaRef="#は.は">は</w>
+              </seg>
             </l>
           </div>
           <lb/>

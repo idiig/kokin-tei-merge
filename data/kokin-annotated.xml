@@ -36608,11 +36608,31 @@
           </note>
           <lb/>
           <l n="962" xml:id="n962" resp="#在原行平">
-            <seg>わくらはに</seg>
-            <seg>とふ人あらは</seg>
-            <seg>すまのうらに</seg>
-            <seg>もしほたれつゝ</seg>
-            <seg>わふとこたへよ</seg>
+            <seg>
+              <w lemmaRef="#わくらばに.邂逅に">わくらはに</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#とふ.問ふ">とふ</w>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#あら.有り">あら</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#すま.須磨">すま</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#うら.浦">うら</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#もしほ.藻塩">もしほ</w>
+              <w lemmaRef="#たれ.垂る">たれ</w>
+              <w lemmaRef="#つつ.つつ">つゝ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わぶ.侘ぶ">わふ</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#こたへよ.答ふ">こたへよ</w>
+            </seg>
           </l>
         </div>
         <lb/>

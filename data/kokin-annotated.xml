@@ -34826,11 +34826,34 @@
           </note>
           <lb/>
           <l n="914" xml:id="n914" resp="#藤原忠房">
-            <seg>君を思ひ</seg>
-            <seg>おきつのはまに</seg>
-            <seg>なくたつの</seg>
-            <seg>尋くれはそ</seg>
-            <seg>有とたにきく</seg>
+            <seg>
+              <w lemmaRef="#きみ.君">君</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#おもひ.思ふ">思ひ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おきつ.興津">おきつ</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#はま.浜">はま</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なく.鳴く">なく</w>
+              <w lemmaRef="#たづ.鶴">たつ</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たづね.尋ぬ">尋</w>
+              <w lemmaRef="#くれ.来">くれ</w>
+              <w lemmaRef="#ば.ば">は</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あり.有り">有</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#だに.だに">たに</w>
+              <w lemmaRef="#きく.聞く">きく</w>
+            </seg>
           </l>
         </div>
         <lb/>

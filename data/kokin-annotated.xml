@@ -40301,11 +40301,30 @@
           <lb/>
           <div type="和歌">
             <l n="1027" xml:id="n1027" resp="#よみ人知らず">
-              <seg>葦引の</seg>
-              <seg>山田のそほつ</seg>
-              <seg>をのれさへ</seg>
-              <seg>我おほしてふ</seg>
-              <seg>うれはしきこと</seg>
+              <seg>
+                <w lemmaRef="#あし.足">葦</w>
+                <w lemmaRef="#ひき.曳く">引</w>
+                <w lemmaRef="#の.の">の</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#やまだ.山田">山田</w>
+                <w lemmaRef="#の.の">の</w>
+                <w lemmaRef="#そほづ.案山子">そほつ</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#おのれ.己">をのれ</w>
+                <w lemmaRef="#さへ.さへ">さへ</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#われ.我">我</w>
+                <w lemmaRef="#を.を">お</w>
+                <w lemmaRef="#ほし.欲し">ほし</w>
+                <w lemmaRef="#てふ.てふ">てふ</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#うれはしき.憂はし">うれはしき</w>
+                <w lemmaRef="#こと.事">こと</w>
+              </seg>
             </l>
           </div>
           <lb/>

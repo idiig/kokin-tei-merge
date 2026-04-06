@@ -37045,11 +37045,36 @@
           <pb n="2-46r" facs="#p118"/>
           <lb/>
           <l n="973" xml:id="n973" resp="#よみ人知らず">
-            <seg>我を君</seg>
-            <seg>なにはの浦に</seg>
-            <seg>有しかは</seg>
-            <seg>うきめを見つの</seg>
-            <seg>あまとなりにき</seg>
+            <seg>
+              <w lemmaRef="#われ.我">我</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#きみ.君">君</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なには.難波">なには</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#うら.浦">浦</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あり.有り">有</w>
+              <w lemmaRef="#しか.き">しか</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うき.憂し">うき</w>
+              <w lemmaRef="#め.目">め</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#みつ.御津">見つ</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あま.海人">あま</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#なり.成る">なり</w>
+              <w lemmaRef="#に.ぬ">に</w>
+              <w lemmaRef="#き.き">き</w>
+            </seg>
           </l>
           <lb/>
           <note type="左注" style="margin-top: 3em" target="#n973">この哥はある人むかしおとこありけるをうなの

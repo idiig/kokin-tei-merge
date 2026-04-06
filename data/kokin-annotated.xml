@@ -37006,11 +37006,37 @@
           </note>
           <lb/>
           <l n="972" xml:id="n972" resp="#よみ人知らず">
-            <seg>野とならは</seg>
-            <seg>うつらとなきて</seg>
-            <seg>年はへむ</seg>
-            <seg>かりにたにやは</seg>
-            <seg>きみはこさらむ</seg>
+            <seg>
+              <w lemmaRef="#の.野">野</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#なれ.なり">なら</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うづら.鶉">うつら</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#なき.鳴く">なき</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#とし.年">年</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#へ.経">へ</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かりに.仮なり">かりに</w>
+              <w lemmaRef="#だに.だに">たに</w>
+              <w lemmaRef="#や.や">や</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#きみ.君">きみ</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#こ.来">こ</w>
+              <w lemmaRef="#ざら.ず">さら</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
           </l>
         </div>
         <lb/>

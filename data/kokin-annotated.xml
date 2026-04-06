@@ -40524,11 +40524,34 @@
             </note>
             <lb/>
             <l n="1033" xml:id="n1033" resp="#平貞文">
-              <seg>春の野ゝ</seg>
-              <seg>しけき草はの</seg>
-              <seg>つまこひに</seg>
-              <seg>とひ立きしの</seg>
-              <seg>ほろゝとそなく</seg>
+              <seg>
+                <w lemmaRef="#はる.春">春</w>
+                <w lemmaRef="#の.の">の</w>
+                <w lemmaRef="#の.野">野</w>
+                <w lemmaRef="#の.の">ゝ</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#しげき.繁し">しけき</w>
+                <w lemmaRef="#くさば.草葉">草は</w>
+                <w lemmaRef="#の.の">の</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#つま.妻">つま</w>
+                <w lemmaRef="#こひ.恋ふ">こひ</w>
+                <w lemmaRef="#に.に">に</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#とぶ.飛ぶ">とひ</w>
+                <w lemmaRef="#たつ.立つ">立</w>
+                <w lemmaRef="#きじ.雉子">きし</w>
+                <w lemmaRef="#の.の">の</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#ほろろ.ほろろ">ほろゝ</w>
+                <w lemmaRef="#と.と">と</w>
+                <w lemmaRef="#ぞ.ぞ">そ</w>
+                <w lemmaRef="#なく.鳴く">なく</w>
+              </seg>
             </l>
           </div>
           <lb/>

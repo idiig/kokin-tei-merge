@@ -36887,11 +36887,33 @@
           </note>
           <lb/>
           <l n="969" xml:id="n969" resp="#在原業平">
-            <seg>今そしる</seg>
-            <seg>くるしき物と</seg>
-            <seg>人またむ</seg>
-            <seg>さとをはかれす</seg>
-            <seg>とふへかりけり</seg>
+            <seg>
+              <w lemmaRef="#いま.今">今</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#しる.知る">しる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#くるしき.苦し">くるしき</w>
+              <w lemmaRef="#もの.物">物</w>
+              <w lemmaRef="#と.と">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#また.待つ">また</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#さと.里">さと</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#ば.ば">は</w>
+              <w lemmaRef="#かれ.離る">かれ</w>
+              <w lemmaRef="#ず.ず">す</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#とふ.訪ふ">とふ</w>
+              <w lemmaRef="#べかり.べし">へかり</w>
+              <w lemmaRef="#けり.けり">けり</w>
+            </seg>
           </l>
         </div>
         <lb/>

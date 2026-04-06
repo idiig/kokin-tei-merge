@@ -35826,11 +35826,30 @@
           </note>
           <lb/>
           <l n="940" xml:id="n940" resp="#よみ人知らず">
-            <seg>あはれてふ</seg>
-            <seg>事の葉ことに</seg>
-            <seg>をくつゆは</seg>
-            <seg>昔をこふる</seg>
-            <seg>涙なりけり</seg>
+            <seg>
+              <w lemmaRef="#あはれ.哀れ">あはれ</w>
+              <w lemmaRef="#てふ.てふ">てふ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ことのは.言の葉">事の葉</w>
+              <w lemmaRef="#ごと.毎">こと</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おく.置く">をく</w>
+              <w lemmaRef="#つゆ.露">つゆ</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#むかし.昔">昔</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#こふる.恋ふ">こふる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なみだ.涙">涙</w>
+              <w lemmaRef="#なり.なり">なり</w>
+              <w lemmaRef="#けり.けり">けり</w>
+            </seg>
           </l>
         </div>
         <lb/>

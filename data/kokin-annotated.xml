@@ -42563,11 +42563,30 @@
           <lb/>
           <div type="和歌">
             <l n="1091" xml:id="n1091">
-              <seg>みさふらひ</seg>
-              <seg>みかさとまうせ</seg>
-              <seg>宮木のゝ</seg>
-              <seg>このしたつゆは</seg>
-              <seg>雨にまされり</seg>
+              <seg>
+                <w lemmaRef="#みさぶらひ.御侍">みさふらひ</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#みかさ.御笠">みかさ</w>
+                <w lemmaRef="#と.と">と</w>
+                <w lemmaRef="#まうせ.申す">まうせ</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#みやぎの.宮城野">宮木の</w>
+                <w lemmaRef="#の.の">ゝ</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#こ.木">こ</w>
+                <w lemmaRef="#の.の">の</w>
+                <w lemmaRef="#したつゆ.下露">したつゆ</w>
+                <w lemmaRef="#は.は">は</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#あめ.雨">雨</w>
+                <w lemmaRef="#に.に">に</w>
+                <w lemmaRef="#まされ.増さる">まされ</w>
+                <w lemmaRef="#り.り">り</w>
+              </seg>
             </l>
           </div>
           <lb/>

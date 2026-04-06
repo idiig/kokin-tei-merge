@@ -37491,11 +37491,31 @@
           </note>
           <lb/>
           <l n="985" xml:id="n985" resp="#遍昭">
-            <seg>わひ人の</seg>
-            <seg>すむへきやとゝ</seg>
-            <seg>見るなへに</seg>
-            <seg>なけきくはゝる</seg>
-            <seg>ことのねそする</seg>
+            <seg>
+              <w lemmaRef="#わびびと.侘人">わひ人</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#すむ.住む">すむ</w>
+              <w lemmaRef="#べき.べし">へき</w>
+              <w lemmaRef="#やど.宿">やと</w>
+              <w lemmaRef="#と.と">ゝ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みる.見る">見る</w>
+              <w lemmaRef="#なへに.なへに">なへに</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なげき.嘆く">なけき</w>
+              <w lemmaRef="#くははる.加はる">くはゝる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こと.琴">こと</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#ね.音">ね</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#する.す">する</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -39859,11 +39859,33 @@
             </note>
             <lb/>
             <l n="1014" xml:id="n1014" resp="#藤原兼輔">
-              <seg>いつしかと</seg>
-              <seg>またく心を</seg>
-              <seg>はきにあけて</seg>
-              <seg>あまのかはらを</seg>
-              <seg>けふやわたらむ</seg>
+              <seg>
+                <w lemmaRef="#いつしか.何時しか">いつしか</w>
+                <w lemmaRef="#と.と">と</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#またぐ.急ぐ">またく</w>
+                <w lemmaRef="#こころ.心">心</w>
+                <w lemmaRef="#を.を">を</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#はぎ.脛">はき</w>
+                <w lemmaRef="#に.に">に</w>
+                <w lemmaRef="#あげ.上ぐ">あけ</w>
+                <w lemmaRef="#て.て">て</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#あま.天">あま</w>
+                <w lemmaRef="#の.の">の</w>
+                <w lemmaRef="#かはら.河原">かはら</w>
+                <w lemmaRef="#を.を">を</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#けふ.今日">けふ</w>
+                <w lemmaRef="#や.や">や</w>
+                <w lemmaRef="#わたら.渡る">わたら</w>
+                <w lemmaRef="#む.む">む</w>
+              </seg>
             </l>
           </div>
           <lb/>

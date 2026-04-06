@@ -37831,11 +37831,31 @@
           </note>
           <lb/>
           <l n="994" xml:id="n994" resp="#よみ人知らず">
-            <seg>風ふけは</seg>
-            <seg>おきつ白浪</seg>
-            <seg>たつた山</seg>
-            <seg>よはにや君か</seg>
-            <seg>ひとりこゆ覧</seg>
+            <seg>
+              <w lemmaRef="#かぜ.風">風</w>
+              <w lemmaRef="#ふけ.吹く">ふけ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おき.沖">おき</w>
+              <w lemmaRef="#つ.つ">つ</w>
+              <w lemmaRef="#しらなみ.白浪">白浪</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たつたやま.立田山">たつた山</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#よは.夜半">よは</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#や.や">や</w>
+              <w lemmaRef="#きみ.君">君</w>
+              <w lemmaRef="#が.が">か</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひとり.一人">ひとり</w>
+              <w lemmaRef="#こゆ.越ゆ">こゆ</w>
+              <w lemmaRef="#らむ.らむ">覧</w>
+            </seg>
           </l>
           <lb/>
           <note type="左注" style="margin-top: 3em" target="#n994">ある人この哥は昔やまとのくになりける人のむすめ

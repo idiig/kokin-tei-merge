@@ -38537,10 +38537,7 @@
               </seg>
               <seg>
                 <lb/>
-                <w lemmaRef="#とし.年">年こ</w>
-                <w lemmaRef="#ごと.毎">と</w>
-                <w lemmaRef="#に.に">に</w>
-              </seg>
+                <w lemmaRef="#とし.年">年</w>ことに</seg>
               <seg>
                 <w lemmaRef="#とき.時">時</w>
                 <w lemmaRef="#に.に">に</w>
@@ -38674,7 +38671,7 @@
                 <w lemmaRef="#こころ.心">心</w>
               </seg>
               <seg>
-                <w lemmaRef="#おもふ.思ふ">思</w>
+                <w lemmaRef="#おもひ.思ふ">思</w>
                 <w lemmaRef="#あへ.敢ふ">あへ</w>
                 <w lemmaRef="#ず.ず">す</w>
               </seg>

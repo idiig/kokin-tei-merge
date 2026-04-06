@@ -34449,11 +34449,36 @@
           </note>
           <lb/>
           <l n="903" xml:id="n903" resp="#藤原敏行">
-            <seg>老ぬとて</seg>
-            <seg>なとかわか身を</seg>
-            <seg>せめきけむ</seg>
-            <seg>おいすはけふに</seg>
-            <seg>あはましものか</seg>
+            <seg>
+              <w lemmaRef="#おい.老ゆ">老</w>
+              <w lemmaRef="#ぬ.ぬ">ぬ</w>
+              <w lemmaRef="#とて.とて">とて</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#など.何故">なと</w>
+              <w lemmaRef="#か.か">か</w>
+              <w lemmaRef="#わ.我">わ</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#み.身">身</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#せめき.責めく">せめき</w>
+              <w lemmaRef="#けむ.けむ">けむ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おい.老ゆ">おい</w>
+              <w lemmaRef="#ず.ず">す</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#けふ.今日">けふ</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あは.逢ふ">あは</w>
+              <w lemmaRef="#まし.まし">まし</w>
+              <w lemmaRef="#もの.物">もの</w>
+              <w lemmaRef="#か.か">か</w>
+            </seg>
           </l>
         </div>
         <lb/>

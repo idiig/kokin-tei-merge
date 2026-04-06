@@ -41400,11 +41400,33 @@
             </note>
             <lb/>
             <l n="1057" xml:id="n1057" resp="#よみ人知らず">
-              <seg>なけきをは</seg>
-              <seg>こりのみつみて</seg>
-              <seg>あしひきの</seg>
-              <seg>山のかひなく</seg>
-              <seg>なりぬへら也</seg>
+              <seg>
+                <w lemmaRef="#なげき.嘆く">なけき</w>
+                <w lemmaRef="#を.を">を</w>
+                <w lemmaRef="#ば.ば">は</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#こり.樵る">こり</w>
+                <w lemmaRef="#のみ.のみ">のみ</w>
+                <w lemmaRef="#つみ.積む">つみ</w>
+                <w lemmaRef="#て.て">て</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#あし.足">あし</w>
+                <w lemmaRef="#ひき.曳く">ひき</w>
+                <w lemmaRef="#の.の">の</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#やま.山">山</w>
+                <w lemmaRef="#の.の">の</w>
+                <w lemmaRef="#かひ.峡">かひ</w>
+                <w lemmaRef="#なく.無し">なく</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#なり.成る">なり</w>
+                <w lemmaRef="#ぬ.ぬ">ぬ</w>
+                <w lemmaRef="#べらなり.べらなり">へら也</w>
+              </seg>
             </l>
           </div>
           <lb/>

@@ -42864,11 +42864,31 @@
             </note>
             <lb/>
             <l n="1100" xml:id="n1100" resp="#藤原敏行">
-              <seg>ちはやふる</seg>
-              <seg>かものやしろの</seg>
-              <seg>ひめこ松
-                <lb/>よろつ世ふとも</seg>
-              <seg>色はかはらし</seg>
+              <seg>
+                <w lemmaRef="#ち.千">ち</w>
+                <w lemmaRef="#はや.早し">はや</w>
+                <w lemmaRef="#ふる.振る">ふる</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#かも.賀茂">かも</w>
+                <w lemmaRef="#の.の">の</w>
+                <w lemmaRef="#やしろ.社">やしろ</w>
+                <w lemmaRef="#の.の">の</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#ひめこまつ.姫小松">ひめこ松</w>
+                <lb/>
+                <w lemmaRef="#よろづよ.万世">よろつ世</w>
+                <w lemmaRef="#ふ.経">ふ</w>
+                <w lemmaRef="#と.と">と</w>
+                <w lemmaRef="#も.も">も</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#いろ.色">色</w>
+                <w lemmaRef="#は.は">は</w>
+                <w lemmaRef="#かはら.変はる">かはら</w>
+                <w lemmaRef="#じ.じ">し</w>
+              </seg>
             </l>
           </div>
         </div>

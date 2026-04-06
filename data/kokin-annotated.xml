@@ -37710,11 +37710,34 @@
           </note>
           <lb/>
           <l n="991" xml:id="n991" resp="#紀友則">
-            <seg>ふるさとは</seg>
-            <seg>見しこともあらす</seg>
-            <seg>おのゝえの</seg>
-            <seg>くちし所そ</seg>
-            <seg>こひしかりける</seg>
+            <seg>
+              <w lemmaRef="#ふるさと.古里">ふるさと</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#し.き">し</w>
+              <w lemmaRef="#ごと.如">こと</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#あら.有り">あら</w>
+              <w lemmaRef="#ず.ず">す</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#をの.斧">おの</w>
+              <w lemmaRef="#の.の">ゝ</w>
+              <w lemmaRef="#え.柄">え</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#くち.朽つ">くち</w>
+              <w lemmaRef="#し.き">し</w>
+              <w lemmaRef="#ところ.所">所</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こひしかり.恋し">こひしかり</w>
+              <w lemmaRef="#ける.けり">ける</w>
+            </seg>
           </l>
         </div>
         <lb/>

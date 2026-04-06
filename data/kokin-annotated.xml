@@ -42687,11 +42687,37 @@
             <pb n="2-60r" facs="#p132"/>
             <lb/>
             <l n="1095" xml:id="n1095">
-              <seg>つくはねの</seg>
-              <seg>このもかのもに</seg>
-              <seg>かけはあれと</seg>
-              <seg>きみかみかけに</seg>
-              <seg>ますかけはなし</seg>
+              <seg>
+                <w lemmaRef="#つくばね.筑波嶺">つくはね</w>
+                <w lemmaRef="#の.の">の</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#こ.此">こ</w>
+                <w lemmaRef="#の.の">の</w>
+                <w lemmaRef="#も.面">も</w>
+                <w lemmaRef="#か.彼">か</w>
+                <w lemmaRef="#の.の">の</w>
+                <w lemmaRef="#も.面">も</w>
+                <w lemmaRef="#に.に">に</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#かげ.影">かけ</w>
+                <w lemmaRef="#は.は">は</w>
+                <w lemmaRef="#あれ.有り">あれ</w>
+                <w lemmaRef="#ど.ど">と</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#きみ.君">きみ</w>
+                <w lemmaRef="#が.が">か</w>
+                <w lemmaRef="#みかげ.御影">みかけ</w>
+                <w lemmaRef="#に.に">に</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#ます.増す">ます</w>
+                <w lemmaRef="#かげ.影">かけ</w>
+                <w lemmaRef="#は.は">は</w>
+                <w lemmaRef="#なし.無し">なし</w>
+              </seg>
             </l>
           </div>
           <lb/>

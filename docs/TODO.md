@@ -29,3 +29,23 @@ Create a post-processing script to:
    - Other → `lemmaRef="#なむ"`
 
 **Priority:** Medium (affects lexical accuracy)
+
+
+## Tokenization Mismatches
+
+### 覧 (ramu) Segmentation Issue
+
+**Issue:** `覧` sometimes breaks verb-r-a+mu (e.g., `なるらむ` = `なる` + `らむ` vs `ならむ` = `なら` + `む`), rather than treating `らむ` as a whole auxiliary verb token. This would not be processed correctly in the current alignment proposal.
+
+**Impact:** The current align-review tool expects tokens to match the Hachidaishu wordlist segmentation. When Karoku segments differently (splitting what Hachidaishu treats as a single token), manual intervention is required.
+
+**Example cases:**
+- `なるらむ` (なる + らむ) — `らむ` as auxiliary verb
+- `ならむ` (なら + む) — separate tokens for verb stem + auxiliary
+
+**Possible solutions:**
+1. Pre-process Karoku text to merge certain multi-character sequences before alignment
+2. Add alignment rules to handle split-vs-merged token mismatches
+3. Document as known limitation requiring manual review
+
+**Priority:** Medium (requires manual review for affected poems)

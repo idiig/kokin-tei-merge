@@ -42128,11 +42128,30 @@
           <lb/>
           <div type="和歌">
             <l n="1078" xml:id="n1078">
-              <seg>みちのくの</seg>
-              <seg>あたちのまゆみ</seg>
-              <seg>わかひかは</seg>
-              <seg>すゑさへよりこ</seg>
-              <seg>しのひ〳〵に</seg>
+              <seg>
+                <w lemmaRef="#みちのく.陸奥">みちのく</w>
+                <w lemmaRef="#の.の">の</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#あだち.安達">あたち</w>
+                <w lemmaRef="#の.の">の</w>
+                <w lemmaRef="#まゆみ.真弓">まゆみ</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#わ.我">わ</w>
+                <w lemmaRef="#が.が">か</w>
+                <w lemmaRef="#ひか.引く">ひか</w>
+                <w lemmaRef="#ば.ば">は</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#すゑ.末">すゑ</w>
+                <w lemmaRef="#さへ.さへ">さへ</w>
+                <w lemmaRef="#より.寄る">より</w>
+                <w lemmaRef="#こ.来">こ</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#しのびしのびなり.忍び忍びなり">しのひ〳〵に</w>
+              </seg>
             </l>
           </div>
           <lb/>

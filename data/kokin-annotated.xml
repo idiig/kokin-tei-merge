@@ -36967,11 +36967,35 @@
             <lb/>ける人によみてをくりける</note>
           <lb/>
           <l n="971" xml:id="n971" resp="#在原業平">
-            <seg>年をへて</seg>
-            <seg>すみこし里を</seg>
-            <seg>いてゝいなは</seg>
-            <seg>いとゝ深草の</seg>
-            <seg>のとやなり南</seg>
+            <seg>
+              <w lemmaRef="#とし.年">年</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#へ.経">へ</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#すみ.住む">すみ</w>
+              <w lemmaRef="#こ.来">こ</w>
+              <w lemmaRef="#し.き">し</w>
+              <w lemmaRef="#さと.里">里</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いで.出づ">いて</w>
+              <w lemmaRef="#て.て">ゝ</w>
+              <w lemmaRef="#いな.去ぬ">いな</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いとど.いとど">いとゝ</w>
+              <w lemmaRef="#ふかくさの.深草野">深草の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#と.と">のと</w>
+              <w lemmaRef="#や.や">や</w>
+              <w lemmaRef="#なり.成る">なり</w>
+              <w lemmaRef="#な_む.なむ">南</w>
+            </seg>
           </l>
         </div>
         <lb/>

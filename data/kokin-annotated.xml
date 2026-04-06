@@ -42755,11 +42755,33 @@
             <note type="詞書" style="margin-top: 2em" target="#n1097 #n1098">かひうた</note>
             <lb/>
             <l n="1097" xml:id="n1097">
-              <seg>かひかねを</seg>
-              <seg>さやにも見しか</seg>
-              <seg>けゝれなく</seg>
-              <seg>よこほりふせる</seg>
-              <seg>さやの中山</seg>
+              <seg>
+                <w lemmaRef="#かひ.甲斐">かひ</w>
+                <w lemmaRef="#が.が">か</w>
+                <w lemmaRef="#ね.嶺">ね</w>
+                <w lemmaRef="#を.を">を</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#さやに.清なり">さやに</w>
+                <w lemmaRef="#も.も">も</w>
+                <w lemmaRef="#み.見る">見</w>
+                <w lemmaRef="#しが.しが">しか</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#けけれ.心">けゝれ</w>
+                <w lemmaRef="#なく.無し">なく</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#よこ.横">よこ</w>
+                <w lemmaRef="#ほり.掘る">ほり</w>
+                <w lemmaRef="#ふせ.伏す">ふせ</w>
+                <w lemmaRef="#る.り">る</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#さや.小夜">さや</w>
+                <w lemmaRef="#の.の">の</w>
+                <w lemmaRef="#なかやま.中山">中山</w>
+              </seg>
             </l>
           </div>
           <lb/>

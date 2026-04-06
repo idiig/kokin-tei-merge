@@ -43072,11 +43072,35 @@
             </note>
             <lb/>
             <l n="1105" xml:id="n1105" resp="#あやもち">
-              <seg>うきめをは</seg>
-              <seg>よそめとのみそ</seg>
-              <seg>のかれゆく</seg>
-              <seg>雲のあはたつ</seg>
-              <seg>山のふもとに</seg>
+              <seg>
+                <w lemmaRef="#うき.憂し">うき</w>
+                <w lemmaRef="#め.目">め</w>
+                <w lemmaRef="#を.を">を</w>
+                <w lemmaRef="#ば.ば">は</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#よそ.余所">よそ</w>
+                <w lemmaRef="#め.目">め</w>
+                <w lemmaRef="#と.と">と</w>
+                <w lemmaRef="#のみ.のみ">のみ</w>
+                <w lemmaRef="#ぞ.ぞ">そ</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#のがれ.逃る">のかれ</w>
+                <w lemmaRef="#ゆく.行く">ゆく</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#くも.雲">雲</w>
+                <w lemmaRef="#の.の">の</w>
+                <w lemmaRef="#あは.淡">あは</w>
+                <w lemmaRef="#たつ.立つ">たつ</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#やま.山">山</w>
+                <w lemmaRef="#の.の">の</w>
+                <w lemmaRef="#ふもと.麓">ふもと</w>
+                <w lemmaRef="#に.に">に</w>
+              </seg>
             </l>
             <lb/>
             <note type="左注" target="#n1105">このうた水尾のみかとのそめとのよりあはたへう

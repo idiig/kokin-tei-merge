@@ -39935,11 +39935,29 @@
             </note>
             <lb/>
             <l n="1016" xml:id="n1016" resp="#遍昭">
-              <seg>秋のゝに</seg>
-              <seg>なまめきたてる</seg>
-              <seg>をみなへし</seg>
-              <seg>あなかしかまし</seg>
-              <seg>花もひと時</seg>
+              <seg>
+                <w lemmaRef="#あき.秋">秋</w>
+                <w lemmaRef="#の.の">の</w>
+                <w lemmaRef="#の.野">ゝ</w>
+                <w lemmaRef="#に.に">に</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#なまめき.艶く">なまめき</w>
+                <w lemmaRef="#たて.立つ">たて</w>
+                <w lemmaRef="#る.り">る</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#をみなへし.女郎花">をみなへし</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#あな.あな">あな</w>
+                <w lemmaRef="#かしかまし.囂し">かしかまし</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#はな.花">花</w>
+                <w lemmaRef="#も.も">も</w>
+                <w lemmaRef="#ひととき.一時">ひと時</w>
+              </seg>
             </l>
           </div>
           <lb/>

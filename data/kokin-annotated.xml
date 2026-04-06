@@ -35137,11 +35137,33 @@
           </note>
           <lb/>
           <l n="922" xml:id="n922" resp="#在原行平">
-            <seg>こきちらす</seg>
-            <seg>たきのしらたま</seg>
-            <seg>ひろひをきて</seg>
-            <seg>よのうき時の</seg>
-            <seg>涙にそかる</seg>
+            <seg>
+              <w lemmaRef="#こき.扱く">こき</w>
+              <w lemmaRef="#ちらす.散らす">ちらす</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たき.滝">たき</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#しらたま.白玉">しらたま</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひろひ.拾ふ">ひろひ</w>
+              <w lemmaRef="#おき.置く">をき</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#よ.世">よ</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#うき.憂し">うき</w>
+              <w lemmaRef="#とき.時">時</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なみだ.涙">涙</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#かる.借る">かる</w>
+            </seg>
           </l>
         </div>
         <lb/>

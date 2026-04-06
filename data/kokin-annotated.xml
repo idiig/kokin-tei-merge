@@ -40069,11 +40069,27 @@
             </note>
             <lb/>
             <l n="1020" xml:id="n1020" resp="#在原棟梁">
-              <seg>秋風に</seg>
-              <seg>ほころひぬらし</seg>
-              <seg>ふちはかま</seg>
-              <seg>つゝりさせてふ</seg>
-              <seg>蛬なく</seg>
+              <seg>
+                <w lemmaRef="#あきかぜ.秋風">秋風</w>
+                <w lemmaRef="#に.に">に</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#ほころび.綻ぶ">ほころひ</w>
+                <w lemmaRef="#ぬ.ぬ">ぬ</w>
+                <w lemmaRef="#らし.らし">らし</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#ふぢばかま.藤袴">ふちはかま</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#つづり.綴る">つゝり</w>
+                <w lemmaRef="#させ.さす">させ</w>
+                <w lemmaRef="#てふ.てふ">てふ</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#きりぎりす.蟋蟀">蛬</w>
+                <w lemmaRef="#なく.鳴く">なく</w>
+              </seg>
             </l>
           </div>
           <lb/>

@@ -41974,11 +41974,28 @@
             <pb n="2-58v" facs="#p131"/>
             <lb/>
             <l n="1073" xml:id="n1073">
-              <seg>しはつ山</seg>
-              <seg>うちいてゝ見れは</seg>
-              <seg>かさゆひの</seg>
-              <seg>嶋こきかくる</seg>
-              <seg>たなゝしを舟</seg>
+              <seg>
+                <w lemmaRef="#しはつやま.四極山">しはつ山</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#うち.打つ">うち</w>
+                <w lemmaRef="#いで.出づ">いて</w>
+                <w lemmaRef="#て.て">ゝ</w>
+                <w lemmaRef="#みれ.見る">見れ</w>
+                <w lemmaRef="#ば.ば">は</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#かさゆひ.笠結ひ">かさゆひ</w>
+                <w lemmaRef="#の.の">の</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#しま.島">嶋</w>
+                <w lemmaRef="#こぎ.漕ぐ">こき</w>
+                <w lemmaRef="#かくる.隠る">かくる</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#たななしをぶね.棚無し小舟">たなゝしを舟</w>
+              </seg>
             </l>
           </div>
         </div>

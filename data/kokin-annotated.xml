@@ -38886,8 +38886,9 @@
                 <lb/>
                 <note type="勘物" style="margin-top: 1em" resp="#藤原定家" target="#n1003">忠岑集哥　これをおもへは　いにしへに　くすりけかせる　けたものゝ</note>
                 <lb/>
-		<w lemmaRef="#けだもの.獣">けたもの</w>
-	      <w lemmaRef="#の.の">ゝ</w></seg>
+                <w lemmaRef="#けだもの.獣">けたもの</w>
+                <w lemmaRef="#の.の">ゝ</w>
+              </seg>
               <seg>
                 <w lemmaRef="#くも.雲">雲</w>
                 <w lemmaRef="#に.に">に</w>
@@ -39238,11 +39239,30 @@
           <lb/>
           <div type="和歌">
             <l n="1004" xml:id="n1004">
-              <seg>きみか世に</seg>
-              <seg>相坂山の</seg>
-              <seg>いはし水</seg>
-              <seg>こかくれたりと</seg>
-              <seg>思ひける哉</seg>
+              <seg>
+                <w lemmaRef="#きみ.君">きみ</w>
+                <w lemmaRef="#が.が">か</w>
+                <w lemmaRef="#よ.世">世</w>
+                <w lemmaRef="#に.に">に</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#あふさかやま.相坂山">相坂山</w>
+                <w lemmaRef="#の.の">の</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#いはしみづ.岩清水">いはし水</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#こ.木">こ</w>
+                <w lemmaRef="#かくれ.隠る">かくれ</w>
+                <w lemmaRef="#たり.たり">たり</w>
+                <w lemmaRef="#と.と">と</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#おもひ.思ふ">思ひ</w>
+                <w lemmaRef="#ける.けり">ける</w>
+                <w lemmaRef="#かな.哉">哉</w>
+              </seg>
             </l>
           </div>
           <lb/>

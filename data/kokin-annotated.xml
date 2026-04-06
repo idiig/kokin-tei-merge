@@ -35577,11 +35577,31 @@
           </note>
           <lb/>
           <l n="933" xml:id="n933" resp="#よみ人知らず">
-            <seg>世中は</seg>
-            <seg>なにかつねなる</seg>
-            <seg>あすかゝは</seg>
-            <seg>昨日のふちそ</seg>
-            <seg>けふはせになる</seg>
+            <seg>
+              <w lemmaRef="#よのなか.世の中">世中</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なに.何">なに</w>
+              <w lemmaRef="#か.か">か</w>
+              <w lemmaRef="#つねなる.常なり">つねなる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あすかがは.飛鳥河">あすかゝは</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#きのふ.昨日">昨日</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#ふち.淵">ふち</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#けふ.今日">けふ</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#せ.瀬">せ</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#なる.成る">なる</w>
+            </seg>
           </l>
         </div>
         <lb/>

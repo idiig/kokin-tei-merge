@@ -41282,11 +41282,34 @@
             </note>
             <lb/>
             <l n="1054" xml:id="n1054" resp="#久曾">
-              <seg>よそなから</seg>
-              <seg>わか身にいとの</seg>
-              <seg>よるといへは</seg>
-              <seg>たゝいつはりに</seg>
-              <seg>すく許也</seg>
+              <seg>
+                <w lemmaRef="#よそ.余所">よそ</w>
+                <w lemmaRef="#ながら.ながら">なから</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#わ.我">わ</w>
+                <w lemmaRef="#が.が">か</w>
+                <w lemmaRef="#み.身">身</w>
+                <w lemmaRef="#に.に">に</w>
+                <w lemmaRef="#いと.糸">いと</w>
+                <w lemmaRef="#の.の">の</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#よる.撚る">よる</w>
+                <w lemmaRef="#と.と">と</w>
+                <w lemmaRef="#いへ.言ふ">いへ</w>
+                <w lemmaRef="#ば.ば">は</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#ただ.唯">たゝ</w>
+                <w lemmaRef="#いつはり.偽る">いつはり</w>
+                <w lemmaRef="#に.に">に</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#すぐ.過ぐ">すく</w>
+                <w lemmaRef="#ばかり.許り">許</w>
+                <w lemmaRef="#なり.なり">也</w>
+              </seg>
             </l>
           </div>
           <lb/>

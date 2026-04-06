@@ -35407,11 +35407,35 @@
           </note>
           <lb/>
           <l n="929" xml:id="n929" resp="#凡河内躬恒">
-            <seg>風ふけと</seg>
-            <seg>所もさらぬ</seg>
-            <seg>白雲は</seg>
-            <seg>よをへておつる</seg>
-            <seg>水にそありける</seg>
+            <seg>
+              <w lemmaRef="#かぜ.風">風</w>
+              <w lemmaRef="#ふけ.吹く">ふけ</w>
+              <w lemmaRef="#ど.ど">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ところ.所">所</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#さら.去る">さら</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#しらくも.白雲">白雲</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#よ.世">よ</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#へ.経">へ</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#おつる.落つ">おつる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みづ.水">水</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#あり.有り">あり</w>
+              <w lemmaRef="#ける.けり">ける</w>
+            </seg>
           </l>
         </div>
         <lb/>

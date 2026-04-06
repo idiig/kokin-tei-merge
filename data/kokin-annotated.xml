@@ -42007,11 +42007,32 @@
             <note type="詞書" style="margin-top: 2em" target="#n1074 #n1075 #n1076 #n1077 #n1078 #n1079">とりものゝうた</note>
             <lb/>
             <l n="1074" xml:id="n1074">
-              <seg>神かきの</seg>
-              <seg>みむろの山の</seg>
-              <seg>さかきはゝ</seg>
-              <seg>神のみまへに</seg>
-              <seg>しけりあひにけり</seg>
+              <seg>
+                <w lemmaRef="#かみがき.神垣">神かき</w>
+                <w lemmaRef="#の.の">の</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#みむろ.三室">みむろ</w>
+                <w lemmaRef="#の.の">の</w>
+                <w lemmaRef="#やま.山">山</w>
+                <w lemmaRef="#の.の">の</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#さかきば.榊葉">さかきは</w>
+                <w lemmaRef="#は.は">ゝ</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#かみ.神">神</w>
+                <w lemmaRef="#の.の">の</w>
+                <w lemmaRef="#みまへ.御前">みまへ</w>
+                <w lemmaRef="#に.に">に</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#しげり.茂る">しけり</w>
+                <w lemmaRef="#あひ.合ふ">あひ</w>
+                <w lemmaRef="#ぬ.ぬ">に</w>
+                <w lemmaRef="#けり.けり">けり</w>
+              </seg>
             </l>
           </div>
           <lb/>

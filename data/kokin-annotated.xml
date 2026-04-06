@@ -37414,11 +37414,34 @@
           </note>
           <lb/>
           <l n="983" xml:id="n983" resp="#喜撰法師">
-            <seg>わかいほは</seg>
-            <seg>宮このたつみ</seg>
-            <seg>しかそすむ</seg>
-            <seg>よをうち山と</seg>
-            <seg>人はいふなり</seg>
+            <seg>
+              <w lemmaRef="#わ.我">わ</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#いほ.庵">いほ</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みやこ.都">宮こ</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#たつみ.辰巳">たつみ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#しか.然">しか</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#すむ.住む">すむ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#よ.世">よ</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#うぢやま.宇治山">うち山</w>
+              <w lemmaRef="#と.と">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#いふ.言ふ">いふ</w>
+              <w lemmaRef="#なり.なり">なり</w>
+            </seg>
           </l>
         </div>
         <lb/>

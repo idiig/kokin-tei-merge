@@ -41672,11 +41672,36 @@
             </note>
             <lb/>
             <l n="1065" xml:id="n1065" resp="#大江千里">
-              <seg>白雪の</seg>
-              <seg>ともにわか身は</seg>
-              <seg>ふりぬれと</seg>
-              <seg>心はきえぬ</seg>
-              <seg>物にそ有ける</seg>
+              <seg>
+                <w lemmaRef="#しらゆき.白雪">白雪</w>
+                <w lemmaRef="#の.の">の</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#とも.共">とも</w>
+                <w lemmaRef="#に.に">に</w>
+                <w lemmaRef="#わ.我">わ</w>
+                <w lemmaRef="#が.が">か</w>
+                <w lemmaRef="#み.身">身</w>
+                <w lemmaRef="#は.は">は</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#ふり.降る">ふり</w>
+                <w lemmaRef="#ぬれ.ぬ">ぬれ</w>
+                <w lemmaRef="#ど.ど">と</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#こころ.心">心</w>
+                <w lemmaRef="#は.は">は</w>
+                <w lemmaRef="#きえ.消ゆ">きえ</w>
+                <w lemmaRef="#ぬ.ず">ぬ</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#もの.物">物</w>
+                <w lemmaRef="#に.に">に</w>
+                <w lemmaRef="#ぞ.ぞ">そ</w>
+                <w lemmaRef="#あり.有り">有</w>
+                <w lemmaRef="#ける.けり">ける</w>
+              </seg>
             </l>
           </div>
           <lb/>

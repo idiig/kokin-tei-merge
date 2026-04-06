@@ -37753,11 +37753,34 @@
           </note>
           <lb/>
           <l n="992" xml:id="n992" resp="#陸奥">
-            <seg>あかさりし</seg>
-            <seg>袖のなかにや</seg>
-            <seg>いりにけむ</seg>
-            <seg>わかたましひの</seg>
-            <seg>なき心ちする</seg>
+            <seg>
+              <w lemmaRef="#あか.飽く">あか</w>
+              <w lemmaRef="#ざり.ず">さり</w>
+              <w lemmaRef="#し.き">し</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#そで.袖">袖</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#なか.中">なか</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#や.や">や</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いり.入る">いり</w>
+              <w lemmaRef="#に.ぬ">に</w>
+              <w lemmaRef="#けむ.けむ">けむ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#われ.我">わ</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#たましひ.魂">たましひ</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なき.無し">なき</w>
+              <w lemmaRef="#ここち.心地">心ち</w>
+              <w lemmaRef="#する.す">する</w>
+            </seg>
           </l>
         </div>
         <lb/>

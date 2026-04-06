@@ -37944,11 +37944,33 @@
           </note>
           <lb/>
           <l n="997" xml:id="n997" resp="#文屋有季">
-            <seg>神な月</seg>
-            <seg>時雨ふりをける</seg>
-            <seg>ならのはの</seg>
-            <seg>名におふ宮の</seg>
-            <seg>ふることそこれ</seg>
+            <seg>
+              <w lemmaRef="#かみなづき.神無月">神な月</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#しぐれ.時雨る">時雨</w>
+              <w lemmaRef="#ふり.降る">ふり</w>
+              <w lemmaRef="#おけ.置く">をけ</w>
+              <w lemmaRef="#る.り">る</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なら.楢">なら</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#は.葉">は</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#な.名">名</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#おふ.負ふ">おふ</w>
+              <w lemmaRef="#みや.宮">宮</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ふるごと.古言">ふること</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#これ.此れ">これ</w>
+            </seg>
           </l>
         </div>
         <lb/>

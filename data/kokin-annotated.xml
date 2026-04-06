@@ -41013,11 +41013,33 @@
           <lb/>
           <div type="和歌">
             <l n="1047" xml:id="n1047" resp="#よみ人知らず">
-              <seg>さかしらに</seg>
-              <seg>夏は人まね</seg>
-              <seg>さゝのはの</seg>
-              <seg>さやくしもよを</seg>
-              <seg>わかひとりぬる</seg>
+              <seg>
+                <w lemmaRef="#さかしら.賢しら">さかしら</w>
+                <w lemmaRef="#に.に">に</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#なつ.夏">夏</w>
+                <w lemmaRef="#は.は">は</w>
+                <w lemmaRef="#ひと.人">人</w>
+                <w lemmaRef="#まね.真似">まね</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#ささ.笹">さゝ</w>
+                <w lemmaRef="#の.の">の</w>
+                <w lemmaRef="#は.葉">は</w>
+                <w lemmaRef="#の.の">の</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#さやぐ.戦ぐ">さやく</w>
+                <w lemmaRef="#しもよ.霜夜">しもよ</w>
+                <w lemmaRef="#を.を">を</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#わ.我">わ</w>
+                <w lemmaRef="#が.が">か</w>
+                <w lemmaRef="#ひとり.独り">ひとり</w>
+                <w lemmaRef="#ぬ.寝">ぬる</w>
+              </seg>
             </l>
           </div>
           <lb/>

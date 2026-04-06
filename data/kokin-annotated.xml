@@ -40681,11 +40681,32 @@
             </note>
             <lb/>
             <l n="1037" xml:id="n1037" resp="#よみ人知らず">
-              <seg>ことならは</seg>
-              <seg>おもはすとやは</seg>
-              <seg>いひはてぬ</seg>
-              <seg>なそ世中の</seg>
-              <seg>たまたすきなる</seg>
+              <seg>
+                <w lemmaRef="#こと.如">こと</w>
+                <w lemmaRef="#なら.なり">なら</w>
+                <w lemmaRef="#ば.ば">は</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#おもは.思ふ">おもは</w>
+                <w lemmaRef="#ず.ず">す</w>
+                <w lemmaRef="#と.と">と</w>
+                <w lemmaRef="#や.や">や</w>
+                <w lemmaRef="#は.は">は</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#いひ.言ふ">いひ</w>
+                <w lemmaRef="#はて.果つ">はて</w>
+                <w lemmaRef="#ず.ず">ぬ</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#なぞ.何故">なそ</w>
+                <w lemmaRef="#よのなか.世の中">世中</w>
+                <w lemmaRef="#の.の">の</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#たまだすき.玉襷">たまたすき</w>
+                <w lemmaRef="#なる.なり">なる</w>
+              </seg>
             </l>
           </div>
           <lb/>

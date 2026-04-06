@@ -40451,11 +40451,32 @@
             </note>
             <lb/>
             <l n="1031" xml:id="n1031" resp="#藤原興風">
-              <seg>春霞</seg>
-              <seg>たなひくのへの</seg>
-              <seg>わかなにも</seg>
-              <seg>なりみてし哉</seg>
-              <seg>人もつむやと</seg>
+              <seg>
+                <w lemmaRef="#はるがすみ.春霞">春霞</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#たなびく.棚引く">たなひく</w>
+                <w lemmaRef="#のべ.野辺">のへ</w>
+                <w lemmaRef="#の.の">の</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#わかな.若菜">わかな</w>
+                <w lemmaRef="#に.に">に</w>
+                <w lemmaRef="#も.も">も</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#なり.成る">なり</w>
+                <w lemmaRef="#み.見る">み</w>
+                <w lemmaRef="#て.つ">て</w>
+                <w lemmaRef="#しがな.しがな">し哉</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#ひと.人">人</w>
+                <w lemmaRef="#も.も">も</w>
+                <w lemmaRef="#つむ.摘む">つむ</w>
+                <w lemmaRef="#や.や">や</w>
+                <w lemmaRef="#と.と">と</w>
+              </seg>
             </l>
           </div>
           <lb/>

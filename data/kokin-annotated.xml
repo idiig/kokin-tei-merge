@@ -42193,11 +42193,30 @@
             <note type="詞書" style="margin-top: 2em" target="#n1080">ひるめのうた</note>
             <lb/>
             <l n="1080" xml:id="n1080">
-              <seg>さゝのくま</seg>
-              <seg>ひのくま河に</seg>
-              <seg>こまとめて</seg>
-              <seg>しはし水かへ</seg>
-              <seg>かけをたに見む</seg>
+              <seg>
+                <w lemmaRef="#ささのくま.小桧隈">さゝのくま</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#ひのくまがは.檜隈河">ひのくま河</w>
+                <w lemmaRef="#に.に">に</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#こま.駒">こま</w>
+                <w lemmaRef="#とめ.止む">とめ</w>
+                <w lemmaRef="#て.て">て</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#しばし.暫し">しはし</w>
+                <w lemmaRef="#みづ.水">水</w>
+                <w lemmaRef="#かへ.飼ふ">かへ</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#かげ.影">かけ</w>
+                <w lemmaRef="#を.を">を</w>
+                <w lemmaRef="#だに.だに">たに</w>
+                <w lemmaRef="#み.見る">見</w>
+                <w lemmaRef="#む.む">む</w>
+              </seg>
             </l>
           </div>
           <lb/>

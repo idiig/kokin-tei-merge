@@ -34731,11 +34731,30 @@
         <lb/>
         <div type="和歌">
           <l n="911" xml:id="n911" resp="#よみ人知らず">
-            <seg>わたつうみの</seg>
-            <seg>かさしにさせる</seg>
-            <seg>白妙の</seg>
-            <seg>浪もてゆへる</seg>
-            <seg>あはちしま山</seg>
+            <seg>
+              <w lemmaRef="#わたつみ.海神">わたつうみ</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かざし.挿頭す">かさし</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#させ.挿す">させ</w>
+              <w lemmaRef="#る.り">る</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#しろたへ.白妙">白妙</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なみ.浪">浪</w>
+              <w lemmaRef="#も.持つ">も</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#ゆへ.結ふ">ゆへ</w>
+              <w lemmaRef="#る.り">る</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あはぢしまやま.淡路島山">あはちしま山</w>
+            </seg>
           </l>
         </div>
         <lb/>

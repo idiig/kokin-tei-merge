@@ -42436,11 +42436,34 @@
             <note type="詞書" style="margin-top: 2em" target="#n1088 #n1089 #n1090 #n1091 #n1092 #n1093">みちのくうた</note>
             <lb/>
             <l n="1087" xml:id="n1087">
-              <seg>あふくまに</seg>
-              <seg>きりたちくもり</seg>
-              <seg>あけぬとも</seg>
-              <seg>きみをはやらし</seg>
-              <seg>まてはすへなし</seg>
+              <seg>
+                <w lemmaRef="#あふくま.阿武隈">あふくま</w>
+                <w lemmaRef="#に.に">に</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#きり.霧">きり</w>
+                <w lemmaRef="#たち.立つ">たち</w>
+                <w lemmaRef="#くもり.曇る">くもり</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#あけ.明く">あけ</w>
+                <w lemmaRef="#ぬ.ぬ">ぬ</w>
+                <w lemmaRef="#と.と">と</w>
+                <w lemmaRef="#も.も">も</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#きみ.君">きみ</w>
+                <w lemmaRef="#を.を">を</w>
+                <w lemmaRef="#ば.ば">は</w>
+                <w lemmaRef="#やる.遣る">やら</w>
+                <w lemmaRef="#じ.じ">し</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#まつ.待つ">まて</w>
+                <w lemmaRef="#ば.ば">は</w>
+                <w lemmaRef="#すべ.術">すへ</w>
+                <w lemmaRef="#なし.無し">なし</w>
+              </seg>
             </l>
           </div>
           <lb/>

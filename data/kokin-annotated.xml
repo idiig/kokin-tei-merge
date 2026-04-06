@@ -39663,13 +39663,39 @@
             <note type="詞書" style="margin-top: 2em" target="#n1009">題しらす</note>
             <lb/>
             <l n="1009" xml:id="n1009" resp="#よみ人知らず">
-              <seg>はつせ河</seg>
-              <seg>ふるかはのへに</seg>
-              <seg>ふたもとあるすき</seg>
-              <seg>年をへて</seg>
               <seg>
-                <lb/>又もあひ見む</seg>
-              <seg>ふたもとあるすき</seg>
+                <w lemmaRef="#はつせがは.初瀬河">はつせ河</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#ふるかは.布留河">ふるかは</w>
+                <w lemmaRef="#の.の">の</w>
+                <w lemmaRef="#べ.辺">へ</w>
+                <w lemmaRef="#に.に">に</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#ふたもと.二本">ふたもと</w>
+                <w lemmaRef="#ある.有り">ある</w>
+                <w lemmaRef="#すぎ.杉">すき</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#とし.年">年</w>
+                <w lemmaRef="#を.を">を</w>
+                <w lemmaRef="#へ.経">へ</w>
+                <w lemmaRef="#て.て">て</w>
+              </seg>
+              <seg>
+                <lb/>
+                <w lemmaRef="#また.又">又</w>
+                <w lemmaRef="#も.も">も</w>
+                <w lemmaRef="#あひ.逢ふ">あひ</w>
+                <w lemmaRef="#み.見る">見</w>
+                <w lemmaRef="#む.む">む</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#ふたもと.二本">ふたもと</w>
+                <w lemmaRef="#ある.有り">ある</w>
+                <w lemmaRef="#すぎ.杉">すき</w>
+              </seg>
             </l>
           </div>
           <lb/>

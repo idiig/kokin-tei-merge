@@ -35291,11 +35291,33 @@
           </note>
           <lb/>
           <l n="926" xml:id="n926" resp="#伊勢">
-            <seg>たちぬはぬ</seg>
-            <seg>きぬきし人も</seg>
-            <seg>なき物を</seg>
-            <seg>なに山ひめの</seg>
-            <seg>ぬのさらすらむ</seg>
+            <seg>
+              <w lemmaRef="#たち.裁つ">たち</w>
+              <w lemmaRef="#ぬは.縫ふ">ぬは</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ころも.衣">きぬ</w>
+              <w lemmaRef="#き.着る">き</w>
+              <w lemmaRef="#し.き">し</w>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なき.無し">なき</w>
+              <w lemmaRef="#もの.物">物</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なに.何">なに</w>
+              <w lemmaRef="#やまひめ.山姫">山ひめ</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ぬの.布">ぬの</w>
+              <w lemmaRef="#さらす.曝す">さらす</w>
+              <w lemmaRef="#らむ.らむ">らむ</w>
+            </seg>
           </l>
         </div>
         <lb/>

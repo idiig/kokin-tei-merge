@@ -40103,11 +40103,31 @@
             <pb n="2-54v" facs="#p127"/>
             <lb/>
             <l n="1021" xml:id="n1021" resp="#清原深養父">
-              <seg>冬なから</seg>
-              <seg>春のとなりの</seg>
-              <seg>ちかけれは</seg>
-              <seg>なかゝきよりそ</seg>
-              <seg>花はちりける</seg>
+              <seg>
+                <w lemmaRef="#ふゆ.冬">冬</w>
+                <w lemmaRef="#ながら.ながら">なから</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#はる.春">春</w>
+                <w lemmaRef="#の.の">の</w>
+                <w lemmaRef="#となり.隣">となり</w>
+                <w lemmaRef="#の.の">の</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#ちかけれ.近し">ちかけれ</w>
+                <w lemmaRef="#ば.ば">は</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#なかがき.中垣">なかゝき</w>
+                <w lemmaRef="#より.より">より</w>
+                <w lemmaRef="#ぞ.ぞ">そ</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#はな.花">花</w>
+                <w lemmaRef="#は.は">は</w>
+                <w lemmaRef="#ちり.散る">ちり</w>
+                <w lemmaRef="#ける.けり">ける</w>
+              </seg>
             </l>
           </div>
           <lb/>

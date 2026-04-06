@@ -41563,11 +41563,30 @@
             </note>
             <lb/>
             <l n="1062" xml:id="n1062" resp="#在原元方">
-              <seg>よのなかは</seg>
-              <seg>いかにくるしと</seg>
-              <seg>思覧</seg>
-              <seg>こゝらの人に</seg>
-              <seg>うらみらるれは</seg>
+              <seg>
+                <w lemmaRef="#よのなか.世の中">よのなか</w>
+                <w lemmaRef="#は.は">は</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#いかに.如何に">いかに</w>
+                <w lemmaRef="#くるし.苦し">くるし</w>
+                <w lemmaRef="#と.と">と</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#おもふ.思ふ">思</w>
+                <w lemmaRef="#らむ.らむ">覧</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#ここら.幾許">こゝら</w>
+                <w lemmaRef="#の.の">の</w>
+                <w lemmaRef="#ひと.人">人</w>
+                <w lemmaRef="#に.に">に</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#うらみ.怨む">うらみ</w>
+                <w lemmaRef="#らるれ.らる">らるれ</w>
+                <w lemmaRef="#ば.ば">は</w>
+              </seg>
             </l>
           </div>
           <lb/>

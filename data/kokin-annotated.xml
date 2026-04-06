@@ -39826,11 +39826,28 @@
             </note>
             <lb/>
             <l n="1013" xml:id="n1013" resp="#藤原敏行">
-              <seg>いくはくの</seg>
-              <seg>田をつくれはか</seg>
-              <seg>郭公</seg>
-              <seg>してのたをさを</seg>
-              <seg>あさな〳〵よふ</seg>
+              <seg>
+                <w lemmaRef="#いくばく.幾許">いくはく</w>
+                <w lemmaRef="#の.の">の</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#た.田">田</w>
+                <w lemmaRef="#を.を">を</w>
+                <w lemmaRef="#つくれ.作る">つくれ</w>
+                <w lemmaRef="#ば.ば">は</w>
+                <w lemmaRef="#か.か">か</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#ほととぎす.郭公">郭公</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#しでのたをさ.垂幣の田長">してのたをさ</w>
+                <w lemmaRef="#を.を">を</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#あさなあさな.朝な朝な">あさな〳〵</w>
+                <w lemmaRef="#よぶ.呼ぶ">よふ</w>
+              </seg>
             </l>
           </div>
           <lb/>

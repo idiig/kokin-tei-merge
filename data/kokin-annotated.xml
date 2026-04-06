@@ -39753,11 +39753,35 @@
             </note>
             <lb/>
             <l n="1011" xml:id="n1011" resp="#よみ人知らず">
-              <seg>梅花</seg>
-              <seg>見にこそきつれ</seg>
-              <seg>鶯の</seg>
-              <seg>ひとく〳〵と</seg>
-              <seg>いとひしもをる</seg>
+              <seg>
+                <w lemmaRef="#うめ.梅">梅</w>
+                <w lemmaRef="#の.の"/>
+                <w lemmaRef="#はな.花">花</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#み.見る">見</w>
+                <w lemmaRef="#に.に">に</w>
+                <w lemmaRef="#こそ.こそ">こそ</w>
+                <w lemmaRef="#き.来">き</w>
+                <w lemmaRef="#つれ.つ">つれ</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#うぐひす.鴬">鶯</w>
+                <w lemmaRef="#の.の">の</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#ひと.人">ひと</w>
+                <w lemmaRef="#く.来">く</w>
+                <w lemmaRef="#ひと.人">〳</w>
+                <w lemmaRef="#く.来">〵</w>
+                <w lemmaRef="#と.と">と</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#いとひ.厭ふ">いとひ</w>
+                <w lemmaRef="#し.し">し</w>
+                <w lemmaRef="#も.も">も</w>
+                <w lemmaRef="#をる.居り">をる</w>
+              </seg>
             </l>
           </div>
           <lb/>

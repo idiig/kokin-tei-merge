@@ -35607,11 +35607,35 @@
         <lb/>
         <div type="和歌">
           <l n="934" xml:id="n934" resp="#よみ人知らず">
-            <seg>いく世しも</seg>
-            <seg>あらしわか身を</seg>
-            <seg>なそもかく</seg>
-            <seg>あまのかるもに</seg>
-            <seg>思みたるゝ</seg>
+            <seg>
+              <w lemmaRef="#いくよ.幾世">いく世</w>
+              <w lemmaRef="#し.し">し</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あら.有り">あら</w>
+              <w lemmaRef="#じ.じ">し</w>
+              <w lemmaRef="#わ.我">わ</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#み.身">身</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なぞ.何故">なそ</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#かく.斯く">かく</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あま.海人">あま</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#かる.刈る">かる</w>
+              <w lemmaRef="#も.藻">も</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おもひ.思ふ">思</w>
+              <w lemmaRef="#みだるる.乱る">みたるゝ</w>
+            </seg>
           </l>
         </div>
         <lb/>

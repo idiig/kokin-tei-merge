@@ -35641,11 +35641,33 @@
         <lb/>
         <div type="和歌">
           <l n="935" xml:id="n935" resp="#よみ人知らず">
-            <seg>鳫のくる</seg>
-            <seg>峯の朝霧</seg>
-            <seg>はれすのみ</seg>
-            <seg>思ひつきせぬ</seg>
-            <seg>世中のうさ</seg>
+            <seg>
+              <w lemmaRef="#かりがね.雁">鳫</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#くる.来">くる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みね.峰">峯</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#あさぎり.朝霧">朝霧</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はれ.晴る">はれ</w>
+              <w lemmaRef="#ず.ず">す</w>
+              <w lemmaRef="#のみ.のみ">のみ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おもひ.思ふ">思ひ</w>
+              <w lemmaRef="#つき.尽く">つき</w>
+              <w lemmaRef="#せ.す">せ</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#よのなか.世の中">世中</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#う.憂し">う</w>
+              <w lemmaRef="#さ.さ">さ</w>
+            </seg>
           </l>
         </div>
         <lb/>

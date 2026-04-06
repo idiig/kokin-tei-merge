@@ -36300,11 +36300,36 @@
         <lb/>
         <div type="和歌">
           <l n="954" xml:id="n954" resp="#よみ人知らず">
-            <seg>世中の</seg>
-            <seg>うけくに秋ぬ</seg>
-            <seg>奥山の</seg>
-            <seg>このはにふれる</seg>
-            <seg>雪やけなまし</seg>
+            <seg>
+              <w lemmaRef="#よのなか.世の中">世中</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うけ.憂し">うけ</w>
+              <w lemmaRef="#く.く">く</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#あき.飽く">秋</w>
+              <w lemmaRef="#ぬ.ぬ">ぬ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おくやま.奥山">奥山</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こ.木">こ</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#は.葉">は</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#ふれ.降る">ふれ</w>
+              <w lemmaRef="#る.り">る</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ゆき.雪">雪</w>
+              <w lemmaRef="#や.や">や</w>
+              <w lemmaRef="#きえ.消">け</w>
+              <w lemmaRef="#な.ぬ">な</w>
+              <w lemmaRef="#まし.まし">まし</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -35100,11 +35100,32 @@
           </note>
           <lb/>
           <l n="921" xml:id="n921" resp="#真静法師">
-            <seg>宮こまて</seg>
-            <seg>ひゝきかよへる</seg>
-            <seg>からことは</seg>
-            <seg>浪のをすけて</seg>
-            <seg>風そひきける</seg>
+            <seg>
+              <w lemmaRef="#みやこ.都">宮こ</w>
+              <w lemmaRef="#まで.まで">まて</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひびき.響く">ひゝき</w>
+              <w lemmaRef="#かよへ.通ふ">かよへ</w>
+              <w lemmaRef="#る.り">る</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#からこと.唐琴">からこと</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なみ.浪">浪</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#を.絃">を</w>
+              <w lemmaRef="#すげ.挿ぐ">すけ</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かぜ.風">風</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#ひき.弾く">ひき</w>
+              <w lemmaRef="#ける.けり">ける</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -34375,11 +34375,33 @@
           </note>
           <lb/>
           <l n="901" xml:id="n901" resp="#在原業平">
-            <seg>世中に</seg>
-            <seg>さらぬわかれの</seg>
-            <seg>なくも哉</seg>
-            <seg>ちよもとなけく</seg>
-            <seg>人のこのため</seg>
+            <seg>
+              <w lemmaRef="#よのなか.世の中">世中</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#さら.去る">さら</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+              <w lemmaRef="#わかれ.別る">わかれ</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なく.無し">なく</w>
+              <w lemmaRef="#もがな.もがな">も哉</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ちよ.千代">ちよ</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#なげく.嘆く">なけく</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#こ.子">こ</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#ため.為">ため</w>
+            </seg>
           </l>
         </div>
         <lb/>
@@ -34392,11 +34414,29 @@
           </note>
           <lb/>
           <l n="902" xml:id="n902" resp="#在原棟梁">
-            <seg>白雪の</seg>
-            <seg>やへふりしける</seg>
-            <seg>かへる山</seg>
-            <seg>かへる〳〵も</seg>
-            <seg>おいにける哉</seg>
+            <seg>
+              <w lemmaRef="#しらゆき.白雪">白雪</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#やへ.八重">やへ</w>
+              <w lemmaRef="#ふり.降る">ふり</w>
+              <w lemmaRef="#しけ.敷く">しけ</w>
+              <w lemmaRef="#る.り">る</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かへるやま.帰山">かへる山</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かへるがへる.返る返る">かへる〳〵</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おい.老ゆ">おい</w>
+              <w lemmaRef="#に.ぬ">に</w>
+              <w lemmaRef="#ける.けり">ける</w>
+              <w lemmaRef="#かな.哉">哉</w>
+            </seg>
           </l>
         </div>
         <lb/>

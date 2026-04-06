@@ -35332,11 +35332,34 @@
           </note>
           <lb/>
           <l n="927" xml:id="n927" resp="#橘長盛">
-            <seg>ぬしなくて</seg>
-            <seg>さらせる布を</seg>
-            <seg>たなはたに</seg>
-            <seg>わか心とや</seg>
-            <seg>けふはかさまし</seg>
+            <seg>
+              <w lemmaRef="#ぬし.主">ぬし</w>
+              <w lemmaRef="#なく.無し">なく</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#さらせ.曝す">さらせ</w>
+              <w lemmaRef="#る.り">る</w>
+              <w lemmaRef="#ぬの.布">布</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たなばた.織女">たなはた</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わ.我">わ</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#こころ.心">心</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#や.や">や</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#けふ.今日">けふ</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#かさ.貸す">かさ</w>
+              <w lemmaRef="#まし.まし">まし</w>
+            </seg>
           </l>
         </div>
         <lb/>

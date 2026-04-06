@@ -39706,13 +39706,38 @@
             </note>
             <lb/>
             <l n="1010" xml:id="n1010" resp="#紀貫之">
-              <seg>きみかさす</seg>
-              <seg>みかさの山の</seg>
-              <seg>もみちはの色</seg>
-              <seg>神な月</seg>
               <seg>
-                <lb/>しくれのあめの</seg>
-              <seg>そめるなりけり</seg>
+                <w lemmaRef="#きみ.君">きみ</w>
+                <w lemmaRef="#が.が">か</w>
+                <w lemmaRef="#さす.挿す">さす</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#みかさ.三笠">みかさ</w>
+                <w lemmaRef="#の.の">の</w>
+                <w lemmaRef="#やま.山">山</w>
+                <w lemmaRef="#の.の">の</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#もみぢば.紅葉葉">もみちは</w>
+                <w lemmaRef="#の.の">の</w>
+                <w lemmaRef="#いろ.色">色</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#かみなづき.神無月">神な月</w>
+              </seg>
+              <seg>
+                <lb/>
+                <w lemmaRef="#しぐれ.時雨る">しくれ</w>
+                <w lemmaRef="#の.の">の</w>
+                <w lemmaRef="#あめ.雨">あめ</w>
+                <w lemmaRef="#の.の">の</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#そめ.染む">そめ</w>
+                <w lemmaRef="#る.り">る</w>
+                <w lemmaRef="#なり.なり">なり</w>
+                <w lemmaRef="#けり.けり">けり</w>
+              </seg>
             </l>
           </div>
         </div>

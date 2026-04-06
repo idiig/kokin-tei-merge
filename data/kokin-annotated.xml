@@ -36484,11 +36484,39 @@
         <lb/>
         <div type="和歌">
           <l n="959" xml:id="n959" resp="#よみ人知らず">
-            <seg>木にもあらす</seg>
-            <seg>草にもあらぬ</seg>
-            <seg>竹のよの</seg>
-            <seg>はしにわか身は</seg>
-            <seg>成ぬへら也</seg>
+            <seg>
+              <w lemmaRef="#き.木">木</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#あら.有り">あら</w>
+              <w lemmaRef="#ず.ず">す</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#くさ.草">草</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#あら.有り">あら</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たけ.竹">竹</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#よ.節">よ</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はし.端">はし</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#わ.我">わ</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#み.身">身</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なり.成る">成</w>
+              <w lemmaRef="#ぬ.ぬ">ぬ</w>
+              <w lemmaRef="#べらなり.べらなり">へら也</w>
+            </seg>
           </l>
           <pb n="2-44r" facs="#p116"/>
           <lb/>

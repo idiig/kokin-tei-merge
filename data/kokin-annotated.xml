@@ -34789,11 +34789,29 @@
         <lb/>
         <div type="和歌">
           <l n="913" xml:id="n913" resp="#よみ人知らず">
-            <seg>なにはかた</seg>
-            <seg>しほみちくらし</seg>
-            <seg>あま衣</seg>
-            <seg>たみのゝしまに</seg>
-            <seg>たつなきわたる</seg>
+            <seg>
+              <w lemmaRef="#なにはがた.難波潟">なにはかた</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#しほ.潮">しほ</w>
+              <w lemmaRef="#みち.満つ">みち</w>
+              <w lemmaRef="#く.来">く</w>
+              <w lemmaRef="#らし.らし">らし</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あまごろも.海人衣">あま衣</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たみの.田蓑">たみの</w>
+              <w lemmaRef="#の.の">ゝ</w>
+              <w lemmaRef="#しま.島">しま</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たづ.田鶴">たつ</w>
+              <w lemmaRef="#なき.鳴く">なき</w>
+              <w lemmaRef="#わたる.渡る">わたる</w>
+            </seg>
           </l>
         </div>
         <pb n="2-39r" facs="#p111"/>

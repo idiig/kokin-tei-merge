@@ -36341,11 +36341,34 @@
           </note>
           <lb/>
           <l n="955" xml:id="n955" resp="#物部良名">
-            <seg>よのうきめ</seg>
-            <seg>見えぬやまちへ</seg>
-            <seg>いらむには</seg>
-            <seg>おもふひとこそ</seg>
-            <seg>ほたしなりけれ</seg>
+            <seg>
+              <w lemmaRef="#よ.世">よ</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#うき.憂し">うき</w>
+              <w lemmaRef="#め.目">め</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みえ.見ゆ">見え</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+              <w lemmaRef="#やまぢ.山路">やまち</w>
+              <w lemmaRef="#へ.へ">へ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いら.入る">いら</w>
+              <w lemmaRef="#む.む">む</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おもふ.思ふ">おもふ</w>
+              <w lemmaRef="#ひと.人">ひと</w>
+              <w lemmaRef="#こそ.こそ">こそ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ほだし.絆">ほたし</w>
+              <w lemmaRef="#なり.なり">なり</w>
+              <w lemmaRef="#けれ.けり">けれ</w>
+            </seg>
           </l>
         </div>
         <lb/>

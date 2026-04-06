@@ -37228,11 +37228,35 @@
             <lb/>のことくなむつもれるといひけるおりによめる</note>
           <lb/>
           <l n="978" xml:id="n978" resp="#凡河内躬恒">
-            <seg>君かおもひ</seg>
-            <seg>雪とつもらは</seg>
-            <seg>たのまれす</seg>
-            <seg>春よりのちは</seg>
-            <seg>あらしと思へは</seg>
+            <seg>
+              <w lemmaRef="#きみ.君">君</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#おもひ.思ふ">おもひ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ゆき.雪">雪</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#つもら.積もる">つもら</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たのま.頼む">たのま</w>
+              <w lemmaRef="#れ.る">れ</w>
+              <w lemmaRef="#ず.ず">す</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はる.春">春</w>
+              <w lemmaRef="#より.より">より</w>
+              <w lemmaRef="#のち.後">のち</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あら.有り">あら</w>
+              <w lemmaRef="#じ.じ">し</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#おもへ.思ふ">思へ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
           </l>
         </div>
         <lb/>

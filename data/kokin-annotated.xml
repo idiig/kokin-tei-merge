@@ -42321,11 +42321,30 @@
           <lb/>
           <div type="和歌">
             <l n="1084" xml:id="n1084">
-              <seg>みのゝくに</seg>
-              <seg>関のふち河</seg>
-              <seg>たえすして</seg>
-              <seg>君につかへむ</seg>
-              <seg>よろつよまてに</seg>
+              <seg>
+                <w lemmaRef="#みののくに.美濃国">みのゝくに</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#せき.関">関</w>
+                <w lemmaRef="#の.の">の</w>
+                <w lemmaRef="#ふぢがは.藤河">ふち河</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#たえ.絶ゆ">たえ</w>
+                <w lemmaRef="#ず.ず">す</w>
+                <w lemmaRef="#して.して">して</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#きみ.君">君</w>
+                <w lemmaRef="#に.に">に</w>
+                <w lemmaRef="#つかへ.仕ふ">つかへ</w>
+                <w lemmaRef="#む.む">む</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#よろづよ.万世">よろつよ</w>
+                <w lemmaRef="#まで.まで">まて</w>
+                <w lemmaRef="#に.に">に</w>
+              </seg>
             </l>
             <lb/>
             <note type="左注" style="margin-top: 3em" target="#n1084">これは

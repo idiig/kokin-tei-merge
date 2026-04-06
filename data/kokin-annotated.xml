@@ -42225,11 +42225,31 @@
             <pb n="2-59r" facs="#p131"/>
             <lb/>
             <l n="1081" xml:id="n1081">
-              <seg>あをやきを</seg>
-              <seg>かたいとによりて</seg>
-              <seg>鶯の</seg>
-              <seg>ぬふてふかさは</seg>
-              <seg>梅のはなかさ</seg>
+              <seg>
+                <w lemmaRef="#あをやぎ.青柳">あをやき</w>
+                <w lemmaRef="#を.を">を</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#かたいと.片糸">かたいと</w>
+                <w lemmaRef="#に.に">に</w>
+                <w lemmaRef="#より.撚る">より</w>
+                <w lemmaRef="#て.て">て</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#うぐひす.鴬">鶯</w>
+                <w lemmaRef="#の.の">の</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#ぬふ.縫ふ">ぬふ</w>
+                <w lemmaRef="#てふ.てふ">てふ</w>
+                <w lemmaRef="#かさ.笠">かさ</w>
+                <w lemmaRef="#は.は">は</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#うめ.梅">梅</w>
+                <w lemmaRef="#の.の">の</w>
+                <w lemmaRef="#はながさ.花笠">はなかさ</w>
+              </seg>
             </l>
           </div>
           <lb/>

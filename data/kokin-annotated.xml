@@ -43032,11 +43032,33 @@
             </note>
             <lb/>
             <l n="1104" xml:id="n1104" resp="#小野小町">
-              <seg>をきのゐて</seg>
-              <seg>みをやくよりも</seg>
-              <seg>かなしきは</seg>
-              <seg>みやこしまへの</seg>
-              <seg>わかれなりけり</seg>
+              <seg>
+                <w lemmaRef="#おき.熾火">をき</w>
+                <w lemmaRef="#の.の">の</w>
+                <w lemmaRef="#ゐ.居る">ゐ</w>
+                <w lemmaRef="#て.て">て</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#み.身">み</w>
+                <w lemmaRef="#を.を">を</w>
+                <w lemmaRef="#やく.焼く">やく</w>
+                <w lemmaRef="#より.より">より</w>
+                <w lemmaRef="#も.も">も</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#かなしき.悲し">かなしき</w>
+                <w lemmaRef="#は.は">は</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#みやこ.都">みやこ</w>
+                <w lemmaRef="#しまべ.島辺">しまへ</w>
+                <w lemmaRef="#の.の">の</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#わかれ.別る">わかれ</w>
+                <w lemmaRef="#なり.なり">なり</w>
+                <w lemmaRef="#けり.けり">けり</w>
+              </seg>
             </l>
             <lb/>
             <note type="墨滅歌所在" target="#n1104">からこと清行下</note>

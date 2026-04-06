@@ -34699,11 +34699,33 @@
           </note>
           <lb/>
           <l n="910" xml:id="n910" resp="#よみ人知らず">
-            <seg>わたつ海の</seg>
-            <seg>おきつしほあひに</seg>
-            <seg>うかふあわの</seg>
-            <seg>きえぬ物から</seg>
-            <seg>よる方もなし</seg>
+            <seg>
+              <w lemmaRef="#わたつみ.海神">わたつ海</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おき.沖">おき</w>
+              <w lemmaRef="#つ.つ">つ</w>
+              <w lemmaRef="#しほあひ.潮合">しほあひ</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うかぶ.浮ぶ">うかふ</w>
+              <w lemmaRef="#あわ.泡">あわ</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#きえ.消ゆ">きえ</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+              <w lemmaRef="#もの.物">物</w>
+              <w lemmaRef="#から.から">から</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#よる.寄る">よる</w>
+              <w lemmaRef="#かた.方">方</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#なし.無し">なし</w>
+            </seg>
           </l>
         </div>
         <lb/>

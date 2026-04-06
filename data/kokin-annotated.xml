@@ -37152,11 +37152,35 @@
           </note>
           <lb/>
           <l n="976" xml:id="n976" resp="#凡河内躬恒">
-            <seg>水のおもに</seg>
-            <seg>おふるさ月の</seg>
-            <seg>うき草の</seg>
-            <seg>うきことあれや</seg>
-            <seg>ねをたえてこぬ</seg>
+            <seg>
+              <w lemmaRef="#みづ.水">水</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#も.面">おも</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おふる.生ふ">おふる</w>
+              <w lemmaRef="#さつき.五月">さ月</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うきくさ.浮草">うき草</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うき.憂し">うき</w>
+              <w lemmaRef="#こと.事">こと</w>
+              <w lemmaRef="#あれ.有り">あれ</w>
+              <w lemmaRef="#や.や">や</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ね.根">ね</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#たえ.絶ゆ">たえ</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#こ.来">こ</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+            </seg>
           </l>
         </div>
         <lb/>

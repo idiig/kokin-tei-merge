@@ -36725,11 +36725,31 @@
         <lb/>
         <div type="和歌">
           <l n="965" xml:id="n965" resp="#平貞文">
-            <seg>ありはてぬ</seg>
-            <seg>いのちまつまの</seg>
-            <seg>ほと許</seg>
-            <seg>うきことしけく</seg>
-            <seg>おもはすもかな</seg>
+            <seg>
+              <w lemmaRef="#あり.有り">あり</w>
+              <w lemmaRef="#はて.果つ">はて</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いのち.命">いのち</w>
+              <w lemmaRef="#まつ.待つ">まつ</w>
+              <w lemmaRef="#ま.間">ま</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ほど.程">ほと</w>
+              <w lemmaRef="#ばかり.許り">許</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うき.憂し">うき</w>
+              <w lemmaRef="#こと.事">こと</w>
+              <w lemmaRef="#しげく.繁し">しけく</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おもは.思ふ">おもは</w>
+              <w lemmaRef="#ず.ず">す</w>
+              <w lemmaRef="#もがな.もがな">もかな</w>
+            </seg>
           </l>
         </div>
         <lb/>

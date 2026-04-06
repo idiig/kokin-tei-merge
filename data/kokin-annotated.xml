@@ -40845,11 +40845,32 @@
             </note>
             <lb/>
             <l n="1042" xml:id="n1042">
-              <seg>思ひけむ</seg>
-              <seg>人をそともに</seg>
-              <seg>おもはまし</seg>
-              <seg>まさしやむくひ</seg>
-              <seg>なかりけりやは</seg>
+              <seg>
+                <w lemmaRef="#おもひ.思ふ">思ひ</w>
+                <w lemmaRef="#けむ.けむ">けむ</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#ひと.人">人</w>
+                <w lemmaRef="#を.を">を</w>
+                <w lemmaRef="#ぞ.ぞ">そ</w>
+                <w lemmaRef="#とも.共">とも</w>
+                <w lemmaRef="#に.に">に</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#おもは.思ふ">おもは</w>
+                <w lemmaRef="#まし.まし">まし</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#まさし.正し">まさし</w>
+                <w lemmaRef="#や.や">や</w>
+                <w lemmaRef="#むくい.報ゆ">むくひ</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#なかり.無し">なかり</w>
+                <w lemmaRef="#けり.けり">けり</w>
+                <w lemmaRef="#や.や">や</w>
+                <w lemmaRef="#は.は">は</w>
+              </seg>
             </l>
           </div>
           <lb/>

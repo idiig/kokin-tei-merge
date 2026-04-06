@@ -42909,11 +42909,30 @@
             </note>
             <lb/>
             <l n="1101" xml:id="n1101" resp="#紀貫之">
-              <seg>そま人は</seg>
-              <seg>宮木ひくらし</seg>
-              <seg>あしひきの</seg>
-              <seg>山の山ひこ</seg>
-              <seg>よりとよむなり</seg>
+              <seg>
+                <w lemmaRef="#そまびと.杣人">そま人</w>
+                <w lemmaRef="#は.は">は</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#みやき.宮木">宮木</w>
+                <w lemmaRef="#ひく.引く">ひく</w>
+                <w lemmaRef="#らし.らし">らし</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#あし.足">あし</w>
+                <w lemmaRef="#ひき.曳く">ひき</w>
+                <w lemmaRef="#の.の">の</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#やま.山">山</w>
+                <w lemmaRef="#の.の">の</w>
+                <w lemmaRef="#やまびこ.山彦">山ひこ</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#よび.呼ぶ">より</w>
+                <w lemmaRef="#とよむ.響む">とよむ</w>
+                <w lemmaRef="#なり.なり">なり</w>
+              </seg>
             </l>
             <lb/>
             <note>

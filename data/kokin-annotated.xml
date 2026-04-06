@@ -34659,11 +34659,36 @@
           </note>
           <lb/>
           <l n="909" xml:id="n909" resp="#藤原興風">
-            <seg>誰をかも</seg>
-            <seg>しる人にせむ</seg>
-            <seg>たかさこの</seg>
-            <seg>松も昔の</seg>
-            <seg>友ならなくに</seg>
+            <seg>
+              <w lemmaRef="#たれ.誰">誰</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#か.か">か</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#しる.知る">しる</w>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#せ.す">せ</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たかさご.高砂">たかさこ</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#まつ.松">松</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#むかし.昔">昔</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#とも.友">友</w>
+              <w lemmaRef="#なら.なり">なら</w>
+              <w lemmaRef="#な.ず">な</w>
+              <w lemmaRef="#く.く">く</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
           </l>
         </div>
         <lb/>

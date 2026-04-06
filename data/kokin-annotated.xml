@@ -39792,11 +39792,30 @@
             </note>
             <lb/>
             <l n="1012" xml:id="n1012" resp="#素性法師">
-              <seg>山吹の</seg>
-              <seg>花色衣</seg>
-              <seg>ぬしやたれ</seg>
-              <seg>とへとこたへす</seg>
-              <seg>くちなしにして</seg>
+              <seg>
+                <w lemmaRef="#やまぶき.山吹">山吹</w>
+                <w lemmaRef="#の.の">の</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#はないろごろも.花色衣">花色衣</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#ぬし.主">ぬし</w>
+                <w lemmaRef="#や.や">や</w>
+                <w lemmaRef="#たれ.誰">たれ</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#とへ.問ふ">とへ</w>
+                <w lemmaRef="#ど.ど">と</w>
+                <w lemmaRef="#こたへ.答ふ">こたへ</w>
+                <w lemmaRef="#ず.ず">す</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#くち.口">くち</w>
+                <w lemmaRef="#なし.無し">なし</w>
+                <w lemmaRef="#に.に">に</w>
+                <w lemmaRef="#して.して">して</w>
+              </seg>
             </l>
           </div>
           <lb/>

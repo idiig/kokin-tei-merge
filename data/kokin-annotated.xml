@@ -37343,11 +37343,36 @@
           <pb n="2-47r" facs="#p119"/>
           <lb/>
           <l n="981" xml:id="n981" resp="#よみ人知らず">
-            <seg>いさこゝに</seg>
-            <seg>わか世はへなむ</seg>
-            <seg>すかはらや</seg>
-            <seg>伏見の里の</seg>
-            <seg>あれまくもおし</seg>
+            <seg>
+              <w lemmaRef="#いさ.いざ">いさ</w>
+              <w lemmaRef="#ここ.此処">こゝ</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わ.我">わ</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#よ.世">世</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#へ.経">へ</w>
+              <w lemmaRef="#な.ぬ">な</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#すがはら.菅原">すかはら</w>
+              <w lemmaRef="#や.や">や</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ふしみ.伏見">伏見</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#さと.里">里</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あれ.荒る">あれ</w>
+              <w lemmaRef="#まく.まし">まく</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#をし.惜し">おし</w>
+            </seg>
           </l>
         </div>
         <lb/>

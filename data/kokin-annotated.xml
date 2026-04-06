@@ -37118,11 +37118,29 @@
         <lb/>
         <div type="和歌">
           <l n="975" xml:id="n975" resp="#よみ人知らず">
-            <seg>今更に</seg>
-            <seg>とふへき人も</seg>
-            <seg>おもほえす</seg>
-            <seg>やへむくらして</seg>
-            <seg>かとさせりてへ</seg>
+            <seg>
+              <w lemmaRef="#いまさらに.今更なり">今更に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#とふ.訪ふ">とふ</w>
+              <w lemmaRef="#べき.べし">へき</w>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おもほえ.思ほゆ">おもほえ</w>
+              <w lemmaRef="#ず.ず">す</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#やへむぐら.八重葎">やへむくら</w>
+              <w lemmaRef="#して.して">して</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かど.門">かと</w>
+              <w lemmaRef="#させ.閉す">させ</w>
+              <w lemmaRef="#り.り">り</w>
+              <w lemmaRef="#てへ.てへ">てへ</w>
+            </seg>
           </l>
         </div>
         <lb/>

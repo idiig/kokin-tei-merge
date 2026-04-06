@@ -34864,11 +34864,33 @@
           </note>
           <lb/>
           <l n="915" xml:id="n915" resp="#紀貫之">
-            <seg>おきつ浪</seg>
-            <seg>髙しのはまの</seg>
-            <seg>はまゝつの</seg>
-            <seg>なにこそ君を</seg>
-            <seg>まちわたりつれ</seg>
+            <seg>
+              <w lemmaRef="#おき.沖">おき</w>
+              <w lemmaRef="#つ.つ">つ</w>
+              <w lemmaRef="#なみ.浪">浪</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たかし.高師">髙し</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#はま.浜">はま</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はままつ.浜松">はまゝつ</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#な.名">な</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#こそ.こそ">こそ</w>
+              <w lemmaRef="#きみ.君">君</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#まち.待つ">まち</w>
+              <w lemmaRef="#わたり.渡る">わたり</w>
+              <w lemmaRef="#つれ.つ">つれ</w>
+            </seg>
           </l>
         </div>
         <lb/>

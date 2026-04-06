@@ -41324,11 +41324,32 @@
             </note>
             <lb/>
             <l n="1055" xml:id="n1055" resp="#讃岐">
-              <seg>ねきことを</seg>
-              <seg>さのみきゝけむ</seg>
-              <seg>やしろこそ</seg>
-              <seg>はてはなけきの</seg>
-              <seg>もりとなるらめ</seg>
+              <seg>
+                <w lemmaRef="#ねぎごと.祈言">ねきこと</w>
+                <w lemmaRef="#を.を">を</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#さ.然">さ</w>
+                <w lemmaRef="#のみ.のみ">のみ</w>
+                <w lemmaRef="#きき.聞く">きゝ</w>
+                <w lemmaRef="#けむ.けむ">けむ</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#やしろ.社">やしろ</w>
+                <w lemmaRef="#こそ.こそ">こそ</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#はて.果つ">はて</w>
+                <w lemmaRef="#は.は">は</w>
+                <w lemmaRef="#なげき.投げ木">なけき</w>
+                <w lemmaRef="#の.の">の</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#もり.森">もり</w>
+                <w lemmaRef="#と.と">と</w>
+                <w lemmaRef="#なり.なり">なる</w>
+                <w lemmaRef="#らめ.らむ">らめ</w>
+              </seg>
             </l>
           </div>
           <lb/>

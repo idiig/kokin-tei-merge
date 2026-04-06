@@ -34587,11 +34587,31 @@
         <lb/>
         <div type="和歌">
           <l n="907" xml:id="n907" resp="#よみ人知らず">
-            <seg>梓弓</seg>
-            <seg>いそへの小松</seg>
-            <seg>たか世にか</seg>
-            <seg>よろつよかねて</seg>
-            <seg>たねをまきけむ</seg>
+            <seg>
+              <w lemmaRef="#あづさゆみ.梓弓">梓弓</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いそべ.磯辺">いそへ</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#こまつ.小松">小松</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#た.誰">た</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#よ.世">世</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#か.か">か</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#よろづよ.万世">よろつよ</w>
+              <w lemmaRef="#かねて.予て">かねて</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たね.種">たね</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#まき.蒔く">まき</w>
+              <w lemmaRef="#けむ.けむ">けむ</w>
+            </seg>
           </l>
           <lb/>
           <note type="左注" style="margin-top: 3em" target="#n907">この哥はある人のいはく

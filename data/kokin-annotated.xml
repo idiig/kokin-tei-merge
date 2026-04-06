@@ -36687,11 +36687,39 @@
           </note>
           <lb/>
           <l n="964" xml:id="n964" resp="#平貞文">
-            <seg>うき世には</seg>
-            <seg>門させりとも</seg>
-            <seg>見えなくに</seg>
-            <seg>なとかわか身の</seg>
-            <seg>いてかてにする</seg>
+            <seg>
+              <w lemmaRef="#うき.憂し">うき</w>
+              <w lemmaRef="#よ.世">世</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かど.門">門</w>
+              <w lemmaRef="#させ.差す">させ</w>
+              <w lemmaRef="#り.り">り</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みえ.見ゆ">見え</w>
+              <w lemmaRef="#な.ず">な</w>
+              <w lemmaRef="#く.く">く</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#など.何故">なと</w>
+              <w lemmaRef="#か.か">か</w>
+              <w lemmaRef="#わ.我">わ</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#み.身">身</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いで.出づ">いて</w>
+              <w lemmaRef="#かて.勝つ">かて</w>
+              <w lemmaRef="#に.ず">に</w>
+              <w lemmaRef="#する.す">する</w>
+            </seg>
           </l>
         </div>
         <lb/>

@@ -37669,11 +37669,35 @@
           </note>
           <lb/>
           <l n="990" xml:id="n990" resp="#伊勢">
-            <seg>あすかゝは</seg>
-            <seg>ふちにもあらぬ</seg>
-            <seg>わかやとも</seg>
-            <seg>せにかはりゆく</seg>
-            <seg>物にそ有ける</seg>
+            <seg>
+              <w lemmaRef="#あすかがは.飛鳥河">あすかゝは</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ふち.淵">ふち</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#あら.有り">あら</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わ.我">わ</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#やど.宿">やと</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#せ.瀬">せ</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#かはり.変はる">かはり</w>
+              <w lemmaRef="#ゆく.行く">ゆく</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#もの.物">物</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#あり.有り">有</w>
+              <w lemmaRef="#ける.けり">ける</w>
+            </seg>
           </l>
         </div>
         <lb/>

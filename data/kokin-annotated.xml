@@ -42824,11 +42824,35 @@
             <note type="詞書" style="margin-top: 2em" target="#n1099">伊勢うた</note>
             <lb/>
             <l n="1099" xml:id="n1099">
-              <seg>おふのうらに</seg>
-              <seg>かたえさしおほひ</seg>
-              <seg>なるなしの</seg>
-              <seg>なりもならすも</seg>
-              <seg>ねてかたらはむ</seg>
+              <seg>
+                <w lemmaRef="#をふ.麻生">おふ</w>
+                <w lemmaRef="#の.の">の</w>
+                <w lemmaRef="#うら.浦">うら</w>
+                <w lemmaRef="#に.に">に</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#かたえ.片枝">かたえ</w>
+                <w lemmaRef="#さし.差す">さし</w>
+                <w lemmaRef="#おほひ.覆ふ">おほひ</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#なる.成る">なる</w>
+                <w lemmaRef="#なし.梨">なし</w>
+                <w lemmaRef="#の.の">の</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#なり.成る">なり</w>
+                <w lemmaRef="#も.も">も</w>
+                <w lemmaRef="#なら.成る">なら</w>
+                <w lemmaRef="#ず.ず">す</w>
+                <w lemmaRef="#も.も">も</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#ね.寝">ね</w>
+                <w lemmaRef="#て.て">て</w>
+                <w lemmaRef="#かたらは.語らふ">かたらは</w>
+                <w lemmaRef="#む.む">む</w>
+              </seg>
             </l>
           </div>
           <lb/>

@@ -35012,11 +35012,34 @@
             <lb/>てりといふことを題にてよませたまひける</note>
           <lb/>
           <l n="919" xml:id="n919" resp="#紀貫之">
-            <seg>あしたつの</seg>
-            <seg>たてる河邊を</seg>
-            <seg>吹風に</seg>
-            <seg>よせてかへらぬ</seg>
-            <seg>浪かとそ見る</seg>
+            <seg>
+              <w lemmaRef="#あしたづ.葦鶴">あしたつ</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たて.立つ">たて</w>
+              <w lemmaRef="#る.り">る</w>
+              <w lemmaRef="#かはべ.川辺">河邊</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ふく.吹く">吹</w>
+              <w lemmaRef="#かぜ.風">風</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#よせ.寄す">よせ</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#かへら.帰る">かへら</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なみ.浪">浪</w>
+              <w lemmaRef="#か.か">か</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#みる.見る">見る</w>
+            </seg>
           </l>
         </div>
         <lb/>

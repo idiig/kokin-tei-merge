@@ -42947,11 +42947,38 @@
             </note>
             <lb/>
             <l n="1102" xml:id="n1102" resp="#藤原勝臣">
-              <seg>かけりても</seg>
-              <seg>なにをか玉の</seg>
-              <seg>きてもみむ</seg>
-              <seg>からはほのほと</seg>
-              <seg>なりにしものを</seg>
+              <seg>
+                <w lemmaRef="#かけり.翔る">かけり</w>
+                <w lemmaRef="#て.て">て</w>
+                <w lemmaRef="#も.も">も</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#なに.何">なに</w>
+                <w lemmaRef="#を.を">を</w>
+                <w lemmaRef="#か.か">か</w>
+                <w lemmaRef="#たま.魂">玉</w>
+                <w lemmaRef="#の.の">の</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#き.来">き</w>
+                <w lemmaRef="#て.て">て</w>
+                <w lemmaRef="#も.も">も</w>
+                <w lemmaRef="#み.見る">み</w>
+                <w lemmaRef="#む.む">む</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#から.殻">から</w>
+                <w lemmaRef="#は.は">は</w>
+                <w lemmaRef="#ほのほ.炎">ほのほ</w>
+                <w lemmaRef="#と.と">と</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#なり.成る">なり</w>
+                <w lemmaRef="#に.ぬ">に</w>
+                <w lemmaRef="#し.き">し</w>
+                <w lemmaRef="#もの.物">もの</w>
+                <w lemmaRef="#を.を">を</w>
+              </seg>
             </l>
             <lb/>
             <note type="墨滅歌所在" target="#n1102">をかたまの木　友則下</note>

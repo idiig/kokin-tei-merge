@@ -34898,11 +34898,30 @@
           <note type="詞書" style="margin-top: 2em" target="#n916">なにはにまかれりける時よめる</note>
           <lb/>
           <l n="916" xml:id="n916" resp="#紀貫之">
-            <seg>なにはかた</seg>
-            <seg>おふるたまもを</seg>
-            <seg>かりそめの</seg>
-            <seg>あまとそ我は</seg>
-            <seg>なりぬへらなる</seg>
+            <seg>
+              <w lemmaRef="#なにはがた.難波潟">なにはかた</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おふる.生ふ">おふる</w>
+              <w lemmaRef="#たまも.玉藻">たまも</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かりそめ.仮初め">かりそめ</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あま.海人">あま</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#われ.我">我</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なり.成る">なり</w>
+              <w lemmaRef="#ぬ.ぬ">ぬ</w>
+              <w lemmaRef="#べらなり.べらなり">へらなる</w>
+            </seg>
           </l>
         </div>
         <lb/>

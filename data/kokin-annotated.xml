@@ -37531,11 +37531,33 @@
           <pb n="2-47v" facs="#p120"/>
           <lb/>
           <l n="986" xml:id="n986" resp="#二条">
-            <seg>人ふるす</seg>
-            <seg>さとをいとひて</seg>
-            <seg>こしかとも</seg>
-            <seg>ならの宮こも</seg>
-            <seg>うきなゝりけり</seg>
+            <seg>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#ふるす.古す">ふるす</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#さと.里">さと</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#いとひ.厭ふ">いとひ</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こ.来">こ</w>
+              <w lemmaRef="#しか.き">しか</w>
+              <w lemmaRef="#ど.ど">と</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なら.奈良">なら</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#みやこ.都">宮こ</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うきな.憂き名">うきな</w>
+              <w lemmaRef="#なり.なり">ゝり</w>
+              <w lemmaRef="#けり.けり">けり</w>
+            </seg>
           </l>
         </div>
         <lb/>

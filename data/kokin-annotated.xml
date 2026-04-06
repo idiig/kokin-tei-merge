@@ -41086,11 +41086,34 @@
             </note>
             <lb/>
             <l n="1049" xml:id="n1049" resp="#藤原時平">
-              <seg>もろこしの</seg>
-              <seg>よしのゝ山に</seg>
-              <seg>こもるとも</seg>
-              <seg>をくれむと思</seg>
-              <seg>我ならなくに</seg>
+              <seg>
+                <w lemmaRef="#もろこし.唐">もろこし</w>
+                <w lemmaRef="#の.の">の</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#よしの.吉野">よしの</w>
+                <w lemmaRef="#の.の">ゝ</w>
+                <w lemmaRef="#やま.山">山</w>
+                <w lemmaRef="#に.に">に</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#こもる.籠る">こもる</w>
+                <w lemmaRef="#と.と">と</w>
+                <w lemmaRef="#も.も">も</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#おくれ.後る">をくれ</w>
+                <w lemmaRef="#む.む">む</w>
+                <w lemmaRef="#と.と">と</w>
+                <w lemmaRef="#おもふ.思ふ">思</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#われ.我">我</w>
+                <w lemmaRef="#なら.なり">なら</w>
+                <w lemmaRef="#な.ず">な</w>
+                <w lemmaRef="#く.く">く</w>
+                <w lemmaRef="#に.に">に</w>
+              </seg>
             </l>
           </div>
           <lb/>

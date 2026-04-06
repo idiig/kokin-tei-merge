@@ -40335,11 +40335,34 @@
             </note>
             <lb/>
             <l n="1028" xml:id="n1028" resp="#紀乳母">
-              <seg>ふしのねの</seg>
-              <seg>ならぬおもひに</seg>
-              <seg>もえはもえ</seg>
-              <seg>神たにけたぬ</seg>
-              <seg>むなしけふりを</seg>
+              <seg>
+                <w lemmaRef="#ふじ.富士">ふし</w>
+                <w lemmaRef="#の.の">の</w>
+                <w lemmaRef="#ね.嶺">ね</w>
+                <w lemmaRef="#の.の">の</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#なら.なり">なら</w>
+                <w lemmaRef="#ぬ.ず">ぬ</w>
+                <w lemmaRef="#おもひ.思ふ">おもひ</w>
+                <w lemmaRef="#に.に">に</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#もえ.燃ゆ">もえ</w>
+                <w lemmaRef="#ば.ば">は</w>
+                <w lemmaRef="#もえ.燃ゆ">もえ</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#かみ.神">神</w>
+                <w lemmaRef="#だに.だに">たに</w>
+                <w lemmaRef="#けた.消つ">けた</w>
+                <w lemmaRef="#ぬ.ず">ぬ</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#むなし.空し">むなし</w>
+                <w lemmaRef="#けぶり.煙">けふり</w>
+                <w lemmaRef="#を.を">を</w>
+              </seg>
             </l>
           </div>
           <lb/>

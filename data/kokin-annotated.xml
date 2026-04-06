@@ -35678,11 +35678,34 @@
           </note>
           <lb/>
           <l n="936" xml:id="n936" resp="#小野篁">
-            <seg>しかりとて</seg>
-            <seg>そむかれなくに</seg>
-            <seg>事しあれは</seg>
-            <seg>まつなけかれぬ</seg>
-            <seg>あなう世中</seg>
+            <seg>
+              <w lemmaRef="#しかり.然り">しかり</w>
+              <w lemmaRef="#とて.とて">とて</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#そむか.背く">そむか</w>
+              <w lemmaRef="#れ.る">れ</w>
+              <w lemmaRef="#な.ず">な</w>
+              <w lemmaRef="#く.く">く</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こと.事">事</w>
+              <w lemmaRef="#し.し">し</w>
+              <w lemmaRef="#あれ.有り">あれ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#まづ.先づ">まつ</w>
+              <w lemmaRef="#なげか.嘆く">なけか</w>
+              <w lemmaRef="#れ.る">れ</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#あな.あな">あな</w>
+              <w lemmaRef="#う.憂し">う</w>
+              <w lemmaRef="#よのなか.世の中">世中</w>
+            </seg>
           </l>
         </div>
         <lb/>

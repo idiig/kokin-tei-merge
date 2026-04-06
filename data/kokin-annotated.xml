@@ -41754,11 +41754,36 @@
             </note>
             <lb/>
             <l n="1067" xml:id="n1067" resp="#凡河内躬恒">
-              <seg>わひしらに</seg>
-              <seg>ましらなゝきそ</seg>
-              <seg>あしひきの</seg>
-              <seg>山のかひある</seg>
-              <seg>けふにやはあらぬ</seg>
+              <seg>
+                <w lemmaRef="#わびし.侘し">わひし</w>
+                <w lemmaRef="#ら.ら">ら</w>
+                <w lemmaRef="#に.なり">に</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#ましら.猿">ましら</w>
+                <w lemmaRef="#な.な">な</w>
+                <w lemmaRef="#なき.鳴く">ゝき</w>
+                <w lemmaRef="#そ.そ">そ</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#あし.足">あし</w>
+                <w lemmaRef="#ひき.曳く">ひき</w>
+                <w lemmaRef="#の.の">の</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#やま.山">山</w>
+                <w lemmaRef="#の.の">の</w>
+                <w lemmaRef="#かひ.峡">かひ</w>
+                <w lemmaRef="#ある.有り">ある</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#けふ.今日">けふ</w>
+                <w lemmaRef="#に.に">に</w>
+                <w lemmaRef="#や.や">や</w>
+                <w lemmaRef="#は.は">は</w>
+                <w lemmaRef="#あら.有り">あら</w>
+                <w lemmaRef="#ぬ.ず">ぬ</w>
+              </seg>
             </l>
           </div>
           <lb/>

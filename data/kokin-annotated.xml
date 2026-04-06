@@ -37267,11 +37267,32 @@
           </note>
           <lb/>
           <l n="979" xml:id="n979" resp="#宗岳大頼">
-            <seg>きみをのみ</seg>
-            <seg>思ひこしちの</seg>
-            <seg>しら山は</seg>
-            <seg>いつかは雪の</seg>
-            <seg>きゆる時ある</seg>
+            <seg>
+              <w lemmaRef="#きみ.君">きみ</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#のみ.のみ">のみ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おもひ.思ふ">思ひ</w>
+              <w lemmaRef="#こしぢ.越路">こしち</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#しらやま.白山">しら山</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いつ.何時">いつ</w>
+              <w lemmaRef="#か.か">か</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#ゆき.雪">雪</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#きゆる.消ゆ">きゆる</w>
+              <w lemmaRef="#とき.時">時</w>
+              <w lemmaRef="#ある.有り">ある</w>
+            </seg>
           </l>
         </div>
         <lb/>

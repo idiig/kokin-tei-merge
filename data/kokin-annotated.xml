@@ -37983,11 +37983,31 @@
           </note>
           <lb/>
           <l n="998" xml:id="n998" resp="#大江千里">
-            <seg>あしたつの</seg>
-            <seg>ひとりをくれて</seg>
-            <seg>なくこゑは</seg>
-            <seg>雲のうへまて</seg>
-            <seg>きこひつかなむ</seg>
+            <seg>
+              <w lemmaRef="#あしたづ.葦鶴">あしたつ</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひとり.一人">ひとり</w>
+              <w lemmaRef="#おくれ.後る">をくれ</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なく.鳴く">なく</w>
+              <w lemmaRef="#こゑ.声">こゑ</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#くも.雲">雲</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#うへ.上">うへ</w>
+              <w lemmaRef="#まで.まで">まて</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#きこえ.聞ゆ">きこひ</w>
+              <w lemmaRef="#つが.継ぐ">つか</w>
+              <w lemmaRef="#なむ.なむ">なむ</w>
+            </seg>
           </l>
         </div>
         <lb/>

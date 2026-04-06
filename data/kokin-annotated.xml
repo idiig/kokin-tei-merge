@@ -35256,11 +35256,30 @@
           <pb n="2-40v" facs="#p113"/>
           <lb/>
           <l n="925" xml:id="n925" resp="#神退法師">
-            <seg>きよたきの</seg>
-            <seg>せゝのしらいと</seg>
-            <seg>くりためて</seg>
-            <seg>山わけ衣</seg>
-            <seg>をりてきましを</seg>
+            <seg>
+              <w lemmaRef="#きよたき.清滝">きよたき</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#せぜ.瀬瀬">せゝ</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#しらいと.白糸">しらいと</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#くり.繰る">くり</w>
+              <w lemmaRef="#ため.溜む">ため</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#やまわけごろも.山分け衣">山わけ衣</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おり.織る">をり</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#き.着る">き</w>
+              <w lemmaRef="#まし.まし">まし</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
           </l>
         </div>
         <lb/>

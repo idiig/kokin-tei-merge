@@ -40644,11 +40644,33 @@
             </note>
             <lb/>
             <l n="1036" xml:id="n1036" resp="#壬生忠岑">
-              <seg>かくれぬの</seg>
-              <seg>したよりおふる</seg>
-              <seg>ねぬなはの</seg>
-              <seg>ねぬなはたてし</seg>
-              <seg>くるないとひそ</seg>
+              <seg>
+                <w lemmaRef="#かくれぬ.隠れ沼">かくれぬ</w>
+                <w lemmaRef="#の.の">の</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#した.下">した</w>
+                <w lemmaRef="#より.より">より</w>
+                <w lemmaRef="#おふる.生ふ">おふる</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#ねぬなは.根蓴菜">ねぬなは</w>
+                <w lemmaRef="#の.の">の</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#ね.寝">ね</w>
+                <w lemmaRef="#ぬ.ず">ぬ</w>
+                <w lemmaRef="#な.名">な</w>
+                <w lemmaRef="#は.は">は</w>
+                <w lemmaRef="#たた.立つ">たて</w>
+                <w lemmaRef="#じ.じ">し</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#くる.来">くる</w>
+                <w lemmaRef="#な.な">な</w>
+                <w lemmaRef="#いとひ.厭ふ">いとひ</w>
+                <w lemmaRef="#そ.そ">そ</w>
+              </seg>
             </l>
           </div>
           <lb/>

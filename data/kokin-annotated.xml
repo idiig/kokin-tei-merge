@@ -40373,11 +40373,33 @@
             </note>
             <lb/>
             <l n="1029" xml:id="n1029" resp="#紀有朋">
-              <seg>あひ見まく</seg>
-              <seg>ほしはかすなく</seg>
-              <seg>有なから</seg>
-              <seg>人につきなみ</seg>
-              <seg>まとひこそすれ</seg>
+              <seg>
+                <w lemmaRef="#あひ.逢ふ">あひ</w>
+                <w lemmaRef="#み.見る">見</w>
+                <w lemmaRef="#まく.まく">まく</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#ほし.星">ほし</w>
+                <w lemmaRef="#は.は">は</w>
+                <w lemmaRef="#かず.数">かす</w>
+                <w lemmaRef="#なく.無し">なく</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#あり.有り">有</w>
+                <w lemmaRef="#ながら.ながら">なから</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#ひと.人">人</w>
+                <w lemmaRef="#に.に">に</w>
+                <w lemmaRef="#つき.月">つき</w>
+                <w lemmaRef="#な.無し">な</w>
+                <w lemmaRef="#み.み">み</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#まどひ.惑ふ">まとひ</w>
+                <w lemmaRef="#こそ.こそ">こそ</w>
+                <w lemmaRef="#すれ.す">すれ</w>
+              </seg>
             </l>
           </div>
           <pb n="2-55r" facs="#p127"/>

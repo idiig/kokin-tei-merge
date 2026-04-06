@@ -40411,11 +40411,34 @@
             </note>
             <lb/>
             <l n="1030" xml:id="n1030" resp="#小野小町">
-              <seg>人にあはむ</seg>
-              <seg>月のなきには</seg>
-              <seg>思をきて</seg>
-              <seg>むねはしり火に</seg>
-              <seg>心やけをり</seg>
+              <seg>
+                <w lemmaRef="#ひと.人">人</w>
+                <w lemmaRef="#に.に">に</w>
+                <w lemmaRef="#あは.逢ふ">あは</w>
+                <w lemmaRef="#む.む">む</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#つき.月">月</w>
+                <w lemmaRef="#の.の">の</w>
+                <w lemmaRef="#なき.無し">なき</w>
+                <w lemmaRef="#に.に">に</w>
+                <w lemmaRef="#は.は">は</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#おもひ.思ふ">思</w>
+                <w lemmaRef="#おき.起く">をき</w>
+                <w lemmaRef="#て.て">て</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#むね.胸">むね</w>
+                <w lemmaRef="#はしりび.走り火">はしり火</w>
+                <w lemmaRef="#に.に">に</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#こころ.心">心</w>
+                <w lemmaRef="#やけ.焼く">やけ</w>
+                <w lemmaRef="#をり.居り">をり</w>
+              </seg>
             </l>
           </div>
           <lb/>

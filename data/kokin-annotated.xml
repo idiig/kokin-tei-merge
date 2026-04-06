@@ -42098,11 +42098,31 @@
           <lb/>
           <div type="和歌">
             <l n="1077" xml:id="n1077">
-              <seg>み山には</seg>
-              <seg>霰ふるらし</seg>
-              <seg>と山なる</seg>
-              <seg>まさきのかつら</seg>
-              <seg>いろつきにけり</seg>
+              <seg>
+                <w lemmaRef="#みやま.深山">み山</w>
+                <w lemmaRef="#に.に">に</w>
+                <w lemmaRef="#は.は">は</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#あられ.霰">霰</w>
+                <w lemmaRef="#ふる.降る">ふる</w>
+                <w lemmaRef="#らし.らし">らし</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#とやま.外山">と山</w>
+                <w lemmaRef="#なる.なり">なる</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#まさき.真木">まさき</w>
+                <w lemmaRef="#の.の">の</w>
+                <w lemmaRef="#かづら.葛">かつら</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#いろ.色">いろ</w>
+                <w lemmaRef="#つき.付く">つき</w>
+                <w lemmaRef="#に.ぬ">に</w>
+                <w lemmaRef="#けり.けり">けり</w>
+              </seg>
             </l>
           </div>
           <lb/>

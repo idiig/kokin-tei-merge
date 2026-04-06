@@ -41238,11 +41238,35 @@
             </note>
             <lb/>
             <l n="1053" xml:id="n1053" resp="#藤原興風">
-              <seg>なにかその</seg>
-              <seg>名の立ことの</seg>
-              <seg>おしからむ</seg>
-              <seg>しりて迷は</seg>
-              <seg>我ひとりかは</seg>
+              <seg>
+                <w lemmaRef="#なに.何">なに</w>
+                <w lemmaRef="#か.か">か</w>
+                <w lemmaRef="#そ.其">そ</w>
+                <w lemmaRef="#の.の">の</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#な.名">名</w>
+                <w lemmaRef="#の.の">の</w>
+                <w lemmaRef="#たつ.立つ">立</w>
+                <w lemmaRef="#こと.事">こと</w>
+                <w lemmaRef="#の.の">の</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#をしから.惜し">おしから</w>
+                <w lemmaRef="#む.む">む</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#しり.知る">しり</w>
+                <w lemmaRef="#て.て">て</w>
+                <w lemmaRef="#まどふ.惑ふ">迷</w>
+                <w lemmaRef="#は.は">は</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#われ.我">我</w>
+                <w lemmaRef="#ひとり.一人">ひとり</w>
+                <w lemmaRef="#か.か">か</w>
+                <w lemmaRef="#は.は">は</w>
+              </seg>
             </l>
           </div>
           <lb/>

@@ -38101,73 +38101,305 @@
             </note>
             <lb/>
             <l n="1001" xml:id="n1001" resp="#よみ人知らず">
-              <seg>あふことの</seg>
-              <seg>まれなるいろに</seg>
-              <seg>おもひそめ</seg>
-              <seg>わか身はつねに</seg>
               <seg>
-                <lb/>あまくもの</seg>
-              <seg>はるゝ時なく</seg>
-              <seg>ふしのねの</seg>
-              <seg>もえつゝとはに</seg>
+                <w lemmaRef="#あふ.逢ふ">あふ</w>
+                <w lemmaRef="#こと.事">こと</w>
+                <w lemmaRef="#の.の">の</w>
+              </seg>
               <seg>
-                <lb/>おもへとも</seg>
-              <seg>あふことかたし</seg>
-              <seg>なにしかも</seg>
-              <seg>人をうらみむ</seg>
+                <w lemmaRef="#まれなる.稀なり">まれなる</w>
+                <w lemmaRef="#いろ.色">いろ</w>
+                <w lemmaRef="#に.に">に</w>
+              </seg>
               <seg>
-                <lb/>わたつみの</seg>
-              <seg>おきをふかめて</seg>
-              <seg>おもひてし</seg>
-              <seg>おもひはいまは</seg>
+                <w lemmaRef="#おもひ.思ふ">おもひ</w>
+                <w lemmaRef="#そめ.染む">そめ</w>
+              </seg>
               <seg>
-                <lb/>いたつらに</seg>
-              <seg>なりぬへらなり</seg>
-              <seg>ゆく水の</seg>
-              <seg>たゆる時なく</seg>
+                <w lemmaRef="#わ.我">わ</w>
+                <w lemmaRef="#が.が">か</w>
+                <w lemmaRef="#み.身">身</w>
+                <w lemmaRef="#は.は">は</w>
+                <w lemmaRef="#つねに.常なり">つねに</w>
+              </seg>
               <seg>
-                <lb/>かくなわに</seg>
-              <seg>おもひみたれて</seg>
-              <seg>ふるゆきの</seg>
-              <seg>けなはけぬへく</seg>
+                <lb/>
+                <w lemmaRef="#あまぐも.天雲">あまくも</w>
+                <w lemmaRef="#の.の">の</w>
+              </seg>
               <seg>
-                <lb/>おもへとも</seg>
-              <seg>えふの身なれは</seg>
-              <seg>なをやます</seg>
-              <seg>おもひはふかし</seg>
+                <w lemmaRef="#はるる.晴る">はるゝ</w>
+                <w lemmaRef="#とき.時">時</w>
+                <w lemmaRef="#なく.無し">なく</w>
+              </seg>
               <seg>
-                <lb/>あしひきの</seg>
-              <seg>山した水の</seg>
-              <seg>こかくれて</seg>
-              <seg>たきつ心を</seg>
+                <w lemmaRef="#ふじ.富士">ふし</w>
+                <w lemmaRef="#の.の">の</w>
+                <w lemmaRef="#ね.嶺">ね</w>
+                <w lemmaRef="#の.の">の</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#もえ.燃ゆ">もえ</w>
+                <w lemmaRef="#つつ.つつ">つゝ</w>
+                <w lemmaRef="#とはに.永久に">とはに</w>
+              </seg>
+              <seg>
+                <lb/>
+                <w lemmaRef="#おもへ.思ふ">おもへ</w>
+                <w lemmaRef="#ど.ど">と</w>
+                <w lemmaRef="#も.も">も</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#あふ.逢ふ">あふ</w>
+                <w lemmaRef="#こと.事">こと</w>
+                <w lemmaRef="#かたし.難し">かたし</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#なに.何">なに</w>
+                <w lemmaRef="#し.し">し</w>
+                <w lemmaRef="#か.か">か</w>
+                <w lemmaRef="#も.も">も</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#ひと.人">人</w>
+                <w lemmaRef="#を.を">を</w>
+                <w lemmaRef="#うら.浦">うら</w>
+                <w lemmaRef="#みる.見る">み</w>
+                <w lemmaRef="#む.む">む</w>
+              </seg>
+              <seg>
+                <lb/>
+                <w lemmaRef="#わたつみ.海神">わたつみ</w>
+                <w lemmaRef="#の.の">の</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#おき.沖">おき</w>
+                <w lemmaRef="#を.を">を</w>
+                <w lemmaRef="#ふかめ.深む">ふかめ</w>
+                <w lemmaRef="#て.て">て</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#おもひ.思ふ">おもひ</w>
+                <w lemmaRef="#て.つ">て</w>
+                <w lemmaRef="#し.き">し</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#おもひ.思ふ">おもひ</w>
+                <w lemmaRef="#は.は">は</w>
+                <w lemmaRef="#いま.今">いま</w>
+                <w lemmaRef="#は.は">は</w>
+              </seg>
+              <seg>
+                <lb/>
+                <w lemmaRef="#いたづらに.徒なり">いたつらに</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#なり.成る">なり</w>
+                <w lemmaRef="#ぬ.ぬ">ぬ</w>
+                <w lemmaRef="#べらなり.べらなり">へらなり</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#ゆく.行く">ゆく</w>
+                <w lemmaRef="#みづ.水">水</w>
+                <w lemmaRef="#の.の">の</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#たゆ.絶ゆ">たゆ</w>
+                <w lemmaRef="#とき.時">る時</w>
+                <w lemmaRef="#なし.無し">なく</w>
+              </seg>
+              <seg>
+                <lb/>
+                <w lemmaRef="#かくなわ.結果">かくなわ</w>
+                <w lemmaRef="#に.に">に</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#おもふ.思ふ">おもひ</w>
+                <w lemmaRef="#みだる.乱る">みたれ</w>
+                <w lemmaRef="#て.て">て</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#ふる.降る">ふる</w>
+                <w lemmaRef="#ゆき.雪">ゆき</w>
+                <w lemmaRef="#の.の">の</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#く.消">け</w>
+                <w lemmaRef="#ぬ.ぬ">な</w>
+                <w lemmaRef="#ば.ば">は</w>
+                <w lemmaRef="#く.消">け</w>
+                <w lemmaRef="#ぬ.ぬ">ぬ</w>
+                <w lemmaRef="#べし.べし">へく</w>
+              </seg>
+              <seg>
+                <lb/>
+                <w lemmaRef="#おもふ.思ふ">おもへ</w>
+                <w lemmaRef="#ど.ど">と</w>
+                <w lemmaRef="#も.も">も</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#えぶ.閻浮">えふ</w>
+                <w lemmaRef="#の.の">の</w>
+                <w lemmaRef="#み.身">身</w>
+                <w lemmaRef="#なり.なり">なれ</w>
+                <w lemmaRef="#ば.ば">は</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#なほ.猶">なを</w>
+                <w lemmaRef="#やむ.止む">やま</w>
+                <w lemmaRef="#ず.ず">す</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#おもふ.思ふ">おもひ</w>
+                <w lemmaRef="#は.は">は</w>
+                <w lemmaRef="#ふかし.深し">ふかし</w>
+              </seg>
+              <seg>
+                <lb/>
+                <w lemmaRef="#あし.足">あし</w>
+                <w lemmaRef="#ひく.曳く">ひき</w>
+                <w lemmaRef="#の.の">の</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#やましたみづ.山下水">山した水</w>
+                <w lemmaRef="#の.の">の</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#こ.木">こ</w>
+                <w lemmaRef="#かくる.隠る">かくれ</w>
+                <w lemmaRef="#て.て">て</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#たぎつ.激つ">たきつ</w>
+                <w lemmaRef="#こころ.心">心</w>
+                <w lemmaRef="#を.を">を</w>
+              </seg>
               <seg>
                 <pb n="2-50r" facs="#p122"/>
-                <lb/>たれにかも</seg>
-              <seg>あひかたらはむ</seg>
-              <seg>いろにいては</seg>
-              <seg>人しりぬへみ</seg>
+                <lb/>
+                <w lemmaRef="#たれ.誰">たれ</w>
+                <w lemmaRef="#に.に">に</w>
+                <w lemmaRef="#か.か">か</w>
+                <w lemmaRef="#も.も">も</w>
+              </seg>
               <seg>
-                <lb/>すみそめの</seg>
-              <seg>ゆふへになれは</seg>
-              <seg>ひとりゐて</seg>
-              <seg>あはれ〳〵と</seg>
+                <w lemmaRef="#あふ.逢ふ">あひ</w>
+                <w lemmaRef="#かたらふ.語らふ">かたらは</w>
+                <w lemmaRef="#む.む">む</w>
+              </seg>
               <seg>
-                <lb/>なけきあまり</seg>
-              <seg>せむすへなみに</seg>
-              <seg>にはにいてゝ</seg>
-              <seg>たちやすらへは</seg>
+                <w lemmaRef="#いろ.色">いろ</w>
+                <w lemmaRef="#に.に">に</w>
+                <w lemmaRef="#いづ.出づ">いて</w>
+                <w lemmaRef="#ば.ば">は</w>
+              </seg>
               <seg>
-                <lb/>しろたへの</seg>
-              <seg>衣のそてに</seg>
-              <seg>をくつゆの</seg>
-              <seg>けなはけぬへく</seg>
+                <w lemmaRef="#ひと.人">人</w>
+                <w lemmaRef="#しる.知る">しり</w>
+                <w lemmaRef="#ぬ.ぬ">ぬ</w>
+                <w lemmaRef="#べし.べし">へ</w>
+                <w lemmaRef="#み.み">み</w>
+              </seg>
               <seg>
-                <lb/>おもへとも</seg>
-              <seg>なをなけかれぬ</seg>
-              <seg>はるかすみ</seg>
-              <seg>よそにも人に</seg>
+                <lb/>
+                <w lemmaRef="#すみ.墨">すみ</w>
+                <w lemmaRef="#そむ.染む">そめ</w>
+                <w lemmaRef="#の.の">の</w>
+              </seg>
               <seg>
-                <lb/>あはむとおもへは</seg>
+                <w lemmaRef="#ゆふべ.夕べ">ゆふへ</w>
+                <w lemmaRef="#に.に">に</w>
+                <w lemmaRef="#なる.成る">なれ</w>
+                <w lemmaRef="#ば.ば">は</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#ひとり.一人">ひとり</w>
+                <w lemmaRef="#ゐる.居る">ゐ</w>
+                <w lemmaRef="#て.て">て</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#あはれ.哀れ">あはれ</w>
+                <w lemmaRef="#あはれ.哀れ">〳〵</w>
+                <w lemmaRef="#と.と">と</w>
+              </seg>
+              <seg>
+                <lb/>
+                <w lemmaRef="#なげく.嘆く">なけき</w>
+                <w lemmaRef="#あまる.余る">あまり</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#す.す">せ</w>
+                <w lemmaRef="#む.む">む</w>
+                <w lemmaRef="#すべ.術">すへ</w>
+                <w lemmaRef="#なし.無し">な</w>
+                <w lemmaRef="#み.み">み</w>
+                <w lemmaRef="#に.に">に</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#には.庭">には</w>
+                <w lemmaRef="#に.に">に</w>
+                <w lemmaRef="#いづ.出づ">いて</w>
+                <w lemmaRef="#て.て">ゝ</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#たつ.立つ">たち</w>
+                <w lemmaRef="#やすらふ.休らふ">やすらへ</w>
+                <w lemmaRef="#ば.ば">は</w>
+              </seg>
+              <seg>
+                <lb/>
+                <w lemmaRef="#しろたへ.白妙">しろたへ</w>
+                <w lemmaRef="#の.の">の</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#ころも.衣">衣</w>
+                <w lemmaRef="#の.の">の</w>
+                <w lemmaRef="#そで.袖">そて</w>
+                <w lemmaRef="#に.に">に</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#おく.置く">をく</w>
+                <w lemmaRef="#つゆ.露">つゆ</w>
+                <w lemmaRef="#の.の">の</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#く.消">け</w>
+                <w lemmaRef="#ぬ.ぬ">な</w>
+                <w lemmaRef="#ば.ば">は</w>
+                <w lemmaRef="#く.消">け</w>
+                <w lemmaRef="#ぬ.ぬ">ぬ</w>
+                <w lemmaRef="#べし.べし">へく</w>
+              </seg>
+              <seg>
+                <lb/>
+                <w lemmaRef="#おもふ.思ふ">おもへ</w>
+                <w lemmaRef="#ど.ど">と</w>
+                <w lemmaRef="#も.も">も</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#なほ.猶">なを</w>
+                <w lemmaRef="#なげく.嘆く">なけか</w>
+                <w lemmaRef="#る.る">れ</w>
+                <w lemmaRef="#ず.ず">ぬ</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#はるがすみ.春霞">はるかすみ</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#よそ.余所">よそ</w>
+                <w lemmaRef="#に.に">に</w>
+                <w lemmaRef="#も.も">も</w>
+                <w lemmaRef="#ひと.人">人</w>
+                <w lemmaRef="#に.に">に</w>
+              </seg>
+              <seg>
+                <lb/>
+                <w lemmaRef="#あふ.逢ふ">あは</w>
+                <w lemmaRef="#む.む">む</w>
+                <w lemmaRef="#と.と">と</w>
+                <w lemmaRef="#おもふ.思ふ">おもへ</w>
+                <w lemmaRef="#ば.ば">は</w>
+              </seg>
             </l>
           </div>
           <lb/>

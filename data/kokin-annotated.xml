@@ -36847,11 +36847,31 @@
           </note>
           <lb/>
           <l n="968" xml:id="n968" resp="#伊勢">
-            <seg>久方の</seg>
-            <seg>中におひたる</seg>
-            <seg>里なれは</seg>
-            <seg>ひかりをのみそ</seg>
-            <seg>たのむへらなる</seg>
+            <seg>
+              <w lemmaRef="#ひさかた.久方">久方</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なか.中">中</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#おひ.生ふ">おひ</w>
+              <w lemmaRef="#たる.たり">たる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#さと.里">里</w>
+              <w lemmaRef="#なれ.なり">なれ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひかり.光">ひかり</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#のみ.のみ">のみ</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たのむ.頼む">たのむ</w>
+              <w lemmaRef="#べらなる.べらなり">へらなる</w>
+            </seg>
           </l>
         </div>
         <lb/>

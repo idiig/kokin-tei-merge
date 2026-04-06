@@ -40605,11 +40605,35 @@
             <pb n="2-55v" facs="#p128"/>
             <lb/>
             <l n="1035" xml:id="n1035" resp="#凡河内躬恒">
-              <seg>蝉のはの</seg>
-              <seg>ひとへにうすき</seg>
-              <seg>夏衣</seg>
-              <seg>なれはよりなむ</seg>
-              <seg>ものにやはあらぬ</seg>
+              <seg>
+                <w lemmaRef="#せみ.蝉">蝉</w>
+                <w lemmaRef="#の.の">の</w>
+                <w lemmaRef="#は.羽">は</w>
+                <w lemmaRef="#の.の">の</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#ひとへ.単衣">ひとへ</w>
+                <w lemmaRef="#に.に">に</w>
+                <w lemmaRef="#うすき.薄し">うすき</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#なつごろも.夏衣">夏衣</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#なれ.馴る">なれ</w>
+                <w lemmaRef="#ば.ば">は</w>
+                <w lemmaRef="#より.寄る">より</w>
+                <w lemmaRef="#な.ぬ">な</w>
+                <w lemmaRef="#む.む">む</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#もの.物">もの</w>
+                <w lemmaRef="#に.に">に</w>
+                <w lemmaRef="#や.や">や</w>
+                <w lemmaRef="#は.は">は</w>
+                <w lemmaRef="#あら.有り">あら</w>
+                <w lemmaRef="#ぬ.ず">ぬ</w>
+              </seg>
             </l>
           </div>
           <lb/>

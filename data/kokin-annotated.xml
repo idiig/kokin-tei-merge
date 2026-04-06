@@ -41837,11 +41837,30 @@
             <note type="詞書" style="margin-top: 2em" target="#n1069">おほなほひのうた</note>
             <lb/>
             <l n="1069" xml:id="n1069">
-              <seg>あたらしき</seg>
-              <seg>年の始に</seg>
-              <seg>かくしこそ</seg>
-              <seg>ちとせをかねて</seg>
-              <seg>たのしきをつめ</seg>
+              <seg>
+                <w lemmaRef="#あたらしき.新し">あたらしき</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#とし.年">年</w>
+                <w lemmaRef="#の.の">の</w>
+                <w lemmaRef="#はじめ.始む">始</w>
+                <w lemmaRef="#に.に">に</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#かく.斯く">かく</w>
+                <w lemmaRef="#し.す">し</w>
+                <w lemmaRef="#こそ.こそ">こそ</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#ちとせ.千年">ちとせ</w>
+                <w lemmaRef="#を.を">を</w>
+                <w lemmaRef="#かねて.予て">かねて</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#たのしき.楽し">たのしき</w>
+                <w lemmaRef="#を.を">を</w>
+                <w lemmaRef="#つめ.積む">つめ</w>
+              </seg>
             </l>
             <lb/>
             <note type="左注" style="margin-top: 3em" target="#n1069">日本紀にはつかへまつらめよろつ世まてに</note>

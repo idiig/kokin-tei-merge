@@ -40487,11 +40487,33 @@
             </note>
             <lb/>
             <l n="1032" xml:id="n1032" resp="#よみ人知らず">
-              <seg>おもへとも</seg>
-              <seg>猶うとまれぬ</seg>
-              <seg>春霞</seg>
-              <seg>かゝらぬ山の</seg>
-              <seg>あらしと思へは</seg>
+              <seg>
+                <w lemmaRef="#おもへ.思ふ">おもへ</w>
+                <w lemmaRef="#ど.ど">と</w>
+                <w lemmaRef="#も.も">も</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#なほ.猶">猶</w>
+                <w lemmaRef="#うとま.疎む">うとま</w>
+                <w lemmaRef="#れ.る">れ</w>
+                <w lemmaRef="#ぬ.ず">ぬ</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#はるがすみ.春霞">春霞</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#かから.掛かる">かゝら</w>
+                <w lemmaRef="#ぬ.ず">ぬ</w>
+                <w lemmaRef="#やま.山">山</w>
+                <w lemmaRef="#も.も">の</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#あり.有り">あら</w>
+                <w lemmaRef="#じ.じ">し</w>
+                <w lemmaRef="#と.と">と</w>
+                <w lemmaRef="#おもへ.思ふ">思へ</w>
+                <w lemmaRef="#ば.ば">は</w>
+              </seg>
             </l>
           </div>
           <lb/>

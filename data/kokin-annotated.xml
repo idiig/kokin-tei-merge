@@ -41937,11 +41937,35 @@
             <note type="詞書" style="margin-top: 2em" target="#n1072">みつくきふり</note>
             <lb/>
             <l n="1072" xml:id="n1072">
-              <seg>水くきの</seg>
-              <seg>をかのやかたに</seg>
-              <seg>いもとあれと</seg>
-              <seg>ねてのあさけの</seg>
-              <seg>しものふりはも</seg>
+              <seg>
+                <w lemmaRef="#みづくき.水茎">水くき</w>
+                <w lemmaRef="#の.の">の</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#をか.岡">をか</w>
+                <w lemmaRef="#の.の">の</w>
+                <w lemmaRef="#やかた.屋形">やかた</w>
+                <w lemmaRef="#に.に">に</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#いも.妹">いも</w>
+                <w lemmaRef="#と.と">と</w>
+                <w lemmaRef="#あれ.我">あれ</w>
+                <w lemmaRef="#と.と">と</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#ね.寝">ね</w>
+                <w lemmaRef="#て.て">て</w>
+                <w lemmaRef="#の.の">の</w>
+                <w lemmaRef="#あさけ.朝明">あさけ</w>
+                <w lemmaRef="#の.の">の</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#しも.霜">しも</w>
+                <w lemmaRef="#の.の">の</w>
+                <w lemmaRef="#ふり.降る">ふり</w>
+                <w lemmaRef="#はも.はも">はも</w>
+              </seg>
             </l>
           </div>
           <lb/>

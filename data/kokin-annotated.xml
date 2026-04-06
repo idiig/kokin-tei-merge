@@ -35756,11 +35756,36 @@
           </note>
           <lb/>
           <l n="938" xml:id="n938" resp="#小野小町">
-            <seg>わひぬれは</seg>
-            <seg>身をうき草の</seg>
-            <seg>ねをたえて</seg>
-            <seg>さそふ水あらは</seg>
-            <seg>いなむとそ思</seg>
+            <seg>
+              <w lemmaRef="#わび.侘ぶ">わひ</w>
+              <w lemmaRef="#ぬれ.ぬ">ぬれ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#み.身">身</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#うきくさ.浮草">うき草</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ね.根">ね</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#たえ.絶ゆ">たえ</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#さそふ.誘ふ">さそふ</w>
+              <w lemmaRef="#みづ.水">水</w>
+              <w lemmaRef="#あら.有り">あら</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いな.去ぬ">いな</w>
+              <w lemmaRef="#む.む">む</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#おもふ.思ふ">思</w>
+            </seg>
           </l>
         </div>
         <lb/>

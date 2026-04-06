@@ -38018,11 +38018,33 @@
           </note>
           <lb/>
           <l n="999" xml:id="n999" resp="#藤原勝臣">
-            <seg>人しれす</seg>
-            <seg>思心は</seg>
-            <seg>春霞</seg>
-            <seg>たちいてゝきみか</seg>
-            <seg>めにも見えなむ</seg>
+            <seg>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#しれ.知る">しれ</w>
+              <w lemmaRef="#ず.ず">す</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おもふ.思ふ">思</w>
+              <w lemmaRef="#こころ.心">心</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はるがすみ.春霞">春霞</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たち.立つ">たち</w>
+              <w lemmaRef="#いで.出づ">いて</w>
+              <w lemmaRef="#て.て">ゝ</w>
+              <w lemmaRef="#きみ.君">きみ</w>
+              <w lemmaRef="#が.が">か</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#め.目">め</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#みえ.見ゆ">見え</w>
+              <w lemmaRef="#なむ.なむ">なむ</w>
+            </seg>
           </l>
         </div>
         <lb/>

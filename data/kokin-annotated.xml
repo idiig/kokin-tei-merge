@@ -37795,11 +37795,32 @@
           </note>
           <lb/>
           <l n="993" xml:id="n993" resp="#藤原忠房">
-            <seg>なよ竹の</seg>
-            <seg>よなかきうへに</seg>
-            <seg>はつしもの</seg>
-            <seg>おきゐて物を</seg>
-            <seg>思ころ哉</seg>
+            <seg>
+              <w lemmaRef="#なよたけ.弱竹">なよ竹</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#よ.夜">よ</w>
+              <w lemmaRef="#ながき.長し">なかき</w>
+              <w lemmaRef="#うへ.上">うへ</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#はつしも.初霜">はつしも</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おき.起く">おき</w>
+              <w lemmaRef="#ゐ.居る">ゐ</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#もの.物">物</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おもふ.思ふ">思</w>
+              <w lemmaRef="#ころ.頃">ころ</w>
+              <w lemmaRef="#かな.哉">哉</w>
+            </seg>
           </l>
         </div>
         <lb/>

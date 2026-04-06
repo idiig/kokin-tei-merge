@@ -36105,11 +36105,34 @@
           </note>
           <lb/>
           <l n="948" xml:id="n948" resp="#よみ人知らず">
-            <seg>世中は</seg>
-            <seg>むかしよりやは</seg>
-            <seg>うかりけむ</seg>
-            <seg>わか身ひとつの</seg>
-            <seg>ためになれるか</seg>
+            <seg>
+              <w lemmaRef="#よのなか.世の中">世中</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#むかし.昔">むかし</w>
+              <w lemmaRef="#より.より">より</w>
+              <w lemmaRef="#や.や">や</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うかり.憂し">うかり</w>
+              <w lemmaRef="#けむ.けむ">けむ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#わ.我">わ</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#み.身">身</w>
+              <w lemmaRef="#ひとつ.一つ">ひとつ</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ため.為">ため</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#なれ.成る">なれ</w>
+              <w lemmaRef="#る.り">る</w>
+              <w lemmaRef="#か.か">か</w>
+            </seg>
           </l>
         </div>
         <lb/>

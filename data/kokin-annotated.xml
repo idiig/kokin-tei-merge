@@ -35493,11 +35493,34 @@
           </note>
           <lb/>
           <l n="931" xml:id="n931" resp="#紀貫之">
-            <seg>さきそめし</seg>
-            <seg>時よりのちは</seg>
-            <seg>うちはへて</seg>
-            <seg>よは春なれや</seg>
-            <seg>いろのつねなる</seg>
+            <seg>
+              <w lemmaRef="#さき.咲く">さき</w>
+              <w lemmaRef="#そめ.染む">そめ</w>
+              <w lemmaRef="#し.き">し</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#とき.時">時</w>
+              <w lemmaRef="#より.より">より</w>
+              <w lemmaRef="#のち.後">のち</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#うち.打つ">うち</w>
+              <w lemmaRef="#はへ.延ふ">はへ</w>
+              <w lemmaRef="#て.て">て</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#よ.世">よ</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#はる.春">春</w>
+              <w lemmaRef="#なれ.なり">なれ</w>
+              <w lemmaRef="#や.や">や</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いろ.色">いろ</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#つねなる.常なり">つねなる</w>
+            </seg>
           </l>
         </div>
         <lb/>

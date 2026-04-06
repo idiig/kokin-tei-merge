@@ -41634,11 +41634,33 @@
             </note>
             <lb/>
             <l n="1064" xml:id="n1064" resp="#藤原興風">
-              <seg>身はすてつ</seg>
-              <seg>心をたにも</seg>
-              <seg>はふらさし</seg>
-              <seg>つゐにはいかゝ</seg>
-              <seg>なるとしるへく</seg>
+              <seg>
+                <w lemmaRef="#み.身">身</w>
+                <w lemmaRef="#は.は">は</w>
+                <w lemmaRef="#すて.捨つ">すて</w>
+                <w lemmaRef="#つ.つ">つ</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#こころ.心">心</w>
+                <w lemmaRef="#を.を">を</w>
+                <w lemmaRef="#だに.だに">たに</w>
+                <w lemmaRef="#も.も">も</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#はふらさ.放らす">はふらさ</w>
+                <w lemmaRef="#じ.じ">し</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#つひに.遂に">つゐに</w>
+                <w lemmaRef="#は.は">は</w>
+                <w lemmaRef="#いかが.如何が">いかゝ</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#なる.成る">なる</w>
+                <w lemmaRef="#と.と">と</w>
+                <w lemmaRef="#しる.知る">しる</w>
+                <w lemmaRef="#べく.べし">へく</w>
+              </seg>
             </l>
           </div>
           <pb n="2-57v" facs="#p130"/>

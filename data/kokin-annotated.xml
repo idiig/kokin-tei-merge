@@ -43117,11 +43117,29 @@
             <note type="墨滅歌所在" style="margin-top: 2em" target="#n1106 #n1107">奥山のすかのねしのきふる雪下</note>
             <lb/>
             <l n="1106" xml:id="n1106">
-              <seg>けふ人を</seg>
-              <seg>こふる心は</seg>
-              <seg>大井河</seg>
-              <seg>なかるゝ水に</seg>
-              <seg>おとらさりける</seg>
+              <seg>
+                <w lemmaRef="#けふ.今日">けふ</w>
+                <w lemmaRef="#ひと.人">人</w>
+                <w lemmaRef="#を.を">を</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#こふる.恋ふ">こふる</w>
+                <w lemmaRef="#こころ.心">心</w>
+                <w lemmaRef="#は.は">は</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#おほゐがは.大井河">大井河</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#ながるる.流る">なかるゝ</w>
+                <w lemmaRef="#みづ.水">水</w>
+                <w lemmaRef="#に.に">に</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#おとら.劣る">おとら</w>
+                <w lemmaRef="#ざり.ず">さり</w>
+                <w lemmaRef="#けり.けり">ける</w>
+              </seg>
             </l>
           </div>
           <pb n="2-62r" facs="#p134"/>

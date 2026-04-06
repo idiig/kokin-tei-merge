@@ -41794,11 +41794,33 @@
             </note>
             <lb/>
             <l n="1068" xml:id="n1068" resp="#よみ人知らず">
-              <seg>世をいとひ</seg>
-              <seg>このもとことに</seg>
-              <seg>たちよりて</seg>
-              <seg>うつふしそめの</seg>
-              <seg>あさのきぬなり</seg>
+              <seg>
+                <w lemmaRef="#よ.世">世</w>
+                <w lemmaRef="#を.を">を</w>
+                <w lemmaRef="#いとひ.厭ふ">いとひ</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#こ.木">こ</w>
+                <w lemmaRef="#の.の">の</w>
+                <w lemmaRef="#もと.下">もと</w>
+                <w lemmaRef="#ごと.毎">こと</w>
+                <w lemmaRef="#に.に">に</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#たち.立つ">たち</w>
+                <w lemmaRef="#より.寄る">より</w>
+                <w lemmaRef="#て.て">て</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#うつぶしぞめ.空五倍子染め">うつふしそめ</w>
+                <w lemmaRef="#の.の">の</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#あさ.麻">あさ</w>
+                <w lemmaRef="#の.の">の</w>
+                <w lemmaRef="#きぬ.衣">きぬ</w>
+                <w lemmaRef="#なり.なり">なり</w>
+              </seg>
             </l>
           </div>
         </div>

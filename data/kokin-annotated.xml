@@ -34971,11 +34971,36 @@
           </note>
           <lb/>
           <l n="918" xml:id="n918" resp="#紀貫之">
-            <seg>雨により</seg>
-            <seg>たみのゝしまを</seg>
-            <seg>けふゆけと</seg>
-            <seg>なにはかくれぬ</seg>
-            <seg>物にそ有ける</seg>
+            <seg>
+              <w lemmaRef="#あめ.雨">雨</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#より.より">より</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たみの.田蓑">たみの</w>
+              <w lemmaRef="#の.の">ゝ</w>
+              <w lemmaRef="#しま.島">しま</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#けふ.今日">けふ</w>
+              <w lemmaRef="#ゆけ.行く">ゆけ</w>
+              <w lemmaRef="#ど.ど">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#な.名">な</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#かくれ.隠る">かくれ</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#もの.物">物</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#あり.有り">有</w>
+              <w lemmaRef="#ける.けり">ける</w>
+            </seg>
           </l>
         </div>
         <lb/>

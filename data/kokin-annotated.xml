@@ -39896,11 +39896,34 @@
             </note>
             <lb/>
             <l n="1015" xml:id="n1015" resp="#凡河内躬恒">
-              <seg>むつことも</seg>
-              <seg>またつきなくに</seg>
-              <seg>あけぬめり</seg>
-              <seg>いつらは秋の</seg>
-              <seg>なかしてふ夜は</seg>
+              <seg>
+                <w lemmaRef="#むつごと.睦言">むつこと</w>
+                <w lemmaRef="#も.も">も</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#まだ.まだ">また</w>
+                <w lemmaRef="#つき.尽く">つき</w>
+                <w lemmaRef="#な.ず">な</w>
+                <w lemmaRef="#く.く">く</w>
+                <w lemmaRef="#に.に">に</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#あけ.明く">あけ</w>
+                <w lemmaRef="#ぬ.ぬ">ぬ</w>
+                <w lemmaRef="#めり.めり">めり</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#いづら.何方">いつら</w>
+                <w lemmaRef="#は.は">は</w>
+                <w lemmaRef="#あき.秋">秋</w>
+                <w lemmaRef="#の.の">の</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#ながし.長し">なかし</w>
+                <w lemmaRef="#てふ.てふ">てふ</w>
+                <w lemmaRef="#よ.夜">夜</w>
+                <w lemmaRef="#は.は">は</w>
+              </seg>
             </l>
           </div>
           <pb n="2-54r" facs="#p126"/>

@@ -37190,11 +37190,34 @@
             <lb/>けれはよめる</note>
           <lb/>
           <l n="977" xml:id="n977" resp="#凡河内躬恒">
-            <seg>身をすてゝ</seg>
-            <seg>ゆきやしにけむ</seg>
-            <seg>思より</seg>
-            <seg>ほかなる物は</seg>
-            <seg>心なりけり</seg>
+            <seg>
+              <w lemmaRef="#み.身">身</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#すて.捨つ">すて</w>
+              <w lemmaRef="#て.て">ゝ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ゆき.行く">ゆき</w>
+              <w lemmaRef="#や.や">や</w>
+              <w lemmaRef="#し.す">し</w>
+              <w lemmaRef="#に.ぬ">に</w>
+              <w lemmaRef="#けむ.けむ">けむ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おもふ.思ふ">思</w>
+              <w lemmaRef="#より.より">より</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ほか.外">ほか</w>
+              <w lemmaRef="#なる.なり">なる</w>
+              <w lemmaRef="#もの.物">物</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こころ.心">心</w>
+              <w lemmaRef="#なり.なり">なり</w>
+              <w lemmaRef="#けり.けり">けり</w>
+            </seg>
           </l>
         </div>
         <lb/>

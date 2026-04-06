@@ -42787,11 +42787,36 @@
           <lb/>
           <div type="和歌">
             <l n="1098" xml:id="n1098">
-              <seg>かひかねを</seg>
-              <seg>ねこし山こし</seg>
-              <seg>吹風を</seg>
-              <seg>人にもかもや</seg>
-              <seg>ことつてやらむ</seg>
+              <seg>
+                <w lemmaRef="#かひ.甲斐">かひ</w>
+                <w lemmaRef="#が.が">か</w>
+                <w lemmaRef="#ね.嶺">ね</w>
+                <w lemmaRef="#を.を">を</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#ね.嶺">ね</w>
+                <w lemmaRef="#こし.越す">こし</w>
+                <w lemmaRef="#やま.山">山</w>
+                <w lemmaRef="#こし.越す">こし</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#ふく.吹く">吹</w>
+                <w lemmaRef="#かぜ.風">風</w>
+                <w lemmaRef="#を.を">を</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#ひと.人">人</w>
+                <w lemmaRef="#に.なり">に</w>
+                <w lemmaRef="#もが.もが">もか</w>
+                <w lemmaRef="#も.も">も</w>
+                <w lemmaRef="#や.や">や</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#こと.言">こと</w>
+                <w lemmaRef="#つて.伝つ">つて</w>
+                <w lemmaRef="#やら.遣る">やら</w>
+                <w lemmaRef="#む.む">む</w>
+              </seg>
             </l>
           </div>
           <lb/>

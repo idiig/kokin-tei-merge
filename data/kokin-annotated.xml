@@ -35214,11 +35214,37 @@
           </note>
           <lb/>
           <l n="924" xml:id="n924" resp="#承均法師">
-            <seg>たかために</seg>
-            <seg>ひきてさらせる</seg>
-            <seg>布なれや</seg>
-            <seg>世をへて見れと</seg>
-            <seg>ゝる人もなき</seg>
+            <seg>
+              <w lemmaRef="#た.誰">た</w>
+              <w lemmaRef="#が.が">か</w>
+              <w lemmaRef="#ため.為">ため</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひき.引く">ひき</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#さらせ.曝す">さらせ</w>
+              <w lemmaRef="#る.り">る</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ぬの.布">布</w>
+              <w lemmaRef="#なれ.なり">なれ</w>
+              <w lemmaRef="#や.や">や</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#よ.世">世</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#へ.経">へ</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#みれ.見る">見れ</w>
+              <w lemmaRef="#ど.ど">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#とる.取る">ゝる</w>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#なき.無し">なき</w>
+            </seg>
           </l>
         </div>
         <lb/>

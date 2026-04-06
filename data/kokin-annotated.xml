@@ -40917,11 +40917,33 @@
           <lb/>
           <div type="和歌">
             <l n="1044" xml:id="n1044" resp="#よみ人知らず">
-              <seg>紅に</seg>
-              <seg>染し心も</seg>
-              <seg>たのまれす</seg>
-              <seg>人をあくには</seg>
-              <seg>うつるてふなり</seg>
+              <seg>
+                <w lemmaRef="#くれなゐ.紅">紅</w>
+                <w lemmaRef="#に.に">に</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#そめ.染む">染</w>
+                <w lemmaRef="#し.き">し</w>
+                <w lemmaRef="#こころ.心">心</w>
+                <w lemmaRef="#も.も">も</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#たのま.頼む">たのま</w>
+                <w lemmaRef="#れ.る">れ</w>
+                <w lemmaRef="#ず.ず">す</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#ひと.人">人</w>
+                <w lemmaRef="#を.を">を</w>
+                <w lemmaRef="#あく.飽く">あく</w>
+                <w lemmaRef="#に.に">に</w>
+                <w lemmaRef="#は.は">は</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#うつる.うつる">うつる</w>
+                <w lemmaRef="#てふ.てふ">てふ</w>
+                <w lemmaRef="#なり.なり">なり</w>
+              </seg>
             </l>
           </div>
           <lb/>

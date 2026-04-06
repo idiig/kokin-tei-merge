@@ -36647,11 +36647,35 @@
           <pb n="2-44v" facs="#p117"/>
           <lb/>
           <l n="963" xml:id="n963" resp="#小野春風">
-            <seg>あまひこの</seg>
-            <seg>をとつれしとそ</seg>
-            <seg>今は思</seg>
-            <seg>我か人かと</seg>
-            <seg>身をたとる世に</seg>
+            <seg>
+              <w lemmaRef="#あまびこ.天彦">あまひこ</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おとづれ.音づる">をとつれ</w>
+              <w lemmaRef="#じ.じ">し</w>
+              <w lemmaRef="#と.と">と</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いま.今">今</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#おもふ.思ふ">思</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#われ.我">我</w>
+              <w lemmaRef="#か.か">か</w>
+              <w lemmaRef="#ひと.人">人</w>
+              <w lemmaRef="#か.か">か</w>
+              <w lemmaRef="#と.と">と</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#み.身">身</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#たどる.辿る">たとる</w>
+              <w lemmaRef="#よ.世">世</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
           </l>
         </div>
         <lb/>

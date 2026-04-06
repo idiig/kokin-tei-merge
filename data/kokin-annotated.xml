@@ -39620,13 +39620,42 @@
             <pb n="2-53r" facs="#p125"/>
             <lb/>
             <l n="1008" xml:id="n1008" resp="#よみ人知らず">
-              <seg>春されは</seg>
-              <seg>のへにまつさく</seg>
-              <seg>見れとあかぬ</seg>
-              <seg>花まひなしに</seg>
               <seg>
-                <lb/>たゝなのるへき</seg>
-              <seg>花のなゝれや</seg>
+                <w lemmaRef="#はる.春">春</w>
+                <w lemmaRef="#され.去る">され</w>
+                <w lemmaRef="#ば.ば">は</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#のべ.野辺">のへ</w>
+                <w lemmaRef="#に.に">に</w>
+                <w lemmaRef="#まづ.先づ">まつ</w>
+                <w lemmaRef="#さく.咲く">さく</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#みれ.見る">見れ</w>
+                <w lemmaRef="#ど.ど">と</w>
+                <w lemmaRef="#あか.飽く">あか</w>
+                <w lemmaRef="#ぬ.ず">ぬ</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#はな.花">花</w>
+                <w lemmaRef="#まひ.幣">まひ</w>
+                <w lemmaRef="#なし.無し">なし</w>
+                <w lemmaRef="#に.に">に</w>
+              </seg>
+              <seg>
+                <lb/>
+                <w lemmaRef="#ただ.唯">たゝ</w>
+                <w lemmaRef="#なのる.名告る">なのる</w>
+                <w lemmaRef="#べき.べし">へき</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#はな.花">花</w>
+                <w lemmaRef="#の.の">の</w>
+                <w lemmaRef="#な.名">な</w>
+                <w lemmaRef="#なれ.なり">ゝれ</w>
+                <w lemmaRef="#や.や">や</w>
+              </seg>
             </l>
           </div>
           <lb/>

@@ -41163,11 +41163,34 @@
             <pb n="2-56v" facs="#p129"/>
             <lb/>
             <l n="1051" xml:id="n1051" resp="#伊勢">
-              <seg>なにはなる</seg>
-              <seg>なからのはしも</seg>
-              <seg>つくるなり</seg>
-              <seg>今はわか身を</seg>
-              <seg>なにゝたとへむ</seg>
+              <seg>
+                <w lemmaRef="#なには.難波">なには</w>
+                <w lemmaRef="#なる.なり">なる</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#ながら.長柄">なから</w>
+                <w lemmaRef="#の.の">の</w>
+                <w lemmaRef="#はし.橋">はし</w>
+                <w lemmaRef="#も.も">も</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#つくる.作る">つくる</w>
+                <w lemmaRef="#なり.なり">なり</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#いま.今">今</w>
+                <w lemmaRef="#は.は">は</w>
+                <w lemmaRef="#わ.我">わ</w>
+                <w lemmaRef="#が.が">か</w>
+                <w lemmaRef="#み.身">身</w>
+                <w lemmaRef="#を.を">を</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#なに.何">なに</w>
+                <w lemmaRef="#に.に">ゝ</w>
+                <w lemmaRef="#たとへ.譬ふ">たとへ</w>
+                <w lemmaRef="#む.む">む</w>
+              </seg>
             </l>
           </div>
           <lb/>

@@ -40562,11 +40562,38 @@
             </note>
             <lb/>
             <l n="1034" xml:id="n1034" resp="#紀淑人">
-              <seg>秋のゝに</seg>
-              <seg>つまなきしかの</seg>
-              <seg>としをへて</seg>
-              <seg>なそわかこひの</seg>
-              <seg>かひよとそなく</seg>
+              <seg>
+                <w lemmaRef="#あき.秋">秋</w>
+                <w lemmaRef="#の.の">の</w>
+                <w lemmaRef="#の.野">ゝ</w>
+                <w lemmaRef="#に.に">に</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#つま.妻">つま</w>
+                <w lemmaRef="#なき.無し">なき</w>
+                <w lemmaRef="#しか.鹿">しか</w>
+                <w lemmaRef="#の.の">の</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#とし.年">とし</w>
+                <w lemmaRef="#を.を">を</w>
+                <w lemmaRef="#へ.経">へ</w>
+                <w lemmaRef="#て.て">て</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#なぞ.何故">なそ</w>
+                <w lemmaRef="#わ.我">わ</w>
+                <w lemmaRef="#が.が">か</w>
+                <w lemmaRef="#こひ.恋ふ">こひ</w>
+                <w lemmaRef="#の.の">の</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#かひ.甲斐">かひ</w>
+                <w lemmaRef="#よ.よ">よ</w>
+                <w lemmaRef="#と.と">と</w>
+                <w lemmaRef="#ぞ.ぞ">そ</w>
+                <w lemmaRef="#なく.鳴く">なく</w>
+              </seg>
             </l>
           </div>
           <lb/>

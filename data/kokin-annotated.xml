@@ -41363,11 +41363,32 @@
             </note>
             <lb/>
             <l n="1056" xml:id="n1056" resp="#大輔">
-              <seg>なけ木こる</seg>
-              <seg>山としたかく</seg>
-              <seg>なりぬれは</seg>
-              <seg>つらつゑのみそ</seg>
-              <seg>まつゝかれける</seg>
+              <seg>
+                <w lemmaRef="#なげき.投げ木">なけ木</w>
+                <w lemmaRef="#こる.樵る">こる</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#やま.山">山</w>
+                <w lemmaRef="#と.と">と</w>
+                <w lemmaRef="#し.し">し</w>
+                <w lemmaRef="#たかく.高し">たかく</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#なり.成る">なり</w>
+                <w lemmaRef="#ぬれ.ぬ">ぬれ</w>
+                <w lemmaRef="#ば.ば">は</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#つらづゑ.頬杖">つらつゑ</w>
+                <w lemmaRef="#のみ.のみ">のみ</w>
+                <w lemmaRef="#ぞ.ぞ">そ</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#まづ.先づ">まつ</w>
+                <w lemmaRef="#つか.突く">ゝか</w>
+                <w lemmaRef="#れ.る">れ</w>
+                <w lemmaRef="#ける.けり">ける</w>
+              </seg>
             </l>
           </div>
           <pb n="2-57r" facs="#p129"/>

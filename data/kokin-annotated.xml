@@ -38056,11 +38056,31 @@
           </note>
           <lb/>
           <l n="1000" xml:id="n1000" resp="#伊勢">
-            <seg>山河の</seg>
-            <seg>をとにのみきく</seg>
-            <seg>もゝしきを</seg>
-            <seg>身をはやなから</seg>
-            <seg>見るよしも哉</seg>
+            <seg>
+              <w lemmaRef="#やまかは.山河">山河</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#おと.音">をと</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#のみ.のみ">のみ</w>
+              <w lemmaRef="#きく.聞く">きく</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ももしき.百敷">もゝしき</w>
+              <w lemmaRef="#を.を">を</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#み.身">身</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#はや.早し">はや</w>
+              <w lemmaRef="#ながら.ながら">なから</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みる.見る">見る</w>
+              <w lemmaRef="#よし.由">よし</w>
+              <w lemmaRef="#もがな.もがな">も哉</w>
+            </seg>
           </l>
         </div>
       </div>

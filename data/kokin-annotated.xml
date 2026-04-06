@@ -35993,11 +35993,33 @@
           <pb n="2-43r" facs="#p115"/>
           <lb/>
           <l n="945" xml:id="n945" resp="#惟喬親王">
-            <seg>白雲の</seg>
-            <seg>たえすたなひく</seg>
-            <seg>峯にたに</seg>
-            <seg>すめはすみぬる</seg>
-            <seg>よにこそ有けれ</seg>
+            <seg>
+              <w lemmaRef="#しらくも.白雲">白雲</w>
+              <w lemmaRef="#の.の">の</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#たえ.絶ゆ">たえ</w>
+              <w lemmaRef="#ず.ず">す</w>
+              <w lemmaRef="#たなびく.棚引く">たなひく</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みね.峰">峯</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#だに.だに">たに</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#すめ.住む">すめ</w>
+              <w lemmaRef="#ば.ば">は</w>
+              <w lemmaRef="#すみ.住む">すみ</w>
+              <w lemmaRef="#ぬる.ぬ">ぬる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#よ.世">よ</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#こそ.こそ">こそ</w>
+              <w lemmaRef="#あり.有り">有</w>
+              <w lemmaRef="#けれ.けり">けれ</w>
+            </seg>
           </l>
         </div>
         <lb/>

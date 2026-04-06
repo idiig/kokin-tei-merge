@@ -42991,11 +42991,33 @@
             </note>
             <lb/>
             <l n="1103" xml:id="n1103" resp="#紀貫之">
-              <seg>うし時と</seg>
-              <seg>こひつゝをれは</seg>
-              <seg>ゆふくれの</seg>
-              <seg>おもかけにのみ</seg>
-              <seg>見えわたる哉</seg>
+              <seg>
+                <w lemmaRef="#こ.来">う</w>
+                <w lemmaRef="#し.き">し</w>
+                <w lemmaRef="#とき.時">時</w>
+                <w lemmaRef="#と.と">と</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#こひ.恋ふ">こひ</w>
+                <w lemmaRef="#つつ.つつ">つゝ</w>
+                <w lemmaRef="#をり.居り">をれ</w>
+                <w lemmaRef="#ば.ば">は</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#ゆふ.夕">ゆふ</w>
+                <w lemmaRef="#くれ.暮る">くれ</w>
+                <w lemmaRef="#の.の">の</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#おもかげ.面影">おもかけ</w>
+                <w lemmaRef="#に.に">に</w>
+                <w lemmaRef="#のみ.のみ">のみ</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#みえ.見ゆ">見え</w>
+                <w lemmaRef="#わたる.渡る">わたる</w>
+                <w lemmaRef="#かな.哉">哉</w>
+              </seg>
             </l>
             <lb/>
             <note type="墨滅歌所在" target="#n1103">忍草利貞下</note>

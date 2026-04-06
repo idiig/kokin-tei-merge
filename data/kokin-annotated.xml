@@ -41870,11 +41870,29 @@
             <note type="詞書" style="margin-top: 2em" target="#n1070">ふるきやまとまひの哥</note>
             <lb/>
             <l n="1070" xml:id="n1070">
-              <seg>しもとゆふ</seg>
-              <seg>かつら木山に</seg>
-              <seg>ふる雪の</seg>
-              <seg>まなく時なく</seg>
-              <seg>おもほゆる哉</seg>
+              <seg>
+                <w lemmaRef="#しもと.細枝">しもと</w>
+                <w lemmaRef="#ゆふ.結ふ">ゆふ</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#かつらぎやま.葛城山">かつら木山</w>
+                <w lemmaRef="#に.に">に</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#ふる.降る">ふる</w>
+                <w lemmaRef="#ゆき.雪">雪</w>
+                <w lemmaRef="#の.の">の</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#ま.間">ま</w>
+                <w lemmaRef="#なく.無し">なく</w>
+                <w lemmaRef="#とき.時">時</w>
+                <w lemmaRef="#なく.無し">なく</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#おもほゆる.思ほゆ">おもほゆる</w>
+                <w lemmaRef="#かな.哉">哉</w>
+              </seg>
             </l>
           </div>
           <lb/>

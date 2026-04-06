@@ -36380,11 +36380,35 @@
           </note>
           <lb/>
           <l n="956" xml:id="n956" resp="#凡河内躬恒">
-            <seg>世をすてゝ</seg>
-            <seg>山にいる人</seg>
-            <seg>山にても</seg>
-            <seg>猶うき時は</seg>
-            <seg>いつちゆくらむ</seg>
+            <seg>
+              <w lemmaRef="#よ.世">世</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#すて.捨つ">すて</w>
+              <w lemmaRef="#て.て">ゝ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#やま.山">山</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#いる.入る">いる</w>
+              <w lemmaRef="#ひと.人">人</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#やま.山">山</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なほ.猶">猶</w>
+              <w lemmaRef="#うき.憂し">うき</w>
+              <w lemmaRef="#とき.時">時</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いづち.何方">いつち</w>
+              <w lemmaRef="#ゆく.行く">ゆく</w>
+              <w lemmaRef="#らむ.らむ">らむ</w>
+            </seg>
           </l>
         </div>
         <lb/>

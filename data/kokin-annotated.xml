@@ -36030,11 +36030,33 @@
           </note>
           <lb/>
           <l n="946" xml:id="n946" resp="#布留今道">
-            <seg>しりにけむ</seg>
-            <seg>きゝてもいとへ</seg>
-            <seg>世中は</seg>
-            <seg>浪のさはきに</seg>
-            <seg>風そしくめる</seg>
+            <seg>
+              <w lemmaRef="#しり.知る">しり</w>
+              <w lemmaRef="#に.ぬ">に</w>
+              <w lemmaRef="#けむ.けむ">けむ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#きき.聞く">きゝ</w>
+              <w lemmaRef="#て.て">て</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#いとへ.厭ふ">いとへ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#よのなか.世の中">世中</w>
+              <w lemmaRef="#は.は">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#なみ.浪">浪</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#さわぎ.騒ぐ">さはき</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#かぜ.風">風</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#しく.頻く">しく</w>
+              <w lemmaRef="#める.めり">める</w>
+            </seg>
           </l>
         </div>
         <lb/>

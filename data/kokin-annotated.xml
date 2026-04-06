@@ -42038,11 +42038,32 @@
           <lb/>
           <div type="和歌">
             <l n="1075" xml:id="n1075">
-              <seg>霜やたひ</seg>
-              <seg>をけとかれせぬ</seg>
-              <seg>さかきはの</seg>
-              <seg>立さかゆへき</seg>
-              <seg>神のきねかも</seg>
+              <seg>
+                <w lemmaRef="#しも.霜">霜</w>
+                <w lemmaRef="#やたび.八度">やたひ</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#おけ.置く">をけ</w>
+                <w lemmaRef="#ど.ど">と</w>
+                <w lemmaRef="#かれ.枯る">かれ</w>
+                <w lemmaRef="#せ.す">せ</w>
+                <w lemmaRef="#ぬ.ず">ぬ</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#さかきば.榊葉">さかきは</w>
+                <w lemmaRef="#の.の">の</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#たち.立つ">立</w>
+                <w lemmaRef="#さかゆ.栄ゆ">さかゆ</w>
+                <w lemmaRef="#べき.べし">へき</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#かみ.神">神</w>
+                <w lemmaRef="#の.の">の</w>
+                <w lemmaRef="#きね.巫覡">きね</w>
+                <w lemmaRef="#かも.かも">かも</w>
+              </seg>
             </l>
           </div>
           <lb/>

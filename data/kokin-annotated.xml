@@ -36203,11 +36203,33 @@
         <lb/>
         <div type="和歌">
           <l n="951" xml:id="n951" resp="#よみ人知らず">
-            <seg>世にふれは</seg>
-            <seg>うさこそまされ</seg>
-            <seg>みよしのゝ</seg>
-            <seg>いはのかけ道</seg>
-            <seg>ふみならしてむ</seg>
+            <seg>
+              <w lemmaRef="#よ.世">世</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#ふれ.経">ふれ</w>
+              <w lemmaRef="#ば.ば">は</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#う.憂し">う</w>
+              <w lemmaRef="#さ.さ">さ</w>
+              <w lemmaRef="#こそ.こそ">こそ</w>
+              <w lemmaRef="#まされ.増さる">まされ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#みよしの.み吉野">みよしの</w>
+              <w lemmaRef="#の.の">ゝ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#いは.岩">いは</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#かけみち.懸道">かけ道</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ふみ.踏む">ふみ</w>
+              <w lemmaRef="#ならし.平す">ならし</w>
+              <w lemmaRef="#て.つ">て</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
           </l>
         </div>
         <lb/>

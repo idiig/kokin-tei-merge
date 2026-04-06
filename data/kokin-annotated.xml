@@ -42255,11 +42255,31 @@
           <lb/>
           <div type="和歌">
             <l n="1082" xml:id="n1082">
-              <seg>まかねふく</seg>
-              <seg>きひの中山</seg>
-              <seg>帯にせる</seg>
-              <seg>ほそ谷河の</seg>
-              <seg>をとのさやけさ</seg>
+              <seg>
+                <w lemmaRef="#まがね.真金">まかね</w>
+                <w lemmaRef="#ふく.吹く">ふく</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#きび.吉備">きひ</w>
+                <w lemmaRef="#の.の">の</w>
+                <w lemmaRef="#なかやま.中山">中山</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#おび.帯">帯</w>
+                <w lemmaRef="#に.に">に</w>
+                <w lemmaRef="#せ.す">せ</w>
+                <w lemmaRef="#る.り">る</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#ほそたにがは.細谷河">ほそ谷河</w>
+                <w lemmaRef="#の.の">の</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#おと.音">をと</w>
+                <w lemmaRef="#の.の">の</w>
+                <w lemmaRef="#さやけ.明けし">さやけ</w>
+                <w lemmaRef="#さ.さ">さ</w>
+              </seg>
             </l>
             <lb/>
             <note type="左注" style="margin-top: 3em" target="#n1082">この哥は

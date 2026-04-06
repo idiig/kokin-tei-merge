@@ -40173,11 +40173,34 @@
           <lb/>
           <div type="和歌">
             <l n="1023" xml:id="n1023" resp="#よみ人知らず">
-              <seg>枕より</seg>
-              <seg>あとより戀の</seg>
-              <seg>せめくれは</seg>
-              <seg>せむ方なみそ</seg>
-              <seg>とこなかにをる</seg>
+              <seg>
+                <w lemmaRef="#まくら.枕">枕</w>
+                <w lemmaRef="#より.より">より</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#あと.跡">あと</w>
+                <w lemmaRef="#より.より">より</w>
+                <w lemmaRef="#こひ.恋ふ">戀</w>
+                <w lemmaRef="#の.の">の</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#せめ.責む">せめ</w>
+                <w lemmaRef="#くれ.来">くれ</w>
+                <w lemmaRef="#ば.ば">は</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#せ.す">せ</w>
+                <w lemmaRef="#む.む">む</w>
+                <w lemmaRef="#かた.方">方</w>
+                <w lemmaRef="#な.無し">な</w>
+                <w lemmaRef="#み.み">み</w>
+                <w lemmaRef="#ぞ.ぞ">そ</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#とこなか.床中">とこなか</w>
+                <w lemmaRef="#に.に">に</w>
+                <w lemmaRef="#をる.居り">をる</w>
+              </seg>
             </l>
           </div>
           <lb/>

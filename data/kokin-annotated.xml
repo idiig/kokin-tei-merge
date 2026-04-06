@@ -37304,11 +37304,34 @@
           </note>
           <lb/>
           <l n="980" xml:id="n980" resp="#紀貫之">
-            <seg>思やる</seg>
-            <seg>こしのしら山</seg>
-            <seg>しらねとも</seg>
-            <seg>ひとよもゆめに</seg>
-            <seg>こえぬよそなき</seg>
+            <seg>
+              <w lemmaRef="#おもひ.思ふ">思</w>
+              <w lemmaRef="#やる.遣る">やる</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こし.越">こし</w>
+              <w lemmaRef="#の.の">の</w>
+              <w lemmaRef="#しらやま.白山">しら山</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#しら.知る">しら</w>
+              <w lemmaRef="#ね.ず">ね</w>
+              <w lemmaRef="#ど.ど">と</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#ひとよ.一夜">ひとよ</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#ゆめ.夢">ゆめ</w>
+              <w lemmaRef="#に.に">に</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こえ.越ゆ">こえ</w>
+              <w lemmaRef="#ぬ.ず">ぬ</w>
+              <w lemmaRef="#よ.夜">よ</w>
+              <w lemmaRef="#ぞ.ぞ">そ</w>
+              <w lemmaRef="#なき.無し">なき</w>
+            </seg>
           </l>
         </div>
         <lb/>

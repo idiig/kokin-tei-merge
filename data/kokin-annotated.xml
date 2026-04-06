@@ -40269,11 +40269,33 @@
           <lb/>
           <div type="和歌">
             <l n="1026" xml:id="n1026" resp="#よみ人知らず">
-              <seg>耳なしの</seg>
-              <seg>山のくちなし</seg>
-              <seg>えてし哉</seg>
-              <seg>おもひの色の</seg>
-              <seg>したそめにせむ</seg>
+              <seg>
+                <w lemmaRef="#みみなし.耳梨">耳なし</w>
+                <w lemmaRef="#の.の">の</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#やま.山">山</w>
+                <w lemmaRef="#の.の">の</w>
+                <w lemmaRef="#くちなし.梔子">くちなし</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#え.得">え</w>
+                <w lemmaRef="#て.つ">て</w>
+                <w lemmaRef="#しがな.しがな">し哉</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#おもひ.思ふ">おもひ</w>
+                <w lemmaRef="#の.の">の</w>
+                <w lemmaRef="#いろ.色">色</w>
+                <w lemmaRef="#の.の">の</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#した.下">した</w>
+                <w lemmaRef="#そめ.染む">そめ</w>
+                <w lemmaRef="#に.に">に</w>
+                <w lemmaRef="#せ.す">せ</w>
+                <w lemmaRef="#む.む">む</w>
+              </seg>
             </l>
           </div>
           <lb/>

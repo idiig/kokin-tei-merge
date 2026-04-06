@@ -42394,11 +42394,33 @@
             </note>
             <lb/>
             <l n="1086" xml:id="n1086" resp="#大友黒主">
-              <seg>あふみのや</seg>
-              <seg>かゝみの山を</seg>
-              <seg>たてたれは</seg>
-              <seg>かねてそ見ゆる</seg>
-              <seg>君かちとせは</seg>
+              <seg>
+                <w lemmaRef="#あふみ.近江">あふみ</w>
+                <w lemmaRef="#の.の">の</w>
+                <w lemmaRef="#や.や">や</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#かがみ.鏡">かゝみ</w>
+                <w lemmaRef="#の.の">の</w>
+                <w lemmaRef="#やま.山">山</w>
+                <w lemmaRef="#を.を">を</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#たて.立つ">たて</w>
+                <w lemmaRef="#たれ.たり">たれ</w>
+                <w lemmaRef="#ば.ば">は</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#かねて.予て">かねて</w>
+                <w lemmaRef="#ぞ.ぞ">そ</w>
+                <w lemmaRef="#みゆる.見ゆ">見ゆる</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#きみ.君">君</w>
+                <w lemmaRef="#が.が">か</w>
+                <w lemmaRef="#ちとせ.千年">ちとせ</w>
+                <w lemmaRef="#は.は">は</w>
+              </seg>
             </l>
             <lb/>
             <note type="左注" style="margin-top: 3em" target="#n1086">これは

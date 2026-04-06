@@ -42069,11 +42069,30 @@
           <lb/>
           <div type="和歌">
             <l n="1076" xml:id="n1076">
-              <seg>まきもくの</seg>
-              <seg>あなしの山の</seg>
-              <seg>山人と</seg>
-              <seg>人も見るかに</seg>
-              <seg>山かつらせよ</seg>
+              <seg>
+                <w lemmaRef="#まきもく.巻向">まきもく</w>
+                <w lemmaRef="#の.の">の</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#あなし.穴師">あなし</w>
+                <w lemmaRef="#の.の">の</w>
+                <w lemmaRef="#やま.山">山</w>
+                <w lemmaRef="#の.の">の</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#やまびと.山人">山人</w>
+                <w lemmaRef="#と.と">と</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#ひと.人">人</w>
+                <w lemmaRef="#も.も">も</w>
+                <w lemmaRef="#みる.見る">見る</w>
+                <w lemmaRef="#がに.がに">かに</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#やまかづら.山鬘">山かつら</w>
+                <w lemmaRef="#せよ.す">せよ</w>
+              </seg>
             </l>
           </div>
           <lb/>

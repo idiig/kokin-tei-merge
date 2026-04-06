@@ -41050,11 +41050,32 @@
             </note>
             <lb/>
             <l n="1048" xml:id="n1048" resp="#平中興">
-              <seg>あふことの</seg>
-              <seg>今はゝつかに</seg>
-              <seg>なりぬれは</seg>
-              <seg>夜ふかゝらては</seg>
-              <seg>月なかりけり</seg>
+              <seg>
+                <w lemmaRef="#あふ.逢ふ">あふ</w>
+                <w lemmaRef="#こと.事">こと</w>
+                <w lemmaRef="#の.の">の</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#いま.今">今</w>
+                <w lemmaRef="#は.は">は</w>
+                <w lemmaRef="#はつかに.僅かなり">ゝつかに</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#なり.成る">なり</w>
+                <w lemmaRef="#ぬれ.ぬ">ぬれ</w>
+                <w lemmaRef="#ば.ば">は</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#よ.夜">夜</w>
+                <w lemmaRef="#ふかから.深し">ふかゝら</w>
+                <w lemmaRef="#で.で">て</w>
+                <w lemmaRef="#は.は">は</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#つき.月">月</w>
+                <w lemmaRef="#なかり.無し">なかり</w>
+                <w lemmaRef="#けり.けり">けり</w>
+              </seg>
             </l>
           </div>
           <lb/>

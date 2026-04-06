@@ -42592,11 +42592,31 @@
           <lb/>
           <div type="和歌">
             <l n="1092" xml:id="n1092">
-              <seg>もかみ河</seg>
-              <seg>のほれはくたる</seg>
-              <seg>いな舟の</seg>
-              <seg>いなにはあらす</seg>
-              <seg>この月はかり</seg>
+              <seg>
+                <w lemmaRef="#もがみがは.最上河">もかみ河</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#のぼれ.上る">のほれ</w>
+                <w lemmaRef="#ば.ば">は</w>
+                <w lemmaRef="#くだる.下る">くたる</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#いなぶね.稲舟">いな舟</w>
+                <w lemmaRef="#の.の">の</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#いな.否">いな</w>
+                <w lemmaRef="#に.なり">に</w>
+                <w lemmaRef="#は.は">は</w>
+                <w lemmaRef="#あら.有り">あら</w>
+                <w lemmaRef="#ず.ず">す</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#こ.此">こ</w>
+                <w lemmaRef="#の.の">の</w>
+                <w lemmaRef="#つき.月">月</w>
+                <w lemmaRef="#ばかり.許り">はかり</w>
+              </seg>
             </l>
           </div>
           <lb/>

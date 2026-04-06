@@ -36067,11 +36067,34 @@
           </note>
           <lb/>
           <l n="947" xml:id="n947" resp="#素性法師">
-            <seg>いつくにか</seg>
-            <seg>世をはいとはむ</seg>
-            <seg>心こそ</seg>
-            <seg>のにも山にも</seg>
-            <seg>まとふへらなれ</seg>
+            <seg>
+              <w lemmaRef="#いづく.何処">いつく</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#か.か">か</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#よ.世">世</w>
+              <w lemmaRef="#を.を">を</w>
+              <w lemmaRef="#は.は">は</w>
+              <w lemmaRef="#いとは.厭ふ">いとは</w>
+              <w lemmaRef="#む.む">む</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#こころ.心">心</w>
+              <w lemmaRef="#こそ.こそ">こそ</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#の.野">の</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#も.も">も</w>
+              <w lemmaRef="#やま.山">山</w>
+              <w lemmaRef="#に.に">に</w>
+              <w lemmaRef="#も.も">も</w>
+            </seg>
+            <seg>
+              <w lemmaRef="#まどふ.迷ふ">まとふ</w>
+              <w lemmaRef="#べらなれ.べらなり">へらなれ</w>
+            </seg>
           </l>
         </div>
         <lb/>

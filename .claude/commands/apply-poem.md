@@ -15,9 +15,10 @@ go run ./cmd/align-review \
 
 Report the result to the user. If validation fails, Helix will reopen automatically — tell the user to fix the highlighted error and run /apply-poem $ARGUMENTS again.
 
-If successful, ask the user: "Commit this alignment to git? (y/n)"
-
-Only if the user confirms, follow the git workflow: stage `data/kokin-annotated.xml`, then commit with message `feat(align): annotate poem $ARGUMENTS`.
+If successful, automatically commit the changes:
+1. Stage `data/kokin-annotated.xml`
+2. Commit with message `feat(align): annotate poem $ARGUMENTS`
+3. Report the commit to the user
 
 After the commit, ask the user: "Align the next poem ($ARGUMENTS+1)? (y/n)"
 

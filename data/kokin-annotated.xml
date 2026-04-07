@@ -43146,11 +43146,30 @@
           <lb/>
           <div>
             <l n="1107" xml:id="n1107">
-              <seg>わきもこに</seg>
-              <seg>あふさか山の</seg>
-              <seg>しのすゝき</seg>
-              <seg>ほにはいてすも</seg>
-              <seg>こひわたる哉</seg>
+              <seg>
+                <w lemmaRef="#わぎもこ.我妹子">わきもこ</w>
+                <w lemmaRef="#に.に">に</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#あふさかやま.相坂山">あふさか山</w>
+                <w lemmaRef="#の.の">の</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#しのすすき.篠薄">しのすゝき</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#ほ.穂">ほ</w>
+                <w lemmaRef="#に.に">に</w>
+                <w lemmaRef="#は.は">は</w>
+                <w lemmaRef="#いで.出づ">いて</w>
+                <w lemmaRef="#ず.ず">す</w>
+                <w lemmaRef="#も.も">も</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#こひ.恋ふ">こひ</w>
+                <w lemmaRef="#わたる.渡る">わたる</w>
+                <w lemmaRef="#かな.哉">哉</w>
+              </seg>
             </l>
           </div>
         </div>

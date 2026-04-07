@@ -120,6 +120,4 @@ Poems 1–1000 have Hachidaishu annotations; poems 1001–1111 (Karoku 2 only)
 show =(not found)= on the Hachidaishu side.
 
 * TODO list
-- [] Extend =<form type="inflected">= with kanji surface forms in addition to kana readings.
-- [] Run batch annotator on all poems and review =unmatched.json= systematically.
 - [] Add =<rdg>= annotation support to the batch annotator (currently interactive only).

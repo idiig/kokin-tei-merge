@@ -43181,11 +43181,31 @@
             <note type="墨滅歌所在" target="#n1108">こひしくはしたにをおもへ紫の下</note>
             <lb/>
             <l n="1108" xml:id="n1108">
-              <seg>いぬかみの</seg>
-              <seg>とこの山なる</seg>
-              <seg>なとり河</seg>
-              <seg>いさとこたへよ</seg>
-              <seg>わかなもらすな</seg>
+              <seg>
+                <w lemmaRef="#いぬがみ.犬上">いぬかみ</w>
+                <w lemmaRef="#の.の">の</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#とこ.鳥籠">とこ</w>
+                <w lemmaRef="#の.の">の</w>
+                <w lemmaRef="#やま.山">山</w>
+                <w lemmaRef="#なる.なり">なる</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#なとりがは.名取河">なとり河</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#いさ.いさ">いさ</w>
+                <w lemmaRef="#と.と">と</w>
+                <w lemmaRef="#こたへよ.答ふ">こたへよ</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#わ.我">わ</w>
+                <w lemmaRef="#が.が">か</w>
+                <w lemmaRef="#な.名">な</w>
+                <w lemmaRef="#もらす.漏らす">もらす</w>
+                <w lemmaRef="#な.な">な</w>
+              </seg>
             </l>
             <lb/>
             <note type="左注" target="#n1108">この哥ある人あめのみかとのあふみのうねめにた

@@ -43260,11 +43260,32 @@
               <persName corresp="#衣通姫">そとほりひめ</persName>のひとりゐてみかとをこひたてまつりて</note>
             <lb/>
             <l n="1110" xml:id="n1110">
-              <seg>わかせこか</seg>
-              <seg>くへきよひなり</seg>
-              <seg>さゝかにの</seg>
-              <seg>くものふるまひ</seg>
-              <seg>かねてしるしも</seg>
+              <seg>
+                <w lemmaRef="#わ.我">わ</w>
+                <w lemmaRef="#が.が">か</w>
+                <w lemmaRef="#せこ.背子">せこ</w>
+                <w lemmaRef="#が.が">か</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#く.来">く</w>
+                <w lemmaRef="#べき.べし">へき</w>
+                <w lemmaRef="#よひ.宵">よひ</w>
+                <w lemmaRef="#なり.なり">なり</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#ささがに.蜘蛛">さゝかに</w>
+                <w lemmaRef="#の.の">の</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#くも.蜘蛛">くも</w>
+                <w lemmaRef="#の.の">の</w>
+                <w lemmaRef="#ふるまひ.振舞ふ">ふるまひ</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#かねて.予て">かねて</w>
+                <w lemmaRef="#しるし.著し">しるし</w>
+                <w lemmaRef="#も.も">も</w>
+              </seg>
             </l>
           </div>
           <pb n="2-62v" facs="#p135"/>

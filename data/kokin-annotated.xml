@@ -43298,11 +43298,31 @@
             </note>
             <lb/>
             <l n="1111" xml:id="n1111" resp="#紀貫之">
-              <seg>道しらは</seg>
-              <seg>つみにもゆかむ</seg>
-              <seg>住のえの</seg>
-              <seg>岸におふてふ</seg>
-              <seg>こひわすれくさ</seg>
+              <seg>
+                <w lemmaRef="#みち.道">道</w>
+                <w lemmaRef="#しら.知る">しら</w>
+                <w lemmaRef="#ば.ば">は</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#つみ.摘む">つみ</w>
+                <w lemmaRef="#に.に">に</w>
+                <w lemmaRef="#も.も">も</w>
+                <w lemmaRef="#ゆか.行く">ゆか</w>
+                <w lemmaRef="#む.む">む</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#すみのえ.住の江">住のえ</w>
+                <w lemmaRef="#の.の">の</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#きし.岸">岸</w>
+                <w lemmaRef="#に.に">に</w>
+                <w lemmaRef="#おふ.生ふ">おふ</w>
+                <w lemmaRef="#てふ.てふ">てふ</w>
+              </seg>
+              <seg>
+                <w lemmaRef="#こひわすれぐさ.恋忘草">こひわすれくさ</w>
+              </seg>
             </l>
           </div>
         </div>

@@ -5,3 +5,4 @@
 /tools/merge/.go/
 /tools/migrate/.go/
 /.agent-shell/
+/data/unmatched.json

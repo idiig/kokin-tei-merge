@@ -43655,6 +43655,14 @@
             <ref target="#欺く"/>
           </hom>
         </entry>
+        <entry xml:id="あざむき">
+          <form type="pron">
+            <pron notation="kana">あざむき</pron>
+          </form>
+          <hom n="1" xml:id="あざむき.欺く">
+            <ref target="#欺く"/>
+          </hom>
+        </entry>
         <entry xml:id="あし">
           <form type="pron">
             <pron notation="kana">あし</pron>
@@ -45186,6 +45194,15 @@
             <ref target="#家苞"/>
           </hom>
         </entry>
+
+        <entry xml:id="いほ">
+          <form type="pron">
+            <pron notation="kana">いほ</pron>
+          </form>
+          <hom n="1" xml:id="いほ.庵">
+            <ref target="#庵"/>
+          </hom>
+        </entry>
         <entry xml:id="いほり">
           <form type="pron">
             <pron notation="kana">いほり</pron>
@@ -45255,6 +45272,14 @@
             <pron notation="kana">いやしき</pron>
           </form>
           <hom n="1" xml:id="いやしき.賎し">
+            <ref target="#賎し"/>
+          </hom>
+        </entry>
+        <entry xml:id="いやしく">
+          <form type="pron">
+            <pron notation="kana">いやしく</pron>
+          </form>
+          <hom n="1" xml:id="いやしく.賎し">
             <ref target="#賎し"/>
           </hom>
         </entry>
@@ -45894,6 +45919,9 @@
           <hom n="1" xml:id="うらむ.恨む">
             <ref target="#恨む"/>
           </hom>
+          <hom n="2" xml:id="うらむ.怨む">
+            <ref target="#怨む"/>
+          </hom>
         </entry>
         <entry xml:id="うらめしき">
           <form type="pron">
@@ -46407,6 +46435,9 @@
           <hom n="1" xml:id="おほせ.負ほす">
             <ref target="#負ほす"/>
           </hom>
+          <hom n="2" xml:id="おほせ.仰す">
+            <ref target="#仰す"/>
+          </hom>
         </entry>
         <entry xml:id="おほぞら">
           <form type="pron">
@@ -46485,6 +46516,14 @@
             <pron notation="kana">おぼほる</pron>
           </form>
           <hom n="1" xml:id="おぼほる.溺ほる">
+            <ref target="#溺ほる"/>
+          </hom>
+        </entry>
+        <entry xml:id="おぼほれ">
+          <form type="pron">
+            <pron notation="kana">おぼほれ</pron>
+          </form>
+          <hom n="1" xml:id="おぼほれ.溺ほる">
             <ref target="#溺ほる"/>
           </hom>
         </entry>
@@ -48495,6 +48534,14 @@
           </form>
           <hom n="1" xml:id="くだち.降つ">
             <ref target="#降つ"/>
+          </hom>
+        </entry>
+        <entry xml:id="くだれ">
+          <form type="pron">
+            <pron notation="kana">くだれ</pron>
+          </form>
+          <hom n="1" xml:id="くだれ.下る">
+            <ref target="#下る"/>
           </hom>
         </entry>
         <entry xml:id="くだる">
@@ -51127,6 +51174,14 @@
             <ref target="#著し"/>
           </hom>
         </entry>
+        <entry xml:id="しるせ">
+          <form type="pron">
+            <pron notation="kana">しるせ</pron>
+          </form>
+          <hom n="1" xml:id="しるせ.記す">
+            <ref target="#記す"/>
+          </hom>
+        </entry>
         <entry xml:id="しるし">
           <form type="pron">
             <pron notation="kana">しるし</pron>
@@ -51441,6 +51496,14 @@
           </form>
           <hom n="1" xml:id="すぢ.筋">
             <ref target="#筋"/>
+          </hom>
+        </entry>
+        <entry xml:id="すそ">
+          <form type="pron">
+            <pron notation="kana">すそ</pron>
+          </form>
+          <hom n="1" xml:id="すそ.裾">
+            <ref target="#裾"/>
           </hom>
         </entry>
         <entry xml:id="すて">
@@ -51822,6 +51885,14 @@
             <pron notation="kana">そはる</pron>
           </form>
           <hom n="1" xml:id="そはる.添はる">
+            <ref target="#添はる"/>
+          </hom>
+        </entry>
+        <entry xml:id="そはれ">
+          <form type="pron">
+            <pron notation="kana">そはれ</pron>
+          </form>
+          <hom n="1" xml:id="そはれ.添はる">
             <ref target="#添はる"/>
           </hom>
         </entry>
@@ -52331,6 +52402,14 @@
             <ref target="#棚機女"/>
           </hom>
         </entry>
+        <entry xml:id="たなびか">
+          <form type="pron">
+            <pron notation="kana">たなびか</pron>
+          </form>
+          <hom n="1" xml:id="たなびか.棚引く">
+            <ref target="#棚引く"/>
+          </hom>
+        </entry>
         <entry xml:id="たなびき">
           <form type="pron">
             <pron notation="kana">たなびき</pron>
@@ -52779,6 +52858,14 @@
             <ref target="#近し"/>
           </hom>
         </entry>
+        <entry xml:id="ちかき">
+          <form type="pron">
+            <pron notation="kana">ちかき</pron>
+          </form>
+          <hom n="1" xml:id="ちかき.近し">
+            <ref target="#近し"/>
+          </hom>
+        </entry>
         <entry xml:id="ちかけれ">
           <form type="pron">
             <pron notation="kana">ちかけれ</pron>
@@ -53127,6 +53214,9 @@
           </form>
           <hom n="1" xml:id="つげ.告ぐ">
             <ref target="#告ぐ"/>
+          </hom>
+          <hom n="2" xml:id="つげ.継ぐ">
+            <ref target="#継ぐ"/>
           </hom>
         </entry>
         <entry xml:id="つげよ">
@@ -54283,6 +54373,9 @@
           </form>
           <hom n="1" xml:id="ながし.長し">
             <ref target="#長し"/>
+          </hom>
+          <hom n="2" xml:id="ながし.流す">
+            <ref target="#流す"/>
           </hom>
         </entry>
         <entry xml:id="ながす">
@@ -56206,6 +56299,14 @@
             <ref target="#火"/>
           </hom>
         </entry>
+        <entry xml:id="ひか">
+          <form type="pron">
+            <pron notation="kana">ひか</pron>
+          </form>
+          <hom n="1" xml:id="ひか.引く">
+            <ref target="#引く"/>
+          </hom>
+        </entry>
         <entry xml:id="ひかば">
           <form type="pron">
             <pron notation="kana">ひかば</pron>
@@ -57200,6 +57301,14 @@
             <ref target="#方"/>
           </hom>
         </entry>
+        <entry xml:id="ほえ">
+          <form type="pron">
+            <pron notation="kana">ほえ</pron>
+          </form>
+          <hom n="1" xml:id="ほえ.吠ゆ">
+            <ref target="#吠ゆ"/>
+          </hom>
+        </entry>
         <entry xml:id="ほか">
           <form type="pron">
             <pron notation="kana">ほか</pron>
@@ -57221,6 +57330,14 @@
             <pron notation="kana">ほこらし</pron>
           </form>
           <hom n="1" xml:id="ほこらし.誇らし">
+            <ref target="#誇らし"/>
+          </hom>
+        </entry>
+        <entry xml:id="ほこらしき">
+          <form type="pron">
+            <pron notation="kana">ほこらしき</pron>
+          </form>
+          <hom n="1" xml:id="ほこらしき.誇らし">
             <ref target="#誇らし"/>
           </hom>
         </entry>
@@ -57933,6 +58050,14 @@
             <ref target="#招く"/>
           </hom>
         </entry>
+        <entry xml:id="まねか">
+          <form type="pron">
+            <pron notation="kana">まねか</pron>
+          </form>
+          <hom n="1" xml:id="まねか.招く">
+            <ref target="#招く"/>
+          </hom>
+        </entry>
         <entry xml:id="まひ">
           <form type="pron">
             <pron notation="kana">まひ</pron>
@@ -57979,6 +58104,9 @@
           </form>
           <hom n="1" xml:id="まもり.守る">
             <ref target="#守る"/>
+          </hom>
+          <hom n="2" xml:id="まもり.衛る">
+            <ref target="#衛る"/>
           </hom>
         </entry>
         <entry xml:id="まもる">
@@ -58811,6 +58939,9 @@
           </form>
           <hom n="1" xml:id="むれ.群れ">
             <ref target="#群れ"/>
+          </hom>
+          <hom n="2" xml:id="むれ.群る">
+            <ref target="#群る"/>
           </hom>
         </entry>
         <entry xml:id="め">
@@ -59701,6 +59832,14 @@
             <ref target="#多し"/>
           </hom>
         </entry>
+        <entry xml:id="やよけれ">
+          <form type="pron">
+            <pron notation="kana">やよけれ</pron>
+          </form>
+          <hom n="1" xml:id="やよけれ.多し">
+            <ref target="#多し"/>
+          </hom>
+        </entry>
         <entry xml:id="やよや">
           <form type="pron">
             <pron notation="kana">やよや</pron>
@@ -59979,6 +60118,14 @@
           </form>
           <hom n="1" xml:id="よく.避く">
             <ref target="#避く"/>
+          </hom>
+        </entry>
+        <entry xml:id="よけ">
+          <form type="pron">
+            <pron notation="kana">よけ</pron>
+          </form>
+          <hom n="1" xml:id="よけ.良し">
+            <ref target="#良し"/>
           </hom>
         </entry>
         <entry xml:id="よこ">
@@ -60333,6 +60480,14 @@
             <ref target="#らる"/>
           </hom>
         </entry>
+        <entry xml:id="らるる">
+          <form type="pron">
+            <pron notation="kana">らるる</pron>
+          </form>
+          <hom n="1" xml:id="らるる.らる">
+            <ref target="#らる"/>
+          </hom>
+        </entry>
         <entry xml:id="らるれ">
           <form type="pron">
             <pron notation="kana">らるれ</pron>
@@ -60417,6 +60572,14 @@
           </form>
           <hom n="1" xml:id="わかい.若い">
             <ref target="#若い"/>
+          </hom>
+        </entry>
+        <entry xml:id="わかえ">
+          <form type="pron">
+            <pron notation="kana">わかえ</pron>
+          </form>
+          <hom n="1" xml:id="わかえ.若ゆ">
+            <ref target="#若ゆ"/>
           </hom>
         </entry>
         <entry xml:id="わかくさ">
@@ -60909,6 +61072,14 @@
             <pron notation="kana">をさをさし</pron>
           </form>
           <hom n="1" xml:id="をさをさし.長々し">
+            <ref target="#長々し"/>
+          </hom>
+        </entry>
+        <entry xml:id="をさをさく">
+          <form type="pron">
+            <pron notation="kana">をさをさく</pron>
+          </form>
+          <hom n="1" xml:id="をさをさく.長々し">
             <ref target="#長々し"/>
           </hom>
         </entry>
@@ -62038,6 +62209,18 @@
             <gram type="UniDicPosTag">名詞-普通名詞-一般</gram>
           </gramGrp>
           <sense ana="#WLSPH.1.5520"/>
+        </entry>
+        <entry xml:id="裾" type="simplex">
+          <form type="lemma">
+            <orth xml:lang="ja">裾</orth>
+            <pron notation="kana">すそ</pron>
+          </form>
+          <gramGrp>
+            <pos value="N.g">N.g</pos>
+            <gram type="UPosTag">NOUN</gram>
+            <gram type="IPAPosTag">名詞-一般</gram>
+            <gram type="UniDicPosTag">名詞-普通名詞-一般</gram>
+          </gramGrp>
         </entry>
         <entry xml:id="ず" type="simplex">
           <form type="lemma">

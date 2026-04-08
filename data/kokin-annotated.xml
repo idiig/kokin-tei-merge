@@ -3406,7 +3406,7 @@
               <w lemmaRef="#たれ.誰">誰</w>
               <w lemmaRef="#に.に">に</w>
               <w lemmaRef="#か.か">か</w>
-              <w lemmaRef="#みす.見す">見せ</w>
+              <w lemmaRef="#みせ.見す">見せ</w>
               <w lemmaRef="#む.む">む</w>
             </seg>
             <seg>
@@ -32651,7 +32651,7 @@
             <seg>
               <w lemmaRef="#きえ.消ゆ">きえ</w>
               <w lemmaRef="#な.ぬ">な</w>
-              <w lemmaRef="#なむ.なむ">らむ</w>
+              <w lemmaRef="#らむ.らむ">らむ</w>
             </seg>
             <seg>
               <w lemmaRef="#みれ.見る">見れ</w>
@@ -36281,7 +36281,8 @@
               <w lemmaRef="#かくれ.隠る">〳〵</w>
             </seg>
             <seg>
-              <w lemmaRef="#なむ.なむ">隠南</w>
+              <w lemmaRef="#かくれ.隠る">隠</w>
+              <w lemmaRef="#なむ.なむ">南</w>
             </seg>
             <seg>
               <w lemmaRef="#うき.憂し">うき</w>
@@ -54837,6 +54838,9 @@
           <hom n="1" xml:id="なむ.なむ">
             <ref target="#なむ"/>
           </hom>
+          <hom n="2" xml:id="な_む.なむ">
+            <ref target="#な_む"/>
+          </hom>
         </entry>
         <entry xml:id="なめ">
           <form type="pron">
@@ -62470,6 +62474,22 @@
           </hom>
           <sense xml:id="なむ.s1" ana="#WLSPH.3.3012"/>
           <sense xml:id="なむ.s2" ana="#WLSPH.8.0065"/>
+        </entry>
+        <entry xml:id="な_む" type="compound">
+          <form type="lemma">
+            <orth xml:lang="ja">なむ</orth>
+            <pron notation="kana">なむ</pron>
+          </form>
+          <form type="compound">
+            <ref target="#ぬ">ぬ</ref>
+            <ref target="#む">む</ref>
+          </form>
+          <gramGrp>
+            <pos value="Aux">Aux</pos>
+            <gram type="UPosTag">AUX</gram>
+            <gram type="IPAPosTag">助動詞</gram>
+            <gram type="UniDicPosTag">助動詞</gram>
+          </gramGrp>
         </entry>
         <entry xml:id="ならし" type="compound">
           <form type="lemma">

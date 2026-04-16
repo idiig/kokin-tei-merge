@@ -41,7 +41,7 @@ digraph kokin {
       <TR><TD BGCOLOR="#7aaad0"><B>&lt;note&gt;</B></TD></TR>
       <TR><TD ALIGN="LEFT">type: 詞書</TD></TR>
       <TR><TD ALIGN="LEFT">target: #n1</TD></TR>
-      <TR><TD ALIGN="LEFT">ふるとしに[app]たちける[app]よめる</TD></TR>
+      <TR><TD ALIGN="LEFT">ふるとしに[春/春の]たちける…</TD></TR>
     </TABLE>>]
 
     b_app [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="3">

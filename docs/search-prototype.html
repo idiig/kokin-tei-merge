@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>古今和歌集 全文検索</title>
+<style>
+  :root {
+    --bg:       #faf9f7;
+    --surface:  #ffffff;
+    --border:   #ddd9d0;
+    --text:     #2b2820;
+    --muted:    #7a7469;
+    --accent:   #5c4a2a;
+    --accent-h: #3e3018;
+    --pill-bg:  #f0ece4;
+    --pill-on:  #5c4a2a;
+    --pill-txt: #ffffff;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: "Hiragino Mincho ProN", "Yu Mincho", serif;
+    background: var(--bg);
+    color: var(--text);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 3rem 1rem;
+  }
+
+  h1 {
+    font-size: 1.4rem;
+    font-weight: normal;
+    letter-spacing: .15em;
+    margin-bottom: 2.5rem;
+    color: var(--accent);
+  }
+
+  .card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 2rem;
+    width: 100%;
+    max-width: 680px;
+    display: flex;
+    flex-direction: column;
+    gap: 1.6rem;
+  }
+
+  /* ── search box ── */
+  .search-row {
+    display: flex;
+    gap: .5rem;
+  }
+
+  .search-input {
+    flex: 1;
+    font-family: inherit;
+    font-size: 1.2rem;
+    letter-spacing: .05em;
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    padding: .55rem .8rem;
+    background: var(--bg);
+    color: var(--text);
+    outline: none;
+    transition: border-color .15s;
+  }
+  .search-input:focus { border-color: var(--accent); }
+
+  .btn-search {
+    font-family: inherit;
+    font-size: .9rem;
+    letter-spacing: .08em;
+    padding: .55rem 1.2rem;
+    background: var(--accent);
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background .15s;
+  }
+  .btn-search:hover { background: var(--accent-h); }
+
+  /* ── axis groups ── */
+  .axis { display: flex; flex-direction: column; gap: .6rem; }
+
+  .axis-label {
+    font-size: .75rem;
+    letter-spacing: .12em;
+    color: var(--muted);
+  }
+
+  .pills {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .4rem;
+  }
+
+  .pill {
+    display: inline-block;
+    font-family: "Hiragino Kaku Gothic ProN", "Yu Gothic", sans-serif;
+    font-size: .82rem;
+    letter-spacing: .04em;
+    padding: .35rem .85rem;
+    border-radius: 999px;
+    background: var(--pill-bg);
+    color: var(--text);
+    border: 1px solid var(--border);
+    cursor: pointer;
+    user-select: none;
+    transition: background .12s, color .12s, border-color .12s;
+  }
+  .pill:hover { border-color: var(--accent); color: var(--accent); }
+  .pill.on {
+    background: var(--pill-on);
+    color: var(--pill-txt);
+    border-color: var(--pill-on);
+  }
+
+  /* ── divider ── */
+  hr { border: none; border-top: 1px solid var(--border); }
+
+  /* ── results placeholder ── */
+  .results {
+    font-family: "Hiragino Kaku Gothic ProN", "Yu Gothic", sans-serif;
+    font-size: .85rem;
+    color: var(--muted);
+    min-height: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+</style>
+</head>
+<body>
+
+<h1>古今和歌集　語彙検索</h1>
+
+<div class="card">
+
+  <!-- search box -->
+  <div class="search-row">
+    <input class="search-input" type="text" placeholder="例：春、はる、1.1624" autofocus>
+    <button class="btn-search">検索</button>
+  </div>
+
+  <hr>
+
+  <!-- axis 1 -->
+  <div class="axis">
+    <div class="axis-label">第一軸　クエリの解釈</div>
+    <div class="pills" id="axis1">
+      <span class="pill on"  data-group="axis1">表層文字列</span>
+      <span class="pill"     data-group="axis1">読みキー</span>
+      <span class="pill"     data-group="axis1">語キー（レンマ）</span>
+      <span class="pill"     data-group="axis1">概念キー（WLSP）</span>
+    </div>
+  </div>
+
+  <!-- axis 2 -->
+  <div class="axis">
+    <div class="axis-label">第二軸　展開範囲</div>
+    <div class="pills" id="axis2">
+      <span class="pill on"  data-group="axis2">完全一致のみ</span>
+      <span class="pill"     data-group="axis2">同音語</span>
+      <span class="pill"     data-group="axis2">多義語</span>
+      <span class="pill"     data-group="axis2">同概念語</span>
+      <span class="pill"     data-group="axis2">複合語・語分解</span>
+    </div>
+  </div>
+
+  <hr>
+
+  <!-- results -->
+  <div class="results" id="results">検索語を入力してください</div>
+
+</div>
+
+<script>
+  // pill toggle (radio behaviour per group)
+  document.querySelectorAll('.pill').forEach(pill => {
+    pill.addEventListener('click', () => {
+      const group = pill.dataset.group;
+      document.querySelectorAll(`.pill[data-group="${group}"]`)
+        .forEach(p => p.classList.remove('on'));
+      pill.classList.add('on');
+    });
+  });
+</script>
+</body>
+</html>

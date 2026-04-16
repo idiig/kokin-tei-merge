@@ -162,8 +162,6 @@ digraph kokin {
       fontname="Helvetica"
       fontsize=10
 
-      ri_anc [style=invis width=0 height=0 label=""]
-
       ri_entry [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="3">
         <TR><TD BGCOLOR="#88bb77"><B>&lt;entry&gt;</B></TD></TR>
         <TR><TD ALIGN="LEFT">xml:id: はる</TD></TR>
@@ -192,8 +190,6 @@ digraph kokin {
       color="#ccaa44"
       fontname="Helvetica"
       fontsize=10
-
-      dict_anc [style=invis width=0 height=0 label=""]
 
       e_haru [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="3">
         <TR><TD BGCOLOR="#ccaa44"><B>&lt;entry&gt;</B></TD></TR>
@@ -240,8 +236,6 @@ digraph kokin {
       fontname="Helvetica"
       fontsize=10
 
-      cls_anc [style=invis width=0 height=0 label=""]
-
       wlsph [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="3">
         <TR><TD BGCOLOR="#cc8888"><B>&lt;item&gt;</B></TD></TR>
         <TR><TD ALIGN="LEFT">xml:id: WLSPH.1.1624</TD></TR>
@@ -265,8 +259,6 @@ digraph kokin {
       fontname="Helvetica"
       fontsize=10
 
-      pers_anc [style=invis width=0 height=0 label=""]
-
       person [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="3">
         <TR><TD BGCOLOR="#9977cc"><B>&lt;person&gt;</B></TD></TR>
         <TR><TD ALIGN="LEFT">xml:id: 在原元方</TD></TR>
@@ -287,8 +279,6 @@ digraph kokin {
       fontname="Helvetica"
       fontsize=10
 
-      facs_anc [style=invis width=0 height=0 label=""]
-
       surface [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="3">
         <TR><TD BGCOLOR="#bb9966"><B>&lt;surface&gt;</B></TD></TR>
         <TR><TD ALIGN="LEFT">xml:id: p001</TD></TR>
@@ -296,8 +286,8 @@ digraph kokin {
     }
   }
 
-  /* ── back sub-cluster ordering (invisible chain) ── */
-  ri_anc -> dict_anc -> cls_anc -> pers_anc -> facs_anc [style=invis weight=10]
+  /* ── back sub-cluster ordering (invisible chain between visible nodes) ── */
+  ri_entry -> e_haru -> wlsph -> person -> surface [style=invis weight=10]
 
   /* ════════════════════════════════
      CROSS-CLUSTER EDGES

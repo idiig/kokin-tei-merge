@@ -379,7 +379,7 @@
       <classDecl>
         <taxonomy xml:id="WLSPH">
           <bibl>
-            <title>分類語彙表 (Word List by Semantic Principles for Historical Japanese)</title>
+            <title>分類語彙表 (Word List by Semantic Principles for Hachidaishu)</title>
           </bibl>
         </taxonomy>
         <taxonomy xml:id="WLSP">
@@ -89943,6 +89943,4007 @@
           </item>
           <item xml:id="WLSP.9.0010">
             <label>9.0010</label>
+          </item>
+        </list>
+      </div>
+      <div type="classification" xml:id="classWLSPH">
+        <head>分類語彙表 (WLSPH — 八代集版)</head>
+        <list>
+          <item xml:id="WLSPH.1.1000">
+            <label>1.1000</label>
+            <desc>体-抽象的関係-事柄-こそあど</desc>
+          </item>
+          <item xml:id="WLSPH.1.1010">
+            <label>1.1010</label>
+            <desc>体-抽象的関係-事柄-事柄</desc>
+          </item>
+          <item xml:id="WLSPH.1.1020">
+            <label>1.1020</label>
+            <desc>体-抽象的関係-事柄-事項</desc>
+          </item>
+          <item xml:id="WLSPH.1.1030">
+            <label>1.1030</label>
+            <desc>体-抽象的関係-事柄-真・実</desc>
+          </item>
+          <item xml:id="WLSPH.1.1040">
+            <label>1.1040</label>
+            <desc>体-抽象的関係-事柄-本体</desc>
+          </item>
+          <item xml:id="WLSPH.1.1100">
+            <label>1.1100</label>
+            <desc>体-抽象的関係-類-類・例</desc>
+          </item>
+          <item xml:id="WLSPH.1.1101">
+            <label>1.1101</label>
+            <desc>体-抽象的関係-類-等級・系列</desc>
+          </item>
+          <item xml:id="WLSPH.1.1110">
+            <label>1.1110</label>
+            <desc>体-抽象的関係-類-関係</desc>
+          </item>
+          <item xml:id="WLSPH.1.1111">
+            <label>1.1111</label>
+            <desc>体-抽象的関係-類-本</desc>
+          </item>
+          <item xml:id="WLSPH.1.1112">
+            <label>1.1112</label>
+            <desc>体-抽象的関係-類-因果</desc>
+          </item>
+          <item xml:id="WLSPH.1.1113">
+            <label>1.1113</label>
+            <desc>体-抽象的関係-類-理由・目的・証拠</desc>
+          </item>
+          <item xml:id="WLSPH.1.1120">
+            <label>1.1120</label>
+            <desc>体-抽象的関係-類-異同</desc>
+          </item>
+          <item xml:id="WLSPH.1.1121">
+            <label>1.1121</label>
+            <desc>体-抽象的関係-類-類似・一致</desc>
+          </item>
+          <item xml:id="WLSPH.1.1130">
+            <label>1.1130</label>
+            <desc>体-抽象的関係-類-相対</desc>
+          </item>
+          <item xml:id="WLSPH.1.1131">
+            <label>1.1131</label>
+            <desc>体-抽象的関係-類-連絡・連結</desc>
+          </item>
+          <item xml:id="WLSPH.1.1200">
+            <label>1.1200</label>
+            <desc>体-抽象的関係-存在-有無</desc>
+          </item>
+          <item xml:id="WLSPH.1.1210">
+            <label>1.1210</label>
+            <desc>体-抽象的関係-存在-出現</desc>
+          </item>
+          <item xml:id="WLSPH.1.1211">
+            <label>1.1211</label>
+            <desc>体-抽象的関係-存在-復活・前兆・興亡</desc>
+          </item>
+          <item xml:id="WLSPH.1.1220">
+            <label>1.1220</label>
+            <desc>体-抽象的関係-存在-確立</desc>
+          </item>
+          <item xml:id="WLSPH.1.1230">
+            <label>1.1230</label>
+            <desc>体-抽象的関係-存在-成否</desc>
+          </item>
+          <item xml:id="WLSPH.1.1240">
+            <label>1.1240</label>
+            <desc>体-抽象的関係-存在-存在</desc>
+          </item>
+          <item xml:id="WLSPH.1.1241">
+            <label>1.1241</label>
+            <desc>体-抽象的関係-存在-内在</desc>
+          </item>
+          <item xml:id="WLSPH.1.1242">
+            <label>1.1242</label>
+            <desc>体-抽象的関係-存在-滞在</desc>
+          </item>
+          <item xml:id="WLSPH.1.1243">
+            <label>1.1243</label>
+            <desc>体-抽象的関係-存在-消滅</desc>
+          </item>
+          <item xml:id="WLSPH.1.1244">
+            <label>1.1244</label>
+            <desc>体-抽象的関係-存在-残存</desc>
+          </item>
+          <item xml:id="WLSPH.1.1250">
+            <label>1.1250</label>
+            <desc>体-抽象的関係-存在-保存</desc>
+          </item>
+          <item xml:id="WLSPH.1.1251">
+            <label>1.1251</label>
+            <desc>体-抽象的関係-存在-除去</desc>
+          </item>
+          <item xml:id="WLSPH.1.1300">
+            <label>1.1300</label>
+            <desc>体-抽象的関係-様相-様相</desc>
+          </item>
+          <item xml:id="WLSPH.1.1301">
+            <label>1.1301</label>
+            <desc>体-抽象的関係-抽象的関係-情勢</desc>
+          </item>
+          <item xml:id="WLSPH.1.1302">
+            <label>1.1302</label>
+            <desc>体-抽象的関係-様相-趣き</desc>
+          </item>
+          <item xml:id="WLSPH.1.1303">
+            <label>1.1303</label>
+            <desc>体-抽象的関係-様相-調子</desc>
+          </item>
+          <item xml:id="WLSPH.1.1310">
+            <label>1.1310</label>
+            <desc>体-抽象的関係-様相-風・観・姿</desc>
+          </item>
+          <item xml:id="WLSPH.1.1320">
+            <label>1.1320</label>
+            <desc>体-抽象的関係-様相-内容・組織</desc>
+          </item>
+          <item xml:id="WLSPH.1.1330">
+            <label>1.1330</label>
+            <desc>体-抽象的関係-様相-性質</desc>
+          </item>
+          <item xml:id="WLSPH.1.1331">
+            <label>1.1331</label>
+            <desc>体-抽象的関係-様相-特徴</desc>
+          </item>
+          <item xml:id="WLSPH.1.1340">
+            <label>1.1340</label>
+            <desc>体-抽象的関係-様相-調和</desc>
+          </item>
+          <item xml:id="WLSPH.1.1341">
+            <label>1.1341</label>
+            <desc>体-抽象的関係-様相-調節</desc>
+          </item>
+          <item xml:id="WLSPH.1.1342">
+            <label>1.1342</label>
+            <desc>体-抽象的関係-様相-混乱</desc>
+          </item>
+          <item xml:id="WLSPH.1.1343">
+            <label>1.1343</label>
+            <desc>体-抽象的関係-様相-是非</desc>
+          </item>
+          <item xml:id="WLSPH.1.1344">
+            <label>1.1344</label>
+            <desc>体-抽象的関係-様相-美醜・難易など</desc>
+          </item>
+          <item xml:id="WLSPH.1.1400">
+            <label>1.1400</label>
+            <desc>体-抽象的関係-力-力</desc>
+          </item>
+          <item xml:id="WLSPH.1.1401">
+            <label>1.1401</label>
+            <desc>体-抽象的関係-力-動力・圧力など</desc>
+          </item>
+          <item xml:id="WLSPH.1.1402">
+            <label>1.1402</label>
+            <desc>体-抽象的関係-力-労力・体力など</desc>
+          </item>
+          <item xml:id="WLSPH.1.1403">
+            <label>1.1403</label>
+            <desc>体-抽象的関係-力-勢い</desc>
+          </item>
+          <item xml:id="WLSPH.1.1404">
+            <label>1.1404</label>
+            <desc>体-抽象的関係-力-能力</desc>
+          </item>
+          <item xml:id="WLSPH.1.1500">
+            <label>1.1500</label>
+            <desc>体-抽象的関係-作用-作用</desc>
+          </item>
+          <item xml:id="WLSPH.1.1501">
+            <label>1.1501</label>
+            <desc>体-抽象的関係-作用-変化</desc>
+          </item>
+          <item xml:id="WLSPH.1.1502">
+            <label>1.1502</label>
+            <desc>体-抽象的関係-作用-同化・強化など</desc>
+          </item>
+          <item xml:id="WLSPH.1.1503">
+            <label>1.1503</label>
+            <desc>体-抽象的関係-作用-変換</desc>
+          </item>
+          <item xml:id="WLSPH.1.1504">
+            <label>1.1504</label>
+            <desc>体-抽象的関係-作用-改新</desc>
+          </item>
+          <item xml:id="WLSPH.1.1505">
+            <label>1.1505</label>
+            <desc>体-抽象的関係-作用-開始・終了</desc>
+          </item>
+          <item xml:id="WLSPH.1.1506">
+            <label>1.1506</label>
+            <desc>体-抽象的関係-作用-中止</desc>
+          </item>
+          <item xml:id="WLSPH.1.1507">
+            <label>1.1507</label>
+            <desc>体-抽象的関係-作用-連続</desc>
+          </item>
+          <item xml:id="WLSPH.1.1510">
+            <label>1.1510</label>
+            <desc>体-抽象的関係-作用-動き</desc>
+          </item>
+          <item xml:id="WLSPH.1.1511">
+            <label>1.1511</label>
+            <desc>体-抽象的関係-作用-回転・動揺など</desc>
+          </item>
+          <item xml:id="WLSPH.1.1512">
+            <label>1.1512</label>
+            <desc>体-抽象的関係-作用-停止</desc>
+          </item>
+          <item xml:id="WLSPH.1.1513">
+            <label>1.1513</label>
+            <desc>体-抽象的関係-作用-固定・起立・転倒など</desc>
+          </item>
+          <item xml:id="WLSPH.1.1520">
+            <label>1.1520</label>
+            <desc>体-抽象的関係-作用-過程・経路</desc>
+          </item>
+          <item xml:id="WLSPH.1.1521">
+            <label>1.1521</label>
+            <desc>体-抽象的関係-作用-移動・発着</desc>
+          </item>
+          <item xml:id="WLSPH.1.1522">
+            <label>1.1522</label>
+            <desc>体-抽象的関係-作用-通行</desc>
+          </item>
+          <item xml:id="WLSPH.1.1523">
+            <label>1.1523</label>
+            <desc>体-抽象的関係-作用-巡回・すべり・流れなど</desc>
+          </item>
+          <item xml:id="WLSPH.1.1524">
+            <label>1.1524</label>
+            <desc>体-抽象的関係-作用-通過・普及など</desc>
+          </item>
+          <item xml:id="WLSPH.1.1525">
+            <label>1.1525</label>
+            <desc>体-抽象的関係-作用-導き・追い・逃げなど</desc>
+          </item>
+          <item xml:id="WLSPH.1.1526">
+            <label>1.1526</label>
+            <desc>体-抽象的関係-作用-進退</desc>
+          </item>
+          <item xml:id="WLSPH.1.1527">
+            <label>1.1527</label>
+            <desc>体-抽象的関係-作用-上り下り</desc>
+          </item>
+          <item xml:id="WLSPH.1.1528">
+            <label>1.1528</label>
+            <desc>体-抽象的関係-作用-往来</desc>
+          </item>
+          <item xml:id="WLSPH.1.1530">
+            <label>1.1530</label>
+            <desc>体-抽象的関係-作用-出入り</desc>
+          </item>
+          <item xml:id="WLSPH.1.1531">
+            <label>1.1531</label>
+            <desc>体-抽象的関係-作用-込み</desc>
+          </item>
+          <item xml:id="WLSPH.1.1532">
+            <label>1.1532</label>
+            <desc>体-抽象的関係-作用-吸い・漏れ</desc>
+          </item>
+          <item xml:id="WLSPH.1.1533">
+            <label>1.1533</label>
+            <desc>体-抽象的関係-作用-包み・被いなど</desc>
+          </item>
+          <item xml:id="WLSPH.1.1540">
+            <label>1.1540</label>
+            <desc>体-抽象的関係-作用-上がり・下がり</desc>
+          </item>
+          <item xml:id="WLSPH.1.1541">
+            <label>1.1541</label>
+            <desc>体-抽象的関係-作用-乗り降り・浮き沈み</desc>
+          </item>
+          <item xml:id="WLSPH.1.1550">
+            <label>1.1550</label>
+            <desc>体-抽象的関係-作用-離合・集合</desc>
+          </item>
+          <item xml:id="WLSPH.1.1551">
+            <label>1.1551</label>
+            <desc>体-抽象的関係-作用-統一・組合せ</desc>
+          </item>
+          <item xml:id="WLSPH.1.1552">
+            <label>1.1552</label>
+            <desc>体-抽象的関係-作用-分離・分散</desc>
+          </item>
+          <item xml:id="WLSPH.1.1553">
+            <label>1.1553</label>
+            <desc>体-抽象的関係-作用-開閉・封</desc>
+          </item>
+          <item xml:id="WLSPH.1.1560">
+            <label>1.1560</label>
+            <desc>体-抽象的関係-作用-接触・接近</desc>
+          </item>
+          <item xml:id="WLSPH.1.1561">
+            <label>1.1561</label>
+            <desc>体-抽象的関係-作用-突き・当り・打ちなど</desc>
+          </item>
+          <item xml:id="WLSPH.1.1562">
+            <label>1.1562</label>
+            <desc>体-抽象的関係-作用-圧迫・抵抗</desc>
+          </item>
+          <item xml:id="WLSPH.1.1563">
+            <label>1.1563</label>
+            <desc>体-抽象的関係-作用-止め・防ぎ・妨げ・打破など</desc>
+          </item>
+          <item xml:id="WLSPH.1.1570">
+            <label>1.1570</label>
+            <desc>体-抽象的関係-作用-変形</desc>
+          </item>
+          <item xml:id="WLSPH.1.1571">
+            <label>1.1571</label>
+            <desc>体-抽象的関係-作用-刺し・切り・削り</desc>
+          </item>
+          <item xml:id="WLSPH.1.1572">
+            <label>1.1572</label>
+            <desc>体-抽象的関係-作用-破壊</desc>
+          </item>
+          <item xml:id="WLSPH.1.1573">
+            <label>1.1573</label>
+            <desc>体-抽象的関係-作用-排列その他</desc>
+          </item>
+          <item xml:id="WLSPH.1.1580">
+            <label>1.1580</label>
+            <desc>体-抽象的関係-作用-増減</desc>
+          </item>
+          <item xml:id="WLSPH.1.1581">
+            <label>1.1581</label>
+            <desc>体-抽象的関係-作用-引上げ・引下げなど</desc>
+          </item>
+          <item xml:id="WLSPH.1.1582">
+            <label>1.1582</label>
+            <desc>体-抽象的関係-作用-伸縮</desc>
+          </item>
+          <item xml:id="WLSPH.1.1583">
+            <label>1.1583</label>
+            <desc>体-抽象的関係-作用-増進・充実・耐久など</desc>
+          </item>
+          <item xml:id="WLSPH.1.1584">
+            <label>1.1584</label>
+            <desc>体-抽象的関係-作用-発達・消長</desc>
+          </item>
+          <item xml:id="WLSPH.1.1600">
+            <label>1.1600</label>
+            <desc>体-抽象的関係-位置・地点・場合-位置・地点・場合</desc>
+          </item>
+          <item xml:id="WLSPH.1.1610">
+            <label>1.1610</label>
+            <desc>体-抽象的関係-位置・地点・場合-時間</desc>
+          </item>
+          <item xml:id="WLSPH.1.1611">
+            <label>1.1611</label>
+            <desc>体-抽象的関係-位置・地点・場合-時機</desc>
+          </item>
+          <item xml:id="WLSPH.1.1612">
+            <label>1.1612</label>
+            <desc>体-抽象的関係-位置・地点・場合-時刻</desc>
+          </item>
+          <item xml:id="WLSPH.1.1613">
+            <label>1.1613</label>
+            <desc>体-抽象的関係-位置・地点・場合-毎日・平生</desc>
+          </item>
+          <item xml:id="WLSPH.1.1620">
+            <label>1.1620</label>
+            <desc>体-抽象的関係-位置・地点・場合-期間</desc>
+          </item>
+          <item xml:id="WLSPH.1.1621">
+            <label>1.1621</label>
+            <desc>体-抽象的関係-位置・地点・場合-永久・一生</desc>
+          </item>
+          <item xml:id="WLSPH.1.1622">
+            <label>1.1622</label>
+            <desc>体-抽象的関係-位置・地点・場合-年配</desc>
+          </item>
+          <item xml:id="WLSPH.1.1623">
+            <label>1.1623</label>
+            <desc>体-抽象的関係-位置・地点・場合-時代</desc>
+          </item>
+          <item xml:id="WLSPH.1.1624">
+            <label>1.1624</label>
+            <desc>体-抽象的関係-位置・地点・場合-季節</desc>
+          </item>
+          <item xml:id="WLSPH.1.1630">
+            <label>1.1630</label>
+            <desc>体-抽象的関係-位置・地点・場合-年</desc>
+          </item>
+          <item xml:id="WLSPH.1.1631">
+            <label>1.1631</label>
+            <desc>体-抽象的関係-位置・地点・場合-節</desc>
+          </item>
+          <item xml:id="WLSPH.1.1632">
+            <label>1.1632</label>
+            <desc>体-抽象的関係-位置・地点・場合-月</desc>
+          </item>
+          <item xml:id="WLSPH.1.1633">
+            <label>1.1633</label>
+            <desc>体-抽象的関係-位置・地点・場合-週・週日</desc>
+          </item>
+          <item xml:id="WLSPH.1.1634">
+            <label>1.1634</label>
+            <desc>体-抽象的関係-位置・地点・場合-日</desc>
+          </item>
+          <item xml:id="WLSPH.1.1635">
+            <label>1.1635</label>
+            <desc>体-抽象的関係-位置・地点・場合-朝晩</desc>
+          </item>
+          <item xml:id="WLSPH.1.1640">
+            <label>1.1640</label>
+            <desc>体-抽象的関係-位置・地点・場合-古今</desc>
+          </item>
+          <item xml:id="WLSPH.1.1641">
+            <label>1.1641</label>
+            <desc>体-抽象的関係-位置・地点・場合-現在</desc>
+          </item>
+          <item xml:id="WLSPH.1.1642">
+            <label>1.1642</label>
+            <desc>体-抽象的関係-位置・地点・場合-過去</desc>
+          </item>
+          <item xml:id="WLSPH.1.1643">
+            <label>1.1643</label>
+            <desc>体-抽象的関係-位置・地点・場合-未来</desc>
+          </item>
+          <item xml:id="WLSPH.1.1650">
+            <label>1.1650</label>
+            <desc>体-抽象的関係-位置・地点・場合-順序</desc>
+          </item>
+          <item xml:id="WLSPH.1.1651">
+            <label>1.1651</label>
+            <desc>体-抽象的関係-位置・地点・場合-終始</desc>
+          </item>
+          <item xml:id="WLSPH.1.1652">
+            <label>1.1652</label>
+            <desc>体-抽象的関係-位置・地点・場合-途中・盛り・次ぎ</desc>
+          </item>
+          <item xml:id="WLSPH.1.1660">
+            <label>1.1660</label>
+            <desc>体-抽象的関係-位置・地点・場合-新旧・遅速</desc>
+          </item>
+          <item xml:id="WLSPH.1.1670">
+            <label>1.1670</label>
+            <desc>体-抽象的関係-位置・地点・場合-前後（時間的）</desc>
+          </item>
+          <item xml:id="WLSPH.1.1671">
+            <label>1.1671</label>
+            <desc>体-抽象的関係-位置・地点・場合-翌・後日・当面など</desc>
+          </item>
+          <item xml:id="WLSPH.1.1680">
+            <label>1.1680</label>
+            <desc>体-抽象的関係-位置・地点・場合-日程・日課</desc>
+          </item>
+          <item xml:id="WLSPH.1.1700">
+            <label>1.1700</label>
+            <desc>体-抽象的関係-空間・場所-空間・場所</desc>
+          </item>
+          <item xml:id="WLSPH.1.1710">
+            <label>1.1710</label>
+            <desc>体-抽象的関係-空間・場所-点・目・許</desc>
+          </item>
+          <item xml:id="WLSPH.1.1720">
+            <label>1.1720</label>
+            <desc>体-抽象的関係-空間・場所-範囲・席・跡</desc>
+          </item>
+          <item xml:id="WLSPH.1.1721">
+            <label>1.1721</label>
+            <desc>体-抽象的関係-空間・場所-境</desc>
+          </item>
+          <item xml:id="WLSPH.1.1730">
+            <label>1.1730</label>
+            <desc>体-抽象的関係-空間・場所-方向・たてよこ</desc>
+          </item>
+          <item xml:id="WLSPH.1.1731">
+            <label>1.1731</label>
+            <desc>体-抽象的関係-空間・場所-方面・方角</desc>
+          </item>
+          <item xml:id="WLSPH.1.1740">
+            <label>1.1740</label>
+            <desc>体-抽象的関係-空間・場所-左右</desc>
+          </item>
+          <item xml:id="WLSPH.1.1741">
+            <label>1.1741</label>
+            <desc>体-抽象的関係-空間・場所-上下</desc>
+          </item>
+          <item xml:id="WLSPH.1.1742">
+            <label>1.1742</label>
+            <desc>体-抽象的関係-空間・場所-中・かみ・しも・頂・すみ</desc>
+          </item>
+          <item xml:id="WLSPH.1.1750">
+            <label>1.1750</label>
+            <desc>体-抽象的関係-空間・場所-面・側・表裏</desc>
+          </item>
+          <item xml:id="WLSPH.1.1760">
+            <label>1.1760</label>
+            <desc>体-抽象的関係-空間・場所-前後（空間的）・間・端</desc>
+          </item>
+          <item xml:id="WLSPH.1.1770">
+            <label>1.1770</label>
+            <desc>体-抽象的関係-空間・場所-内外</desc>
+          </item>
+          <item xml:id="WLSPH.1.1771">
+            <label>1.1771</label>
+            <desc>体-抽象的関係-空間・場所-奥・底・隣・陰</desc>
+          </item>
+          <item xml:id="WLSPH.1.1780">
+            <label>1.1780</label>
+            <desc>体-抽象的関係-空間・場所-ふち・そば・まわり・沿い</desc>
+          </item>
+          <item xml:id="WLSPH.1.1800">
+            <label>1.1800</label>
+            <desc>体-抽象的関係-形・型・姿・構え-形・型・姿・構え</desc>
+          </item>
+          <item xml:id="WLSPH.1.1810">
+            <label>1.1810</label>
+            <desc>体-抽象的関係-形・型・姿・構え-点・線</desc>
+          </item>
+          <item xml:id="WLSPH.1.1820">
+            <label>1.1820</label>
+            <desc>体-抽象的関係-形・型・姿・構え-角・円・三角形など</desc>
+          </item>
+          <item xml:id="WLSPH.1.1830">
+            <label>1.1830</label>
+            <desc>体-抽象的関係-形・型・姿・構え-玉・凹凸・うず・しわなど</desc>
+          </item>
+          <item xml:id="WLSPH.1.1840">
+            <label>1.1840</label>
+            <desc>体-抽象的関係-形・型・姿・構え-穴・口</desc>
+          </item>
+          <item xml:id="WLSPH.1.1850">
+            <label>1.1850</label>
+            <desc>体-抽象的関係-形・型・姿・構え-模様・目</desc>
+          </item>
+          <item xml:id="WLSPH.1.1860">
+            <label>1.1860</label>
+            <desc>体-抽象的関係-形・型・姿・構え-束・片・列・わく</desc>
+          </item>
+          <item xml:id="WLSPH.1.1900">
+            <label>1.1900</label>
+            <desc>体-抽象的関係-量-量</desc>
+          </item>
+          <item xml:id="WLSPH.1.1910">
+            <label>1.1910</label>
+            <desc>体-抽象的関係-量-数</desc>
+          </item>
+          <item xml:id="WLSPH.1.1911">
+            <label>1.1911</label>
+            <desc>体-抽象的関係-量-値・額</desc>
+          </item>
+          <item xml:id="WLSPH.1.1912">
+            <label>1.1912</label>
+            <desc>体-抽象的関係-量-整数・対数など</desc>
+          </item>
+          <item xml:id="WLSPH.1.1920">
+            <label>1.1920</label>
+            <desc>体-抽象的関係-量-長短・広狭</desc>
+          </item>
+          <item xml:id="WLSPH.1.1930">
+            <label>1.1930</label>
+            <desc>体-抽象的関係-量-角度・軽重・寒暖など</desc>
+          </item>
+          <item xml:id="WLSPH.1.1940">
+            <label>1.1940</label>
+            <desc>体-抽象的関係-量-速度</desc>
+          </item>
+          <item xml:id="WLSPH.1.1950">
+            <label>1.1950</label>
+            <desc>体-抽象的関係-量-一二三</desc>
+          </item>
+          <item xml:id="WLSPH.1.1951">
+            <label>1.1951</label>
+            <desc>体-抽象的関係-量-多少</desc>
+          </item>
+          <item xml:id="WLSPH.1.1960">
+            <label>1.1960</label>
+            <desc>体-抽象的関係-量-単位</desc>
+          </item>
+          <item xml:id="WLSPH.1.1961">
+            <label>1.1961</label>
+            <desc>体-抽象的関係-量-円・尺・坪・合・匁など</desc>
+          </item>
+          <item xml:id="WLSPH.1.1962">
+            <label>1.1962</label>
+            <desc>体-抽象的関係-量-年・時・ワット・馬力など</desc>
+          </item>
+          <item xml:id="WLSPH.1.1963">
+            <label>1.1963</label>
+            <desc>体-抽象的関係-量-割・前など</desc>
+          </item>
+          <item xml:id="WLSPH.1.1970">
+            <label>1.1970</label>
+            <desc>体-抽象的関係-量-和・差・比・率など</desc>
+          </item>
+          <item xml:id="WLSPH.1.1971">
+            <label>1.1971</label>
+            <desc>体-抽象的関係-量-合計など</desc>
+          </item>
+          <item xml:id="WLSPH.1.1972">
+            <label>1.1972</label>
+            <desc>体-抽象的関係-量-過不足</desc>
+          </item>
+          <item xml:id="WLSPH.1.1980">
+            <label>1.1980</label>
+            <desc>体-抽象的関係-量-一般・全体・部分</desc>
+          </item>
+          <item xml:id="WLSPH.1.1981">
+            <label>1.1981</label>
+            <desc>体-抽象的関係-量-群・組・対</desc>
+          </item>
+          <item xml:id="WLSPH.1.1990">
+            <label>1.1990</label>
+            <desc>体-抽象的関係-量-程度・限度</desc>
+          </item>
+          <item xml:id="WLSPH.1.2000">
+            <label>1.2000</label>
+            <desc>体-人間活動の主体-人間-われ・なれ・かれ・だれ</desc>
+          </item>
+          <item xml:id="WLSPH.1.2010">
+            <label>1.2010</label>
+            <desc>体-人間活動の主体-人間-自他</desc>
+          </item>
+          <item xml:id="WLSPH.1.2020">
+            <label>1.2020</label>
+            <desc>体-人間活動の主体-人間-人間</desc>
+          </item>
+          <item xml:id="WLSPH.1.2030">
+            <label>1.2030</label>
+            <desc>体-人間活動の主体-人間-神仏・精霊</desc>
+          </item>
+          <item xml:id="WLSPH.1.2040">
+            <label>1.2040</label>
+            <desc>体-人間活動の主体-人間-男女</desc>
+          </item>
+          <item xml:id="WLSPH.1.2050">
+            <label>1.2050</label>
+            <desc>体-人間活動の主体-人間-老少</desc>
+          </item>
+          <item xml:id="WLSPH.1.2100">
+            <label>1.2100</label>
+            <desc>体-人間活動の主体-家族-家族</desc>
+          </item>
+          <item xml:id="WLSPH.1.2110">
+            <label>1.2110</label>
+            <desc>体-人間活動の主体-家族-夫婦</desc>
+          </item>
+          <item xml:id="WLSPH.1.2120">
+            <label>1.2120</label>
+            <desc>体-人間活動の主体-家族-親・先祖</desc>
+          </item>
+          <item xml:id="WLSPH.1.2130">
+            <label>1.2130</label>
+            <desc>体-人間活動の主体-家族-子・子孫</desc>
+          </item>
+          <item xml:id="WLSPH.1.2140">
+            <label>1.2140</label>
+            <desc>体-人間活動の主体-家族-兄弟</desc>
+          </item>
+          <item xml:id="WLSPH.1.2150">
+            <label>1.2150</label>
+            <desc>体-人間活動の主体-家族-親戚</desc>
+          </item>
+          <item xml:id="WLSPH.1.2200">
+            <label>1.2200</label>
+            <desc>体-人間活動の主体-相手・仲間-相手・仲間</desc>
+          </item>
+          <item xml:id="WLSPH.1.2210">
+            <label>1.2210</label>
+            <desc>体-人間活動の主体-相手・仲間-友・なじみ</desc>
+          </item>
+          <item xml:id="WLSPH.1.2220">
+            <label>1.2220</label>
+            <desc>体-人間活動の主体-相手・仲間-主客</desc>
+          </item>
+          <item xml:id="WLSPH.1.2300">
+            <label>1.2300</label>
+            <desc>体-人間活動の主体-人種・民族-人種・民族</desc>
+          </item>
+          <item xml:id="WLSPH.1.2301">
+            <label>1.2301</label>
+            <desc>体-人間活動の主体-人種・民族-国民・住民</desc>
+          </item>
+          <item xml:id="WLSPH.1.2310">
+            <label>1.2310</label>
+            <desc>体-人間活動の主体-人種・民族-人民</desc>
+          </item>
+          <item xml:id="WLSPH.1.2320">
+            <label>1.2320</label>
+            <desc>体-人間活動の主体-人種・民族-君主</desc>
+          </item>
+          <item xml:id="WLSPH.1.2330">
+            <label>1.2330</label>
+            <desc>体-人間活動の主体-人種・民族-社会階層</desc>
+          </item>
+          <item xml:id="WLSPH.1.2340">
+            <label>1.2340</label>
+            <desc>体-人間活動の主体-人種・民族-人物</desc>
+          </item>
+          <item xml:id="WLSPH.1.2400">
+            <label>1.2400</label>
+            <desc>体-人間活動の主体-成員・職-成員・職</desc>
+          </item>
+          <item xml:id="WLSPH.1.2410">
+            <label>1.2410</label>
+            <desc>体-人間活動の主体-成員・職-専門的・技術的職業</desc>
+          </item>
+          <item xml:id="WLSPH.1.2411">
+            <label>1.2411</label>
+            <desc>体-人間活動の主体-成員・職-支配的・管理的・書記的職業</desc>
+          </item>
+          <item xml:id="WLSPH.1.2412">
+            <label>1.2412</label>
+            <desc>体-人間活動の主体-成員・職-販売など</desc>
+          </item>
+          <item xml:id="WLSPH.1.2413">
+            <label>1.2413</label>
+            <desc>体-人間活動の主体-成員・職-農・漁・猟・伐木</desc>
+          </item>
+          <item xml:id="WLSPH.1.2415">
+            <label>1.2415</label>
+            <desc>体-人間活動の主体-成員・職-運輸</desc>
+          </item>
+          <item xml:id="WLSPH.1.2416">
+            <label>1.2416</label>
+            <desc>体-人間活動の主体-成員・職-生産工程</desc>
+          </item>
+          <item xml:id="WLSPH.1.2417">
+            <label>1.2417</label>
+            <desc>体-人間活動の主体-成員・職-保安サービス</desc>
+          </item>
+          <item xml:id="WLSPH.1.2418">
+            <label>1.2418</label>
+            <desc>体-人間活動の主体-成員・職-サービス</desc>
+          </item>
+          <item xml:id="WLSPH.1.2419">
+            <label>1.2419</label>
+            <desc>体-人間活動の主体-成員・職-反社会的職業</desc>
+          </item>
+          <item xml:id="WLSPH.1.2420">
+            <label>1.2420</label>
+            <desc>体-人間活動の主体-成員・職-軍人</desc>
+          </item>
+          <item xml:id="WLSPH.1.2430">
+            <label>1.2430</label>
+            <desc>体-人間活動の主体-成員・職-長</desc>
+          </item>
+          <item xml:id="WLSPH.1.2440">
+            <label>1.2440</label>
+            <desc>体-人間活動の主体-成員・職-相対的地位</desc>
+          </item>
+          <item xml:id="WLSPH.1.2450">
+            <label>1.2450</label>
+            <desc>体-人間活動の主体-成員・職-臨時的地位（役・役員）</desc>
+          </item>
+          <item xml:id="WLSPH.1.2451">
+            <label>1.2451</label>
+            <desc>体-人間活動の主体-成員・職-（作者・仕手・主役・観客など）</desc>
+          </item>
+          <item xml:id="WLSPH.1.2452">
+            <label>1.2452</label>
+            <desc>体-人間活動の主体-成員・職-（被告・仲人・審判・使者・持主など）</desc>
+          </item>
+          <item xml:id="WLSPH.1.2500">
+            <label>1.2500</label>
+            <desc>体-人間活動の主体-公私-公私</desc>
+          </item>
+          <item xml:id="WLSPH.1.2510">
+            <label>1.2510</label>
+            <desc>体-人間活動の主体-公私-家</desc>
+          </item>
+          <item xml:id="WLSPH.1.2520">
+            <label>1.2520</label>
+            <desc>体-人間活動の主体-公私-郷里</desc>
+          </item>
+          <item xml:id="WLSPH.1.2530">
+            <label>1.2530</label>
+            <desc>体-人間活動の主体-公私-国</desc>
+          </item>
+          <item xml:id="WLSPH.1.2540">
+            <label>1.2540</label>
+            <desc>体-人間活動の主体-公私-都市・集落</desc>
+          </item>
+          <item xml:id="WLSPH.1.2550">
+            <label>1.2550</label>
+            <desc>体-人間活動の主体-公私-政治的区画</desc>
+          </item>
+          <item xml:id="WLSPH.1.2590">
+            <label>1.2590</label>
+            <desc>体-人間活動の主体-公私-固有地名</desc>
+          </item>
+          <item xml:id="WLSPH.1.2600">
+            <label>1.2600</label>
+            <desc>体-人間活動の主体-社会-社会</desc>
+          </item>
+          <item xml:id="WLSPH.1.2610">
+            <label>1.2610</label>
+            <desc>体-人間活動の主体-社会-社会分野</desc>
+          </item>
+          <item xml:id="WLSPH.1.2620">
+            <label>1.2620</label>
+            <desc>体-人間活動の主体-社会-現場</desc>
+          </item>
+          <item xml:id="WLSPH.1.2630">
+            <label>1.2630</label>
+            <desc>体-人間活動の主体-社会-社寺・学校</desc>
+          </item>
+          <item xml:id="WLSPH.1.2640">
+            <label>1.2640</label>
+            <desc>体-人間活動の主体-社会-事務所・市場・駅など</desc>
+          </item>
+          <item xml:id="WLSPH.1.2650">
+            <label>1.2650</label>
+            <desc>体-人間活動の主体-社会-店・旅館・病院・劇場など</desc>
+          </item>
+          <item xml:id="WLSPH.1.2660">
+            <label>1.2660</label>
+            <desc>体-人間活動の主体-社会-宅・宿・教室など</desc>
+          </item>
+          <item xml:id="WLSPH.1.2700">
+            <label>1.2700</label>
+            <desc>体-人間活動の主体-機関-機関</desc>
+          </item>
+          <item xml:id="WLSPH.1.2710">
+            <label>1.2710</label>
+            <desc>体-人間活動の主体-機関-政府機関</desc>
+          </item>
+          <item xml:id="WLSPH.1.2720">
+            <label>1.2720</label>
+            <desc>体-人間活動の主体-機関-公共機関</desc>
+          </item>
+          <item xml:id="WLSPH.1.2730">
+            <label>1.2730</label>
+            <desc>体-人間活動の主体-機関-議会</desc>
+          </item>
+          <item xml:id="WLSPH.1.2740">
+            <label>1.2740</label>
+            <desc>体-人間活動の主体-機関-軍</desc>
+          </item>
+          <item xml:id="WLSPH.1.2750">
+            <label>1.2750</label>
+            <desc>体-人間活動の主体-機関-国際機構</desc>
+          </item>
+          <item xml:id="WLSPH.1.2800">
+            <label>1.2800</label>
+            <desc>体-人間活動の主体-同盟・団体-同盟・団体</desc>
+          </item>
+          <item xml:id="WLSPH.1.2810">
+            <label>1.2810</label>
+            <desc>体-人間活動の主体-同盟・団体-クラス</desc>
+          </item>
+          <item xml:id="WLSPH.1.2820">
+            <label>1.2820</label>
+            <desc>体-人間活動の主体-同盟・団体-閥</desc>
+          </item>
+          <item xml:id="WLSPH.1.3000">
+            <label>1.3000</label>
+            <desc>体-人間活動、精神および行為-心-心</desc>
+          </item>
+          <item xml:id="WLSPH.1.3001">
+            <label>1.3001</label>
+            <desc>体-人間活動、精神および行為-心-感覚</desc>
+          </item>
+          <item xml:id="WLSPH.1.3002">
+            <label>1.3002</label>
+            <desc>体-人間活動、精神および行為-心-疲労・睡眠など</desc>
+          </item>
+          <item xml:id="WLSPH.1.3003">
+            <label>1.3003</label>
+            <desc>体-人間活動、精神および行為-心-性情</desc>
+          </item>
+          <item xml:id="WLSPH.1.3004">
+            <label>1.3004</label>
+            <desc>体-人間活動、精神および行為-心-感情・気分</desc>
+          </item>
+          <item xml:id="WLSPH.1.3010">
+            <label>1.3010</label>
+            <desc>体-人間活動、精神および行為-心-快・驚き・喜びなど</desc>
+          </item>
+          <item xml:id="WLSPH.1.3011">
+            <label>1.3011</label>
+            <desc>体-人間活動、精神および行為-心-苦悩・悲哀・恐れ・怒りなど</desc>
+          </item>
+          <item xml:id="WLSPH.1.3012">
+            <label>1.3012</label>
+            <desc>体-人間活動、精神および行為-心-安心・焦燥・満足など</desc>
+          </item>
+          <item xml:id="WLSPH.1.3020">
+            <label>1.3020</label>
+            <desc>体-人間活動、精神および行為-心-対人感情（好悪など）</desc>
+          </item>
+          <item xml:id="WLSPH.1.3021">
+            <label>1.3021</label>
+            <desc>体-人間活動、精神および行為-心-対人感情（敬意・信頼など）</desc>
+          </item>
+          <item xml:id="WLSPH.1.3030">
+            <label>1.3030</label>
+            <desc>体-人間活動、精神および行為-心-表情（顔つき・泣き笑いなど）</desc>
+          </item>
+          <item xml:id="WLSPH.1.3031">
+            <label>1.3031</label>
+            <desc>体-人間活動、精神および行為-心-声</desc>
+          </item>
+          <item xml:id="WLSPH.1.3040">
+            <label>1.3040</label>
+            <desc>体-人間活動、精神および行為-心-自我・信念・努力・忍耐など</desc>
+          </item>
+          <item xml:id="WLSPH.1.3041">
+            <label>1.3041</label>
+            <desc>体-人間活動、精神および行為-心-自信・名誉・勇気など</desc>
+          </item>
+          <item xml:id="WLSPH.1.3042">
+            <label>1.3042</label>
+            <desc>体-人間活動、精神および行為-心-欲望・期待など</desc>
+          </item>
+          <item xml:id="WLSPH.1.3043">
+            <label>1.3043</label>
+            <desc>体-人間活動、精神および行為-心-願望・覚悟・祝賀など</desc>
+          </item>
+          <item xml:id="WLSPH.1.3044">
+            <label>1.3044</label>
+            <desc>体-人間活動、精神および行為-心-態度・反省など</desc>
+          </item>
+          <item xml:id="WLSPH.1.3045">
+            <label>1.3045</label>
+            <desc>体-人間活動、精神および行為-心-意志</desc>
+          </item>
+          <item xml:id="WLSPH.1.3046">
+            <label>1.3046</label>
+            <desc>体-人間活動、精神および行為-心-誠・徳・義・信・恩など</desc>
+          </item>
+          <item xml:id="WLSPH.1.3047">
+            <label>1.3047</label>
+            <desc>体-人間活動、精神および行為-心-信仰・宗教</desc>
+          </item>
+          <item xml:id="WLSPH.1.3050">
+            <label>1.3050</label>
+            <desc>体-人間活動、精神および行為-心-練習・まね・学習</desc>
+          </item>
+          <item xml:id="WLSPH.1.3051">
+            <label>1.3051</label>
+            <desc>体-人間活動、精神および行為-心-習慣・記憶・記念</desc>
+          </item>
+          <item xml:id="WLSPH.1.3060">
+            <label>1.3060</label>
+            <desc>体-人間活動、精神および行為-心-知識・意見など</desc>
+          </item>
+          <item xml:id="WLSPH.1.3061">
+            <label>1.3061</label>
+            <desc>体-人間活動、精神および行為-心-思考・感想・疑い</desc>
+          </item>
+          <item xml:id="WLSPH.1.3062">
+            <label>1.3062</label>
+            <desc>体-人間活動、精神および行為-心-注意・認識・了解</desc>
+          </item>
+          <item xml:id="WLSPH.1.3063">
+            <label>1.3063</label>
+            <desc>体-人間活動、精神および行為-心-比較・区別・選択・参考</desc>
+          </item>
+          <item xml:id="WLSPH.1.3064">
+            <label>1.3064</label>
+            <desc>体-人間活動、精神および行為-心-計算・しんしゃく・測定・評価</desc>
+          </item>
+          <item xml:id="WLSPH.1.3065">
+            <label>1.3065</label>
+            <desc>体-人間活動、精神および行為-心-研究・実験・調査・検査など</desc>
+          </item>
+          <item xml:id="WLSPH.1.3066">
+            <label>1.3066</label>
+            <desc>体-人間活動、精神および行為-心-想像・推測・判断・決心など</desc>
+          </item>
+          <item xml:id="WLSPH.1.3067">
+            <label>1.3067</label>
+            <desc>体-人間活動、精神および行為-心-解決・決定・きまり</desc>
+          </item>
+          <item xml:id="WLSPH.1.3068">
+            <label>1.3068</label>
+            <desc>体-人間活動、精神および行為-心-承認・肯定など</desc>
+          </item>
+          <item xml:id="WLSPH.1.3070">
+            <label>1.3070</label>
+            <desc>体-人間活動、精神および行為-心-意味・問題・趣旨・大綱など</desc>
+          </item>
+          <item xml:id="WLSPH.1.3071">
+            <label>1.3071</label>
+            <desc>体-人間活動、精神および行為-心-話題・概念など</desc>
+          </item>
+          <item xml:id="WLSPH.1.3072">
+            <label>1.3072</label>
+            <desc>体-人間活動、精神および行為-心-論理・うそ・誤り・訂正など</desc>
+          </item>
+          <item xml:id="WLSPH.1.3073">
+            <label>1.3073</label>
+            <desc>体-人間活動、精神および行為-心-証明・裏付け</desc>
+          </item>
+          <item xml:id="WLSPH.1.3074">
+            <label>1.3074</label>
+            <desc>体-人間活動、精神および行為-心-学問・学科</desc>
+          </item>
+          <item xml:id="WLSPH.1.3075">
+            <label>1.3075</label>
+            <desc>体-人間活動、精神および行為-心-説・論</desc>
+          </item>
+          <item xml:id="WLSPH.1.3080">
+            <label>1.3080</label>
+            <desc>体-人間活動、精神および行為-心-原理・規則・主義など</desc>
+          </item>
+          <item xml:id="WLSPH.1.3081">
+            <label>1.3081</label>
+            <desc>体-人間活動、精神および行為-心-方法</desc>
+          </item>
+          <item xml:id="WLSPH.1.3082">
+            <label>1.3082</label>
+            <desc>体-人間活動、精神および行為-心-制度・慣例</desc>
+          </item>
+          <item xml:id="WLSPH.1.3083">
+            <label>1.3083</label>
+            <desc>体-人間活動、精神および行為-心-見当・準備</desc>
+          </item>
+          <item xml:id="WLSPH.1.3084">
+            <label>1.3084</label>
+            <desc>体-人間活動、精神および行為-心-計画・案</desc>
+          </item>
+          <item xml:id="WLSPH.1.3090">
+            <label>1.3090</label>
+            <desc>体-人間活動、精神および行為-心-見聞・見・観・覧など.見聞・視聴</desc>
+          </item>
+          <item xml:id="WLSPH.1.3091">
+            <label>1.3091</label>
+            <desc>体-人間活動、精神および行為-心-見聞・見・観・覧など.観・覧</desc>
+          </item>
+          <item xml:id="WLSPH.1.3092">
+            <label>1.3092</label>
+            <desc>体-人間活動、精神および行為-心-視・察・番など</desc>
+          </item>
+          <item xml:id="WLSPH.1.3093">
+            <label>1.3093</label>
+            <desc>体-人間活動、精神および行為-心-呈示・指定など</desc>
+          </item>
+          <item xml:id="WLSPH.1.3094">
+            <label>1.3094</label>
+            <desc>体-人間活動、精神および行為-心-聞き</desc>
+          </item>
+          <item xml:id="WLSPH.1.3100">
+            <label>1.3100</label>
+            <desc>体-人間活動、精神および行為-言動・言語-言動・言語(1)</desc>
+          </item>
+          <item xml:id="WLSPH.1.3101">
+            <label>1.3101</label>
+            <desc>体-人間活動、精神および行為-言動・言語-言動・言語(2)</desc>
+          </item>
+          <item xml:id="WLSPH.1.3102">
+            <label>1.3102</label>
+            <desc>体-人間活動、精神および行為-言動・言語-名</desc>
+          </item>
+          <item xml:id="WLSPH.1.3103">
+            <label>1.3103</label>
+            <desc>体-人間活動、精神および行為-言動・言語-表現・叙述・翻訳</desc>
+          </item>
+          <item xml:id="WLSPH.1.3110">
+            <label>1.3110</label>
+            <desc>体-人間活動、精神および行為-言動・言語-語</desc>
+          </item>
+          <item xml:id="WLSPH.1.3111">
+            <label>1.3111</label>
+            <desc>体-人間活動、精神および行為-言動・言語-文法</desc>
+          </item>
+          <item xml:id="WLSPH.1.3112">
+            <label>1.3112</label>
+            <desc>体-人間活動、精神および行為-言動・言語-音韻</desc>
+          </item>
+          <item xml:id="WLSPH.1.3113">
+            <label>1.3113</label>
+            <desc>体-人間活動、精神および行為-言動・言語-文字</desc>
+          </item>
+          <item xml:id="WLSPH.1.3114">
+            <label>1.3114</label>
+            <desc>体-人間活動、精神および行為-言動・言語-符号</desc>
+          </item>
+          <item xml:id="WLSPH.1.3115">
+            <label>1.3115</label>
+            <desc>体-人間活動、精神および行為-言動・言語-表・図・譜・式</desc>
+          </item>
+          <item xml:id="WLSPH.1.3120">
+            <label>1.3120</label>
+            <desc>体-人間活動、精神および行為-言動・言語-発言・沈黙</desc>
+          </item>
+          <item xml:id="WLSPH.1.3121">
+            <label>1.3121</label>
+            <desc>体-人間活動、精神および行為-言動・言語-合図・あいさつ</desc>
+          </item>
+          <item xml:id="WLSPH.1.3122">
+            <label>1.3122</label>
+            <desc>体-人間活動、精神および行為-言動・言語-通信</desc>
+          </item>
+          <item xml:id="WLSPH.1.3123">
+            <label>1.3123</label>
+            <desc>体-人間活動、精神および行為-言動・言語-伝達・報知</desc>
+          </item>
+          <item xml:id="WLSPH.1.3130">
+            <label>1.3130</label>
+            <desc>体-人間活動、精神および行為-言動・言語-話</desc>
+          </item>
+          <item xml:id="WLSPH.1.3131">
+            <label>1.3131</label>
+            <desc>体-人間活動、精神および行為-言動・言語-談話</desc>
+          </item>
+          <item xml:id="WLSPH.1.3132">
+            <label>1.3132</label>
+            <desc>体-人間活動、精神および行為-言動・言語-問答</desc>
+          </item>
+          <item xml:id="WLSPH.1.3133">
+            <label>1.3133</label>
+            <desc>体-人間活動、精神および行為-言動・言語-会議・論議</desc>
+          </item>
+          <item xml:id="WLSPH.1.3134">
+            <label>1.3134</label>
+            <desc>体-人間活動、精神および行為-言動・言語-批評・弁解</desc>
+          </item>
+          <item xml:id="WLSPH.1.3135">
+            <label>1.3135</label>
+            <desc>体-人間活動、精神および行為-言動・言語-言論</desc>
+          </item>
+          <item xml:id="WLSPH.1.3136">
+            <label>1.3136</label>
+            <desc>体-人間活動、精神および行為-言動・言語-説明</desc>
+          </item>
+          <item xml:id="WLSPH.1.3140">
+            <label>1.3140</label>
+            <desc>体-人間活動、精神および行為-言動・言語-宣言・発表</desc>
+          </item>
+          <item xml:id="WLSPH.1.3141">
+            <label>1.3141</label>
+            <desc>体-人間活動、精神および行為-言動・言語-報告・申告</desc>
+          </item>
+          <item xml:id="WLSPH.1.3142">
+            <label>1.3142</label>
+            <desc>体-人間活動、精神および行為-言動・言語-うわさ</desc>
+          </item>
+          <item xml:id="WLSPH.1.3150">
+            <label>1.3150</label>
+            <desc>体-人間活動、精神および行為-言動・言語-読み書き・読み</desc>
+          </item>
+          <item xml:id="WLSPH.1.3151">
+            <label>1.3151</label>
+            <desc>体-人間活動、精神および行為-言動・言語-書き</desc>
+          </item>
+          <item xml:id="WLSPH.1.3152">
+            <label>1.3152</label>
+            <desc>体-人間活動、精神および行為-言動・言語-記載</desc>
+          </item>
+          <item xml:id="WLSPH.1.3153">
+            <label>1.3153</label>
+            <desc>体-人間活動、精神および行為-言動・言語-記名など</desc>
+          </item>
+          <item xml:id="WLSPH.1.3154">
+            <label>1.3154</label>
+            <desc>体-人間活動、精神および行為-言動・言語-文章</desc>
+          </item>
+          <item xml:id="WLSPH.1.3155">
+            <label>1.3155</label>
+            <desc>体-人間活動、精神および行為-言動・言語-文書</desc>
+          </item>
+          <item xml:id="WLSPH.1.3160">
+            <label>1.3160</label>
+            <desc>体-人間活動、精神および行為-言動・言語-文献・図書</desc>
+          </item>
+          <item xml:id="WLSPH.1.3161">
+            <label>1.3161</label>
+            <desc>体-人間活動、精神および行為-言動・言語-教科書・古典・集・新聞雑誌</desc>
+          </item>
+          <item xml:id="WLSPH.1.3162">
+            <label>1.3162</label>
+            <desc>体-人間活動、精神および行為-言動・言語-辞書・目録・暦</desc>
+          </item>
+          <item xml:id="WLSPH.1.3200">
+            <label>1.3200</label>
+            <desc>体-人間活動、精神および行為-創作・著述-創作・著述</desc>
+          </item>
+          <item xml:id="WLSPH.1.3210">
+            <label>1.3210</label>
+            <desc>体-人間活動、精神および行為-創作・著述-芸術・文芸</desc>
+          </item>
+          <item xml:id="WLSPH.1.3220">
+            <label>1.3220</label>
+            <desc>体-人間活動、精神および行為-美術</desc>
+          </item>
+          <item xml:id="WLSPH.1.3230">
+            <label>1.3230</label>
+            <desc>体-人間活動、精神および行為-音楽（曲）</desc>
+          </item>
+          <item xml:id="WLSPH.1.3231">
+            <label>1.3231</label>
+            <desc>体-人間活動、精神および行為-音楽（演奏）</desc>
+          </item>
+          <item xml:id="WLSPH.1.3240">
+            <label>1.3240</label>
+            <desc>体-人間活動、精神および行為-演劇・映画</desc>
+          </item>
+          <item xml:id="WLSPH.1.3300">
+            <label>1.3300</label>
+            <desc>体-人間活動、精神および行為-文化・歴史・風俗</desc>
+          </item>
+          <item xml:id="WLSPH.1.3310">
+            <label>1.3310</label>
+            <desc>体-人間活動、精神および行為-人生・祝福</desc>
+          </item>
+          <item xml:id="WLSPH.1.3311">
+            <label>1.3311</label>
+            <desc>体-人間活動、精神および行為-処世</desc>
+          </item>
+          <item xml:id="WLSPH.1.3312">
+            <label>1.3312</label>
+            <desc>体-人間活動、精神および行為-出処進退</desc>
+          </item>
+          <item xml:id="WLSPH.1.3320">
+            <label>1.3320</label>
+            <desc>体-人間活動、精神および行為-勤務・労働</desc>
+          </item>
+          <item xml:id="WLSPH.1.3330">
+            <label>1.3330</label>
+            <desc>体-人間活動、精神および行為-生活</desc>
+          </item>
+          <item xml:id="WLSPH.1.3331">
+            <label>1.3331</label>
+            <desc>体-人間活動、精神および行為-住</desc>
+          </item>
+          <item xml:id="WLSPH.1.3332">
+            <label>1.3332</label>
+            <desc>体-人間活動、精神および行為-食</desc>
+          </item>
+          <item xml:id="WLSPH.1.3333">
+            <label>1.3333</label>
+            <desc>体-人間活動、精神および行為-衣</desc>
+          </item>
+          <item xml:id="WLSPH.1.3334">
+            <label>1.3334</label>
+            <desc>体-人間活動、精神および行為-保健・衛生</desc>
+          </item>
+          <item xml:id="WLSPH.1.3340">
+            <label>1.3340</label>
+            <desc>体-人間活動、精神および行為-学事・兵事</desc>
+          </item>
+          <item xml:id="WLSPH.1.3350">
+            <label>1.3350</label>
+            <desc>体-人間活動、精神および行為-慶弔</desc>
+          </item>
+          <item xml:id="WLSPH.1.3360">
+            <label>1.3360</label>
+            <desc>体-人間活動、精神および行為-祭儀・式・宗教的行為</desc>
+          </item>
+          <item xml:id="WLSPH.1.3370">
+            <label>1.3370</label>
+            <desc>体-人間活動、精神および行為-遊楽</desc>
+          </item>
+          <item xml:id="WLSPH.1.3371">
+            <label>1.3371</label>
+            <desc>体-人間活動、精神および行為-旅・行楽</desc>
+          </item>
+          <item xml:id="WLSPH.1.3372">
+            <label>1.3372</label>
+            <desc>体-人間活動、精神および行為-芸</desc>
+          </item>
+          <item xml:id="WLSPH.1.3373">
+            <label>1.3373</label>
+            <desc>体-人間活動、精神および行為-遊び</desc>
+          </item>
+          <item xml:id="WLSPH.1.3374">
+            <label>1.3374</label>
+            <desc>体-人間活動、精神および行為-スポーツ</desc>
+          </item>
+          <item xml:id="WLSPH.1.3380">
+            <label>1.3380</label>
+            <desc>体-人間活動、精神および行為-騒ぎ</desc>
+          </item>
+          <item xml:id="WLSPH.1.3390">
+            <label>1.3390</label>
+            <desc>体-人間活動、精神および行為-身振り</desc>
+          </item>
+          <item xml:id="WLSPH.1.3391">
+            <label>1.3391</label>
+            <desc>体-人間活動、精神および行為-立ち居</desc>
+          </item>
+          <item xml:id="WLSPH.1.3392">
+            <label>1.3392</label>
+            <desc>体-人間活動、精神および行為-足の動作</desc>
+          </item>
+          <item xml:id="WLSPH.1.3393">
+            <label>1.3393</label>
+            <desc>体-人間活動、精神および行為-手の動作</desc>
+          </item>
+          <item xml:id="WLSPH.1.3394">
+            <label>1.3394</label>
+            <desc>体-人間活動、精神および行為-口の動作</desc>
+          </item>
+          <item xml:id="WLSPH.1.3400">
+            <label>1.3400</label>
+            <desc>体-人間活動、精神および行為-義務</desc>
+          </item>
+          <item xml:id="WLSPH.1.3401">
+            <label>1.3401</label>
+            <desc>体-人間活動、精神および行為-権利</desc>
+          </item>
+          <item xml:id="WLSPH.1.3410">
+            <label>1.3410</label>
+            <desc>体-人間活動、精神および行為-身上</desc>
+          </item>
+          <item xml:id="WLSPH.1.3420">
+            <label>1.3420</label>
+            <desc>体-人間活動、精神および行為-人柄</desc>
+          </item>
+          <item xml:id="WLSPH.1.3421">
+            <label>1.3421</label>
+            <desc>体-人間活動、精神および行為-才能</desc>
+          </item>
+          <item xml:id="WLSPH.1.3422">
+            <label>1.3422</label>
+            <desc>体-人間活動、精神および行為-威厳・行儀・人望など</desc>
+          </item>
+          <item xml:id="WLSPH.1.3430">
+            <label>1.3430</label>
+            <desc>体-人間活動、精神および行為-行為</desc>
+          </item>
+          <item xml:id="WLSPH.1.3440">
+            <label>1.3440</label>
+            <desc>体-人間活動、精神および行為-実行・犯罪</desc>
+          </item>
+          <item xml:id="WLSPH.1.3450">
+            <label>1.3450</label>
+            <desc>体-人間活動、精神および行為-活動</desc>
+          </item>
+          <item xml:id="WLSPH.1.3460">
+            <label>1.3460</label>
+            <desc>体-人間活動、精神および行為-用事</desc>
+          </item>
+          <item xml:id="WLSPH.1.3470">
+            <label>1.3470</label>
+            <desc>体-人間活動、精神および行為-成功・失敗</desc>
+          </item>
+          <item xml:id="WLSPH.1.3480">
+            <label>1.3480</label>
+            <desc>体-人間活動、精神および行為-成績</desc>
+          </item>
+          <item xml:id="WLSPH.1.3500">
+            <label>1.3500</label>
+            <desc>体-人間活動、精神および行為-交わり</desc>
+          </item>
+          <item xml:id="WLSPH.1.3501">
+            <label>1.3501</label>
+            <desc>体-人間活動、精神および行為-争い</desc>
+          </item>
+          <item xml:id="WLSPH.1.3510">
+            <label>1.3510</label>
+            <desc>体-人間活動、精神および行為-集会</desc>
+          </item>
+          <item xml:id="WLSPH.1.3511">
+            <label>1.3511</label>
+            <desc>体-人間活動、精神および行為-出欠</desc>
+          </item>
+          <item xml:id="WLSPH.1.3520">
+            <label>1.3520</label>
+            <desc>体-人間活動、精神および行為-対面・訪れ・招き</desc>
+          </item>
+          <item xml:id="WLSPH.1.3521">
+            <label>1.3521</label>
+            <desc>体-人間活動、精神および行為-応援・送迎</desc>
+          </item>
+          <item xml:id="WLSPH.1.3523">
+            <label>1.3523</label>
+            <desc>体-人間活動、精神および行為-紹介・周旋</desc>
+          </item>
+          <item xml:id="WLSPH.1.3530">
+            <label>1.3530</label>
+            <desc>体-人間活動、精神および行為-約束</desc>
+          </item>
+          <item xml:id="WLSPH.1.3531">
+            <label>1.3531</label>
+            <desc>体-人間活動、精神および行為-交渉</desc>
+          </item>
+          <item xml:id="WLSPH.1.3532">
+            <label>1.3532</label>
+            <desc>体-人間活動、精神および行為-賛成・許容</desc>
+          </item>
+          <item xml:id="WLSPH.1.3540">
+            <label>1.3540</label>
+            <desc>体-人間活動、精神および行為-協力・参加</desc>
+          </item>
+          <item xml:id="WLSPH.1.3541">
+            <label>1.3541</label>
+            <desc>体-人間活動、精神および行為-奉仕</desc>
+          </item>
+          <item xml:id="WLSPH.1.3550">
+            <label>1.3550</label>
+            <desc>体-人間活動、精神および行為-平和</desc>
+          </item>
+          <item xml:id="WLSPH.1.3551">
+            <label>1.3551</label>
+            <desc>体-人間活動、精神および行為-競争・戦争</desc>
+          </item>
+          <item xml:id="WLSPH.1.3560">
+            <label>1.3560</label>
+            <desc>体-人間活動、精神および行為-攻防</desc>
+          </item>
+          <item xml:id="WLSPH.1.3570">
+            <label>1.3570</label>
+            <desc>体-人間活動、精神および行為-勝敗</desc>
+          </item>
+          <item xml:id="WLSPH.1.3580">
+            <label>1.3580</label>
+            <desc>体-人間活動、精神および行為-軍事</desc>
+          </item>
+          <item xml:id="WLSPH.1.3600">
+            <label>1.3600</label>
+            <desc>体-人間活動、精神および行為-支配・政治・革命</desc>
+          </item>
+          <item xml:id="WLSPH.1.3610">
+            <label>1.3610</label>
+            <desc>体-人間活動、精神および行為-国務</desc>
+          </item>
+          <item xml:id="WLSPH.1.3611">
+            <label>1.3611</label>
+            <desc>体-人間活動、精神および行為-裁判</desc>
+          </item>
+          <item xml:id="WLSPH.1.3612">
+            <label>1.3612</label>
+            <desc>体-人間活動、精神および行為-刑</desc>
+          </item>
+          <item xml:id="WLSPH.1.3613">
+            <label>1.3613</label>
+            <desc>体-人間活動、精神および行為-捕縛・釈放</desc>
+          </item>
+          <item xml:id="WLSPH.1.3620">
+            <label>1.3620</label>
+            <desc>体-人間活動、精神および行為-設立・運営</desc>
+          </item>
+          <item xml:id="WLSPH.1.3630">
+            <label>1.3630</label>
+            <desc>体-人間活動、精神および行為-人事</desc>
+          </item>
+          <item xml:id="WLSPH.1.3640">
+            <label>1.3640</label>
+            <desc>体-人間活動、精神および行為-教育</desc>
+          </item>
+          <item xml:id="WLSPH.1.3641">
+            <label>1.3641</label>
+            <desc>体-人間活動、精神および行為-訓諭</desc>
+          </item>
+          <item xml:id="WLSPH.1.3642">
+            <label>1.3642</label>
+            <desc>体-人間活動、精神および行為-養成</desc>
+          </item>
+          <item xml:id="WLSPH.1.3650">
+            <label>1.3650</label>
+            <desc>体-人間活動、精神および行為-救護・世話</desc>
+          </item>
+          <item xml:id="WLSPH.1.3660">
+            <label>1.3660</label>
+            <desc>体-人間活動、精神および行為-請求</desc>
+          </item>
+          <item xml:id="WLSPH.1.3670">
+            <label>1.3670</label>
+            <desc>体-人間活動、精神および行為-命令・制約</desc>
+          </item>
+          <item xml:id="WLSPH.1.3680">
+            <label>1.3680</label>
+            <desc>体-人間活動、精神および行為-待遇</desc>
+          </item>
+          <item xml:id="WLSPH.1.3681">
+            <label>1.3681</label>
+            <desc>体-人間活動、精神および行為-礼</desc>
+          </item>
+          <item xml:id="WLSPH.1.3682">
+            <label>1.3682</label>
+            <desc>体-人間活動、精神および行為-賞罰</desc>
+          </item>
+          <item xml:id="WLSPH.1.3683">
+            <label>1.3683</label>
+            <desc>体-人間活動、精神および行為-脅迫・愚弄・中傷など</desc>
+          </item>
+          <item xml:id="WLSPH.1.3700">
+            <label>1.3700</label>
+            <desc>体-人間活動、精神および行為-取得</desc>
+          </item>
+          <item xml:id="WLSPH.1.3701">
+            <label>1.3701</label>
+            <desc>体-人間活動、精神および行為-所有</desc>
+          </item>
+          <item xml:id="WLSPH.1.3710">
+            <label>1.3710</label>
+            <desc>体-人間活動、精神および行為-経済・収支</desc>
+          </item>
+          <item xml:id="WLSPH.1.3711">
+            <label>1.3711</label>
+            <desc>体-人間活動、精神および行為-需給</desc>
+          </item>
+          <item xml:id="WLSPH.1.3720">
+            <label>1.3720</label>
+            <desc>体-人間活動、精神および行為-税</desc>
+          </item>
+          <item xml:id="WLSPH.1.3721">
+            <label>1.3721</label>
+            <desc>体-人間活動、精神および行為-資本・金銭</desc>
+          </item>
+          <item xml:id="WLSPH.1.3730">
+            <label>1.3730</label>
+            <desc>体-人間活動、精神および行為-価格・費用</desc>
+          </item>
+          <item xml:id="WLSPH.1.3740">
+            <label>1.3740</label>
+            <desc>体-人間活動、精神および行為-給与・料金・利子</desc>
+          </item>
+          <item xml:id="WLSPH.1.3750">
+            <label>1.3750</label>
+            <desc>体-人間活動、精神および行為-損得</desc>
+          </item>
+          <item xml:id="WLSPH.1.3760">
+            <label>1.3760</label>
+            <desc>体-人間活動、精神および行為-取引</desc>
+          </item>
+          <item xml:id="WLSPH.1.3761">
+            <label>1.3761</label>
+            <desc>体-人間活動、精神および行為-売買</desc>
+          </item>
+          <item xml:id="WLSPH.1.3770">
+            <label>1.3770</label>
+            <desc>体-人間活動、精神および行為-譲与</desc>
+          </item>
+          <item xml:id="WLSPH.1.3771">
+            <label>1.3771</label>
+            <desc>体-人間活動、精神および行為-受領・送付</desc>
+          </item>
+          <item xml:id="WLSPH.1.3780">
+            <label>1.3780</label>
+            <desc>体-人間活動、精神および行為-貸借</desc>
+          </item>
+          <item xml:id="WLSPH.1.3790">
+            <label>1.3790</label>
+            <desc>体-人間活動、精神および行為-貧富</desc>
+          </item>
+          <item xml:id="WLSPH.1.3800">
+            <label>1.3800</label>
+            <desc>体-人間活動、精神および行為-仕事</desc>
+          </item>
+          <item xml:id="WLSPH.1.3801">
+            <label>1.3801</label>
+            <desc>体-人間活動、精神および行為-業</desc>
+          </item>
+          <item xml:id="WLSPH.1.3802">
+            <label>1.3802</label>
+            <desc>体-人間活動、精神および行為-産業・生産</desc>
+          </item>
+          <item xml:id="WLSPH.1.3810">
+            <label>1.3810</label>
+            <desc>体-人間活動、精神および行為-農事・営林</desc>
+          </item>
+          <item xml:id="WLSPH.1.3811">
+            <label>1.3811</label>
+            <desc>体-人間活動、精神および行為-飼養・採取</desc>
+          </item>
+          <item xml:id="WLSPH.1.3820">
+            <label>1.3820</label>
+            <desc>体-人間活動、精神および行為-製造工業</desc>
+          </item>
+          <item xml:id="WLSPH.1.3821">
+            <label>1.3821</label>
+            <desc>体-人間活動、精神および行為-印刷・製本</desc>
+          </item>
+          <item xml:id="WLSPH.1.3822">
+            <label>1.3822</label>
+            <desc>体-人間活動、精神および行為-土木</desc>
+          </item>
+          <item xml:id="WLSPH.1.3823">
+            <label>1.3823</label>
+            <desc>体-人間活動、精神および行為-建築</desc>
+          </item>
+          <item xml:id="WLSPH.1.3830">
+            <label>1.3830</label>
+            <desc>体-人間活動、精神および行為-運輸・交通</desc>
+          </item>
+          <item xml:id="WLSPH.1.3831">
+            <label>1.3831</label>
+            <desc>体-人間活動、精神および行為-医療</desc>
+          </item>
+          <item xml:id="WLSPH.1.3832">
+            <label>1.3832</label>
+            <desc>体-人間活動、精神および行為-出版・興行</desc>
+          </item>
+          <item xml:id="WLSPH.1.3840">
+            <label>1.3840</label>
+            <desc>体-人間活動、精神および行為-家事・裁縫</desc>
+          </item>
+          <item xml:id="WLSPH.1.3841">
+            <label>1.3841</label>
+            <desc>体-人間活動、精神および行為-家事・裁縫</desc>
+          </item>
+          <item xml:id="WLSPH.1.3842">
+            <label>1.3842</label>
+            <desc>体-人間活動、精神および行為-洗濯など</desc>
+          </item>
+          <item xml:id="WLSPH.1.3843">
+            <label>1.3843</label>
+            <desc>体-人間活動、精神および行為-炊事</desc>
+          </item>
+          <item xml:id="WLSPH.1.3844">
+            <label>1.3844</label>
+            <desc>体-人間活動、精神および行為-掃除など</desc>
+          </item>
+          <item xml:id="WLSPH.1.3850">
+            <label>1.3850</label>
+            <desc>体-人間活動、精神および行為-設備・作業・手当て・処理</desc>
+          </item>
+          <item xml:id="WLSPH.1.3851">
+            <label>1.3851</label>
+            <desc>体-人間活動、精神および行為-練り・塗り・射ちその他</desc>
+          </item>
+          <item xml:id="WLSPH.1.3852">
+            <label>1.3852</label>
+            <desc>体-人間活動、精神および行為-使用</desc>
+          </item>
+          <item xml:id="WLSPH.1.3860">
+            <label>1.3860</label>
+            <desc>体-人間活動、精神および行為-製造・荷造り</desc>
+          </item>
+          <item xml:id="WLSPH.1.4000">
+            <label>1.4000</label>
+            <desc>体-生産物および用具-生産物および用具-生産物および用具</desc>
+          </item>
+          <item xml:id="WLSPH.1.4010">
+            <label>1.4010</label>
+            <desc>体-生産物および用具-生産物および用具-持物・売物・みやげなど</desc>
+          </item>
+          <item xml:id="WLSPH.1.4020">
+            <label>1.4020</label>
+            <desc>体-生産物および用具-生産物および用具-産物</desc>
+          </item>
+          <item xml:id="WLSPH.1.4030">
+            <label>1.4030</label>
+            <desc>体-生産物および用具-生産物および用具-荷</desc>
+          </item>
+          <item xml:id="WLSPH.1.4040">
+            <label>1.4040</label>
+            <desc>体-生産物および用具-生産物および用具-貨幣</desc>
+          </item>
+          <item xml:id="WLSPH.1.4100">
+            <label>1.4100</label>
+            <desc>体-生産物および用具-資材-資材</desc>
+          </item>
+          <item xml:id="WLSPH.1.4110">
+            <label>1.4110</label>
+            <desc>体-生産物および用具-資材-紙</desc>
+          </item>
+          <item xml:id="WLSPH.1.4120">
+            <label>1.4120</label>
+            <desc>体-生産物および用具-資材-木・石・金</desc>
+          </item>
+          <item xml:id="WLSPH.1.4130">
+            <label>1.4130</label>
+            <desc>体-生産物および用具-資材-燃料・肥料</desc>
+          </item>
+          <item xml:id="WLSPH.1.4140">
+            <label>1.4140</label>
+            <desc>体-生産物および用具-資材-ゴム・のり・油など</desc>
+          </item>
+          <item xml:id="WLSPH.1.4150">
+            <label>1.4150</label>
+            <desc>体-生産物および用具-資材-輪・車・棒・管など</desc>
+          </item>
+          <item xml:id="WLSPH.1.4151">
+            <label>1.4151</label>
+            <desc>体-生産物および用具-資材-ピン・ボタン・くいなど</desc>
+          </item>
+          <item xml:id="WLSPH.1.4152">
+            <label>1.4152</label>
+            <desc>体-生産物および用具-資材-柄・杖・へらなど</desc>
+          </item>
+          <item xml:id="WLSPH.1.4153">
+            <label>1.4153</label>
+            <desc>体-生産物および用具-資材-ばね・栓・キーなど</desc>
+          </item>
+          <item xml:id="WLSPH.1.4154">
+            <label>1.4154</label>
+            <desc>体-生産物および用具-資材-型</desc>
+          </item>
+          <item xml:id="WLSPH.1.4160">
+            <label>1.4160</label>
+            <desc>体-生産物および用具-資材-コード・なわ・綱など</desc>
+          </item>
+          <item xml:id="WLSPH.1.4161">
+            <label>1.4161</label>
+            <desc>体-生産物および用具-資材-網</desc>
+          </item>
+          <item xml:id="WLSPH.1.4170">
+            <label>1.4170</label>
+            <desc>体-生産物および用具-資材-飾り</desc>
+          </item>
+          <item xml:id="WLSPH.1.4200">
+            <label>1.4200</label>
+            <desc>体-生産物および用具-衣料・綿・皮・糸-衣料・綿・皮・糸</desc>
+          </item>
+          <item xml:id="WLSPH.1.4201">
+            <label>1.4201</label>
+            <desc>体-生産物および用具-衣料・綿・皮・糸-布・布地</desc>
+          </item>
+          <item xml:id="WLSPH.1.4202">
+            <label>1.4202</label>
+            <desc>体-生産物および用具-衣料・綿・皮・糸-織物</desc>
+          </item>
+          <item xml:id="WLSPH.1.4210">
+            <label>1.4210</label>
+            <desc>体-生産物および用具-衣料・綿・皮・糸-衣服</desc>
+          </item>
+          <item xml:id="WLSPH.1.4220">
+            <label>1.4220</label>
+            <desc>体-生産物および用具-衣料・綿・皮・糸-雨着・けさ・あわせ・背広など</desc>
+          </item>
+          <item xml:id="WLSPH.1.4230">
+            <label>1.4230</label>
+            <desc>体-生産物および用具-衣料・綿・皮・糸-下着・羽織・ズボン・コートなど</desc>
+          </item>
+          <item xml:id="WLSPH.1.4240">
+            <label>1.4240</label>
+            <desc>体-生産物および用具-衣料・綿・皮・糸-袖・衿・身頃・ポケットなど</desc>
+          </item>
+          <item xml:id="WLSPH.1.4250">
+            <label>1.4250</label>
+            <desc>体-生産物および用具-衣料・綿・皮・糸-帽子・マスクなど</desc>
+          </item>
+          <item xml:id="WLSPH.1.4251">
+            <label>1.4251</label>
+            <desc>体-生産物および用具-衣料・綿・皮・糸-ネクタイ・帯・手袋・靴下など</desc>
+          </item>
+          <item xml:id="WLSPH.1.4260">
+            <label>1.4260</label>
+            <desc>体-生産物および用具-衣料・綿・皮・糸-はき物</desc>
+          </item>
+          <item xml:id="WLSPH.1.4261">
+            <label>1.4261</label>
+            <desc>体-生産物および用具-衣料・綿・皮・糸-雨具</desc>
+          </item>
+          <item xml:id="WLSPH.1.4270">
+            <label>1.4270</label>
+            <desc>体-生産物および用具-衣料・綿・皮・糸-寝具</desc>
+          </item>
+          <item xml:id="WLSPH.1.4280">
+            <label>1.4280</label>
+            <desc>体-生産物および用具-衣料・綿・皮・糸-装身具</desc>
+          </item>
+          <item xml:id="WLSPH.1.4300">
+            <label>1.4300</label>
+            <desc>体-生産物および用具-食料-食料</desc>
+          </item>
+          <item xml:id="WLSPH.1.4310">
+            <label>1.4310</label>
+            <desc>体-生産物および用具-食料-飯・そば・パン・汁など</desc>
+          </item>
+          <item xml:id="WLSPH.1.4320">
+            <label>1.4320</label>
+            <desc>体-生産物および用具-食料-米・糠・小麦粉など</desc>
+          </item>
+          <item xml:id="WLSPH.1.4321">
+            <label>1.4321</label>
+            <desc>体-生産物および用具-食料-乾物・漬物・煮物など</desc>
+          </item>
+          <item xml:id="WLSPH.1.4322">
+            <label>1.4322</label>
+            <desc>体-生産物および用具-食料-梅干・豆腐・寒天・とろろなど</desc>
+          </item>
+          <item xml:id="WLSPH.1.4323">
+            <label>1.4323</label>
+            <desc>体-生産物および用具-食料-さかな・鰹節・肉</desc>
+          </item>
+          <item xml:id="WLSPH.1.4330">
+            <label>1.4330</label>
+            <desc>体-生産物および用具-食料-調味料・麹など</desc>
+          </item>
+          <item xml:id="WLSPH.1.4340">
+            <label>1.4340</label>
+            <desc>体-生産物および用具-食料-菓子</desc>
+          </item>
+          <item xml:id="WLSPH.1.4350">
+            <label>1.4350</label>
+            <desc>体-生産物および用具-食料-飲料・たばこ</desc>
+          </item>
+          <item xml:id="WLSPH.1.4360">
+            <label>1.4360</label>
+            <desc>体-生産物および用具-食料-薬剤・薬品</desc>
+          </item>
+          <item xml:id="WLSPH.1.4370">
+            <label>1.4370</label>
+            <desc>体-生産物および用具-食料-化粧品</desc>
+          </item>
+          <item xml:id="WLSPH.1.4400">
+            <label>1.4400</label>
+            <desc>体-生産物および用具-住居-住居</desc>
+          </item>
+          <item xml:id="WLSPH.1.4410">
+            <label>1.4410</label>
+            <desc>体-生産物および用具-住居-家屋</desc>
+          </item>
+          <item xml:id="WLSPH.1.4420">
+            <label>1.4420</label>
+            <desc>体-生産物および用具-住居-門・塀・階段</desc>
+          </item>
+          <item xml:id="WLSPH.1.4430">
+            <label>1.4430</label>
+            <desc>体-生産物および用具-住居-へや・廊下・床など</desc>
+          </item>
+          <item xml:id="WLSPH.1.4440">
+            <label>1.4440</label>
+            <desc>体-生産物および用具-住居-屋根・柱・壁・窓・天井など</desc>
+          </item>
+          <item xml:id="WLSPH.1.4450">
+            <label>1.4450</label>
+            <desc>体-生産物および用具-住居-棚・戸棚・台・壇など</desc>
+          </item>
+          <item xml:id="WLSPH.1.4460">
+            <label>1.4460</label>
+            <desc>体-生産物および用具-住居-戸・カーテン・テント・畳など</desc>
+          </item>
+          <item xml:id="WLSPH.1.4470">
+            <label>1.4470</label>
+            <desc>体-生産物および用具-住居-家具</desc>
+          </item>
+          <item xml:id="WLSPH.1.4500">
+            <label>1.4500</label>
+            <desc>体-生産物および用具-道具-道具</desc>
+          </item>
+          <item xml:id="WLSPH.1.4510">
+            <label>1.4510</label>
+            <desc>体-生産物および用具-道具-容器</desc>
+          </item>
+          <item xml:id="WLSPH.1.4511">
+            <label>1.4511</label>
+            <desc>体-生産物および用具-道具-びん・壷・皿・膳など</desc>
+          </item>
+          <item xml:id="WLSPH.1.4512">
+            <label>1.4512</label>
+            <desc>体-生産物および用具-道具-桶・罐など</desc>
+          </item>
+          <item xml:id="WLSPH.1.4513">
+            <label>1.4513</label>
+            <desc>体-生産物および用具-道具-箱・ひきだしなど</desc>
+          </item>
+          <item xml:id="WLSPH.1.4514">
+            <label>1.4514</label>
+            <desc>体-生産物および用具-道具-袋・かばんなど</desc>
+          </item>
+          <item xml:id="WLSPH.1.4515">
+            <label>1.4515</label>
+            <desc>体-生産物および用具-道具-篭・俵など</desc>
+          </item>
+          <item xml:id="WLSPH.1.4520">
+            <label>1.4520</label>
+            <desc>体-生産物および用具-道具-食器</desc>
+          </item>
+          <item xml:id="WLSPH.1.4530">
+            <label>1.4530</label>
+            <desc>体-生産物および用具-道具-文具</desc>
+          </item>
+          <item xml:id="WLSPH.1.4540">
+            <label>1.4540</label>
+            <desc>体-生産物および用具-道具-農工具など</desc>
+          </item>
+          <item xml:id="WLSPH.1.4550">
+            <label>1.4550</label>
+            <desc>体-生産物および用具-道具-刃物</desc>
+          </item>
+          <item xml:id="WLSPH.1.4551">
+            <label>1.4551</label>
+            <desc>体-生産物および用具-道具-武器</desc>
+          </item>
+          <item xml:id="WLSPH.1.4560">
+            <label>1.4560</label>
+            <desc>体-生産物および用具-道具-楽器</desc>
+          </item>
+          <item xml:id="WLSPH.1.4570">
+            <label>1.4570</label>
+            <desc>体-生産物および用具-道具-おもちゃなど</desc>
+          </item>
+          <item xml:id="WLSPH.1.4580">
+            <label>1.4580</label>
+            <desc>体-生産物および用具-道具-標識</desc>
+          </item>
+          <item xml:id="WLSPH.1.4590">
+            <label>1.4590</label>
+            <desc>体-生産物および用具-道具-ふだ・帳など</desc>
+          </item>
+          <item xml:id="WLSPH.1.4600">
+            <label>1.4600</label>
+            <desc>体-生産物および用具-燈火-燈火</desc>
+          </item>
+          <item xml:id="WLSPH.1.4610">
+            <label>1.4610</label>
+            <desc>体-生産物および用具-燈火-鏡・レンズ</desc>
+          </item>
+          <item xml:id="WLSPH.1.4620">
+            <label>1.4620</label>
+            <desc>体-生産物および用具-燈火-電気機具</desc>
+          </item>
+          <item xml:id="WLSPH.1.4630">
+            <label>1.4630</label>
+            <desc>体-生産物および用具-燈火-機械</desc>
+          </item>
+          <item xml:id="WLSPH.1.4640">
+            <label>1.4640</label>
+            <desc>体-生産物および用具-燈火-計器</desc>
+          </item>
+          <item xml:id="WLSPH.1.4650">
+            <label>1.4650</label>
+            <desc>体-生産物および用具-燈火-乗り物（陸上）</desc>
+          </item>
+          <item xml:id="WLSPH.1.4660">
+            <label>1.4660</label>
+            <desc>体-生産物および用具-燈火-（海上）</desc>
+          </item>
+          <item xml:id="WLSPH.1.4670">
+            <label>1.4670</label>
+            <desc>体-生産物および用具-燈火-（空中・宇宙）</desc>
+          </item>
+          <item xml:id="WLSPH.1.4700">
+            <label>1.4700</label>
+            <desc>体-生産物および用具-地類（土地利用）-地類（土地利用）</desc>
+          </item>
+          <item xml:id="WLSPH.1.4710">
+            <label>1.4710</label>
+            <desc>体-生産物および用具-地類（土地利用）-道路・橋</desc>
+          </item>
+          <item xml:id="WLSPH.1.4720">
+            <label>1.4720</label>
+            <desc>体-生産物および用具-地類（土地利用）-その他の土木施設</desc>
+          </item>
+          <item xml:id="WLSPH.1.5000">
+            <label>1.5000</label>
+            <desc>体-自然・物体・物質-刺激-刺激</desc>
+          </item>
+          <item xml:id="WLSPH.1.5010">
+            <label>1.5010</label>
+            <desc>体-自然・物体・物質-刺激-光</desc>
+          </item>
+          <item xml:id="WLSPH.1.5020">
+            <label>1.5020</label>
+            <desc>体-自然・物体・物質-刺激-色</desc>
+          </item>
+          <item xml:id="WLSPH.1.5030">
+            <label>1.5030</label>
+            <desc>体-自然・物体・物質-刺激-音</desc>
+          </item>
+          <item xml:id="WLSPH.1.5040">
+            <label>1.5040</label>
+            <desc>体-自然・物体・物質-刺激-におい</desc>
+          </item>
+          <item xml:id="WLSPH.1.5050">
+            <label>1.5050</label>
+            <desc>体-自然・物体・物質-刺激-味</desc>
+          </item>
+          <item xml:id="WLSPH.1.5060">
+            <label>1.5060</label>
+            <desc>体-自然・物体・物質-刺激-材質</desc>
+          </item>
+          <item xml:id="WLSPH.1.5100">
+            <label>1.5100</label>
+            <desc>体-自然・物体・物質-自然・物体・物質-自然・物体・物質</desc>
+          </item>
+          <item xml:id="WLSPH.1.5110">
+            <label>1.5110</label>
+            <desc>体-自然・物体・物質-自然・物体・物質-化学成分</desc>
+          </item>
+          <item xml:id="WLSPH.1.5111">
+            <label>1.5111</label>
+            <desc>体-自然・物体・物質-自然・物体・物質-鉱物</desc>
+          </item>
+          <item xml:id="WLSPH.1.5120">
+            <label>1.5120</label>
+            <desc>体-自然・物体・物質-自然・物体・物質-空気</desc>
+          </item>
+          <item xml:id="WLSPH.1.5130">
+            <label>1.5130</label>
+            <desc>体-自然・物体・物質-自然・物体・物質-水</desc>
+          </item>
+          <item xml:id="WLSPH.1.5140">
+            <label>1.5140</label>
+            <desc>体-自然・物体・物質-自然・物体・物質-天災</desc>
+          </item>
+          <item xml:id="WLSPH.1.5150">
+            <label>1.5150</label>
+            <desc>体-自然・物体・物質-自然・物体・物質-気象</desc>
+          </item>
+          <item xml:id="WLSPH.1.5151">
+            <label>1.5151</label>
+            <desc>体-自然・物体・物質-自然・物体・物質-風</desc>
+          </item>
+          <item xml:id="WLSPH.1.5152">
+            <label>1.5152</label>
+            <desc>体-自然・物体・物質-自然・物体・物質-雲</desc>
+          </item>
+          <item xml:id="WLSPH.1.5153">
+            <label>1.5153</label>
+            <desc>体-自然・物体・物質-自然・物体・物質-雨・雪</desc>
+          </item>
+          <item xml:id="WLSPH.1.5154">
+            <label>1.5154</label>
+            <desc>体-自然・物体・物質-自然・物体・物質-天気</desc>
+          </item>
+          <item xml:id="WLSPH.1.5155">
+            <label>1.5155</label>
+            <desc>体-自然・物体・物質-自然・物体・物質-波・潮</desc>
+          </item>
+          <item xml:id="WLSPH.1.5160">
+            <label>1.5160</label>
+            <desc>体-自然・物体・物質-自然・物体・物質-物質の変化</desc>
+          </item>
+          <item xml:id="WLSPH.1.5161">
+            <label>1.5161</label>
+            <desc>体-自然・物体・物質-自然・物体・物質-火</desc>
+          </item>
+          <item xml:id="WLSPH.1.5170">
+            <label>1.5170</label>
+            <desc>体-自然・物体・物質-自然・物体・物質-熱</desc>
+          </item>
+          <item xml:id="WLSPH.1.5200">
+            <label>1.5200</label>
+            <desc>体-自然・物体・物質-天地-宇宙・空</desc>
+          </item>
+          <item xml:id="WLSPH.1.5210">
+            <label>1.5210</label>
+            <desc>体-自然・物体・物質-天地-天体</desc>
+          </item>
+          <item xml:id="WLSPH.1.5220">
+            <label>1.5220</label>
+            <desc>体-自然・物体・物質-天地-天象</desc>
+          </item>
+          <item xml:id="WLSPH.1.5230">
+            <label>1.5230</label>
+            <desc>体-自然・物体・物質-天地-地</desc>
+          </item>
+          <item xml:id="WLSPH.1.5240">
+            <label>1.5240</label>
+            <desc>体-自然・物体・物質-天地-地形・山野</desc>
+          </item>
+          <item xml:id="WLSPH.1.5250">
+            <label>1.5250</label>
+            <desc>体-自然・物体・物質-天地-川・湖</desc>
+          </item>
+          <item xml:id="WLSPH.1.5260">
+            <label>1.5260</label>
+            <desc>体-自然・物体・物質-天地-海・島</desc>
+          </item>
+          <item xml:id="WLSPH.1.5270">
+            <label>1.5270</label>
+            <desc>体-自然・物体・物質-天地-地相</desc>
+          </item>
+          <item xml:id="WLSPH.1.5280">
+            <label>1.5280</label>
+            <desc>体-自然・物体・物質-天地-地帯</desc>
+          </item>
+          <item xml:id="WLSPH.1.5290">
+            <label>1.5290</label>
+            <desc>体-自然・物体・物質-天地-景</desc>
+          </item>
+          <item xml:id="WLSPH.1.5500">
+            <label>1.5500</label>
+            <desc>体-自然・物体・物質-生-生</desc>
+          </item>
+          <item xml:id="WLSPH.1.5510">
+            <label>1.5510</label>
+            <desc>体-自然・物体・物質-生-植物</desc>
+          </item>
+          <item xml:id="WLSPH.1.5520">
+            <label>1.5520</label>
+            <desc>体-自然・物体・物質-生-植物名</desc>
+          </item>
+          <item xml:id="WLSPH.1.5530">
+            <label>1.5530</label>
+            <desc>体-自然・物体・物質-生-枝・葉・花など</desc>
+          </item>
+          <item xml:id="WLSPH.1.5600">
+            <label>1.5600</label>
+            <desc>体-自然・物体・物質-動物-動物</desc>
+          </item>
+          <item xml:id="WLSPH.1.5610">
+            <label>1.5610</label>
+            <desc>体-自然・物体・物質-動物-獣</desc>
+          </item>
+          <item xml:id="WLSPH.1.5620">
+            <label>1.5620</label>
+            <desc>体-自然・物体・物質-動物-鳥</desc>
+          </item>
+          <item xml:id="WLSPH.1.5630">
+            <label>1.5630</label>
+            <desc>体-自然・物体・物質-動物-はちゅう類</desc>
+          </item>
+          <item xml:id="WLSPH.1.5640">
+            <label>1.5640</label>
+            <desc>体-自然・物体・物質-動物-魚</desc>
+          </item>
+          <item xml:id="WLSPH.1.5650">
+            <label>1.5650</label>
+            <desc>体-自然・物体・物質-動物-虫</desc>
+          </item>
+          <item xml:id="WLSPH.1.5660">
+            <label>1.5660</label>
+            <desc>体-自然・物体・物質-動物-その他の無脊椎動物</desc>
+          </item>
+          <item xml:id="WLSPH.1.5700">
+            <label>1.5700</label>
+            <desc>体-自然・物体・物質-からだ-からだ</desc>
+          </item>
+          <item xml:id="WLSPH.1.5710">
+            <label>1.5710</label>
+            <desc>体-自然・物体・物質-からだ-頭・目鼻・顔</desc>
+          </item>
+          <item xml:id="WLSPH.1.5720">
+            <label>1.5720</label>
+            <desc>体-自然・物体・物質-からだ-胸・腹・背</desc>
+          </item>
+          <item xml:id="WLSPH.1.5730">
+            <label>1.5730</label>
+            <desc>体-自然・物体・物質-からだ-手足・指</desc>
+          </item>
+          <item xml:id="WLSPH.1.5740">
+            <label>1.5740</label>
+            <desc>体-自然・物体・物質-からだ-膜・筋・神経・内臓</desc>
+          </item>
+          <item xml:id="WLSPH.1.5750">
+            <label>1.5750</label>
+            <desc>体-自然・物体・物質-からだ-皮・毛髪・羽毛</desc>
+          </item>
+          <item xml:id="WLSPH.1.5760">
+            <label>1.5760</label>
+            <desc>体-自然・物体・物質-からだ-骨・歯・つめ・甲</desc>
+          </item>
+          <item xml:id="WLSPH.1.5770">
+            <label>1.5770</label>
+            <desc>体-自然・物体・物質-からだ-血・孔・涙・汗・尿など</desc>
+          </item>
+          <item xml:id="WLSPH.1.5780">
+            <label>1.5780</label>
+            <desc>体-自然・物体・物質-からだ-卵</desc>
+          </item>
+          <item xml:id="WLSPH.1.5800">
+            <label>1.5800</label>
+            <desc>体-自然・物体・物質-生命-生命</desc>
+          </item>
+          <item xml:id="WLSPH.1.5810">
+            <label>1.5810</label>
+            <desc>体-自然・物体・物質-生命-生死・生</desc>
+          </item>
+          <item xml:id="WLSPH.1.5820">
+            <label>1.5820</label>
+            <desc>体-自然・物体・物質-生命-死</desc>
+          </item>
+          <item xml:id="WLSPH.1.5830">
+            <label>1.5830</label>
+            <desc>体-自然・物体・物質-生命-生理</desc>
+          </item>
+          <item xml:id="WLSPH.1.5840">
+            <label>1.5840</label>
+            <desc>体-自然・物体・物質-生命-健康</desc>
+          </item>
+          <item xml:id="WLSPH.1.5850">
+            <label>1.5850</label>
+            <desc>体-自然・物体・物質-生命-病気</desc>
+          </item>
+          <item xml:id="WLSPH.1.5860">
+            <label>1.5860</label>
+            <desc>体-自然・物体・物質-生命-四百四病</desc>
+          </item>
+          <item xml:id="WLSPH.1.5870">
+            <label>1.5870</label>
+            <desc>体-自然・物体・物質-生命-身体障害</desc>
+          </item>
+          <item xml:id="WLSPH.2.1000">
+            <label>2.1000</label>
+            <desc>用-抽象的関係-抽象的関係-抽象的関係</desc>
+          </item>
+          <item xml:id="WLSPH.2.1110">
+            <label>2.1110</label>
+            <desc>用-抽象的関係-類-関係</desc>
+          </item>
+          <item xml:id="WLSPH.2.1120">
+            <label>2.1120</label>
+            <desc>用-抽象的関係-類-異同</desc>
+          </item>
+          <item xml:id="WLSPH.2.1130">
+            <label>2.1130</label>
+            <desc>用-抽象的関係-類-包摂</desc>
+          </item>
+          <item xml:id="WLSPH.2.1200">
+            <label>2.1200</label>
+            <desc>用-抽象的関係-存在-存在</desc>
+          </item>
+          <item xml:id="WLSPH.2.1210">
+            <label>2.1210</label>
+            <desc>用-抽象的関係-存在-出現</desc>
+          </item>
+          <item xml:id="WLSPH.2.1220">
+            <label>2.1220</label>
+            <desc>用-抽象的関係-存在-成立・発生</desc>
+          </item>
+          <item xml:id="WLSPH.2.1230">
+            <label>2.1230</label>
+            <desc>用-抽象的関係-存在-仕上げ</desc>
+          </item>
+          <item xml:id="WLSPH.2.1240">
+            <label>2.1240</label>
+            <desc>用-抽象的関係-存在-残存・消滅</desc>
+          </item>
+          <item xml:id="WLSPH.2.1250">
+            <label>2.1250</label>
+            <desc>用-抽象的関係-存在-保有・除去</desc>
+          </item>
+          <item xml:id="WLSPH.2.1300">
+            <label>2.1300</label>
+            <desc>用-抽象的関係-整備-整備</desc>
+          </item>
+          <item xml:id="WLSPH.2.1310">
+            <label>2.1310</label>
+            <desc>用-抽象的関係-整備-でき・利き</desc>
+          </item>
+          <item xml:id="WLSPH.2.1320">
+            <label>2.1320</label>
+            <desc>用-抽象的関係-整備-はずれ・損じ</desc>
+          </item>
+          <item xml:id="WLSPH.2.1330">
+            <label>2.1330</label>
+            <desc>用-抽象的関係-整備-取合せ・つりあい</desc>
+          </item>
+          <item xml:id="WLSPH.2.1340">
+            <label>2.1340</label>
+            <desc>用-抽象的関係-整備-こみ・しまり・ゆるみ</desc>
+          </item>
+          <item xml:id="WLSPH.2.1350">
+            <label>2.1350</label>
+            <desc>用-抽象的関係-整備-障り</desc>
+          </item>
+          <item xml:id="WLSPH.2.1400">
+            <label>2.1400</label>
+            <desc>用-抽象的関係-力-力</desc>
+          </item>
+          <item xml:id="WLSPH.2.1500">
+            <label>2.1500</label>
+            <desc>用-抽象的関係-作用・変化-作用・変化</desc>
+          </item>
+          <item xml:id="WLSPH.2.1501">
+            <label>2.1501</label>
+            <desc>用-抽象的関係-作用・変化-改新・変換</desc>
+          </item>
+          <item xml:id="WLSPH.2.1502">
+            <label>2.1502</label>
+            <desc>用-抽象的関係-作用・変化-開始・終了</desc>
+          </item>
+          <item xml:id="WLSPH.2.1503">
+            <label>2.1503</label>
+            <desc>用-抽象的関係-作用・変化-連続</desc>
+          </item>
+          <item xml:id="WLSPH.2.1510">
+            <label>2.1510</label>
+            <desc>用-抽象的関係-作用・変化-動き</desc>
+          </item>
+          <item xml:id="WLSPH.2.1511">
+            <label>2.1511</label>
+            <desc>用-抽象的関係-作用・変化-揺れ・振れ</desc>
+          </item>
+          <item xml:id="WLSPH.2.1512">
+            <label>2.1512</label>
+            <desc>用-抽象的関係-作用・変化-停止</desc>
+          </item>
+          <item xml:id="WLSPH.2.1513">
+            <label>2.1513</label>
+            <desc>用-抽象的関係-作用・変化-起立・横臥など</desc>
+          </item>
+          <item xml:id="WLSPH.2.1514">
+            <label>2.1514</label>
+            <desc>用-抽象的関係-作用・変化-傾斜・転倒など</desc>
+          </item>
+          <item xml:id="WLSPH.2.1515">
+            <label>2.1515</label>
+            <desc>用-抽象的関係-作用・変化-据え・置き・つり・掛けなど</desc>
+          </item>
+          <item xml:id="WLSPH.2.1516">
+            <label>2.1516</label>
+            <desc>用-抽象的関係-作用・変化-はめ・うずめ・投げなど</desc>
+          </item>
+          <item xml:id="WLSPH.2.1521">
+            <label>2.1521</label>
+            <desc>用-抽象的関係-作用・変化-移動・発着</desc>
+          </item>
+          <item xml:id="WLSPH.2.1523">
+            <label>2.1523</label>
+            <desc>用-抽象的関係-作用・変化-走り・飛び・流れなど</desc>
+          </item>
+          <item xml:id="WLSPH.2.1524">
+            <label>2.1524</label>
+            <desc>用-抽象的関係-作用・変化-通過</desc>
+          </item>
+          <item xml:id="WLSPH.2.1525">
+            <label>2.1525</label>
+            <desc>用-抽象的関係-作用・変化-追い・逃げなど</desc>
+          </item>
+          <item xml:id="WLSPH.2.1526">
+            <label>2.1526</label>
+            <desc>用-抽象的関係-作用・変化-進退</desc>
+          </item>
+          <item xml:id="WLSPH.2.1527">
+            <label>2.1527</label>
+            <desc>用-抽象的関係-作用・変化-往来</desc>
+          </item>
+          <item xml:id="WLSPH.2.1530">
+            <label>2.1530</label>
+            <desc>用-抽象的関係-作用・変化-出入り</desc>
+          </item>
+          <item xml:id="WLSPH.2.1531">
+            <label>2.1531</label>
+            <desc>用-抽象的関係-作用・変化-込み</desc>
+          </item>
+          <item xml:id="WLSPH.2.1532">
+            <label>2.1532</label>
+            <desc>用-抽象的関係-作用・変化-しみ・漏れ・汲み・潜みなど</desc>
+          </item>
+          <item xml:id="WLSPH.2.1540">
+            <label>2.1540</label>
+            <desc>用-抽象的関係-作用・変化-上がり下がり</desc>
+          </item>
+          <item xml:id="WLSPH.2.1541">
+            <label>2.1541</label>
+            <desc>用-抽象的関係-作用・変化-乗り降り・浮き沈み</desc>
+          </item>
+          <item xml:id="WLSPH.2.1550">
+            <label>2.1550</label>
+            <desc>用-抽象的関係-作用・変化-合い・組み・解けなど</desc>
+          </item>
+          <item xml:id="WLSPH.2.1551">
+            <label>2.1551</label>
+            <desc>用-抽象的関係-作用・変化-組み合わせ・まとめなど</desc>
+          </item>
+          <item xml:id="WLSPH.2.1552">
+            <label>2.1552</label>
+            <desc>用-抽象的関係-作用・変化-散り・分かれなど</desc>
+          </item>
+          <item xml:id="WLSPH.2.1553">
+            <label>2.1553</label>
+            <desc>用-抽象的関係-作用・変化-開閉</desc>
+          </item>
+          <item xml:id="WLSPH.2.1554">
+            <label>2.1554</label>
+            <desc>用-抽象的関係-作用・変化-結び・重ね・積みなど</desc>
+          </item>
+          <item xml:id="WLSPH.2.1555">
+            <label>2.1555</label>
+            <desc>用-抽象的関係-作用・変化-集会</desc>
+          </item>
+          <item xml:id="WLSPH.2.1556">
+            <label>2.1556</label>
+            <desc>用-抽象的関係-作用・変化-出会い・伴ないなど</desc>
+          </item>
+          <item xml:id="WLSPH.2.1560">
+            <label>2.1560</label>
+            <desc>用-抽象的関係-作用・変化-接触・接近</desc>
+          </item>
+          <item xml:id="WLSPH.2.1561">
+            <label>2.1561</label>
+            <desc>用-抽象的関係-作用・変化-隔離</desc>
+          </item>
+          <item xml:id="WLSPH.2.1562">
+            <label>2.1562</label>
+            <desc>用-抽象的関係-作用・変化-寄り合い・並び</desc>
+          </item>
+          <item xml:id="WLSPH.2.1563">
+            <label>2.1563</label>
+            <desc>用-抽象的関係-作用・変化-打ち・当たりなど</desc>
+          </item>
+          <item xml:id="WLSPH.2.1564">
+            <label>2.1564</label>
+            <desc>用-抽象的関係-作用・変化-押し・突き・引き・すれなど</desc>
+          </item>
+          <item xml:id="WLSPH.2.1565">
+            <label>2.1565</label>
+            <desc>用-抽象的関係-作用・変化-防ぎ・ふさぎなど</desc>
+          </item>
+          <item xml:id="WLSPH.2.1570">
+            <label>2.1570</label>
+            <desc>用-抽象的関係-作用・変化-変形</desc>
+          </item>
+          <item xml:id="WLSPH.2.1571">
+            <label>2.1571</label>
+            <desc>用-抽象的関係-作用・変化-破壊・切断など</desc>
+          </item>
+          <item xml:id="WLSPH.2.1580">
+            <label>2.1580</label>
+            <desc>用-抽象的関係-作用・変化-増減</desc>
+          </item>
+          <item xml:id="WLSPH.2.1581">
+            <label>2.1581</label>
+            <desc>用-抽象的関係-作用・変化-伸縮</desc>
+          </item>
+          <item xml:id="WLSPH.2.1582">
+            <label>2.1582</label>
+            <desc>用-抽象的関係-作用・変化-広げ・深め・早め・薄めなど</desc>
+          </item>
+          <item xml:id="WLSPH.2.1583">
+            <label>2.1583</label>
+            <desc>用-抽象的関係-作用・変化-強め・衰えなど</desc>
+          </item>
+          <item xml:id="WLSPH.2.1600">
+            <label>2.1600</label>
+            <desc>用-抽象的関係-時間・時刻-時間・時刻</desc>
+          </item>
+          <item xml:id="WLSPH.2.1700">
+            <label>2.1700</label>
+            <desc>用-抽象的関係-位置・方向-位置・方向</desc>
+          </item>
+          <item xml:id="WLSPH.2.1800">
+            <label>2.1800</label>
+            <desc>用-抽象的関係-形-形</desc>
+          </item>
+          <item xml:id="WLSPH.2.1900">
+            <label>2.1900</label>
+            <desc>用-抽象的関係-過不足・優劣など-過不足・優劣など</desc>
+          </item>
+          <item xml:id="WLSPH.2.3000">
+            <label>2.3000</label>
+            <desc>用-感覚・疲労・睡眠など-感覚・疲労・睡眠など-感覚・疲労・睡眠など</desc>
+          </item>
+          <item xml:id="WLSPH.2.3010">
+            <label>2.3010</label>
+            <desc>用-感覚・疲労・睡眠など-気分・情緒-気分・情緒</desc>
+          </item>
+          <item xml:id="WLSPH.2.3020">
+            <label>2.3020</label>
+            <desc>用-感覚・疲労・睡眠など-対人感情-対人感情</desc>
+          </item>
+          <item xml:id="WLSPH.2.3030">
+            <label>2.3030</label>
+            <desc>用-感覚・疲労・睡眠など-表情-表情</desc>
+          </item>
+          <item xml:id="WLSPH.2.3040">
+            <label>2.3040</label>
+            <desc>用-感覚・疲労・睡眠など-努力・忍耐-努力・忍耐</desc>
+          </item>
+          <item xml:id="WLSPH.2.3041">
+            <label>2.3041</label>
+            <desc>用-感覚・疲労・睡眠など-努力・忍耐-志望・反省</desc>
+          </item>
+          <item xml:id="WLSPH.2.3042">
+            <label>2.3042</label>
+            <desc>用-感覚・疲労・睡眠など-努力・忍耐-誇り・恥じ・気どり・ひがみなど</desc>
+          </item>
+          <item xml:id="WLSPH.2.3050">
+            <label>2.3050</label>
+            <desc>用-感覚・疲労・睡眠など-まね・学習・慣れ-まね・学習・慣れ</desc>
+          </item>
+          <item xml:id="WLSPH.2.3060">
+            <label>2.3060</label>
+            <desc>用-感覚・疲労・睡眠など-思考・認識・知解-思考・認識・知解</desc>
+          </item>
+          <item xml:id="WLSPH.2.3061">
+            <label>2.3061</label>
+            <desc>用-感覚・疲労・睡眠など-思考・認識・知解-比較・選択</desc>
+          </item>
+          <item xml:id="WLSPH.2.3062">
+            <label>2.3062</label>
+            <desc>用-感覚・疲労・睡眠など-思考・認識・知解-試験・計量・探求・発見</desc>
+          </item>
+          <item xml:id="WLSPH.2.3063">
+            <label>2.3063</label>
+            <desc>用-感覚・疲労・睡眠など-思考・認識・知解-推測・判断</desc>
+          </item>
+          <item xml:id="WLSPH.2.3070">
+            <label>2.3070</label>
+            <desc>用-感覚・疲労・睡眠など-誤り・訂正・証明など-誤り・訂正・証明など</desc>
+          </item>
+          <item xml:id="WLSPH.2.3080">
+            <label>2.3080</label>
+            <desc>用-感覚・疲労・睡眠など-計画-計画</desc>
+          </item>
+          <item xml:id="WLSPH.2.3090">
+            <label>2.3090</label>
+            <desc>用-感覚・疲労・睡眠など-見る-見る</desc>
+          </item>
+          <item xml:id="WLSPH.2.3091">
+            <label>2.3091</label>
+            <desc>用-感覚・疲労・睡眠など-見る-見せる</desc>
+          </item>
+          <item xml:id="WLSPH.2.3092">
+            <label>2.3092</label>
+            <desc>用-感覚・疲労・睡眠など-見る-聞く</desc>
+          </item>
+          <item xml:id="WLSPH.2.3093">
+            <label>2.3093</label>
+            <desc>用-感覚・疲労・睡眠など-見る-かぐ・味わう</desc>
+          </item>
+          <item xml:id="WLSPH.2.3100">
+            <label>2.3100</label>
+            <desc>用-呼び名・名づけ-呼び名・名づけ-呼び名・名づけ</desc>
+          </item>
+          <item xml:id="WLSPH.2.3120">
+            <label>2.3120</label>
+            <desc>用-呼び名・名づけ-言語・表現・報知-言語・表現・報知</desc>
+          </item>
+          <item xml:id="WLSPH.2.3130">
+            <label>2.3130</label>
+            <desc>用-呼び名・名づけ-談話・問答-談話・問答</desc>
+          </item>
+          <item xml:id="WLSPH.2.3140">
+            <label>2.3140</label>
+            <desc>用-呼び名・名づけ-聞かせ-聞かせ</desc>
+          </item>
+          <item xml:id="WLSPH.2.3150">
+            <label>2.3150</label>
+            <desc>用-呼び名・名づけ-書き-書き</desc>
+          </item>
+          <item xml:id="WLSPH.2.3151">
+            <label>2.3151</label>
+            <desc>用-呼び名・名づけ-書き-読み</desc>
+          </item>
+          <item xml:id="WLSPH.2.3200">
+            <label>2.3200</label>
+            <desc>用-創作-創作-創作</desc>
+          </item>
+          <item xml:id="WLSPH.2.3300">
+            <label>2.3300</label>
+            <desc>用-文化・風俗・祝福・処世-文化・風俗・祝福・処世-文化・風俗・祝福・処世</desc>
+          </item>
+          <item xml:id="WLSPH.2.3310">
+            <label>2.3310</label>
+            <desc>用-文化・風俗・祝福・処世-文化・風俗・祝福・処世-文化・風俗・祝福・処世</desc>
+          </item>
+          <item xml:id="WLSPH.2.3320">
+            <label>2.3320</label>
+            <desc>用-文化・風俗・祝福・処世-労働-労働</desc>
+          </item>
+          <item xml:id="WLSPH.2.3330">
+            <label>2.3330</label>
+            <desc>用-文化・風俗・祝福・処世-生活・衣食住-生活・衣食住</desc>
+          </item>
+          <item xml:id="WLSPH.2.3350">
+            <label>2.3350</label>
+            <desc>用-文化・風俗・祝福・処世-結婚・宗教的行為-結婚・宗教的行為</desc>
+          </item>
+          <item xml:id="WLSPH.2.3360">
+            <label>2.3360</label>
+            <desc>用-文化・風俗・祝福・処世-結婚・宗教的行為-結婚・宗教的行為</desc>
+          </item>
+          <item xml:id="WLSPH.2.3370">
+            <label>2.3370</label>
+            <desc>用-文化・風俗・祝福・処世-遊び・騒ぎ-遊び・騒ぎ</desc>
+          </item>
+          <item xml:id="WLSPH.2.3380">
+            <label>2.3380</label>
+            <desc>用-文化・風俗・祝福・処世-遊び・騒ぎ-遊び・騒ぎ</desc>
+          </item>
+          <item xml:id="WLSPH.2.3390">
+            <label>2.3390</label>
+            <desc>用-文化・風俗・祝福・処世-全身的動作-全身的動作</desc>
+          </item>
+          <item xml:id="WLSPH.2.3391">
+            <label>2.3391</label>
+            <desc>用-文化・風俗・祝福・処世-全身的動作-立ち居</desc>
+          </item>
+          <item xml:id="WLSPH.2.3392">
+            <label>2.3392</label>
+            <desc>用-文化・風俗・祝福・処世-全身的動作-足の動作</desc>
+          </item>
+          <item xml:id="WLSPH.2.3393">
+            <label>2.3393</label>
+            <desc>用-文化・風俗・祝福・処世-全身的動作-手の動作</desc>
+          </item>
+          <item xml:id="WLSPH.2.3394">
+            <label>2.3394</label>
+            <desc>用-文化・風俗・祝福・処世-全身的動作-口の動作</desc>
+          </item>
+          <item xml:id="WLSPH.2.3420">
+            <label>2.3420</label>
+            <desc>用-精神および行為-行為-行為</desc>
+          </item>
+          <item xml:id="WLSPH.2.3430">
+            <label>2.3430</label>
+            <desc>用-精神および行為-行為-失敗</desc>
+          </item>
+          <item xml:id="WLSPH.2.3500">
+            <label>2.3500</label>
+            <desc>用-交わり・応接精神および行為-交わり・応接-交わり・応接</desc>
+          </item>
+          <item xml:id="WLSPH.2.3510">
+            <label>2.3510</label>
+            <desc>用-交わり・応接精神および行為-交わり・応接-交わり・応接</desc>
+          </item>
+          <item xml:id="WLSPH.2.3520">
+            <label>2.3520</label>
+            <desc>用-交わり・応接精神および行為-交わり・応接-約束・交渉</desc>
+          </item>
+          <item xml:id="WLSPH.2.3530">
+            <label>2.3530</label>
+            <desc>用-交わり・応接精神および行為-交わり・応接-競争・攻防・勝敗</desc>
+          </item>
+          <item xml:id="WLSPH.2.3600">
+            <label>2.3600</label>
+            <desc>用-支配・統治精神および行為-支配・統治-支配・統治</desc>
+          </item>
+          <item xml:id="WLSPH.2.3630">
+            <label>2.3630</label>
+            <desc>用-支配・統治精神および行為-支配・統治-人事</desc>
+          </item>
+          <item xml:id="WLSPH.2.3640">
+            <label>2.3640</label>
+            <desc>用-支配・統治精神および行為-支配・統治-教育・救護</desc>
+          </item>
+          <item xml:id="WLSPH.2.3650">
+            <label>2.3650</label>
+            <desc>用-支配・統治精神および行為-支配・統治-教育・救護</desc>
+          </item>
+          <item xml:id="WLSPH.2.3660">
+            <label>2.3660</label>
+            <desc>用-支配・統治精神および行為-支配・統治-請求・命令・制約</desc>
+          </item>
+          <item xml:id="WLSPH.2.3670">
+            <label>2.3670</label>
+            <desc>用-支配・統治精神および行為-支配・統治-請求・命令・制約</desc>
+          </item>
+          <item xml:id="WLSPH.2.3680">
+            <label>2.3680</label>
+            <desc>用-支配・統治精神および行為-支配・統治-待遇</desc>
+          </item>
+          <item xml:id="WLSPH.2.3681">
+            <label>2.3681</label>
+            <desc>用-支配・統治精神および行為-支配・統治-頼り・おもねり・責め・仕返しなど</desc>
+          </item>
+          <item xml:id="WLSPH.2.3682">
+            <label>2.3682</label>
+            <desc>用-支配・統治精神および行為-支配・統治-ほめ・しかり・おだてなど</desc>
+          </item>
+          <item xml:id="WLSPH.2.3683">
+            <label>2.3683</label>
+            <desc>用-支配・統治精神および行為-支配・統治-だまし・なだめ・いじめ・あざけりなど</desc>
+          </item>
+          <item xml:id="WLSPH.2.3700">
+            <label>2.3700</label>
+            <desc>用-精神および行為-所有・取得-所有・取得</desc>
+          </item>
+          <item xml:id="WLSPH.2.3710">
+            <label>2.3710</label>
+            <desc>用-精神および行為-所有・取得-支払・消費</desc>
+          </item>
+          <item xml:id="WLSPH.2.3750">
+            <label>2.3750</label>
+            <desc>用-精神および行為-所有・取得-損得</desc>
+          </item>
+          <item xml:id="WLSPH.2.3760">
+            <label>2.3760</label>
+            <desc>用-精神および行為-所有・取得-取引・売買</desc>
+          </item>
+          <item xml:id="WLSPH.2.3770">
+            <label>2.3770</label>
+            <desc>用-精神および行為-所有・取得-授受</desc>
+          </item>
+          <item xml:id="WLSPH.2.3780">
+            <label>2.3780</label>
+            <desc>用-精神および行為-所有・取得-貸借</desc>
+          </item>
+          <item xml:id="WLSPH.2.3790">
+            <label>2.3790</label>
+            <desc>用-精神および行為-所有・取得-貧富</desc>
+          </item>
+          <item xml:id="WLSPH.2.3810">
+            <label>2.3810</label>
+            <desc>用-精神および行為-事業-農漁など</desc>
+          </item>
+          <item xml:id="WLSPH.2.3820">
+            <label>2.3820</label>
+            <desc>用-精神および行為-事業-工業</desc>
+          </item>
+          <item xml:id="WLSPH.2.3830">
+            <label>2.3830</label>
+            <desc>用-精神および行為-事業-運転・医療・興行など</desc>
+          </item>
+          <item xml:id="WLSPH.2.3840">
+            <label>2.3840</label>
+            <desc>用-精神および行為-事業-裁縫・炊事・洗濯・掃除など</desc>
+          </item>
+          <item xml:id="WLSPH.2.3850">
+            <label>2.3850</label>
+            <desc>用-精神および行為-事業-設備・処理など</desc>
+          </item>
+          <item xml:id="WLSPH.2.3851">
+            <label>2.3851</label>
+            <desc>用-精神および行為-事業-練り・塗り・射ちその他</desc>
+          </item>
+          <item xml:id="WLSPH.2.3852">
+            <label>2.3852</label>
+            <desc>用-精神および行為-事業-扱い・使用</desc>
+          </item>
+          <item xml:id="WLSPH.2.3860">
+            <label>2.3860</label>
+            <desc>用-精神および行為-事業-製造</desc>
+          </item>
+          <item xml:id="WLSPH.2.5010">
+            <label>2.5010</label>
+            <desc>用-自然現象-自然-光</desc>
+          </item>
+          <item xml:id="WLSPH.2.5020">
+            <label>2.5020</label>
+            <desc>用-自然現象-自然-色</desc>
+          </item>
+          <item xml:id="WLSPH.2.5030">
+            <label>2.5030</label>
+            <desc>用-自然現象-自然-音</desc>
+          </item>
+          <item xml:id="WLSPH.2.5040">
+            <label>2.5040</label>
+            <desc>用-自然現象-自然-におい</desc>
+          </item>
+          <item xml:id="WLSPH.2.5060">
+            <label>2.5060</label>
+            <desc>用-自然現象-自然-凝り・粘り・澄みなど</desc>
+          </item>
+          <item xml:id="WLSPH.2.5110">
+            <label>2.5110</label>
+            <desc>用-自然現象-物質-煙・乾湿.煙</desc>
+          </item>
+          <item xml:id="WLSPH.2.5130">
+            <label>2.5130</label>
+            <desc>用-自然現象-物質-煙・乾湿.乾湿</desc>
+          </item>
+          <item xml:id="WLSPH.2.5150">
+            <label>2.5150</label>
+            <desc>用-自然現象-物質-晴雨</desc>
+          </item>
+          <item xml:id="WLSPH.2.5160">
+            <label>2.5160</label>
+            <desc>用-自然現象-物質-凍り・さびなど</desc>
+          </item>
+          <item xml:id="WLSPH.2.5161">
+            <label>2.5161</label>
+            <desc>用-自然現象-物質-火</desc>
+          </item>
+          <item xml:id="WLSPH.2.5170">
+            <label>2.5170</label>
+            <desc>用-自然現象-物質-熱</desc>
+          </item>
+          <item xml:id="WLSPH.2.5810">
+            <label>2.5810</label>
+            <desc>用-自然現象-生命-生・生育</desc>
+          </item>
+          <item xml:id="WLSPH.2.5820">
+            <label>2.5820</label>
+            <desc>用-自然現象-生命-死</desc>
+          </item>
+          <item xml:id="WLSPH.2.5830">
+            <label>2.5830</label>
+            <desc>用-自然現象-生命-生殖</desc>
+          </item>
+          <item xml:id="WLSPH.2.5850">
+            <label>2.5850</label>
+            <desc>用-自然現象-生命-病</desc>
+          </item>
+          <item xml:id="WLSPH.3.1000">
+            <label>3.1000</label>
+            <desc>相-抽象的関係-真偽-こそあど</desc>
+          </item>
+          <item xml:id="WLSPH.3.1010">
+            <label>3.1010</label>
+            <desc>相-抽象的関係-真偽-真・正</desc>
+          </item>
+          <item xml:id="WLSPH.3.1100">
+            <label>3.1100</label>
+            <desc>相-抽象的関係-関係-関係</desc>
+          </item>
+          <item xml:id="WLSPH.3.1110">
+            <label>3.1110</label>
+            <desc>相-抽象的関係-関係-関係の仕方</desc>
+          </item>
+          <item xml:id="WLSPH.3.1120">
+            <label>3.1120</label>
+            <desc>相-抽象的関係-関係-相互・異同</desc>
+          </item>
+          <item xml:id="WLSPH.3.1130">
+            <label>3.1130</label>
+            <desc>相-抽象的関係-関係-整い方</desc>
+          </item>
+          <item xml:id="WLSPH.3.1140">
+            <label>3.1140</label>
+            <desc>相-抽象的関係-関係-さながら</desc>
+          </item>
+          <item xml:id="WLSPH.3.1200">
+            <label>3.1200</label>
+            <desc>相-抽象的関係-在不在-在不在</desc>
+          </item>
+          <item xml:id="WLSPH.3.1210">
+            <label>3.1210</label>
+            <desc>相-抽象的関係-在不在-必然性</desc>
+          </item>
+          <item xml:id="WLSPH.3.1230">
+            <label>3.1230</label>
+            <desc>相-抽象的関係-在不在-可能性</desc>
+          </item>
+          <item xml:id="WLSPH.3.1300">
+            <label>3.1300</label>
+            <desc>相-抽象的関係-繁簡-繁簡</desc>
+          </item>
+          <item xml:id="WLSPH.3.1310">
+            <label>3.1310</label>
+            <desc>相-抽象的関係-繁簡-普通・非凡</desc>
+          </item>
+          <item xml:id="WLSPH.3.1320">
+            <label>3.1320</label>
+            <desc>相-抽象的関係-繁簡-特別・異様</desc>
+          </item>
+          <item xml:id="WLSPH.3.1330">
+            <label>3.1330</label>
+            <desc>相-抽象的関係-繁簡-良不良・適不適</desc>
+          </item>
+          <item xml:id="WLSPH.3.1340">
+            <label>3.1340</label>
+            <desc>相-抽象的関係-繁簡-調子・出来</desc>
+          </item>
+          <item xml:id="WLSPH.3.1400">
+            <label>3.1400</label>
+            <desc>相-抽象的関係-力-力</desc>
+          </item>
+          <item xml:id="WLSPH.3.1500">
+            <label>3.1500</label>
+            <desc>相-抽象的関係-変化・動き-変化・動き（オノマトペ）</desc>
+          </item>
+          <item xml:id="WLSPH.3.1501">
+            <label>3.1501</label>
+            <desc>相-抽象的関係-変化・動き-変化・動き（ぐいぐい）</desc>
+          </item>
+          <item xml:id="WLSPH.3.1502">
+            <label>3.1502</label>
+            <desc>相-抽象的関係-変化・動き-変化・動き（ぱっと）</desc>
+          </item>
+          <item xml:id="WLSPH.3.1503">
+            <label>3.1503</label>
+            <desc>相-抽象的関係-変化・動き-変化・動き（ひょいと）</desc>
+          </item>
+          <item xml:id="WLSPH.3.1511">
+            <label>3.1511</label>
+            <desc>相-抽象的関係-変化・動き-変化・動き（ゆらゆら）</desc>
+          </item>
+          <item xml:id="WLSPH.3.1512">
+            <label>3.1512</label>
+            <desc>相-抽象的関係-変化・動き-変化・動き（くるくる）</desc>
+          </item>
+          <item xml:id="WLSPH.3.1514">
+            <label>3.1514</label>
+            <desc>相-抽象的関係-変化・動き-変化・動き（がくん）</desc>
+          </item>
+          <item xml:id="WLSPH.3.1515">
+            <label>3.1515</label>
+            <desc>相-抽象的関係-変化・動き-変化・動き（ふわり）</desc>
+          </item>
+          <item xml:id="WLSPH.3.1520">
+            <label>3.1520</label>
+            <desc>相-抽象的関係-変化・動き-変化・動き（さっと）</desc>
+          </item>
+          <item xml:id="WLSPH.3.1540">
+            <label>3.1540</label>
+            <desc>相-抽象的関係-変化・動き-変化・動き（はらり）</desc>
+          </item>
+          <item xml:id="WLSPH.3.1550">
+            <label>3.1550</label>
+            <desc>相-抽象的関係-変化・動き-変化・動き（がらんと）</desc>
+          </item>
+          <item xml:id="WLSPH.3.1560">
+            <label>3.1560</label>
+            <desc>相-抽象的関係-変化・動き-変化・動き（べったり）</desc>
+          </item>
+          <item xml:id="WLSPH.3.1570">
+            <label>3.1570</label>
+            <desc>相-抽象的関係-変化・動き-変化・動き（ぐさり）</desc>
+          </item>
+          <item xml:id="WLSPH.3.1600">
+            <label>3.1600</label>
+            <desc>相-抽象的関係-時-時</desc>
+          </item>
+          <item xml:id="WLSPH.3.1610">
+            <label>3.1610</label>
+            <desc>相-抽象的関係-時-すぐ・次第になど</desc>
+          </item>
+          <item xml:id="WLSPH.3.1620">
+            <label>3.1620</label>
+            <desc>相-抽象的関係-時-一度に・再び・毎度など</desc>
+          </item>
+          <item xml:id="WLSPH.3.1640">
+            <label>3.1640</label>
+            <desc>相-抽象的関係-時-過現未</desc>
+          </item>
+          <item xml:id="WLSPH.3.1650">
+            <label>3.1650</label>
+            <desc>相-抽象的関係-時-まだ・もう・もっと・また</desc>
+          </item>
+          <item xml:id="WLSPH.3.1660">
+            <label>3.1660</label>
+            <desc>相-抽象的関係-時-久しい・若い・早い</desc>
+          </item>
+          <item xml:id="WLSPH.3.1661">
+            <label>3.1661</label>
+            <desc>相-抽象的関係-時-新しい・古い</desc>
+          </item>
+          <item xml:id="WLSPH.3.1670">
+            <label>3.1670</label>
+            <desc>相-抽象的関係-時-翌・次</desc>
+          </item>
+          <item xml:id="WLSPH.3.1710">
+            <label>3.1710</label>
+            <desc>相-抽象的関係-空間-関係位置</desc>
+          </item>
+          <item xml:id="WLSPH.3.1720">
+            <label>3.1720</label>
+            <desc>相-抽象的関係-空間-場所</desc>
+          </item>
+          <item xml:id="WLSPH.3.1800">
+            <label>3.1800</label>
+            <desc>相-抽象的関係-形状・肌理-形・丸い・平たい・荒らい・まっすぐ・水平など</desc>
+          </item>
+          <item xml:id="WLSPH.3.1820">
+            <label>3.1820</label>
+            <desc>相-抽象的関係-形状・肌理-形・丸い・平たい・荒らい・まっすぐ・水平など</desc>
+          </item>
+          <item xml:id="WLSPH.3.1830">
+            <label>3.1830</label>
+            <desc>相-抽象的関係-形状・肌理-しなやか・きれぎれ・ふさふさなど</desc>
+          </item>
+          <item xml:id="WLSPH.3.1920">
+            <label>3.1920</label>
+            <desc>相-抽象的関係-量-長い・広い</desc>
+          </item>
+          <item xml:id="WLSPH.3.1921">
+            <label>3.1921</label>
+            <desc>相-抽象的関係-量-厚い・太い・大きい</desc>
+          </item>
+          <item xml:id="WLSPH.3.1930">
+            <label>3.1930</label>
+            <desc>相-抽象的関係-量-重い・軽い</desc>
+          </item>
+          <item xml:id="WLSPH.3.1940">
+            <label>3.1940</label>
+            <desc>相-抽象的関係-量-速い・遅い</desc>
+          </item>
+          <item xml:id="WLSPH.3.1950">
+            <label>3.1950</label>
+            <desc>相-抽象的関係-量-多い・少ない</desc>
+          </item>
+          <item xml:id="WLSPH.3.1980">
+            <label>3.1980</label>
+            <desc>相-抽象的関係-量-ひとり・みんな</desc>
+          </item>
+          <item xml:id="WLSPH.3.1990">
+            <label>3.1990</label>
+            <desc>相-抽象的関係-量-限り・全く</desc>
+          </item>
+          <item xml:id="WLSPH.3.1991">
+            <label>3.1991</label>
+            <desc>相-抽象的関係-量-くらい・ほど</desc>
+          </item>
+          <item xml:id="WLSPH.3.1992">
+            <label>3.1992</label>
+            <desc>相-抽象的関係-量-およそ・かつがつ・最も・もっと</desc>
+          </item>
+          <item xml:id="WLSPH.3.1993">
+            <label>3.1993</label>
+            <desc>相-抽象的関係-量-かなり・はなはだ・あまり</desc>
+          </item>
+          <item xml:id="WLSPH.3.3000">
+            <label>3.3000</label>
+            <desc>相-精神および行為-意識・感覚-意識・感覚</desc>
+          </item>
+          <item xml:id="WLSPH.3.3010">
+            <label>3.3010</label>
+            <desc>相-精神および行為-意識・感覚-驚き・楽しい・快い</desc>
+          </item>
+          <item xml:id="WLSPH.3.3011">
+            <label>3.3011</label>
+            <desc>相-精神および行為-意識・感覚-苦しい・悲しい・こわい</desc>
+          </item>
+          <item xml:id="WLSPH.3.3012">
+            <label>3.3012</label>
+            <desc>相-精神および行為-意識・感覚-はずかしい・ほしい・くやしい・ありがたい</desc>
+          </item>
+          <item xml:id="WLSPH.3.3020">
+            <label>3.3020</label>
+            <desc>相-精神および行為-意識・感覚-好き・きらい・かわいい・にくらしい</desc>
+          </item>
+          <item xml:id="WLSPH.3.3030">
+            <label>3.3030</label>
+            <desc>相-精神および行為-意識・感覚-しくしく・にこにこ・ぷりぷり</desc>
+          </item>
+          <item xml:id="WLSPH.3.3040">
+            <label>3.3040</label>
+            <desc>相-精神および行為-意識・感覚-かしこい・おろか</desc>
+          </item>
+          <item xml:id="WLSPH.3.3050">
+            <label>3.3050</label>
+            <desc>相-精神および行為-意識・感覚-じょうず・へた</desc>
+          </item>
+          <item xml:id="WLSPH.3.3060">
+            <label>3.3060</label>
+            <desc>相-精神および行為-意識・感覚-くわしい・たしか・あやしい</desc>
+          </item>
+          <item xml:id="WLSPH.3.3070">
+            <label>3.3070</label>
+            <desc>相-精神および行為-意識・感覚-意味</desc>
+          </item>
+          <item xml:id="WLSPH.3.3090">
+            <label>3.3090</label>
+            <desc>相-精神および行為-意識・感覚-眼</desc>
+          </item>
+          <item xml:id="WLSPH.3.3100">
+            <label>3.3100</label>
+            <desc>相-精神および行為-ことば-ことば</desc>
+          </item>
+          <item xml:id="WLSPH.3.3300">
+            <label>3.3300</label>
+            <desc>相-精神および行為-風俗-風俗</desc>
+          </item>
+          <item xml:id="WLSPH.3.3310">
+            <label>3.3310</label>
+            <desc>相-精神および行為-風俗-禍福・世情</desc>
+          </item>
+          <item xml:id="WLSPH.3.3320">
+            <label>3.3320</label>
+            <desc>相-精神および行為-風俗-仕事</desc>
+          </item>
+          <item xml:id="WLSPH.3.3330">
+            <label>3.3330</label>
+            <desc>相-精神および行為-風俗-衣食住</desc>
+          </item>
+          <item xml:id="WLSPH.3.3350">
+            <label>3.3350</label>
+            <desc>相-精神および行為-風俗-吉凶・神秘</desc>
+          </item>
+          <item xml:id="WLSPH.3.3390">
+            <label>3.3390</label>
+            <desc>相-精神および行為-風俗-身のふるまい</desc>
+          </item>
+          <item xml:id="WLSPH.3.3400">
+            <label>3.3400</label>
+            <desc>相-精神および行為-身上-身上</desc>
+          </item>
+          <item xml:id="WLSPH.3.3410">
+            <label>3.3410</label>
+            <desc>相-精神および行為-身上-偉い・けち・すごい・不届き</desc>
+          </item>
+          <item xml:id="WLSPH.3.3420">
+            <label>3.3420</label>
+            <desc>相-精神および行為-身上-純情・正直・愼重</desc>
+          </item>
+          <item xml:id="WLSPH.3.3430">
+            <label>3.3430</label>
+            <desc>相-精神および行為-身上-がんこ・率直・気軽</desc>
+          </item>
+          <item xml:id="WLSPH.3.3440">
+            <label>3.3440</label>
+            <desc>相-精神および行為-身上-強気・勇敢・大胆</desc>
+          </item>
+          <item xml:id="WLSPH.3.3450">
+            <label>3.3450</label>
+            <desc>相-精神および行為-身上-快活・柔和・勇猛</desc>
+          </item>
+          <item xml:id="WLSPH.3.3460">
+            <label>3.3460</label>
+            <desc>相-精神および行為-身上-みずから・あえて・ぬけぬけ</desc>
+          </item>
+          <item xml:id="WLSPH.3.3470">
+            <label>3.3470</label>
+            <desc>相-精神および行為-身上-熱心・努力</desc>
+          </item>
+          <item xml:id="WLSPH.3.3480">
+            <label>3.3480</label>
+            <desc>相-精神および行為-身上-細心・勤勉・けなげ</desc>
+          </item>
+          <item xml:id="WLSPH.3.3500">
+            <label>3.3500</label>
+            <desc>相-精神および行為-交渉・交際-交渉・交際</desc>
+          </item>
+          <item xml:id="WLSPH.3.3600">
+            <label>3.3600</label>
+            <desc>相-精神および行為-公式・公平-公式・公平</desc>
+          </item>
+          <item xml:id="WLSPH.3.3680">
+            <label>3.3680</label>
+            <desc>相-精神および行為-公式・公平-ていねい・親切（対人態度）</desc>
+          </item>
+          <item xml:id="WLSPH.3.3700">
+            <label>3.3700</label>
+            <desc>相-精神および行為-経済-経済</desc>
+          </item>
+          <item xml:id="WLSPH.3.5010">
+            <label>3.5010</label>
+            <desc>相-自然現象-自然-光</desc>
+          </item>
+          <item xml:id="WLSPH.3.5020">
+            <label>3.5020</label>
+            <desc>相-自然現象-自然-色</desc>
+          </item>
+          <item xml:id="WLSPH.3.5030">
+            <label>3.5030</label>
+            <desc>相-自然現象-自然-音</desc>
+          </item>
+          <item xml:id="WLSPH.3.5040">
+            <label>3.5040</label>
+            <desc>相-自然現象-自然-におい</desc>
+          </item>
+          <item xml:id="WLSPH.3.5050">
+            <label>3.5050</label>
+            <desc>相-自然現象-自然-味</desc>
+          </item>
+          <item xml:id="WLSPH.3.5060">
+            <label>3.5060</label>
+            <desc>相-自然現象-自然-材質</desc>
+          </item>
+          <item xml:id="WLSPH.3.5130">
+            <label>3.5130</label>
+            <desc>相-自然現象-物質-水分</desc>
+          </item>
+          <item xml:id="WLSPH.3.5150">
+            <label>3.5150</label>
+            <desc>相-自然現象-物質-気象</desc>
+          </item>
+          <item xml:id="WLSPH.3.5160">
+            <label>3.5160</label>
+            <desc>相-自然現象-物質-火</desc>
+          </item>
+          <item xml:id="WLSPH.3.5200">
+            <label>3.5200</label>
+            <desc>相-自然現象-地-地</desc>
+          </item>
+          <item xml:id="WLSPH.3.5500">
+            <label>3.5500</label>
+            <desc>相-自然現象-生・性-生・性</desc>
+          </item>
+          <item xml:id="WLSPH.3.5700">
+            <label>3.5700</label>
+            <desc>相-自然現象-からだ-からだ</desc>
+          </item>
+          <item xml:id="WLSPH.3.5810">
+            <label>3.5810</label>
+            <desc>相-自然現象-生命-生育</desc>
+          </item>
+          <item xml:id="WLSPH.3.5840">
+            <label>3.5840</label>
+            <desc>相-自然現象-生命-健康</desc>
+          </item>
+          <item xml:id="WLSPH.4.1100">
+            <label>4.1100</label>
+            <desc>接続-接続-接続-接続</desc>
+          </item>
+          <item xml:id="WLSPH.4.1110">
+            <label>4.1110</label>
+            <desc>接続-接続-接続-累加</desc>
+          </item>
+          <item xml:id="WLSPH.4.1120">
+            <label>4.1120</label>
+            <desc>接続-接続-接続-展開</desc>
+          </item>
+          <item xml:id="WLSPH.4.1130">
+            <label>4.1130</label>
+            <desc>接続-接続-接続-反対</desc>
+          </item>
+          <item xml:id="WLSPH.4.1140">
+            <label>4.1140</label>
+            <desc>接続-接続-接続-選択</desc>
+          </item>
+          <item xml:id="WLSPH.4.1150">
+            <label>4.1150</label>
+            <desc>接続-接続-接続-同帰</desc>
+          </item>
+          <item xml:id="WLSPH.4.1160">
+            <label>4.1160</label>
+            <desc>接続-接続-接続-補充</desc>
+          </item>
+          <item xml:id="WLSPH.4.1170">
+            <label>4.1170</label>
+            <desc>接続-接続-接続-転換</desc>
+          </item>
+          <item xml:id="WLSPH.4.1180">
+            <label>4.1180</label>
+            <desc>接続-接続-接続-理由</desc>
+          </item>
+          <item xml:id="WLSPH.4.3000">
+            <label>4.3000</label>
+            <desc>接続-感動-感動声-感動声</desc>
+          </item>
+          <item xml:id="WLSPH.4.3010">
+            <label>4.3010</label>
+            <desc>接続-感動-感動声-掛け声</desc>
+          </item>
+          <item xml:id="WLSPH.4.3100">
+            <label>4.3100</label>
+            <desc>接続-感動-間投-間投および表現態度</desc>
+          </item>
+          <item xml:id="WLSPH.4.3100">
+            <label>4.3100</label>
+            <desc>接続-感動-間投-間投</desc>
+          </item>
+          <item xml:id="WLSPH.4.3110">
+            <label>4.3110</label>
+            <desc>接続-感動-間投-判断</desc>
+          </item>
+          <item xml:id="WLSPH.4.3120">
+            <label>4.3120</label>
+            <desc>接続-感動-間投-判定</desc>
+          </item>
+          <item xml:id="WLSPH.4.3130">
+            <label>4.3130</label>
+            <desc>接続-感動-間投-予期</desc>
+          </item>
+          <item xml:id="WLSPH.4.3140">
+            <label>4.3140</label>
+            <desc>接続-感動-間投-希望</desc>
+          </item>
+          <item xml:id="WLSPH.4.3150">
+            <label>4.3150</label>
+            <desc>接続-感動-間投-仮定</desc>
+          </item>
+          <item xml:id="WLSPH.4.3160">
+            <label>4.3160</label>
+            <desc>接続-感動-間投-うたた</desc>
+          </item>
+          <item xml:id="WLSPH.4.3170">
+            <label>4.3170</label>
+            <desc>接続-感動-間投-なんと</desc>
+          </item>
+          <item xml:id="WLSPH.4.3200">
+            <label>4.3200</label>
+            <desc>接続-感動-呼びかけ・応答-呼びかけ</desc>
+          </item>
+          <item xml:id="WLSPH.4.3210">
+            <label>4.3210</label>
+            <desc>接続-感動-呼びかけ・応答-応答</desc>
+          </item>
+          <item xml:id="WLSPH.4.3300">
+            <label>4.3300</label>
+            <desc>接続-感動-あいさつその他-祈り</desc>
+          </item>
+          <item xml:id="WLSPH.4.3310">
+            <label>4.3310</label>
+            <desc>接続-感動-あいさつその他-日常</desc>
+          </item>
+          <item xml:id="WLSPH.4.3320">
+            <label>4.3320</label>
+            <desc>接続-感動-あいさつその他-文面</desc>
+          </item>
+          <item xml:id="WLSPH.4.3400">
+            <label>4.3400</label>
+            <desc>接続-感動-云々-云々</desc>
+          </item>
+          <item xml:id="WLSPH.4.3500">
+            <label>4.3500</label>
+            <desc>接続-感動-待遇-待遇</desc>
+          </item>
+          <item xml:id="WLSPH.5.0000">
+            <label>5.0000</label>
+            <desc>接頭辞-接頭辞-接頭辞-接頭辞</desc>
+          </item>
+          <item xml:id="WLSPH.5.0010">
+            <label>5.0010</label>
+            <desc>接頭辞-接頭辞-接頭辞-名詞化接頭辞</desc>
+          </item>
+          <item xml:id="WLSPH.5.0020">
+            <label>5.0020</label>
+            <desc>接頭辞-接頭辞-接頭辞-動詞化接頭辞</desc>
+          </item>
+          <item xml:id="WLSPH.5.0030">
+            <label>5.0030</label>
+            <desc>接頭辞-接頭辞-接頭辞-形容詞化接頭辞</desc>
+          </item>
+          <item xml:id="WLSPH.5.0040">
+            <label>5.0040</label>
+            <desc>接頭辞-接頭辞-接頭辞-形容動詞化接頭辞</desc>
+          </item>
+          <item xml:id="WLSPH.5.0050">
+            <label>5.0050</label>
+            <desc>接頭辞-接頭辞-接頭辞-副詞化接頭辞</desc>
+          </item>
+          <item xml:id="WLSPH.5.0060">
+            <label>5.0060</label>
+            <desc>接頭辞-接頭辞-接頭辞-語調接頭辞</desc>
+          </item>
+          <item xml:id="WLSPH.5.0070">
+            <label>5.0070</label>
+            <desc>接頭辞-接頭辞-接頭辞-待遇神聖丁寧接頭辞</desc>
+          </item>
+          <item xml:id="WLSPH.5.0080">
+            <label>5.0080</label>
+            <desc>接頭辞-接頭辞-接頭辞-様態・擬態・擬音接頭辞</desc>
+          </item>
+          <item xml:id="WLSPH.5.0090">
+            <label>5.0090</label>
+            <desc>接頭辞-接頭辞-接頭辞-数量程度接頭辞</desc>
+          </item>
+          <item xml:id="WLSPH.5.0100">
+            <label>5.0100</label>
+            <desc>接頭辞-接頭辞-その他-その他</desc>
+          </item>
+          <item xml:id="WLSPH.6.0000">
+            <label>6.0000</label>
+            <desc>接中辞-接中辞-接中辞-接中辞</desc>
+          </item>
+          <item xml:id="WLSPH.6.0010">
+            <label>6.0010</label>
+            <desc>接中辞-接中辞-接中辞-名詞化接中辞</desc>
+          </item>
+          <item xml:id="WLSPH.6.0020">
+            <label>6.0020</label>
+            <desc>接中辞-接中辞-接中辞-動詞化接中辞</desc>
+          </item>
+          <item xml:id="WLSPH.6.0030">
+            <label>6.0030</label>
+            <desc>接中辞-接中辞-接中辞-形容詞化接中辞</desc>
+          </item>
+          <item xml:id="WLSPH.6.0040">
+            <label>6.0040</label>
+            <desc>接中辞-接中辞-接中辞-形容動詞化接中辞</desc>
+          </item>
+          <item xml:id="WLSPH.6.0050">
+            <label>6.0050</label>
+            <desc>接中辞-接中辞-接中辞-副詞化接中辞</desc>
+          </item>
+          <item xml:id="WLSPH.6.0060">
+            <label>6.0060</label>
+            <desc>接中辞-接中辞-接中辞-その他</desc>
+          </item>
+          <item xml:id="WLSPH.7.0000">
+            <label>7.0000</label>
+            <desc>接尾辞-接尾辞-接尾辞-接尾辞</desc>
+          </item>
+          <item xml:id="WLSPH.7.0010">
+            <label>7.0010</label>
+            <desc>接尾辞-接尾辞-接尾辞-名詞接尾辞</desc>
+          </item>
+          <item xml:id="WLSPH.7.0020">
+            <label>7.0020</label>
+            <desc>接尾辞-接尾辞-接尾辞-動詞化接尾辞</desc>
+          </item>
+          <item xml:id="WLSPH.7.0030">
+            <label>7.0030</label>
+            <desc>接尾辞-接尾辞-接尾辞-形容詞接尾辞</desc>
+          </item>
+          <item xml:id="WLSPH.7.0040">
+            <label>7.0040</label>
+            <desc>接尾辞-接尾辞-接尾辞-形容動詞接尾辞</desc>
+          </item>
+          <item xml:id="WLSPH.7.0050">
+            <label>7.0050</label>
+            <desc>接尾辞-接尾辞-接尾辞-副詞接尾辞</desc>
+          </item>
+          <item xml:id="WLSPH.7.0060">
+            <label>7.0060</label>
+            <desc>接尾辞-接尾辞-接尾辞-語調接尾辞</desc>
+          </item>
+          <item xml:id="WLSPH.7.0070">
+            <label>7.0070</label>
+            <desc>接尾辞-接尾辞-接尾辞-待遇神聖丁寧接尾辞</desc>
+          </item>
+          <item xml:id="WLSPH.7.0080">
+            <label>7.0080</label>
+            <desc>接尾辞-接尾辞-接尾辞-擬態・擬音接尾辞</desc>
+          </item>
+          <item xml:id="WLSPH.7.0090">
+            <label>7.0090</label>
+            <desc>接尾辞-接尾辞-接尾辞-数量接尾辞</desc>
+          </item>
+          <item xml:id="WLSPH.7.0100">
+            <label>7.0100</label>
+            <desc>接尾辞-接尾辞-その他-その他</desc>
+          </item>
+          <item xml:id="WLSPH.8.0061">
+            <label>8.0061</label>
+            <desc>助詞-助詞-助詞-一般</desc>
+          </item>
+          <item xml:id="WLSPH.8.0062">
+            <label>8.0062</label>
+            <desc>助詞-助詞-助詞-引用</desc>
+          </item>
+          <item xml:id="WLSPH.8.0063">
+            <label>8.0063</label>
+            <desc>助詞-助詞-助詞-連語</desc>
+          </item>
+          <item xml:id="WLSPH.8.0064">
+            <label>8.0064</label>
+            <desc>助詞-助詞-助詞-接続助詞</desc>
+          </item>
+          <item xml:id="WLSPH.8.0065">
+            <label>8.0065</label>
+            <desc>助詞-助詞-助詞-係助詞</desc>
+          </item>
+          <item xml:id="WLSPH.8.0066">
+            <label>8.0066</label>
+            <desc>助詞-助詞-助詞-副助詞</desc>
+          </item>
+          <item xml:id="WLSPH.8.0068">
+            <label>8.0068</label>
+            <desc>助詞-助詞-助詞-並立助詞</desc>
+          </item>
+          <item xml:id="WLSPH.8.0069">
+            <label>8.0069</label>
+            <desc>助詞-助詞-助詞-終助詞</desc>
+          </item>
+          <item xml:id="WLSPH.8.0070">
+            <label>8.0070</label>
+            <desc>助詞-助詞-助詞-副助詞・並立助詞・終助詞</desc>
+          </item>
+          <item xml:id="WLSPH.8.0071">
+            <label>8.0071</label>
+            <desc>助詞-助詞-助詞-連体化</desc>
+          </item>
+          <item xml:id="WLSPH.8.0072">
+            <label>8.0072</label>
+            <desc>助詞-助詞-助詞-副詞化</desc>
+          </item>
+          <item xml:id="WLSPH.8.0073">
+            <label>8.0073</label>
+            <desc>助詞-助詞-副助詞・並立助詞・終助詞-助詞-特殊</desc>
+          </item>
+          <item xml:id="WLSPH.9.0000">
+            <label>9.0000</label>
+            <desc>助動詞-助動詞-助動詞-助動詞</desc>
+          </item>
+          <item xml:id="WLSPH.9.0010">
+            <label>9.0010</label>
+            <desc>助動詞-助動詞-助動詞-第四類</desc>
+          </item>
+          <item xml:id="WLSPH.9.0020">
+            <label>9.0020</label>
+            <desc>助動詞-助動詞-助動詞-第三類</desc>
+          </item>
+          <item xml:id="WLSPH.9.0030">
+            <label>9.0030</label>
+            <desc>助動詞-助動詞-助動詞-第二類</desc>
+          </item>
+          <item xml:id="WLSPH.9.0040">
+            <label>9.0040</label>
+            <desc>助動詞-助動詞-助動詞-第一類</desc>
+          </item>
+          <item xml:id="WLSPH.9.0050">
+            <label>9.0050</label>
+            <desc>助動詞-助動詞-助動詞-別類</desc>
+          </item>
+          <item xml:id="WLSPH.9.0060">
+            <label>9.0060</label>
+            <desc>助動詞-助動詞-助動詞-その他</desc>
+          </item>
+          <item xml:id="WLSPH.9.0060">
+            <label>9.0060</label>
+            <desc>助動詞-助動詞-助動詞-その他連語</desc>
+          </item>
+          <item xml:id="WLSPH.10.0000">
+            <label>10.0000</label>
+            <desc>補助動詞・補助形容詞-補助動詞・補助形容詞-補助動詞・補助形容詞-補助動詞・補助形容詞</desc>
+          </item>
+          <item xml:id="WLSPH.11.0000">
+            <label>11.0000</label>
+            <desc>関係詞-関係詞-関係詞-関係詞</desc>
+          </item>
+          <item xml:id="WLSPH.12.0000">
+            <label>12.0000</label>
+            <desc>語尾-語尾-語尾-語尾</desc>
+          </item>
+          <item xml:id="WLSPH.12.0010">
+            <label>12.0010</label>
+            <desc>語尾-語尾-語尾-格語尾</desc>
+          </item>
+          <item xml:id="WLSPH.12.0020">
+            <label>12.0020</label>
+            <desc>語尾-語尾-語尾-人称語尾</desc>
+          </item>
+          <item xml:id="WLSPH.12.0030">
+            <label>12.0030</label>
+            <desc>語尾-語尾-語尾-性数語尾</desc>
+          </item>
+          <item xml:id="WLSPH.12.0040">
+            <label>12.0040</label>
+            <desc>語尾-語尾-語尾-時制語尾</desc>
+          </item>
+          <item xml:id="WLSPH.12.0050">
+            <label>12.0050</label>
+            <desc>語尾-語尾-語尾-先語末語尾</desc>
+          </item>
+          <item xml:id="WLSPH.12.0060">
+            <label>12.0060</label>
+            <desc>語尾-語尾-語尾-終結語尾</desc>
+          </item>
+          <item xml:id="WLSPH.12.0070">
+            <label>12.0070</label>
+            <desc>語尾-語尾-語尾-連結語尾</desc>
+          </item>
+          <item xml:id="WLSPH.12.0080">
+            <label>12.0080</label>
+            <desc>語尾-語尾-語尾-転成語尾</desc>
+          </item>
+          <item xml:id="WLSPH.13.0000">
+            <label>13.0000</label>
+            <desc>前置詞・介詞-前置詞・介詞-前置詞・介詞-前置詞・介詞</desc>
+          </item>
+          <item xml:id="WLSPH.14.0000">
+            <label>14.0000</label>
+            <desc>意味不明-意味不明-意味不明-意味不明</desc>
+          </item>
+          <item xml:id="WLSPH.15.0000">
+            <label>15.0000</label>
+            <desc>固有名詞-固有名詞-固有名詞-固有名詞</desc>
+          </item>
+          <item xml:id="WLSPH.17.0000">
+            <label>17.0000</label>
+            <desc>掛詞処理-掛詞処理-掛詞処理-掛詞処理</desc>
+          </item>
+          <item xml:id="WLSPH.18.0000">
+            <label>18.0000</label>
+            <desc>助数詞-助数詞-助数詞-助数詞</desc>
+          </item>
+          <item xml:id="WLSPH.PR.01.AK00">
+            <label>PR.01.AK00</label>
+            <desc>人名-天児屋根</desc>
+          </item>
+          <item xml:id="WLSPH.PR.01.00IM">
+            <label>PR.01.00IM</label>
+            <desc>人名-斎院</desc>
+          </item>
+          <item xml:id="WLSPH.PR.01.UT00">
+            <label>PR.01.UT00</label>
+            <desc>人名-浦島が子</desc>
+          </item>
+          <item xml:id="WLSPH.PR.01.MS00">
+            <label>PR.01.MS00</label>
+            <desc>人名-松浦佐用姫</desc>
+          </item>
+          <item xml:id="WLSPH.PR.01.00TH">
+            <label>PR.01.00TH</label>
+            <desc>人名-玉依姫</desc>
+          </item>
+          <item xml:id="WLSPH.PR.01.KH00">
+            <label>PR.01.KH00</label>
+            <desc>人名-人麿</desc>
+          </item>
+          <item xml:id="WLSPH.PR.01.TH00">
+            <label>PR.01.TH00</label>
+            <desc>人名-豊岡姫</desc>
+          </item>
+          <item xml:id="WLSPH.PR.01.OM00">
+            <label>PR.01.OM00</label>
+            <desc>人名-大汝</desc>
+          </item>
+          <item xml:id="WLSPH.PR.01.SK00">
+            <label>PR.01.SK00</label>
+            <desc>人名-少御神</desc>
+          </item>
+          <item xml:id="WLSPH.PR.01.MK00">
+            <label>PR.01.MK00</label>
+            <desc>人名-産霊の神</desc>
+          </item>
+          <item xml:id="WLSPH.PR.01.OS00">
+            <label>PR.01.OS00</label>
+            <desc>人名-輔親</desc>
+          </item>
+          <item xml:id="WLSPH.CH.29.0000">
+            <label>CH.29.0000</label>
+            <desc>地名-奈良県</desc>
+          </item>
+          <item xml:id="WLSPH.CH.26.5240">
+            <label>CH.26.5240</label>
+            <desc>地名-京都府-自然・物体・物質-天地-地形・山野</desc>
+          </item>
+          <item xml:id="WLSPH.CH.28.0000">
+            <label>CH.28.0000</label>
+            <desc>地名-兵庫県</desc>
+          </item>
+          <item xml:id="WLSPH.CH.22.0000">
+            <label>CH.22.0000</label>
+            <desc>地名-静岡県</desc>
+          </item>
+          <item xml:id="WLSPH.CH.90.0000">
+            <label>CH.90.0000</label>
+            <desc>地名-不明</desc>
+          </item>
+          <item xml:id="WLSPH.CH.25.0000">
+            <label>CH.25.0000</label>
+            <desc>地名-滋賀県</desc>
+          </item>
+          <item xml:id="WLSPH.CH.40.0000">
+            <label>CH.40.0000</label>
+            <desc>地名-福岡県</desc>
+          </item>
+          <item xml:id="WLSPH.CH.30.5240">
+            <label>CH.30.5240</label>
+            <desc>地名-和歌山県-自然・物体・物質-天地-地形・山野</desc>
+          </item>
+          <item xml:id="WLSPH.CH.IN.0000">
+            <label>CH.IN.0000</label>
+          </item>
+          <item xml:id="WLSPH.CH.29.5240">
+            <label>CH.29.5240</label>
+            <desc>地名-奈良県-自然・物体・物質-天地-地形・山野</desc>
+          </item>
+          <item xml:id="WLSPH.CH.29.5250">
+            <label>CH.29.5250</label>
+            <desc>地名-奈良県-自然・物体・物質-天地-川・湖</desc>
+          </item>
+          <item xml:id="WLSPH.CH.02.4710">
+            <label>CH.02.4710</label>
+            <desc>地名-青森県-生産物および用具-地類（土地利用）-道路・橋</desc>
+          </item>
+          <item xml:id="WLSPH.CH.07.0000">
+            <label>CH.07.0000</label>
+            <desc>地名-福島県</desc>
+          </item>
+          <item xml:id="WLSPH.CH.26.0000">
+            <label>CH.26.0000</label>
+            <desc>地名-京都府</desc>
+          </item>
+          <item xml:id="WLSPH.CH.27.5260">
+            <label>CH.27.5260</label>
+            <desc>地名-大阪府-自然・物体・物質-天地-海・島</desc>
+          </item>
+          <item xml:id="WLSPH.CH.27.0000">
+            <label>CH.27.0000</label>
+            <desc>地名-大阪府</desc>
+          </item>
+          <item xml:id="WLSPH.CH.27.5250">
+            <label>CH.27.5250</label>
+            <desc>地名-大阪府-自然・物体・物質-天地-川・湖</desc>
+          </item>
+          <item xml:id="WLSPH.CH.26.5250">
+            <label>CH.26.5250</label>
+            <desc>地名-京都府-自然・物体・物質-天地-川・湖</desc>
+          </item>
+          <item xml:id="WLSPH.CH.04.0000">
+            <label>CH.04.0000</label>
+            <desc>地名-宮城県</desc>
+          </item>
+          <item xml:id="WLSPH.CH.CH.0000">
+            <label>CH.CH.0000</label>
+          </item>
+          <item xml:id="WLSPH.CH.02.0000">
+            <label>CH.02.0000</label>
+            <desc>地名-青森県</desc>
+          </item>
+          <item xml:id="WLSPH.CH.37.0000">
+            <label>CH.37.0000</label>
+            <desc>地名-香川県</desc>
+          </item>
+          <item xml:id="WLSPH.CH.19.0000">
+            <label>CH.19.0000</label>
+            <desc>地名-山梨県</desc>
+          </item>
+          <item xml:id="WLSPH.CH.27.5240">
+            <label>CH.27.5240</label>
+            <desc>地名-大阪府-自然・物体・物質-天地-地形・山野</desc>
+          </item>
+          <item xml:id="WLSPH.CH.13.0000">
+            <label>CH.13.0000</label>
+            <desc>地名-東京都</desc>
+          </item>
+          <item xml:id="WLSPH.CH.30.2530">
+            <label>CH.30.2530</label>
+            <desc>地名-和歌山県-人間活動の主体-公私-国</desc>
+          </item>
+          <item xml:id="WLSPH.CH.24.5250">
+            <label>CH.24.5250</label>
+            <desc>地名-三重県-自然・物体・物質-天地-川・湖</desc>
+          </item>
+          <item xml:id="WLSPH.CH.25.5240">
+            <label>CH.25.5240</label>
+            <desc>地名-滋賀県-自然・物体・物質-天地-地形・山野</desc>
+          </item>
+          <item xml:id="WLSPH.CH.40.5240">
+            <label>CH.40.5240</label>
+            <desc>地名-福岡県-自然・物体・物質-天地-地形・山野</desc>
+          </item>
+          <item xml:id="WLSPH.CH.04.5240">
+            <label>CH.04.5240</label>
+            <desc>地名-宮城県-自然・物体・物質-天地-地形・山野</desc>
+          </item>
+          <item xml:id="WLSPH.CH.32.0000">
+            <label>CH.32.0000</label>
+            <desc>地名-島根県</desc>
+          </item>
+          <item xml:id="WLSPH.CH.30.0000">
+            <label>CH.30.0000</label>
+            <desc>地名-和歌山県</desc>
+          </item>
+          <item xml:id="WLSPH.CH.00.0000">
+            <label>CH.00.0000</label>
+          </item>
+          <item xml:id="WLSPH.CH.21.0000">
+            <label>CH.21.0000</label>
+            <desc>地名-岐阜県</desc>
+          </item>
+          <item xml:id="WLSPH.CH.05.0000">
+            <label>CH.05.0000</label>
+            <desc>地名-秋田県</desc>
+          </item>
+          <item xml:id="WLSPH.CH.28.5260">
+            <label>CH.28.5260</label>
+            <desc>地名-兵庫県-自然・物体・物質-天地-海・島</desc>
+          </item>
+          <item xml:id="WLSPH.CH.20.5240">
+            <label>CH.20.5240</label>
+            <desc>地名-長野県-自然・物体・物質-天地-地形・山野</desc>
+          </item>
+          <item xml:id="WLSPH.CH.20.0000">
+            <label>CH.20.0000</label>
+            <desc>地名-長野県</desc>
+          </item>
+          <item xml:id="WLSPH.CH.24.0000">
+            <label>CH.24.0000</label>
+            <desc>地名-三重県</desc>
+          </item>
+          <item xml:id="WLSPH.CH.28.5240">
+            <label>CH.28.5240</label>
+            <desc>地名-兵庫県-自然・物体・物質-天地-地形・山野</desc>
+          </item>
+          <item xml:id="WLSPH.CH.16.5260">
+            <label>CH.16.5260</label>
+            <desc>地名-富山県-自然・物体・物質-天地-海・島</desc>
+          </item>
+          <item xml:id="WLSPH.CH.16.0000">
+            <label>CH.16.0000</label>
+            <desc>地名-富山県</desc>
+          </item>
+          <item xml:id="WLSPH.CH.10.0000">
+            <label>CH.10.0000</label>
+            <desc>地名-群馬県</desc>
+          </item>
+          <item xml:id="WLSPH.CH.33.0000">
+            <label>CH.33.0000</label>
+            <desc>地名-岡山県</desc>
+          </item>
+          <item xml:id="WLSPH.CH.22.5240">
+            <label>CH.22.5240</label>
+            <desc>地名-静岡県-自然・物体・物質-天地-地形・山野</desc>
+          </item>
+          <item xml:id="WLSPH.CH.08.0000">
+            <label>CH.08.0000</label>
+            <desc>地名-茨城県</desc>
+          </item>
+          <item xml:id="WLSPH.CH.36.0000">
+            <label>CH.36.0000</label>
+            <desc>地名-徳島県</desc>
+          </item>
+          <item xml:id="WLSPH.CH.22.5260">
+            <label>CH.22.5260</label>
+            <desc>地名-静岡県-自然・物体・物質-天地-海・島</desc>
+          </item>
+          <item xml:id="WLSPH.CH.35.0000">
+            <label>CH.35.0000</label>
+            <desc>地名-山口県</desc>
+          </item>
+          <item xml:id="WLSPH.CH.33.5250">
+            <label>CH.33.5250</label>
+            <desc>地名-岡山県-自然・物体・物質-天地-川・湖</desc>
+          </item>
+          <item xml:id="WLSPH.CH.23.0000">
+            <label>CH.23.0000</label>
+            <desc>地名-愛知県</desc>
+          </item>
+          <item xml:id="WLSPH.CH.15.4710">
+            <label>CH.15.4710</label>
+            <desc>地名-新潟県-生産物および用具-地類（土地利用）-道路・橋</desc>
+          </item>
+          <item xml:id="WLSPH.CH.00.5250">
+            <label>CH.00.5250</label>
+            <desc>自然・物体・物質-天地-川・湖</desc>
+          </item>
+          <item xml:id="WLSPH.CH.30.5250">
+            <label>CH.30.5250</label>
+            <desc>地名-和歌山県-自然・物体・物質-天地-川・湖</desc>
+          </item>
+          <item xml:id="WLSPH.CH.29.2130">
+            <label>CH.29.2130</label>
+            <desc>地名-奈良県-人間活動の主体-家族-子・子孫</desc>
+          </item>
+          <item xml:id="WLSPH.CH.24.5240">
+            <label>CH.24.5240</label>
+            <desc>地名-三重県-自然・物体・物質-天地-地形・山野</desc>
+          </item>
+          <item xml:id="WLSPH.CH.18.5240">
+            <label>CH.18.5240</label>
+            <desc>地名-福井県-自然・物体・物質-天地-地形・山野</desc>
+          </item>
+          <item xml:id="WLSPH.CH.21.5250">
+            <label>CH.21.5250</label>
+            <desc>地名-岐阜県-自然・物体・物質-天地-川・湖</desc>
+          </item>
+          <item xml:id="WLSPH.CH.04.5250">
+            <label>CH.04.5250</label>
+            <desc>地名-宮城県-自然・物体・物質-天地-川・湖</desc>
+          </item>
+          <item xml:id="WLSPH.CH.27.2530">
+            <label>CH.27.2530</label>
+            <desc>地名-大阪府-人間活動の主体-公私-国</desc>
+          </item>
+          <item xml:id="WLSPH.CH.30.5260">
+            <label>CH.30.5260</label>
+            <desc>地名-和歌山県-自然・物体・物質-天地-海・島</desc>
+          </item>
+          <item xml:id="WLSPH.CH.18.0000">
+            <label>CH.18.0000</label>
+            <desc>地名-福井県</desc>
+          </item>
+          <item xml:id="WLSPH.CH.14.0000">
+            <label>CH.14.0000</label>
+            <desc>地名-神奈川県</desc>
+          </item>
+          <item xml:id="WLSPH.CH.23.5240">
+            <label>CH.23.5240</label>
+            <desc>地名-愛知県-自然・物体・物質-天地-地形・山野</desc>
+          </item>
+          <item xml:id="WLSPH.CH.08.5240">
+            <label>CH.08.5240</label>
+            <desc>地名-茨城県-自然・物体・物質-天地-地形・山野</desc>
+          </item>
+          <item xml:id="WLSPH.CH.09.0000">
+            <label>CH.09.0000</label>
+            <desc>地名-栃木県</desc>
+          </item>
+          <item xml:id="WLSPH.CH.00.2540">
+            <label>CH.00.2540</label>
+            <desc>人間活動の主体-公私-都市・集落</desc>
+          </item>
+          <item xml:id="WLSPH.CH.38.0000">
+            <label>CH.38.0000</label>
+            <desc>地名-愛媛県</desc>
+          </item>
+          <item xml:id="WLSPH.CH.34.5250">
+            <label>CH.34.5250</label>
+            <desc>地名-広島県-自然・物体・物質-天地-川・湖</desc>
+          </item>
+          <item xml:id="WLSPH.CH.33.5240">
+            <label>CH.33.5240</label>
+            <desc>地名-岡山県-自然・物体・物質-天地-地形・山野</desc>
+          </item>
+          <item xml:id="WLSPH.CH.15.0000">
+            <label>CH.15.0000</label>
+            <desc>地名-新潟県</desc>
+          </item>
+          <item xml:id="WLSPH.CH.07.5240">
+            <label>CH.07.5240</label>
+            <desc>地名-福島県-自然・物体・物質-天地-地形・山野</desc>
+          </item>
+          <item xml:id="WLSPH.CH.11.5240">
+            <label>CH.11.5240</label>
+            <desc>地名-埼玉県-自然・物体・物質-天地-地形・山野</desc>
+          </item>
+          <item xml:id="WLSPH.CH.28.5250">
+            <label>CH.28.5250</label>
+            <desc>地名-兵庫県-自然・物体・物質-天地-川・湖</desc>
+          </item>
+          <item xml:id="WLSPH.CH.22.5250">
+            <label>CH.22.5250</label>
+            <desc>地名-静岡県-自然・物体・物質-天地-川・湖</desc>
+          </item>
+          <item xml:id="WLSPH.CH.00.5260">
+            <label>CH.00.5260</label>
+            <desc>自然・物体・物質-天地-海・島</desc>
+          </item>
+          <item xml:id="WLSPH.CH.46.5250">
+            <label>CH.46.5250</label>
+            <desc>地名-鹿児島県-自然・物体・物質-天地-川・湖</desc>
+          </item>
+          <item xml:id="WLSPH.CH.90.5240">
+            <label>CH.90.5240</label>
+            <desc>地名-不明-自然・物体・物質-天地-地形・山野</desc>
+          </item>
+          <item xml:id="WLSPH.CH.03.0000">
+            <label>CH.03.0000</label>
+            <desc>地名-岩手県</desc>
+          </item>
+          <item xml:id="WLSPH.CH.27.2040">
+            <label>CH.27.2040</label>
+            <desc>地名-大阪府-人間活動の主体-人間-男女</desc>
+          </item>
+          <item xml:id="WLSPH.CH.25.5260">
+            <label>CH.25.5260</label>
+            <desc>地名-滋賀県-自然・物体・物質-天地-海・島</desc>
+          </item>
+          <item xml:id="WLSPH.CH.20.4710">
+            <label>CH.20.4710</label>
+            <desc>地名-長野県-生産物および用具-地類（土地利用）-道路・橋</desc>
+          </item>
+          <item xml:id="WLSPH.CH.24.5260">
+            <label>CH.24.5260</label>
+            <desc>地名-三重県-自然・物体・物質-天地-海・島</desc>
+          </item>
+          <item xml:id="WLSPH.CH.21.5240">
+            <label>CH.21.5240</label>
+            <desc>地名-岐阜県-自然・物体・物質-天地-地形・山野</desc>
+          </item>
+          <item xml:id="WLSPH.CH.06.5250">
+            <label>CH.06.5250</label>
+            <desc>地名-山形県-自然・物体・物質-天地-川・湖</desc>
+          </item>
+          <item xml:id="WLSPH.CH.JP.0000">
+            <label>CH.JP.0000</label>
+          </item>
+          <item xml:id="WLSPH.CH.12.0000">
+            <label>CH.12.0000</label>
+            <desc>地名-千葉県</desc>
+          </item>
+          <item xml:id="WLSPH.CH.23.5250">
+            <label>CH.23.5250</label>
+            <desc>地名-愛知県-自然・物体・物質-天地-川・湖</desc>
+          </item>
+          <item xml:id="WLSPH.CH.41.0000">
+            <label>CH.41.0000</label>
+            <desc>地名-佐賀県</desc>
+          </item>
+          <item xml:id="WLSPH.CH.27.2020">
+            <label>CH.27.2020</label>
+            <desc>地名-大阪府-人間活動の主体-人間-人間</desc>
+          </item>
+          <item xml:id="WLSPH.CH.33.4710">
+            <label>CH.33.4710</label>
+            <desc>地名-岡山県-生産物および用具-地類（土地利用）-道路・橋</desc>
+          </item>
+          <item xml:id="WLSPH.CH.00.5240">
+            <label>CH.00.5240</label>
+            <desc>自然・物体・物質-天地-地形・山野</desc>
+          </item>
+          <item xml:id="WLSPH.CH.25.5151">
+            <label>CH.25.5151</label>
+            <desc>地名-滋賀県-自然・物体・物質-自然・物体・物質-風</desc>
+          </item>
+          <item xml:id="WLSPH.CH.24.5155">
+            <label>CH.24.5155</label>
+            <desc>地名-三重県-自然・物体・物質-自然・物体・物質-波・潮</desc>
+          </item>
+          <item xml:id="WLSPH.CH.09.5240">
+            <label>CH.09.5240</label>
+            <desc>地名-栃木県-自然・物体・物質-天地-地形・山野</desc>
+          </item>
+          <item xml:id="WLSPH.CH.19.5240">
+            <label>CH.19.5240</label>
+            <desc>地名-山梨県-自然・物体・物質-天地-地形・山野</desc>
+          </item>
+          <item xml:id="WLSPH.CH.19.5260">
+            <label>CH.19.5260</label>
+            <desc>地名-山梨県-自然・物体・物質-天地-海・島</desc>
+          </item>
+          <item xml:id="WLSPH.CH.26.4710">
+            <label>CH.26.4710</label>
+            <desc>地名-京都府-生産物および用具-地類（土地利用）-道路・橋</desc>
+          </item>
+          <item xml:id="WLSPH.CH.21.2530">
+            <label>CH.21.2530</label>
+            <desc>地名-岐阜県-人間活動の主体-公私-国</desc>
+          </item>
+          <item xml:id="WLSPH.CH.08.5250">
+            <label>CH.08.5250</label>
+            <desc>地名-茨城県-自然・物体・物質-天地-川・湖</desc>
+          </item>
+          <item xml:id="WLSPH.CH.35.5260">
+            <label>CH.35.5260</label>
+            <desc>地名-山口県-自然・物体・物質-天地-海・島</desc>
+          </item>
+          <item xml:id="WLSPH.CH.25.4710">
+            <label>CH.25.4710</label>
+            <desc>地名-滋賀県-生産物および用具-地類（土地利用）-道路・橋</desc>
+          </item>
+          <item xml:id="WLSPH.CH.40.5250">
+            <label>CH.40.5250</label>
+            <desc>地名-福岡県-自然・物体・物質-天地-川・湖</desc>
+          </item>
+          <item xml:id="WLSPH.CH.43.5260">
+            <label>CH.43.5260</label>
+            <desc>地名-熊本県-自然・物体・物質-天地-海・島</desc>
+          </item>
+          <item xml:id="WLSPH.CH.90.5250">
+            <label>CH.90.5250</label>
+            <desc>地名-不明-自然・物体・物質-天地-川・湖</desc>
+          </item>
+          <item xml:id="WLSPH.CH.25.5250">
+            <label>CH.25.5250</label>
+            <desc>地名-滋賀県-自然・物体・物質-天地-川・湖</desc>
+          </item>
+          <item xml:id="WLSPH.CH.26.5260">
+            <label>CH.26.5260</label>
+            <desc>地名-京都府-自然・物体・物質-天地-海・島</desc>
+          </item>
+          <item xml:id="WLSPH.CH.32.5250">
+            <label>CH.32.5250</label>
+            <desc>地名-島根県-自然・物体・物質-天地-川・湖</desc>
+          </item>
+          <item xml:id="WLSPH.CH.11.0000">
+            <label>CH.11.0000</label>
+            <desc>地名-埼玉県</desc>
           </item>
         </list>
       </div>

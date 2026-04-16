@@ -201,10 +201,20 @@ digraph kokin {
         <TR><TD ALIGN="LEFT">pos: N.g</TD></TR>
       </TABLE>>]
 
+      s_haru [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="3">
+        <TR><TD BGCOLOR="#e8cc88"><B>&lt;sense&gt;</B></TD></TR>
+        <TR><TD ALIGN="LEFT">ana: #WLSPH.1.1624</TD></TR>
+      </TABLE>>]
+
       e_aki [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="3">
         <TR><TD BGCOLOR="#ccaa44"><B>&lt;entry&gt;</B></TD></TR>
         <TR><TD ALIGN="LEFT">xml:id: 秋</TD></TR>
         <TR><TD ALIGN="LEFT">pos: N.g</TD></TR>
+      </TABLE>>]
+
+      s_aki [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="3">
+        <TR><TD BGCOLOR="#e8cc88"><B>&lt;sense&gt;</B></TD></TR>
+        <TR><TD ALIGN="LEFT">ana: #WLSPH.1.1624</TD></TR>
       </TABLE>>]
 
       e_natsu [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="3">
@@ -213,10 +223,20 @@ digraph kokin {
         <TR><TD ALIGN="LEFT">pos: N.g</TD></TR>
       </TABLE>>]
 
+      s_natsu [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="3">
+        <TR><TD BGCOLOR="#e8cc88"><B>&lt;sense&gt;</B></TD></TR>
+        <TR><TD ALIGN="LEFT">ana: #WLSPH.1.1624</TD></TR>
+      </TABLE>>]
+
       e_fuyu [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="3">
         <TR><TD BGCOLOR="#ccaa44"><B>&lt;entry&gt;</B></TD></TR>
         <TR><TD ALIGN="LEFT">xml:id: 冬</TD></TR>
         <TR><TD ALIGN="LEFT">pos: N.g</TD></TR>
+      </TABLE>>]
+
+      s_fuyu [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="3">
+        <TR><TD BGCOLOR="#e8cc88"><B>&lt;sense&gt;</B></TD></TR>
+        <TR><TD ALIGN="LEFT">ana: #WLSPH.1.1624</TD></TR>
       </TABLE>>]
 
       e_comp [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="3">
@@ -225,7 +245,11 @@ digraph kokin {
         <TR><TD ALIGN="LEFT">type: compound</TD></TR>
       </TABLE>>]
 
-      e_comp -> e_haru [xlabel="component" style=dashed color="#997722"]
+      e_haru  -> s_haru  [style=dashed]
+      e_aki   -> s_aki   [style=dashed]
+      e_natsu -> s_natsu [style=dashed]
+      e_fuyu  -> s_fuyu  [style=dashed]
+      e_comp  -> e_haru  [xlabel="component" style=dashed color="#997722"]
     }
 
     subgraph cluster_cls {
@@ -301,11 +325,11 @@ digraph kokin {
 
   b_w_haru   -> hom_haru [xlabel="lemmaRef" style=bold color="#4477bb"]
   hom_haru   -> e_haru   [xlabel="ref"      color="#448844"]
-  e_haru     -> wlsph    [xlabel="sense/ana" style=bold color="#bb6633"]
-  e_aki      -> wlsph    [style=bold color="#bb6633"]
-  e_natsu    -> wlsph    [style=bold color="#bb6633"]
-  e_fuyu     -> wlsph    [style=bold color="#bb6633"]
-  e_haru     -> wlsp     [color="#cc9999" style=dashed]
+  s_haru     -> wlsph    [xlabel="ana" style=bold color="#bb6633"]
+  s_aki      -> wlsph    [style=bold color="#bb6633"]
+  s_natsu    -> wlsph    [style=bold color="#bb6633"]
+  s_fuyu     -> wlsph    [style=bold color="#bb6633"]
+  s_haru     -> wlsp     [color="#cc9999" style=dashed]
   b_persname -> person   [xlabel="corresp"  color="#7755aa"]
   b_l        -> person   [xlabel="resp"     color="#7755aa"]
   b_pb       -> surface  [xlabel="facs"     color="#996644"]

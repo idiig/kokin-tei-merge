@@ -2087,7 +2087,7 @@
               <w lemmaRef="#や.や">や</w>
               <app>
                 <lem wit="#国">
-                  <w lemmaRef="#み.見る">見</w>
+                  <w lemmaRef="#み.見">見</w>
                   <w lemmaRef="#らむ.らむ">らむ</w>
                 </lem>
                 <rdg wit="#前">
@@ -2621,7 +2621,7 @@
             <seg>
               <w lemmaRef="#いで.出づ">いて</w>
               <w lemmaRef="#て.て">ゝ</w>
-              <w lemmaRef="#みよ.見る">見よ</w>
+              <w lemmaRef="#みよ.見">見よ</w>
             </seg>
             <seg>
               <w lemmaRef="#いま.今">今</w>
@@ -3138,7 +3138,7 @@
             <seg>
               <w lemmaRef="#たち.立つ">立</w>
               <w lemmaRef="#を.を">を</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#すて.捨つ">すて</w>
               <w lemmaRef="#て.て">ゝ</w>
             </seg>
@@ -3366,7 +3366,7 @@
               <w lemmaRef="#あはれ.哀れ">あはれ</w>
               <w lemmaRef="#と.と">と</w>
               <w lemmaRef="#ぞ.ぞ">そ</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#し.き">し</w>
             </seg>
             <seg>
@@ -3431,7 +3431,7 @@
                   <w lemmaRef="#しる.知る">しる</w>
                 </lem>
                 <rdg wit="#前">
-                  <w lemmaRef="#みる.見る">みる</w>
+                  <w lemmaRef="#みる.見">みる</w>
                 </rdg>
               </app>
             </seg>
@@ -3637,7 +3637,7 @@
             <seg>
               <w lemmaRef="#はな.花">花</w>
               <w lemmaRef="#と.と">と</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#て.て">て</w>
             </seg>
             <seg>
@@ -3812,7 +3812,7 @@
             <seg>
               <w lemmaRef="#ちる.散る">ちる</w>
               <w lemmaRef="#と.と">と</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#て.て">て</w>
             </seg>
             <seg>
@@ -3973,7 +3973,7 @@
             </seg>
             <seg>
               <w lemmaRef="#われ.我">我</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#はやさ.栄す">はやさ</w>
               <w lemmaRef="#む.む">む</w>
             </seg>
@@ -3991,7 +3991,7 @@
             <seg>
               <w lemmaRef="#わ.我">わ</w>
               <w lemmaRef="#が.が">か</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#に.に">に</w>
               <w lemmaRef="#くれ.来">くれ</w>
               <w lemmaRef="#ば.ば">は</w>
@@ -4059,7 +4059,7 @@
               <w lemmaRef="#はな.花">花</w>
               <w lemmaRef="#を.を">を</w>
               <w lemmaRef="#し.し">し</w>
-              <w lemmaRef="#みる.見る">見れ</w>
+              <w lemmaRef="#みる.見">見れ</w>
               <w lemmaRef="#ば.ば">は</w>
             </seg>
             <seg>
@@ -4163,7 +4163,7 @@
               </app>
             </seg>
             <seg>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#ぬ.ず">ぬ</w>
               <w lemmaRef="#ひと.人">人</w>
               <w lemmaRef="#の.の">の</w>
@@ -4187,7 +4187,7 @@
           <lb/>
           <l n="55" xml:id="n55" resp="#素性法師">
             <seg>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#て.て">て</w>
               <w lemmaRef="#のみ.のみ">のみ</w>
               <w lemmaRef="#や.や">や</w>
@@ -4225,7 +4225,7 @@
           <lb/>
           <l n="56" xml:id="n56" resp="#素性法師">
             <seg>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#わたす.渡す">渡せ</w>
               <w lemmaRef="#ば.ば">は</w>
             </seg>
@@ -4561,7 +4561,7 @@
             <seg>
               <w lemmaRef="#はな.花">花</w>
               <w lemmaRef="#と.と">と</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#まし.まし">まし</w>
               <w lemmaRef="#や.や">や</w>
             </seg>
@@ -4645,7 +4645,7 @@
               <w lemmaRef="#ちる.散る">ちる</w>
               <w lemmaRef="#まで.まで">まて</w>
               <w lemmaRef="#は.は">は</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#む.む">む</w>
             </seg>
           </l>
@@ -4744,7 +4744,7 @@
           <lb/>
           <l n="68" xml:id="n68" resp="#伊勢">
             <seg>
-              <w lemmaRef="#みる.見る">見る</w>
+              <w lemmaRef="#みる.見">見る</w>
               <w lemmaRef="#ひと.人">人</w>
               <w lemmaRef="#も.も">も</w>
             </seg>
@@ -4923,7 +4923,7 @@
             <seg>
               <w lemmaRef="#さく.咲く">さく</w>
               <w lemmaRef="#と.と">と</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#し.き">し</w>
               <w lemmaRef="#ま.間">ま</w>
               <w lemmaRef="#に.に">に</w>
@@ -4971,7 +4971,7 @@
               <w lemmaRef="#き.来">き</w>
               <w lemmaRef="#て.て">て</w>
               <w lemmaRef="#も.も">も</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#な.ず">な</w>
               <w lemmaRef="#く.く">く</w>
               <w lemmaRef="#に.に">に</w>
@@ -5107,7 +5107,7 @@
           <l n="78" xml:id="n78" resp="#紀貫之">
             <seg>
               <w lemmaRef="#ひとめ.一目">ひとめ</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#し.き">し</w>
             </seg>
             <seg>
@@ -5124,7 +5124,7 @@
               <w lemmaRef="#けふ.今日">けふ</w>
               <w lemmaRef="#は.は">は</w>
               <w lemmaRef="#まち.待つ">まち</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#て.て">て</w>
             </seg>
             <seg>
@@ -5160,7 +5160,7 @@
               <w lemmaRef="#も.も">も</w>
             </seg>
             <seg>
-              <w lemmaRef="#みる.見る">見る</w>
+              <w lemmaRef="#みる.見">見る</w>
               <w lemmaRef="#べき.べし">へき</w>
               <w lemmaRef="#もの.物">物</w>
               <w lemmaRef="#を.を">を</w>
@@ -5276,7 +5276,7 @@
               <w lemmaRef="#さくらばな.桜花">櫻花</w>
             </seg>
             <seg>
-              <w lemmaRef="#みる.見る">見る</w>
+              <w lemmaRef="#みる.見">見る</w>
               <w lemmaRef="#われ.我">我</w>
               <w lemmaRef="#さへ.さへ">さへ</w>
               <w lemmaRef="#に.に">に</w>
@@ -5391,7 +5391,7 @@
             <seg>
               <w lemmaRef="#うつろふ.移ろふ">うつろふ</w>
               <w lemmaRef="#と.と">と</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#む.む">む</w>
             </seg>
           </l>
@@ -5448,7 +5448,7 @@
               <w lemmaRef="#み.み">み</w>
             </seg>
             <seg>
-              <w lemmaRef="#みる.見る">ゝ</w>
+              <w lemmaRef="#みる.見">ゝ</w>
               <w lemmaRef="#つつ.つつ">つゝ</w>
               <w lemmaRef="#わ.我">わ</w>
               <w lemmaRef="#が.が">か</w>
@@ -5843,7 +5843,7 @@
             </seg>
             <seg>
               <w lemmaRef="#あひ.逢ふ">あひ</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#む.む">む</w>
               <w lemmaRef="#こと.事">事</w>
               <w lemmaRef="#は.は">は</w>
@@ -6063,7 +6063,7 @@
           <l n="104" xml:id="n104" resp="#凡河内躬恒">
             <seg>
               <w lemmaRef="#はな.花">花</w>
-              <w lemmaRef="#みる.見る">見れ</w>
+              <w lemmaRef="#みる.見">見れ</w>
               <w lemmaRef="#ば.ば">は</w>
             </seg>
             <seg>
@@ -6112,7 +6112,7 @@
             <seg>
               <w lemmaRef="#き.来">き</w>
               <w lemmaRef="#て.て">て</w>
-              <w lemmaRef="#みる.見る">見れ</w>
+              <w lemmaRef="#みる.見">見れ</w>
               <w lemmaRef="#ば.ば">は</w>
             </seg>
             <seg>
@@ -6338,7 +6338,7 @@
             </seg>
             <seg>
               <w lemmaRef="#いさ.いざ">いさ</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#に.に">に</w>
               <w lemmaRef="#ゆか.行く">ゆか</w>
               <w lemmaRef="#む.む">む</w>
@@ -6618,7 +6618,7 @@
             <seg>
               <w lemmaRef="#はな.花">花</w>
               <w lemmaRef="#を.を">を</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#まし.まし">まし</w>
               <w lemmaRef="#や.や">や</w>
             </seg>
@@ -6637,7 +6637,7 @@
             <seg>
               <w lemmaRef="#よそ.余所">よそ</w>
               <w lemmaRef="#に.に">に</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#て.て">て</w>
             </seg>
             <seg>
@@ -6698,7 +6698,7 @@
             <seg>
               <w lemmaRef="#ひと.人">人</w>
               <w lemmaRef="#の.の">の</w>
-              <w lemmaRef="#みる.見る">見る</w>
+              <w lemmaRef="#みる.見">見る</w>
               <w lemmaRef="#らむ.らむ">覧</w>
             </seg>
           </l>
@@ -6785,7 +6785,7 @@
             </seg>
             <seg>
               <w lemmaRef="#はな.花">花</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#む.む">む</w>
               <w lemmaRef="#と.と">と</w>
             </seg>
@@ -7954,7 +7954,7 @@
               <w lemmaRef="#と.と">と</w>
             </seg>
             <seg>
-              <w lemmaRef="#みれ.見る">見れ</w>
+              <w lemmaRef="#みれ.見">見れ</w>
               <w lemmaRef="#ば.ば">は</w>
               <w lemmaRef="#あけ.明く">あけ</w>
               <w lemmaRef="#ぬる.ぬ">ぬる</w>
@@ -9647,7 +9647,7 @@
             </seg>
             <seg>
               <w lemmaRef="#はな.花">花</w>
-              <w lemmaRef="#みれ.見る">見れ</w>
+              <w lemmaRef="#みれ.見">見れ</w>
               <w lemmaRef="#ば.ば">は</w>
             </seg>
             <seg>
@@ -9755,7 +9755,7 @@
             </seg>
             <seg>
               <w lemmaRef="#よし.縦し">よし</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#む.む">む</w>
               <w lemmaRef="#ひと.人">人</w>
               <w lemmaRef="#は.は">は</w>
@@ -9763,7 +9763,7 @@
             <seg>
               <w lemmaRef="#えだ.枝">枝</w>
               <w lemmaRef="#ながら.ながら">なから</w>
-              <w lemmaRef="#みよ.見る">見よ</w>
+              <w lemmaRef="#みよ.見">見よ</w>
             </seg>
           </l>
           <lb/>
@@ -9776,7 +9776,7 @@
             <seg>
               <w lemmaRef="#をり.折る">おり</w>
               <w lemmaRef="#て.て">て</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#ば.ば">は</w>
             </seg>
             <seg>
@@ -9930,7 +9930,7 @@
             <seg>
               <w lemmaRef="#うし.憂し">うし</w>
               <w lemmaRef="#と.と">と</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#つつ.つつ">つゝ</w>
               <w lemmaRef="#ぞ.ぞ">そ</w>
             </seg>
@@ -10217,7 +10217,7 @@
             <seg>
               <w lemmaRef="#ひと.人">人</w>
               <w lemmaRef="#の.の">の</w>
-              <w lemmaRef="#みる.見る">見る</w>
+              <w lemmaRef="#みる.見">見る</w>
             </seg>
             <seg>
               <w lemmaRef="#こと.事">事</w>
@@ -10264,7 +10264,7 @@
             <seg>
               <w lemmaRef="#うゑ.植う">うへ</w>
               <w lemmaRef="#て.て">て</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#まし.まし">まし</w>
               <w lemmaRef="#を.を">を</w>
             </seg>
@@ -10472,7 +10472,7 @@
               <w lemmaRef="#うゑ.植う">うへ</w>
               <w lemmaRef="#て.て">て</w>
               <w lemmaRef="#だに.だに">たに</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#じ.じ">し</w>
             </seg>
             <seg>
@@ -10584,7 +10584,7 @@
             <seg>
               <w lemmaRef="#はる.春">春</w>
               <w lemmaRef="#は.は">は</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#し.き">し</w>
             </seg>
             <seg>
@@ -11299,7 +11299,7 @@
             <seg>
               <w lemmaRef="#いろ.色">色</w>
               <w lemmaRef="#と.と">と</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#つれ.つ">つれ</w>
               <w lemmaRef="#ば.ば">は</w>
             </seg>
@@ -11377,7 +11377,7 @@
               <w lemmaRef="#に.に">に</w>
               <w lemmaRef="#て.て">て</w>
               <w lemmaRef="#も.も">も</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#む.む">む</w>
             </seg>
           </l>
@@ -11481,7 +11481,7 @@
               <w lemmaRef="#て.て">て</w>
             </seg>
             <seg>
-              <w lemmaRef="#みる.見る">見る</w>
+              <w lemmaRef="#みる.見">見る</w>
               <w lemmaRef="#きく.菊">菊</w>
               <w lemmaRef="#は.は">は</w>
             </seg>
@@ -11574,7 +11574,7 @@
               <w lemmaRef="#む.む">む</w>
               <w lemmaRef="#と.と">と</w>
               <w lemmaRef="#や.や">や</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#し.き">し</w>
             </seg>
           </l>
@@ -11841,7 +11841,7 @@
               <w lemmaRef="#はな.花">花</w>
               <w lemmaRef="#と.と">と</w>
               <w lemmaRef="#こそ.こそ">こそ</w>
-              <w lemmaRef="#みれ.見る">見れ</w>
+              <w lemmaRef="#みれ.見">見れ</w>
             </seg>
           </l>
         </div>
@@ -11948,7 +11948,7 @@
             <seg>
               <w lemmaRef="#よる.夜">よる</w>
               <w lemmaRef="#さへ.さへ">さへ</w>
-              <w lemmaRef="#みよ.見る">見よ</w>
+              <w lemmaRef="#みよ.見">見よ</w>
               <w lemmaRef="#と.と">と</w>
             </seg>
             <seg>
@@ -11988,7 +11988,7 @@
               <w lemmaRef="#ひかり.光">ひかり</w>
             </seg>
             <seg>
-              <w lemmaRef="#みる.見る">見る</w>
+              <w lemmaRef="#みる.見">見る</w>
               <w lemmaRef="#とき.時">時</w>
               <w lemmaRef="#なく.無し">なく</w>
               <w lemmaRef="#て.て">て</w>
@@ -12071,7 +12071,7 @@
               <w lemmaRef="#は.は">は</w>
             </seg>
             <seg>
-              <w lemmaRef="#み.見る">み</w>
+              <w lemmaRef="#み.見">み</w>
               <w lemmaRef="#て.て">て</w>
               <w lemmaRef="#も.も">も</w>
               <w lemmaRef="#しのば.忍ぶ">しのは</w>
@@ -12184,7 +12184,7 @@
             <seg>
               <w lemmaRef="#みち.道">道</w>
               <w lemmaRef="#と.と">と</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#ながら.ながら">なから</w>
             </seg>
           </l>
@@ -12214,7 +12214,7 @@
             <seg>
               <w lemmaRef="#かず.数">かす</w>
               <w lemmaRef="#を.を">を</w>
-              <w lemmaRef="#みよ.見る">見よ</w>
+              <w lemmaRef="#みよ.見">見よ</w>
               <w lemmaRef="#と.と">と</w>
               <w lemmaRef="#か.か">か</w>
             </seg>
@@ -12487,7 +12487,7 @@
           <lb/>
           <l n="297" xml:id="n297" resp="#紀貫之">
             <seg>
-              <w lemmaRef="#みる.見る">見る</w>
+              <w lemmaRef="#みる.見">見る</w>
               <w lemmaRef="#ひと.人">人</w>
               <w lemmaRef="#も.も">も</w>
             </seg>
@@ -12662,7 +12662,7 @@
               <w lemmaRef="#か.か">か</w>
               <w lemmaRef="#と.と">と</w>
               <w lemmaRef="#ぞ.ぞ">そ</w>
-              <w lemmaRef="#みる.見る">見る</w>
+              <w lemmaRef="#みる.見">見る</w>
             </seg>
           </l>
         </div>
@@ -12789,7 +12789,7 @@
               <w lemmaRef="#とまり.止まる">とまり</w>
             </seg>
             <seg>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#て.て">て</w>
               <w lemmaRef="#を.を">を</w>
               <w lemmaRef="#わたら.渡る">渡</w>
@@ -12959,7 +12959,7 @@
               <w lemmaRef="#と.と">と</w>
             </seg>
             <seg>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#む.む">む</w>
               <w lemmaRef="#ひと.人">人</w>
               <w lemmaRef="#の.の">の</w>
@@ -12990,7 +12990,7 @@
             </seg>
             <seg>
               <w lemmaRef="#いろ.色">色</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#て.て">て</w>
               <w lemmaRef="#ぞ.ぞ">そ</w>
             </seg>
@@ -13217,7 +13217,7 @@
             </seg>
             <seg>
               <w lemmaRef="#かげ.影">影</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#し.き">し</w>
               <w lemmaRef="#みづ.水">水</w>
               <w lemmaRef="#ぞ.ぞ">そ</w>
@@ -13493,7 +13493,7 @@
               <w lemmaRef="#はな.花">花</w>
               <w lemmaRef="#と.と">と</w>
               <w lemmaRef="#こそ.こそ">こそ</w>
-              <w lemmaRef="#みれ.見る">見れ</w>
+              <w lemmaRef="#みれ.見">見れ</w>
             </seg>
           </l>
         </div>
@@ -13562,7 +13562,7 @@
               <w lemmaRef="#か.か">か</w>
               <w lemmaRef="#と.と">と</w>
               <w lemmaRef="#ぞ.ぞ">そ</w>
-              <w lemmaRef="#みる.見る">見る</w>
+              <w lemmaRef="#みる.見">見る</w>
             </seg>
           </l>
         </div>
@@ -13738,7 +13738,7 @@
             <seg>
               <w lemmaRef="#はな.花">花</w>
               <w lemmaRef="#と.と">と</w>
-              <w lemmaRef="#みる.見る">見る</w>
+              <w lemmaRef="#みる.見">見る</w>
               <w lemmaRef="#まで.まで">まて</w>
             </seg>
             <seg>
@@ -13768,7 +13768,7 @@
               <w lemmaRef="#と.と">と</w>
             </seg>
             <seg>
-              <w lemmaRef="#みる.見る">見る</w>
+              <w lemmaRef="#みる.見">見る</w>
               <w lemmaRef="#まで.まで">まて</w>
               <w lemmaRef="#に.に">に</w>
             </seg>
@@ -13818,7 +13818,7 @@
             <seg>
               <w lemmaRef="#まれに.稀なり">まれに</w>
               <w lemmaRef="#こそ.こそ">こそ</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#め.む">め</w>
             </seg>
           </l>
@@ -14157,7 +14157,7 @@
               <w lemmaRef="#ますかがみ.真澄鏡">ますかゝみ</w>
             </seg>
             <seg>
-              <w lemmaRef="#みる.見る">ゝる</w>
+              <w lemmaRef="#みる.見">ゝる</w>
               <w lemmaRef="#かげ.影">かけ</w>
               <w lemmaRef="#さへ.さへ">さへ</w>
               <w lemmaRef="#に.に">に</w>
@@ -14508,7 +14508,7 @@
             </seg>
             <seg>
               <w lemmaRef="#はな.花">花</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#て.て">て</w>
               <w lemmaRef="#くらす.暮す">くらす</w>
             </seg>
@@ -14560,7 +14560,7 @@
               <w lemmaRef="#かざし.挿頭す">かさし</w>
               <w lemmaRef="#と.と">と</w>
               <w lemmaRef="#ぞ.ぞ">そ</w>
-              <w lemmaRef="#みる.見る">見る</w>
+              <w lemmaRef="#みる.見">見る</w>
             </seg>
           </l>
         </div>
@@ -15280,7 +15280,7 @@
             </seg>
             <seg>
               <w lemmaRef="#かつ.且つ">かつ</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#ながら.ながら">なから</w>
               <w lemmaRef="#に.に">に</w>
             </seg>
@@ -15430,7 +15430,7 @@
               <w lemmaRef="#あさなけに.朝な日に">あさなけに</w>
             </seg>
             <seg>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#べき.べし">へき</w>
               <w lemmaRef="#きみ.君">ゝみ</w>
               <w lemmaRef="#と.と">と</w>
@@ -15472,7 +15472,7 @@
             <seg>
               <w lemmaRef="#いま.今">今</w>
               <w lemmaRef="#こころ.心">心</w>
-              <w lemmaRef="#みよ.見る">見よ</w>
+              <w lemmaRef="#みよ.見">見よ</w>
             </seg>
             <seg>
               <w lemmaRef="#いのち.命">いのち</w>
@@ -15700,7 +15700,7 @@
             </seg>
             <seg>
               <w lemmaRef="#ゆき.雪">雪</w>
-              <w lemmaRef="#みる.見る">見る</w>
+              <w lemmaRef="#みる.見">見る</w>
               <w lemmaRef="#べく.べし">へく</w>
               <w lemmaRef="#も.も">も</w>
             </seg>
@@ -16331,7 +16331,7 @@
             </seg>
             <seg>
               <w lemmaRef="#あひ.逢ふ">あひ</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#ぬ.ず">ぬ</w>
               <w lemmaRef="#さき.先">さき</w>
               <w lemmaRef="#に.に">に</w>
@@ -16571,7 +16571,7 @@
             <seg>
               <w lemmaRef="#ふり.振る">ふり</w>
               <w lemmaRef="#さけ.放く">さけ</w>
-              <w lemmaRef="#みれ.見る">見れ</w>
+              <w lemmaRef="#みれ.見">見れ</w>
               <w lemmaRef="#ば.ば">は</w>
             </seg>
             <seg>
@@ -17019,7 +17019,7 @@
               <w lemmaRef="#あけ.明く">あけ</w>
               <w lemmaRef="#て.て">て</w>
               <w lemmaRef="#こそ.こそ">こそ</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#め.む">め</w>
             </seg>
           </l>
@@ -17252,7 +17252,7 @@
             </seg>
             <seg>
               <w lemmaRef="#せ.瀬">せ</w>
-              <w lemmaRef="#みれ.見る">見れ</w>
+              <w lemmaRef="#みれ.見">見れ</w>
               <w lemmaRef="#ば.ば">は</w>
               <w lemmaRef="#たま.珠">玉</w>
               <w lemmaRef="#ぞ.ぞ">そ</w>
@@ -17305,7 +17305,7 @@
             </seg>
             <seg>
               <w lemmaRef="#うつせ.移す">うつせ</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#む.む">む</w>
               <w lemmaRef="#かし.かし">かし</w>
             </seg>
@@ -17521,7 +17521,7 @@
             <seg>
               <w lemmaRef="#きゆ.消ゆ">きゆ</w>
               <w lemmaRef="#と.と">と</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#つ.つ">つ</w>
               <w lemmaRef="#らむ.らむ">らむ</w>
             </seg>
@@ -17681,7 +17681,7 @@
             <seg>
               <w lemmaRef="#うひに.初なり">うひに</w>
               <w lemmaRef="#ぞ.ぞ">そ</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#つる.つ">つる</w>
             </seg>
             <seg>
@@ -17754,7 +17754,7 @@
             </seg>
             <seg>
               <w lemmaRef="#はな.花">花</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#む.む">む</w>
               <w lemmaRef="#と.と">と</w>
             </seg>
@@ -17867,7 +17867,7 @@
             </seg>
             <seg>
               <w lemmaRef="#はな.花">花</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#む.む">む</w>
               <w lemmaRef="#と.と">と</w>
             </seg>
@@ -17938,7 +17938,7 @@
             <seg>
               <w lemmaRef="#あり.有り">あり</w>
               <w lemmaRef="#と.と">と</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#て.て">て</w>
             </seg>
             <seg>
@@ -17990,7 +17990,7 @@
             <seg>
               <w lemmaRef="#いろ.色">色</w>
               <w lemmaRef="#を.を">を</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#む.む">む</w>
             </seg>
             <seg>
@@ -18118,7 +18118,7 @@
               <w lemmaRef="#ど.ど">と</w>
             </seg>
             <seg>
-              <w lemmaRef="#みる.見る">見る</w>
+              <w lemmaRef="#みる.見">見る</w>
               <w lemmaRef="#よし.由">よし</w>
               <w lemmaRef="#も.も">も</w>
               <w lemmaRef="#なき.無し">なき</w>
@@ -18155,7 +18155,7 @@
               <w lemmaRef="#を.を">を</w>
             </seg>
             <seg>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#ぬ.ず">ぬ</w>
               <w lemmaRef="#ぞ.ぞ">そ</w>
               <w lemmaRef="#かなしき.悲し">かなしき</w>
@@ -18494,7 +18494,7 @@
             <seg>
               <w lemmaRef="#はな.花">花</w>
               <w lemmaRef="#と.と">と</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#ざら.ず">さら</w>
               <w lemmaRef="#む.む">む</w>
             </seg>
@@ -19159,7 +19159,7 @@
             <seg>
               <w lemmaRef="#め.目">め</w>
               <w lemmaRef="#に.に">に</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#ぬ.ず">ぬ</w>
               <w lemmaRef="#ひと.人">人</w>
               <w lemmaRef="#も.も">も</w>
@@ -19181,14 +19181,14 @@
           <lb/>
           <l n="476" xml:id="n476" resp="#在原業平">
             <seg>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#ず.ず">す</w>
               <w lemmaRef="#も.も">も</w>
               <w lemmaRef="#あら.有り">あら</w>
               <w lemmaRef="#ず.ず">す</w>
             </seg>
             <seg>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#も.も">も</w>
               <w lemmaRef="#せ.す">せ</w>
               <w lemmaRef="#ぬ.ず">ぬ</w>
@@ -19311,7 +19311,7 @@
               <w lemmaRef="#も.も">も</w>
             </seg>
             <seg>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#て.つ">て</w>
               <w lemmaRef="#し.き">し</w>
               <w lemmaRef="#ひと.人">人</w>
@@ -20587,7 +20587,7 @@
             <seg>
               <w lemmaRef="#いさ.いざ">いさ</w>
               <w lemmaRef="#こころ.心">心</w>
-              <w lemmaRef="#み.見る">み</w>
+              <w lemmaRef="#み.見">み</w>
               <w lemmaRef="#む.む">む</w>
             </seg>
             <seg>
@@ -20799,7 +20799,7 @@
             </seg>
             <seg>
               <w lemmaRef="#あひ.逢ふ">あひ</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#む.む">む</w>
               <w lemmaRef="#こと.事">こと</w>
               <w lemmaRef="#を.を">を</w>
@@ -21711,7 +21711,7 @@
               <w lemmaRef="#を.を">を</w>
             </seg>
             <seg>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#て.つ">て</w>
               <w lemmaRef="#し.き">し</w>
               <w lemmaRef="#より.より">より</w>
@@ -21827,7 +21827,7 @@
             <seg>
               <w lemmaRef="#ひと.人">人</w>
               <w lemmaRef="#を.を">を</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#ぬ.ず">ぬ</w>
               <w lemmaRef="#め.目">め</w>
               <w lemmaRef="#の.の">の</w>
@@ -22038,7 +22038,7 @@
             </seg>
             <seg>
               <w lemmaRef="#ひかり.光">ひかり</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#ね.ず">ね</w>
               <w lemmaRef="#ば.ば">は</w>
               <w lemmaRef="#や.や">や</w>
@@ -22238,7 +22238,7 @@
             </seg>
             <seg>
               <w lemmaRef="#こころ.心">心</w>
-              <w lemmaRef="#み.見る">み</w>
+              <w lemmaRef="#み.見">み</w>
               <w lemmaRef="#に.に">に</w>
             </seg>
             <seg>
@@ -22477,7 +22477,7 @@
               <w lemmaRef="#を.を">を</w>
             </seg>
             <seg>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#つる.つ">つる</w>
               <w lemmaRef="#よ.夜">夜</w>
               <w lemmaRef="#は.は">は</w>
@@ -23446,7 +23446,7 @@
               <w lemmaRef="#あはれ.哀れ">あはれ</w>
               <w lemmaRef="#と.と">と</w>
               <w lemmaRef="#や.や">や</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#む.む">む</w>
             </seg>
           </l>
@@ -23661,7 +23661,7 @@
               <w lemmaRef="#から.から">から</w>
             </seg>
             <seg>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#つる.つ">つる</w>
               <w lemmaRef="#なり.なり">なり</w>
               <w lemmaRef="#けり.けり">けり</w>
@@ -23692,7 +23692,7 @@
               <w lemmaRef="#は.は">は</w>
             </seg>
             <seg>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#はて.果つ">はて</w>
               <w lemmaRef="#ぬ.ず">ぬ</w>
               <w lemmaRef="#ゆめ.夢">ゆめ</w>
@@ -23831,7 +23831,7 @@
             </seg>
             <seg>
               <w lemmaRef="#あひ.逢ふ">あひ</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#む.む">む</w>
               <w lemmaRef="#と.と">と</w>
             </seg>
@@ -24101,7 +24101,7 @@
               <w lemmaRef="#ものゆゑに.物故に">物ゆへに</w>
             </seg>
             <seg>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#まく.まく">まく</w>
               <w lemmaRef="#ほし.欲し">ほし</w>
               <w lemmaRef="#さ.さ">さ</w>
@@ -24926,7 +24926,7 @@
             </seg>
             <seg>
               <w lemmaRef="#ひと.人">人</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#けむ.けむ">けむ</w>
               <w lemmaRef="#か.か">か</w>
               <w lemmaRef="#も.も">も</w>
@@ -25148,7 +25148,7 @@
             </seg>
             <seg>
               <w lemmaRef="#あひ.逢ふ">あひ</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#つる.つ">つる</w>
               <w lemmaRef="#かな.哉">哉</w>
             </seg>
@@ -25176,7 +25176,7 @@
               <w lemmaRef="#なる.なり">なる</w>
             </seg>
             <seg>
-              <w lemmaRef="#み.見る">み</w>
+              <w lemmaRef="#み.見">み</w>
               <w lemmaRef="#つ.つ">つ</w>
               <w lemmaRef="#と.と">と</w>
               <w lemmaRef="#も.も">も</w>
@@ -25217,7 +25217,7 @@
             </seg>
             <seg>
               <w lemmaRef="#あひ.逢ふ">あひ</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#そめ.染む">そめ</w>
               <w lemmaRef="#けむ.けむ">けむ</w>
             </seg>
@@ -25431,7 +25431,7 @@
               <w lemmaRef="#と.と">と</w>
             </seg>
             <seg>
-              <w lemmaRef="#みる.見る">見る</w>
+              <w lemmaRef="#みる.見">見る</w>
               <w lemmaRef="#が.が">か</w>
               <w lemmaRef="#わびし.侘し">わひし</w>
               <w lemmaRef="#さ.さ">さ</w>
@@ -25496,7 +25496,7 @@
               <w lemmaRef="#ひとめ.一目">ひとめ</w>
             </seg>
             <seg>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#し.き">し</w>
               <w lemmaRef="#ごと.如">こと</w>
               <w lemmaRef="#は.は">は</w>
@@ -25531,7 +25531,7 @@
             <seg>
               <w lemmaRef="#かは.河">河</w>
               <w lemmaRef="#と.と">と</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#ながら.ながら">なから</w>
             </seg>
             <seg>
@@ -25910,7 +25910,7 @@
               <w lemmaRef="#に.に">に</w>
             </seg>
             <seg>
-              <w lemmaRef="#みる.見る">みる</w>
+              <w lemmaRef="#みる.見">みる</w>
               <w lemmaRef="#め.む">め</w>
               <w lemmaRef="#すくなし.少なし">すくなし</w>
             </seg>
@@ -26197,7 +26197,7 @@
             </seg>
             <seg>
               <w lemmaRef="#かつ.且つ">かつ</w>
-              <w lemmaRef="#みる.見る">見る</w>
+              <w lemmaRef="#みる.見">見る</w>
               <w lemmaRef="#ひと.人">人</w>
               <w lemmaRef="#に.に">に</w>
             </seg>
@@ -26214,7 +26214,7 @@
           <l n="678" xml:id="n678" resp="#よみ人知らず">
             <seg>
               <w lemmaRef="#あひ.逢ふ">あひ</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#ず.ず">す</w>
               <w lemmaRef="#は.は">は</w>
             </seg>
@@ -26263,7 +26263,7 @@
               <w lemmaRef="#なかなかに.中中なり">中〳〵に</w>
             </seg>
             <seg>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#ず.ず">す</w>
               <w lemmaRef="#は.は">は</w>
               <w lemmaRef="#こひし.恋し">こひし</w>
@@ -26292,9 +26292,9 @@
               <w lemmaRef="#ば.ば">は</w>
             </seg>
             <seg>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#まれ.まれ">まれ</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#ず.ず">す</w>
               <w lemmaRef="#まれ.まれ">まれ</w>
             </seg>
@@ -26380,7 +26380,7 @@
               <w lemmaRef="#かく.斯く">かく</w>
               <w lemmaRef="#こそ.こそ">こそ</w>
               <w lemmaRef="#は.は">は</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#め.む">め</w>
             </seg>
             <seg>
@@ -26409,7 +26409,7 @@
               <w lemmaRef="#てふ.てふ">てふ</w>
             </seg>
             <seg>
-              <w lemmaRef="#みる.見る">見る</w>
+              <w lemmaRef="#みる.見">見る</w>
               <w lemmaRef="#め.目">め</w>
               <w lemmaRef="#に.に">に</w>
               <w lemmaRef="#ひと.人">人</w>
@@ -26442,7 +26442,7 @@
               <w lemmaRef="#さくらばな.桜花">櫻花</w>
             </seg>
             <seg>
-              <w lemmaRef="#みれ.見る">見れ</w>
+              <w lemmaRef="#みれ.見">見れ</w>
               <w lemmaRef="#ど.ど">と</w>
               <w lemmaRef="#も.も">も</w>
               <w lemmaRef="#あか.飽く">あか</w>
@@ -26480,7 +26480,7 @@
               <w lemmaRef="#ぬる.ぬ">ぬる</w>
             </seg>
             <seg>
-              <w lemmaRef="#みる.見る">見る</w>
+              <w lemmaRef="#みる.見">見る</w>
               <w lemmaRef="#もの.物">物</w>
               <w lemmaRef="#から.から">から</w>
               <w lemmaRef="#や.や">や</w>
@@ -26826,7 +26826,7 @@
             <seg>
               <w lemmaRef="#いま.今">今</w>
               <w lemmaRef="#も.も">も</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#て.つ">て</w>
               <w lemmaRef="#しか.き">しか</w>
             </seg>
@@ -26864,7 +26864,7 @@
             <seg>
               <w lemmaRef="#とはに.永久に">とはに</w>
               <w lemmaRef="#あひ.逢ふ">あひ</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#む.む">む</w>
             </seg>
             <seg>
@@ -27698,7 +27698,7 @@
               <w lemmaRef="#は.は">は</w>
             </seg>
             <seg>
-              <w lemmaRef="#みる.見る">見る</w>
+              <w lemmaRef="#みる.見">見る</w>
               <w lemmaRef="#らめ.らむ">らめ</w>
               <w lemmaRef="#ど.ど">と</w>
             </seg>
@@ -28024,7 +28024,7 @@
             <seg>
               <w lemmaRef="#ひと.人">人</w>
               <w lemmaRef="#を.を">を</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#む.む">む</w>
               <w lemmaRef="#と.と">と</w>
               <w lemmaRef="#や.や">や</w>
@@ -28290,7 +28290,7 @@
               <w lemmaRef="#かたみ.形見">かたみ</w>
               <w lemmaRef="#と.と">と</w>
               <w lemmaRef="#や.や">や</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#む.む">む</w>
             </seg>
           </l>
@@ -28409,7 +28409,7 @@
               <w lemmaRef="#なく.泣く">なく</w>
               <w lemmaRef="#なく.泣く">〳〵</w>
               <w lemmaRef="#も.も">も</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#め.む">め</w>
             </seg>
           </l>
@@ -28552,7 +28552,7 @@
               <w lemmaRef="#に.に">に</w>
             </seg>
             <seg>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#て.て">て</w>
               <w lemmaRef="#も.も">も</w>
               <w lemmaRef="#こころ.心">心</w>
@@ -28805,7 +28805,7 @@
               <w lemmaRef="#よ.世">世</w>
               <w lemmaRef="#を.を">を</w>
               <w lemmaRef="#こころ.心">心</w>
-              <w lemmaRef="#み.見る">み</w>
+              <w lemmaRef="#み.見">み</w>
               <w lemmaRef="#む.む">む</w>
             </seg>
           </l>
@@ -28857,7 +28857,7 @@
           <lb/>
           <l n="752" xml:id="n752" resp="#よみ人知らず">
             <seg>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#て.て">て</w>
               <w lemmaRef="#も.も">も</w>
               <w lemmaRef="#また.又">又</w>
@@ -28865,7 +28865,7 @@
             <seg>
               <w lemmaRef="#また.又">また</w>
               <w lemmaRef="#も.も">も</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#まく.まく">まく</w>
               <w lemmaRef="#の.の">の</w>
             </seg>
@@ -29136,7 +29136,7 @@
           <l n="760" xml:id="n760" resp="#よみ人知らず">
             <seg>
               <w lemmaRef="#あひ.逢ふ">あひ</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#ね.ず">ね</w>
               <w lemmaRef="#ば.ば">は</w>
             </seg>
@@ -29400,7 +29400,7 @@
             <seg>
               <w lemmaRef="#ゆめ.夢">夢</w>
               <w lemmaRef="#に.に">に</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#しか.き">しか</w>
               <w lemmaRef="#ば.ば">は</w>
             </seg>
@@ -29821,7 +29821,7 @@
             <seg>
               <w lemmaRef="#いかに.如何に">いかに</w>
               <w lemmaRef="#まち.待つ">まち</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#む.む">む</w>
             </seg>
             <seg>
@@ -30175,7 +30175,7 @@
             <seg>
               <w lemmaRef="#ふもと.麓">ふもと</w>
               <w lemmaRef="#を.を">を</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#て.て">て</w>
               <w lemmaRef="#ぞ.ぞ">そ</w>
             </seg>
@@ -30566,7 +30566,7 @@
               <w lemmaRef="#はな.花">花</w>
               <w lemmaRef="#と.と">と</w>
               <w lemmaRef="#こそ.こそ">こそ</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#め.む">め</w>
             </seg>
           </l>
@@ -30604,7 +30604,7 @@
               <w lemmaRef="#ひとり.一人">ひとり</w>
             </seg>
             <seg>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#て.て">て</w>
               <w lemmaRef="#や.や">や</w>
               <w lemmaRef="#しのば.忍ぶ">しのは</w>
@@ -30872,7 +30872,7 @@
               <w lemmaRef="#を.を">を</w>
               <w lemmaRef="#は.は">は</w>
               <w lemmaRef="#うら.浦">うら</w>
-              <w lemmaRef="#み.見る">み</w>
+              <w lemmaRef="#み.見">み</w>
               <w lemmaRef="#じ.じ">し</w>
             </seg>
           </l>
@@ -30891,7 +30891,7 @@
           <l n="808" xml:id="n808" resp="#因幡">
             <seg>
               <w lemmaRef="#あひ.逢ふ">あひ</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#ぬ.ず">ぬ</w>
               <w lemmaRef="#も.も">も</w>
             </seg>
@@ -31023,7 +31023,7 @@
               <w lemmaRef="#を.を">を</w>
             </seg>
             <seg>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#き.き">き</w>
               <w lemmaRef="#と.と">と</w>
               <w lemmaRef="#な.な">な</w>
@@ -31203,7 +31203,7 @@
             </seg>
             <seg>
               <w lemmaRef="#うら.浦">うら</w>
-              <w lemmaRef="#み.見る">み</w>
+              <w lemmaRef="#み.見">み</w>
               <w lemmaRef="#つる.つ">つる</w>
               <w lemmaRef="#かな.哉">哉</w>
             </seg>
@@ -31233,7 +31233,7 @@
               <w lemmaRef="#を.を">を</w>
             </seg>
             <seg>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#て.て">て</w>
               <w lemmaRef="#こそ.こそ">こそ</w>
               <w lemmaRef="#やま.止む">やま</w>
@@ -31732,7 +31732,7 @@
             <seg>
               <w lemmaRef="#から.殻">から</w>
               <w lemmaRef="#を.を">を</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#つつ.つつ">つゝ</w>
               <w lemmaRef="#も.も">も</w>
             </seg>
@@ -31885,7 +31885,7 @@
               <w lemmaRef="#に.に">に</w>
             </seg>
             <seg>
-              <w lemmaRef="#みる.見る">見る</w>
+              <w lemmaRef="#みる.見">見る</w>
               <w lemmaRef="#を.を">を</w>
               <w lemmaRef="#のみ.のみ">のみ</w>
               <w lemmaRef="#や.や">や</w>
@@ -31907,7 +31907,7 @@
               <w lemmaRef="#うつつ.現">うつゝ</w>
               <w lemmaRef="#と.と">と</w>
               <w lemmaRef="#は.は">は</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#ず.ず">す</w>
             </seg>
           </l>
@@ -32054,7 +32054,7 @@
             <seg>
               <w lemmaRef="#ある.有り">ある</w>
               <w lemmaRef="#を.を">を</w>
-              <w lemmaRef="#みる.見る">見る</w>
+              <w lemmaRef="#みる.見">見る</w>
               <w lemmaRef="#だに.だに">たに</w>
             </seg>
             <seg>
@@ -32499,7 +32499,7 @@
               <w lemmaRef="#む.む">む</w>
               <w lemmaRef="#と.と">と</w>
               <w lemmaRef="#か.か">か</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#し.き">し</w>
             </seg>
           </l>
@@ -32655,7 +32655,7 @@
               <w lemmaRef="#らむ.らむ">らむ</w>
             </seg>
             <seg>
-              <w lemmaRef="#みれ.見る">見れ</w>
+              <w lemmaRef="#みれ.見">見れ</w>
               <w lemmaRef="#ば.ば">は</w>
               <w lemmaRef="#なみだ.涙">涙</w>
               <w lemmaRef="#の.の">の</w>
@@ -32710,7 +32710,7 @@
           <l n="856" xml:id="n856" resp="#よみ人知らず">
             <seg>
               <w lemmaRef="#たれ.誰">誰</w>
-              <w lemmaRef="#みよ.見る">見よ</w>
+              <w lemmaRef="#みよ.見">見よ</w>
               <w lemmaRef="#と.と">と</w>
             </seg>
             <seg>
@@ -32777,7 +32777,7 @@
               <w lemmaRef="#あはれ.哀れ">あはれ</w>
               <w lemmaRef="#と.と">と</w>
               <w lemmaRef="#は.は">は</w>
-              <w lemmaRef="#みよ.見る">見よ</w>
+              <w lemmaRef="#みよ.見">見よ</w>
             </seg>
           </l>
         </div>
@@ -32842,7 +32842,7 @@
               <w lemmaRef="#て.て">て</w>
             </seg>
             <seg>
-              <w lemmaRef="#みる.見る">見る</w>
+              <w lemmaRef="#みる.見">見る</w>
               <w lemmaRef="#より.より">より</w>
               <w lemmaRef="#も.も">も</w>
             </seg>
@@ -33141,7 +33141,7 @@
               <w lemmaRef="#あはれ.哀れ">あはれ</w>
               <w lemmaRef="#と.と">と</w>
               <w lemmaRef="#ぞ.ぞ">そ</w>
-              <w lemmaRef="#みる.見る">見る</w>
+              <w lemmaRef="#みる.見">見る</w>
             </seg>
           </l>
         </div>
@@ -33208,7 +33208,7 @@
             <seg>
               <w lemmaRef="#ひと.人">人</w>
               <w lemmaRef="#や.や">や</w>
-              <w lemmaRef="#みる.見る">見る</w>
+              <w lemmaRef="#みる.見">見る</w>
               <w lemmaRef="#らむ.らむ">らむ</w>
             </seg>
             <seg>
@@ -33575,7 +33575,7 @@
               <w lemmaRef="#てる.照る">てる</w>
               <w lemmaRef="#つき.月">月</w>
               <w lemmaRef="#を.を">を</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#て.て">て</w>
             </seg>
           </l>
@@ -33631,7 +33631,7 @@
           <l n="880" xml:id="n880" resp="#紀貫之">
             <seg>
               <w lemmaRef="#かつ.且つ">かつ</w>
-              <w lemmaRef="#みれ.見る">見れ</w>
+              <w lemmaRef="#みれ.見">見れ</w>
               <w lemmaRef="#ど.ど">と</w>
             </seg>
             <seg>
@@ -34299,7 +34299,7 @@
               <w lemmaRef="#て.て">て</w>
             </seg>
             <seg>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#て.て">て</w>
               <w lemmaRef="#ゆか.行く">ゆか</w>
               <w lemmaRef="#む.む">む</w>
@@ -34358,7 +34358,7 @@
             </seg>
             <seg>
               <w lemmaRef="#いよいよ.愈">いよ〳〵</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#まく.まく">まく</w>
             </seg>
             <seg>
@@ -34527,7 +34527,7 @@
           <l n="905" xml:id="n905" resp="#よみ人知らず">
             <seg>
               <w lemmaRef="#われ.我">我</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#て.て">て</w>
               <w lemmaRef="#も.も">も</w>
             </seg>
@@ -34775,7 +34775,7 @@
               <w lemmaRef="#も.も">も</w>
             </seg>
             <seg>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#まく.まく">まく</w>
               <w lemmaRef="#の.の">の</w>
               <w lemmaRef="#ほしき.欲し">ほしき</w>
@@ -35039,7 +35039,7 @@
               <w lemmaRef="#か.か">か</w>
               <w lemmaRef="#と.と">と</w>
               <w lemmaRef="#ぞ.ぞ">そ</w>
-              <w lemmaRef="#みる.見る">見る</w>
+              <w lemmaRef="#みる.見">見る</w>
             </seg>
           </l>
         </div>
@@ -35178,7 +35178,7 @@
           <l n="923" xml:id="n923" resp="#在原業平">
             <seg>
               <w lemmaRef="#ぬき.抜く">ぬき</w>
-              <w lemmaRef="#み.見る">み</w>
+              <w lemmaRef="#み.見">み</w>
               <w lemmaRef="#たる.たり">たる</w>
             </seg>
             <seg>
@@ -35237,7 +35237,7 @@
               <w lemmaRef="#を.を">を</w>
               <w lemmaRef="#へ.経">へ</w>
               <w lemmaRef="#て.て">て</w>
-              <w lemmaRef="#みれ.見る">見れ</w>
+              <w lemmaRef="#みれ.見">見れ</w>
               <w lemmaRef="#ど.ど">と</w>
             </seg>
             <seg>
@@ -35474,7 +35474,7 @@
               <w lemmaRef="#おつ.落つ">おつ</w>
               <w lemmaRef="#と.と">と</w>
               <w lemmaRef="#は.は">は</w>
-              <w lemmaRef="#みれ.見る">見れ</w>
+              <w lemmaRef="#みれ.見">見れ</w>
               <w lemmaRef="#ど.ど">と</w>
             </seg>
             <seg>
@@ -36956,7 +36956,7 @@
             <seg>
               <w lemmaRef="#きみ.君">君</w>
               <w lemmaRef="#を.を">を</w>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#む.む">む</w>
               <w lemmaRef="#と.と">と</w>
               <w lemmaRef="#は.は">は</w>
@@ -37504,7 +37504,7 @@
               <w lemmaRef="#と.と">ゝ</w>
             </seg>
             <seg>
-              <w lemmaRef="#みる.見る">見る</w>
+              <w lemmaRef="#みる.見">見る</w>
               <w lemmaRef="#なへに.なへに">なへに</w>
             </seg>
             <seg>
@@ -37717,7 +37717,7 @@
               <w lemmaRef="#は.は">は</w>
             </seg>
             <seg>
-              <w lemmaRef="#み.見る">見</w>
+              <w lemmaRef="#み.見">見</w>
               <w lemmaRef="#し.き">し</w>
               <w lemmaRef="#ごと.如">こと</w>
               <w lemmaRef="#も.も">も</w>
@@ -38079,7 +38079,7 @@
               <w lemmaRef="#ながら.ながら">なから</w>
             </seg>
             <seg>
-              <w lemmaRef="#みる.見る">見る</w>
+              <w lemmaRef="#みる.見">見る</w>
               <w lemmaRef="#よし.由">よし</w>
               <w lemmaRef="#もがな.もがな">も哉</w>
             </seg>
@@ -38166,7 +38166,7 @@
                 <w lemmaRef="#ひと.人">人</w>
                 <w lemmaRef="#を.を">を</w>
                 <w lemmaRef="#うら.浦">うら</w>
-                <w lemmaRef="#みる.見る">み</w>
+                <w lemmaRef="#みる.見">み</w>
                 <w lemmaRef="#む.む">む</w>
               </seg>
               <seg>
@@ -38501,7 +38501,7 @@
                 <w lemmaRef="#を.を">を</w>
               </seg>
               <seg>
-                <w lemmaRef="#み.見る">見</w>
+                <w lemmaRef="#み.見">見</w>
                 <w lemmaRef="#て.て">て</w>
                 <w lemmaRef="#のみ.のみ">のみ</w>
                 <w lemmaRef="#しのぶ.忍ぶ">しのふ</w>
@@ -39233,7 +39233,7 @@
                 <lb/>
                 <w lemmaRef="#わかえ.若ゆ">わかえ</w>
                 <w lemmaRef="#つつ.つつ">つゝ</w>
-                <w lemmaRef="#み.見る">見</w>
+                <w lemmaRef="#み.見">見</w>
                 <w lemmaRef="#む.む">む</w>
               </seg>
             </l>
@@ -39564,7 +39564,7 @@
                 <w lemmaRef="#よそ.余所">よそ</w>
                 <w lemmaRef="#に.に">に</w>
                 <w lemmaRef="#こそ.こそ">こそ</w>
-                <w lemmaRef="#み.見る">見</w>
+                <w lemmaRef="#み.見">見</w>
                 <w lemmaRef="#む.む">め</w>
               </seg>
             </l>
@@ -39634,7 +39634,7 @@
                 <w lemmaRef="#さく.咲く">さく</w>
               </seg>
               <seg>
-                <w lemmaRef="#みれ.見る">見れ</w>
+                <w lemmaRef="#みれ.見">見れ</w>
                 <w lemmaRef="#ど.ど">と</w>
                 <w lemmaRef="#あか.飽く">あか</w>
                 <w lemmaRef="#ぬ.ず">ぬ</w>
@@ -39690,7 +39690,7 @@
                 <w lemmaRef="#また.又">又</w>
                 <w lemmaRef="#も.も">も</w>
                 <w lemmaRef="#あひ.逢ふ">あひ</w>
-                <w lemmaRef="#み.見る">見</w>
+                <w lemmaRef="#み.見">見</w>
                 <w lemmaRef="#む.む">む</w>
               </seg>
               <seg>
@@ -39761,7 +39761,7 @@
                 <w lemmaRef="#はな.花">花</w>
               </seg>
               <seg>
-                <w lemmaRef="#み.見る">見</w>
+                <w lemmaRef="#み.見">見</w>
                 <w lemmaRef="#に.に">に</w>
                 <w lemmaRef="#こそ.こそ">こそ</w>
                 <w lemmaRef="#き.来">き</w>
@@ -39992,7 +39992,7 @@
               <seg>
                 <w lemmaRef="#つま.摘む">つま</w>
                 <w lemmaRef="#で.で">て</w>
-                <w lemmaRef="#みる.見る">見る</w>
+                <w lemmaRef="#みる.見">見る</w>
                 <w lemmaRef="#べき.べし">へき</w>
               </seg>
             </l>
@@ -40032,7 +40032,7 @@
               <seg>
                 <w lemmaRef="#はな.花">花</w>
                 <w lemmaRef="#と.と">と</w>
-                <w lemmaRef="#み.見る">見</w>
+                <w lemmaRef="#み.見">見</w>
                 <w lemmaRef="#て.て">て</w>
               </seg>
               <seg>
@@ -40248,12 +40248,12 @@
               </seg>
               <seg>
                 <w lemmaRef="#こころ.心">心</w>
-                <w lemmaRef="#み.見る">み</w>
+                <w lemmaRef="#み.見">み</w>
                 <w lemmaRef="#がてら.がてら">かてら</w>
               </seg>
               <seg>
                 <w lemmaRef="#あひ.逢ふ">あひ</w>
-                <w lemmaRef="#み.見る">見</w>
+                <w lemmaRef="#み.見">見</w>
                 <w lemmaRef="#ね.ず">ね</w>
                 <w lemmaRef="#ば.ば">は</w>
               </seg>
@@ -40377,7 +40377,7 @@
             <l n="1029" xml:id="n1029" resp="#紀有朋">
               <seg>
                 <w lemmaRef="#あひ.逢ふ">あひ</w>
-                <w lemmaRef="#み.見る">見</w>
+                <w lemmaRef="#み.見">見</w>
                 <w lemmaRef="#まく.まく">まく</w>
               </seg>
               <seg>
@@ -40468,7 +40468,7 @@
               </seg>
               <seg>
                 <w lemmaRef="#なり.成る">なり</w>
-                <w lemmaRef="#み.見る">み</w>
+                <w lemmaRef="#み.見">み</w>
                 <w lemmaRef="#て.つ">て</w>
                 <w lemmaRef="#しがな.しがな">し哉</w>
               </seg>
@@ -40735,7 +40735,7 @@
                 <w lemmaRef="#つつ.つつ">つゝ</w>
               </seg>
               <seg>
-                <w lemmaRef="#みる.見る">見る</w>
+                <w lemmaRef="#みる.見">見る</w>
                 <w lemmaRef="#よし.由">よし</w>
                 <w lemmaRef="#もがな.もがな">も哉</w>
               </seg>
@@ -41148,7 +41148,7 @@
                 <w lemmaRef="#を.を">を</w>
               </seg>
               <seg>
-                <w lemmaRef="#み.見る">見</w>
+                <w lemmaRef="#み.見">見</w>
                 <w lemmaRef="#て.て">て</w>
                 <w lemmaRef="#こそ.こそ">こそ</w>
                 <w lemmaRef="#やま.止む">やま</w>
@@ -41983,7 +41983,7 @@
                 <w lemmaRef="#うち.打つ">うち</w>
                 <w lemmaRef="#いで.出づ">いて</w>
                 <w lemmaRef="#て.て">ゝ</w>
-                <w lemmaRef="#みれ.見る">見れ</w>
+                <w lemmaRef="#みれ.見">見れ</w>
                 <w lemmaRef="#ば.ば">は</w>
               </seg>
               <seg>
@@ -42088,7 +42088,7 @@
               <seg>
                 <w lemmaRef="#ひと.人">人</w>
                 <w lemmaRef="#も.も">も</w>
-                <w lemmaRef="#みる.見る">見る</w>
+                <w lemmaRef="#みる.見">見る</w>
                 <w lemmaRef="#がに.がに">かに</w>
               </seg>
               <seg>
@@ -42216,7 +42216,7 @@
                 <w lemmaRef="#かげ.影">かけ</w>
                 <w lemmaRef="#を.を">を</w>
                 <w lemmaRef="#だに.だに">たに</w>
-                <w lemmaRef="#み.見る">見</w>
+                <w lemmaRef="#み.見">見</w>
                 <w lemmaRef="#む.む">む</w>
               </seg>
             </l>
@@ -42766,7 +42766,7 @@
               <seg>
                 <w lemmaRef="#さやに.清なり">さやに</w>
                 <w lemmaRef="#も.も">も</w>
-                <w lemmaRef="#み.見る">見</w>
+                <w lemmaRef="#み.見">見</w>
                 <w lemmaRef="#しが.しが">しか</w>
               </seg>
               <seg>
@@ -42965,7 +42965,7 @@
                 <w lemmaRef="#き.来">き</w>
                 <w lemmaRef="#て.て">て</w>
                 <w lemmaRef="#も.も">も</w>
-                <w lemmaRef="#み.見る">み</w>
+                <w lemmaRef="#み.見">み</w>
                 <w lemmaRef="#む.む">む</w>
               </seg>
               <seg>
@@ -58181,7 +58181,7 @@
           <hom n="3" xml:id="み.水">
             <ref target="#水"/>
           </hom>
-          <hom n="4" xml:id="み.見る">
+          <hom n="4" xml:id="み.見">
             <ref target="#見る"/>
           </hom>
           <hom n="5" xml:id="み.身">
@@ -58616,7 +58616,7 @@
           <hom n="1" xml:id="みよ.御世">
             <ref target="#御世"/>
           </hom>
-          <hom n="2" xml:id="みよ.見る">
+          <hom n="2" xml:id="みよ.見">
             <ref target="#見る"/>
           </hom>
         </entry>
@@ -58635,7 +58635,7 @@
           <form type="pron">
             <pron notation="kana">みる</pron>
           </form>
-          <hom n="1" xml:id="みる.見る">
+          <hom n="1" xml:id="みる.見">
             <ref target="#見る"/>
           </hom>
         </entry>
@@ -58651,7 +58651,7 @@
           <form type="pron">
             <pron notation="kana">みれ</pron>
           </form>
-          <hom n="1" xml:id="みれ.見る">
+          <hom n="1" xml:id="みれ.見">
             <ref target="#見る"/>
           </hom>
         </entry>

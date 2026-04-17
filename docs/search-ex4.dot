@@ -11,21 +11,44 @@ digraph search_kanazukai {
   node [fontname="Helvetica" fontsize=10 shape=plain]
   edge [fontname="Helvetica" fontsize=8 color="#aaaaaa" penwidth=0.8]
 
-  /* ── query A: string search (fails) ── */
-  query_str [label=<<TABLE BORDER="1" CELLBORDER="0" CELLSPACING="0" CELLPADDING="4" BGCOLOR="#fdecea" COLOR="#cc3333">
-    <TR><TD><B>クエリ A（文字列）</B></TD></TR>
-    <TR><TD>text() = 'こえ'</TD></TR>
+  /* ── query: おぐら (modern kana) ── */
+  query [label=<<TABLE BORDER="1" CELLBORDER="0" CELLSPACING="0" CELLPADDING="4" BGCOLOR="#fff8e8" COLOR="#cc8800">
+    <TR><TD><B>クエリ</B></TD></TR>
+    <TR><TD>おぐら</TD></TR>
   </TABLE>>]
 
-  no_result [label=<<TABLE BORDER="1" CELLBORDER="0" CELLSPACING="0" CELLPADDING="4" BGCOLOR="#fdecea" COLOR="#cc3333">
-    <TR><TD>0件</TD></TR>
-  </TABLE>>]
+  /* ── reading-index ── */
+  subgraph cluster_ri {
+    label="reading-index"
+    style="filled,rounded"
+    fillcolor="#f0f7ee"
+    color="#88bb77"
+    fontname="Helvetica"
+    fontsize=10
 
-  /* ── query B: lemmaRef search (succeeds) ── */
-  query_lemma [label=<<TABLE BORDER="1" CELLBORDER="0" CELLSPACING="0" CELLPADDING="4" BGCOLOR="#fff8e8" COLOR="#cc8800">
-    <TR><TD><B>クエリ B（lemmaRef）</B></TD></TR>
-    <TR><TD>contains(@lemmaRef, '.声')</TD></TR>
-  </TABLE>>]
+    ri_o [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="3">
+      <TR><TD BGCOLOR="#88bb77"><B>&lt;entry&gt;</B></TD></TR>
+      <TR><TD ALIGN="LEFT">xml:id: おぐら</TD></TR>
+    </TABLE>>]
+
+    hom_o [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="3">
+      <TR><TD BGCOLOR="#88bb77"><B>&lt;hom&gt;</B></TD></TR>
+      <TR><TD ALIGN="LEFT">xml:id: おぐら.小倉</TD></TR>
+    </TABLE>>]
+
+    ri_wo [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="3">
+      <TR><TD BGCOLOR="#88bb77"><B>&lt;entry&gt;</B></TD></TR>
+      <TR><TD ALIGN="LEFT">xml:id: をぐら</TD></TR>
+    </TABLE>>]
+
+    hom_wo [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="3">
+      <TR><TD BGCOLOR="#88bb77"><B>&lt;hom&gt;</B></TD></TR>
+      <TR><TD ALIGN="LEFT">xml:id: をぐら.小倉</TD></TR>
+    </TABLE>>]
+
+    ri_o  -> hom_o  [style=dashed color="#88bb77"]
+    ri_wo -> hom_wo [style=dashed color="#88bb77"]
+  }
 
   /* ── dictionary ── */
   subgraph cluster_dict {
@@ -36,10 +59,10 @@ digraph search_kanazukai {
     fontname="Helvetica"
     fontsize=10
 
-    e_koe [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="3">
+    e_ogura [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="3">
       <TR><TD BGCOLOR="#ccaa44"><B>&lt;entry&gt;</B></TD></TR>
-      <TR><TD ALIGN="LEFT">xml:id: 声</TD></TR>
-      <TR><TD ALIGN="LEFT">pos: N.g</TD></TR>
+      <TR><TD ALIGN="LEFT">xml:id: 小倉</TD></TR>
+      <TR><TD ALIGN="LEFT">pos: N.p</TD></TR>
     </TABLE>>]
   }
 
@@ -54,85 +77,21 @@ digraph search_kanazukai {
 
     l1 [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="3">
       <TR><TD BGCOLOR="#7aaad0"><B>&lt;l&gt;</B></TD></TR>
-      <TR><TD ALIGN="LEFT">n: 14</TD></TR>
+      <TR><TD ALIGN="LEFT">n: 312</TD></TR>
     </TABLE>>]
 
     w1 [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="3">
       <TR><TD BGCOLOR="#7aaad0"><B>&lt;w&gt;</B></TD></TR>
-      <TR><TD ALIGN="LEFT">こゑ</TD></TR>
-      <TR><TD ALIGN="LEFT">lemmaRef: #こゑ.声</TD></TR>
-    </TABLE>>]
-
-    l2 [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="3">
-      <TR><TD BGCOLOR="#7aaad0"><B>&lt;l&gt;</B></TD></TR>
-      <TR><TD ALIGN="LEFT">n: 38</TD></TR>
-    </TABLE>>]
-
-    w2 [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="3">
-      <TR><TD BGCOLOR="#7aaad0"><B>&lt;w&gt;</B></TD></TR>
-      <TR><TD ALIGN="LEFT">こゑ</TD></TR>
-      <TR><TD ALIGN="LEFT">lemmaRef: #こゑ.声</TD></TR>
-    </TABLE>>]
-
-    l3 [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="3">
-      <TR><TD BGCOLOR="#7aaad0"><B>&lt;l&gt;</B></TD></TR>
-      <TR><TD ALIGN="LEFT">n: 55</TD></TR>
-    </TABLE>>]
-
-    w3 [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="3">
-      <TR><TD BGCOLOR="#7aaad0"><B>&lt;w&gt;</B></TD></TR>
-      <TR><TD ALIGN="LEFT">こへ</TD></TR>
-      <TR><TD ALIGN="LEFT">lemmaRef: #こへ.声</TD></TR>
+      <TR><TD ALIGN="LEFT">をくら</TD></TR>
+      <TR><TD ALIGN="LEFT">lemmaRef: #をぐら.小倉</TD></TR>
     </TABLE>>]
 
     l1 -> w1 [style=dashed color="#7aaad0"]
-    l2 -> w2 [style=dashed color="#7aaad0"]
-    l3 -> w3 [style=dashed color="#7aaad0"]
   }
 
-  /* ── reading-index ── */
-  subgraph cluster_ri {
-    label="reading-index"
-    style="filled,rounded"
-    fillcolor="#f0f7ee"
-    color="#88bb77"
-    fontname="Helvetica"
-    fontsize=10
-
-    ri_kowe [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="3">
-      <TR><TD BGCOLOR="#88bb77"><B>&lt;entry&gt;</B></TD></TR>
-      <TR><TD ALIGN="LEFT">xml:id: こゑ</TD></TR>
-    </TABLE>>]
-
-    hom_kowe [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="3">
-      <TR><TD BGCOLOR="#88bb77"><B>&lt;hom&gt;</B></TD></TR>
-      <TR><TD ALIGN="LEFT">xml:id: こゑ.声</TD></TR>
-    </TABLE>>]
-
-    ri_kohe [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="3">
-      <TR><TD BGCOLOR="#88bb77"><B>&lt;entry&gt;</B></TD></TR>
-      <TR><TD ALIGN="LEFT">xml:id: こへ</TD></TR>
-    </TABLE>>]
-
-    hom_kohe [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="3">
-      <TR><TD BGCOLOR="#88bb77"><B>&lt;hom&gt;</B></TD></TR>
-      <TR><TD ALIGN="LEFT">xml:id: こへ.声</TD></TR>
-    </TABLE>>]
-
-    ri_kowe -> hom_kowe [style=dashed color="#88bb77"]
-    ri_kohe -> hom_kohe [style=dashed color="#88bb77"]
-  }
-
-  /* ── path A: fails ── */
-  query_str -> no_result [style=bold penwidth=2 color="#cc3333" label="ミスマッチ（こゑ/こへ≠こえ）"]
-
-  /* ── path B: succeeds ── */
-  query_lemma -> w1       [style=bold penwidth=2 color="#cc6600"]
-  query_lemma -> w2       [style=bold penwidth=1.5 color="#cc6600"]
-  query_lemma -> w3       [style=bold penwidth=1.5 color="#cc6600"]
-  w1          -> hom_kowe [xlabel="lemmaRef" style=bold penwidth=2 color="#4477bb" dir=back]
-  w2          -> hom_kowe [style=bold penwidth=1.5 color="#4477bb" dir=back]
-  w3          -> hom_kohe [xlabel="lemmaRef" style=bold penwidth=1.5 color="#4477bb" dir=back]
-  hom_kowe    -> e_koe    [xlabel="ref" penwidth=1.5 color="#cc6600" style=bold]
-  hom_kohe    -> e_koe    [xlabel="ref" penwidth=1.5 color="#cc6600" style=bold]
+  /* ── search path ── */
+  query   -> ri_o   [style=bold penwidth=2 color="#cc6600"]
+  hom_o   -> e_ogura [xlabel="ref" style=bold penwidth=2 color="#cc6600"]
+  hom_wo  -> e_ogura [xlabel="ref" style=bold penwidth=1.5 color="#cc6600"]
+  w1      -> hom_wo  [xlabel="lemmaRef" style=bold penwidth=2 color="#4477bb" dir=back]
 }

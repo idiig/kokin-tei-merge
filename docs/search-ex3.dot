@@ -1,0 +1,71 @@
+digraph search_monona {
+  graph [
+    rankdir=LR
+    fontname="Helvetica"
+    bgcolor="#faf9f7"
+    splines=polyline
+    nodesep=0.5
+    ranksep=1.2
+    newrank=true
+  ]
+  node [fontname="Helvetica" fontsize=10 shape=plain]
+  edge [fontname="Helvetica" fontsize=8 color="#aaaaaa" penwidth=0.8]
+
+  /* ── query input ── */
+  query [label=<<TABLE BORDER="1" CELLBORDER="0" CELLSPACING="0" CELLPADDING="4" BGCOLOR="#fff8e8" COLOR="#cc8800">
+    <TR><TD><B>クエリ（文字列）</B></TD></TR>
+    <TR><TD>うくひす</TD></TR>
+  </TABLE>>]
+
+  /* ── body ── */
+  subgraph cluster_body {
+    label="&lt;body&gt;"
+    style="filled,rounded"
+    fillcolor="#eef4fb"
+    color="#7aaad0"
+    fontname="Helvetica"
+    fontsize=10
+
+    b_l [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="3">
+      <TR><TD BGCOLOR="#7aaad0"><B>&lt;l&gt;</B></TD></TR>
+      <TR><TD ALIGN="LEFT">n: 422</TD></TR>
+    </TABLE>>]
+
+    b_seg [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="3">
+      <TR><TD BGCOLOR="#7aaad0"><B>&lt;seg&gt;</B></TD></TR>
+      <TR><TD ALIGN="LEFT">string(): うくひすとのみ</TD></TR>
+    </TABLE>>]
+
+    w_uku [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="3">
+      <TR><TD BGCOLOR="#7aaad0"><B>&lt;w&gt;</B></TD></TR>
+      <TR><TD ALIGN="LEFT">うく</TD></TR>
+      <TR><TD ALIGN="LEFT">lemmaRef: #うく.憂し</TD></TR>
+    </TABLE>>]
+
+    w_hi [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="3">
+      <TR><TD BGCOLOR="#7aaad0"><B>&lt;w&gt;</B></TD></TR>
+      <TR><TD ALIGN="LEFT">ひ</TD></TR>
+      <TR><TD ALIGN="LEFT">lemmaRef: #ひ.干る</TD></TR>
+    </TABLE>>]
+
+    w_su [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="3">
+      <TR><TD BGCOLOR="#7aaad0"><B>&lt;w&gt;</B></TD></TR>
+      <TR><TD ALIGN="LEFT">す</TD></TR>
+      <TR><TD ALIGN="LEFT">lemmaRef: #ず.ず</TD></TR>
+    </TABLE>>]
+
+    w_to [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="3">
+      <TR><TD BGCOLOR="#7aaad0"><B>&lt;w&gt;</B></TD></TR>
+      <TR><TD ALIGN="LEFT">とのみ…</TD></TR>
+    </TABLE>>]
+
+    b_l   -> b_seg  [style=dashed color="#7aaad0"]
+    b_seg -> w_uku  [style=dashed color="#7aaad0"]
+    b_seg -> w_hi   [style=dashed color="#7aaad0"]
+    b_seg -> w_su   [style=dashed color="#7aaad0"]
+    b_seg -> w_to   [style=dashed color="#7aaad0"]
+  }
+
+  /* ── search path ── */
+  query -> b_seg [xlabel="contains(string(.), …)" style=bold penwidth=2 color="#cc6600"]
+}

@@ -114,8 +114,8 @@ digraph search_uguisu {
       <TR><TD ALIGN="LEFT">lemmaRef: #ほととぎす.ほととぎす</TD></TR>
     </TABLE>>]
 
-    w1 -> l1 [style=dashed color="#7aaad0"]
-    w2 -> l2 [style=dashed color="#7aaad0"]
+    l1 -> w1 [style=dashed color="#7aaad0"]
+    l2 -> w2 [style=dashed color="#7aaad0"]
   }
 
   /* ── search path (highlighted) ── */
@@ -126,6 +126,4 @@ digraph search_uguisu {
   e3    -> wlsph   [style=bold penwidth=1.5 color="#cc6600"]
   w1    -> hom1    [xlabel="lemmaRef" style=bold penwidth=2 color="#4477bb" dir=back]
   w2    -> e3      [xlabel="lemmaRef" style=bold penwidth=1.5 color="#4477bb" dir=back]
-  w1    -> l1      [style=bold penwidth=2 color="#228833"]
-  w2    -> l2      [style=bold penwidth=1.5 color="#228833"]
 }

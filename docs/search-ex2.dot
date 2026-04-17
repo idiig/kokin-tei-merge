@@ -1,0 +1,111 @@
+digraph search_aki {
+  graph [
+    rankdir=LR
+    fontname="Helvetica"
+    bgcolor="#faf9f7"
+    splines=polyline
+    nodesep=0.5
+    ranksep=1.2
+    newrank=true
+  ]
+  node [fontname="Helvetica" fontsize=10 shape=plain]
+  edge [fontname="Helvetica" fontsize=8 color="#aaaaaa" penwidth=0.8]
+
+  /* ── query input ── */
+  query [label=<<TABLE BORDER="1" CELLBORDER="0" CELLSPACING="0" CELLPADDING="4" BGCOLOR="#fff8e8" COLOR="#cc8800">
+    <TR><TD><B>クエリ</B></TD></TR>
+    <TR><TD>あき</TD></TR>
+  </TABLE>>]
+
+  /* ── reading-index ── */
+  subgraph cluster_ri {
+    label="reading-index"
+    style="filled,rounded"
+    fillcolor="#f0f7ee"
+    color="#88bb77"
+    fontname="Helvetica"
+    fontsize=10
+
+    ri_e [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="3">
+      <TR><TD BGCOLOR="#88bb77"><B>&lt;entry&gt;</B></TD></TR>
+      <TR><TD ALIGN="LEFT">xml:id: あき</TD></TR>
+    </TABLE>>]
+
+    hom1 [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="3">
+      <TR><TD BGCOLOR="#88bb77"><B>&lt;hom&gt;</B></TD></TR>
+      <TR><TD ALIGN="LEFT">xml:id: あき.秋</TD></TR>
+    </TABLE>>]
+
+    hom2 [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="3">
+      <TR><TD BGCOLOR="#88bb77"><B>&lt;hom&gt;</B></TD></TR>
+      <TR><TD ALIGN="LEFT">xml:id: あき.飽く</TD></TR>
+    </TABLE>>]
+
+    ri_e -> hom1 [style=dashed color="#88bb77"]
+    ri_e -> hom2 [style=dashed color="#88bb77"]
+  }
+
+  /* ── dictionary ── */
+  subgraph cluster_dict {
+    label="dictionary"
+    style="filled,rounded"
+    fillcolor="#fef9ec"
+    color="#ccaa44"
+    fontname="Helvetica"
+    fontsize=10
+
+    e_aki [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="3">
+      <TR><TD BGCOLOR="#ccaa44"><B>&lt;entry&gt;</B></TD></TR>
+      <TR><TD ALIGN="LEFT">xml:id: 秋</TD></TR>
+      <TR><TD ALIGN="LEFT">pos: N.g</TD></TR>
+    </TABLE>>]
+
+    e_aku [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="3">
+      <TR><TD BGCOLOR="#ccaa44"><B>&lt;entry&gt;</B></TD></TR>
+      <TR><TD ALIGN="LEFT">xml:id: 飽く</TD></TR>
+      <TR><TD ALIGN="LEFT">pos: V.k</TD></TR>
+    </TABLE>>]
+  }
+
+  /* ── body ── */
+  subgraph cluster_body {
+    label="&lt;body&gt;"
+    style="filled,rounded"
+    fillcolor="#eef4fb"
+    color="#7aaad0"
+    fontname="Helvetica"
+    fontsize=10
+
+    l1 [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="3">
+      <TR><TD BGCOLOR="#7aaad0"><B>&lt;l&gt;</B></TD></TR>
+      <TR><TD ALIGN="LEFT">n: 169</TD></TR>
+    </TABLE>>]
+
+    w1 [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="3">
+      <TR><TD BGCOLOR="#7aaad0"><B>&lt;w&gt;</B></TD></TR>
+      <TR><TD ALIGN="LEFT">秋</TD></TR>
+      <TR><TD ALIGN="LEFT">lemmaRef: #あき.秋</TD></TR>
+    </TABLE>>]
+
+    l2 [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="3">
+      <TR><TD BGCOLOR="#7aaad0"><B>&lt;l&gt;</B></TD></TR>
+      <TR><TD ALIGN="LEFT">n: 742</TD></TR>
+    </TABLE>>]
+
+    w2 [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="3">
+      <TR><TD BGCOLOR="#7aaad0"><B>&lt;w&gt;</B></TD></TR>
+      <TR><TD ALIGN="LEFT">あき</TD></TR>
+      <TR><TD ALIGN="LEFT">lemmaRef: #あき.飽く</TD></TR>
+    </TABLE>>]
+
+    l1 -> w1 [style=dashed color="#7aaad0"]
+    l2 -> w2 [style=dashed color="#7aaad0"]
+  }
+
+  /* ── search path (highlighted) ── */
+  query -> ri_e  [style=bold penwidth=2 color="#cc6600"]
+  hom1  -> e_aki [xlabel="ref" style=bold penwidth=2 color="#cc6600"]
+  hom2  -> e_aku [xlabel="ref" style=bold penwidth=2 color="#cc6600"]
+  w1    -> hom1  [xlabel="lemmaRef" style=bold penwidth=2 color="#4477bb" dir=back]
+  w2    -> hom2  [xlabel="lemmaRef" style=bold penwidth=2 color="#4477bb" dir=back]
+}

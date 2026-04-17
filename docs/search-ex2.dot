@@ -109,8 +109,20 @@ digraph search_aki {
       <TR><TD ALIGN="LEFT">lemmaRef: #あか.飽く</TD></TR>
     </TABLE>>]
 
+    l3 [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="3">
+      <TR><TD BGCOLOR="#7aaad0"><B>&lt;l&gt;</B></TD></TR>
+      <TR><TD ALIGN="LEFT">n: 581</TD></TR>
+    </TABLE>>]
+
+    w3 [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="3">
+      <TR><TD BGCOLOR="#7aaad0"><B>&lt;w&gt;</B></TD></TR>
+      <TR><TD ALIGN="LEFT">秋</TD></TR>
+      <TR><TD ALIGN="LEFT">lemmaRef: #あき.飽く</TD></TR>
+    </TABLE>>]
+
     l1 -> w1 [style=dashed color="#7aaad0"]
     l2 -> w2 [style=dashed color="#7aaad0"]
+    l3 -> w3 [style=dashed color="#7aaad0"]
   }
 
   /* ── search path (highlighted) ── */
@@ -120,4 +132,5 @@ digraph search_aki {
   hom_aka_aku -> e_aku       [xlabel="ref" penwidth=1.2 color="#999999"]
   w1          -> hom_aki_aki [xlabel="lemmaRef" style=bold penwidth=2 color="#4477bb" dir=back]
   w2          -> hom_aka_aku [xlabel="lemmaRef" style=bold penwidth=2 color="#4477bb" dir=back]
+  w3          -> hom_aki_aku [xlabel="lemmaRef" style=bold penwidth=2 color="#4477bb" dir=back]
 }

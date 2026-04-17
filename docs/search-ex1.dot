@@ -92,10 +92,20 @@ digraph search_uguisu {
     fontname="Helvetica"
     fontsize=10
 
+    l1 [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="3">
+      <TR><TD BGCOLOR="#7aaad0"><B>&lt;l&gt;</B></TD></TR>
+      <TR><TD ALIGN="LEFT">n: 12</TD></TR>
+    </TABLE>>]
+
     w1 [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="3">
       <TR><TD BGCOLOR="#7aaad0"><B>&lt;w&gt;</B></TD></TR>
       <TR><TD ALIGN="LEFT">うぐひす</TD></TR>
       <TR><TD ALIGN="LEFT">lemmaRef: #うぐひす.鴬</TD></TR>
+    </TABLE>>]
+
+    l2 [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="3">
+      <TR><TD BGCOLOR="#7aaad0"><B>&lt;l&gt;</B></TD></TR>
+      <TR><TD ALIGN="LEFT">n: 153</TD></TR>
     </TABLE>>]
 
     w2 [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="3">
@@ -103,6 +113,9 @@ digraph search_uguisu {
       <TR><TD ALIGN="LEFT">ほととぎす</TD></TR>
       <TR><TD ALIGN="LEFT">lemmaRef: #ほととぎす.ほととぎす</TD></TR>
     </TABLE>>]
+
+    l1 -> w1 [style=dashed color="#7aaad0"]
+    l2 -> w2 [style=dashed color="#7aaad0"]
   }
 
   /* ── search path (highlighted) ── */

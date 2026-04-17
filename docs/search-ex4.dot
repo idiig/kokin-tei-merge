@@ -74,8 +74,20 @@ digraph search_kanazukai {
       <TR><TD ALIGN="LEFT">lemmaRef: #こゑ.声</TD></TR>
     </TABLE>>]
 
+    l3 [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="3">
+      <TR><TD BGCOLOR="#7aaad0"><B>&lt;l&gt;</B></TD></TR>
+      <TR><TD ALIGN="LEFT">n: 55</TD></TR>
+    </TABLE>>]
+
+    w3 [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="3">
+      <TR><TD BGCOLOR="#7aaad0"><B>&lt;w&gt;</B></TD></TR>
+      <TR><TD ALIGN="LEFT">こへ</TD></TR>
+      <TR><TD ALIGN="LEFT">lemmaRef: #こへ.声</TD></TR>
+    </TABLE>>]
+
     l1 -> w1 [style=dashed color="#7aaad0"]
     l2 -> w2 [style=dashed color="#7aaad0"]
+    l3 -> w3 [style=dashed color="#7aaad0"]
   }
 
   /* ── reading-index ── */
@@ -87,20 +99,40 @@ digraph search_kanazukai {
     fontname="Helvetica"
     fontsize=10
 
-    hom_koe [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="3">
+    ri_kowe [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="3">
+      <TR><TD BGCOLOR="#88bb77"><B>&lt;entry&gt;</B></TD></TR>
+      <TR><TD ALIGN="LEFT">xml:id: こゑ</TD></TR>
+    </TABLE>>]
+
+    hom_kowe [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="3">
       <TR><TD BGCOLOR="#88bb77"><B>&lt;hom&gt;</B></TD></TR>
       <TR><TD ALIGN="LEFT">xml:id: こゑ.声</TD></TR>
-      <TR><TD ALIGN="LEFT">ref: #声</TD></TR>
     </TABLE>>]
+
+    ri_kohe [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="3">
+      <TR><TD BGCOLOR="#88bb77"><B>&lt;entry&gt;</B></TD></TR>
+      <TR><TD ALIGN="LEFT">xml:id: こへ</TD></TR>
+    </TABLE>>]
+
+    hom_kohe [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="3">
+      <TR><TD BGCOLOR="#88bb77"><B>&lt;hom&gt;</B></TD></TR>
+      <TR><TD ALIGN="LEFT">xml:id: こへ.声</TD></TR>
+    </TABLE>>]
+
+    ri_kowe -> hom_kowe [style=dashed color="#88bb77"]
+    ri_kohe -> hom_kohe [style=dashed color="#88bb77"]
   }
 
   /* ── path A: fails ── */
-  query_str -> no_result [style=bold penwidth=2 color="#cc3333" label="ミスマッチ（こゑ≠こえ）"]
+  query_str -> no_result [style=bold penwidth=2 color="#cc3333" label="ミスマッチ（こゑ/こへ≠こえ）"]
 
   /* ── path B: succeeds ── */
   query_lemma -> w1       [style=bold penwidth=2 color="#cc6600"]
   query_lemma -> w2       [style=bold penwidth=1.5 color="#cc6600"]
-  w1          -> hom_koe  [xlabel="lemmaRef" style=bold penwidth=2 color="#4477bb" dir=back]
-  w2          -> hom_koe  [style=bold penwidth=1.5 color="#4477bb" dir=back]
-  hom_koe     -> e_koe    [xlabel="ref" penwidth=1 color="#88bb77"]
+  query_lemma -> w3       [style=bold penwidth=1.5 color="#cc6600"]
+  w1          -> hom_kowe [xlabel="lemmaRef" style=bold penwidth=2 color="#4477bb" dir=back]
+  w2          -> hom_kowe [style=bold penwidth=1.5 color="#4477bb" dir=back]
+  w3          -> hom_kohe [xlabel="lemmaRef" style=bold penwidth=1.5 color="#4477bb" dir=back]
+  hom_kowe    -> e_koe    [xlabel="ref" penwidth=1.5 color="#cc6600" style=bold]
+  hom_kohe    -> e_koe    [xlabel="ref" penwidth=1.5 color="#cc6600" style=bold]
 }

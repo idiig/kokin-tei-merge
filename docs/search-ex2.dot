@@ -26,23 +26,34 @@ digraph search_aki {
     fontname="Helvetica"
     fontsize=10
 
-    ri_e [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="3">
+    ri_aki [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="3">
       <TR><TD BGCOLOR="#88bb77"><B>&lt;entry&gt;</B></TD></TR>
       <TR><TD ALIGN="LEFT">xml:id: あき</TD></TR>
     </TABLE>>]
 
-    hom1 [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="3">
+    hom_aki_aki [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="3">
       <TR><TD BGCOLOR="#88bb77"><B>&lt;hom&gt;</B></TD></TR>
       <TR><TD ALIGN="LEFT">xml:id: あき.秋</TD></TR>
     </TABLE>>]
 
-    hom2 [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="3">
+    hom_aki_aku [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="3">
       <TR><TD BGCOLOR="#88bb77"><B>&lt;hom&gt;</B></TD></TR>
       <TR><TD ALIGN="LEFT">xml:id: あき.飽く</TD></TR>
     </TABLE>>]
 
-    ri_e -> hom1 [style=dashed color="#88bb77"]
-    ri_e -> hom2 [style=dashed color="#88bb77"]
+    ri_aka [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="3">
+      <TR><TD BGCOLOR="#88bb77"><B>&lt;entry&gt;</B></TD></TR>
+      <TR><TD ALIGN="LEFT">xml:id: あか</TD></TR>
+    </TABLE>>]
+
+    hom_aka_aku [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="3">
+      <TR><TD BGCOLOR="#88bb77"><B>&lt;hom&gt;</B></TD></TR>
+      <TR><TD ALIGN="LEFT">xml:id: あか.飽く</TD></TR>
+    </TABLE>>]
+
+    ri_aki  -> hom_aki_aki [style=dashed color="#88bb77"]
+    ri_aki  -> hom_aki_aku [style=dashed color="#88bb77"]
+    ri_aka  -> hom_aka_aku [style=dashed color="#88bb77"]
   }
 
   /* ── dictionary ── */
@@ -94,8 +105,8 @@ digraph search_aki {
 
     w2 [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="3">
       <TR><TD BGCOLOR="#7aaad0"><B>&lt;w&gt;</B></TD></TR>
-      <TR><TD ALIGN="LEFT">あき</TD></TR>
-      <TR><TD ALIGN="LEFT">lemmaRef: #あき.飽く</TD></TR>
+      <TR><TD ALIGN="LEFT">あか</TD></TR>
+      <TR><TD ALIGN="LEFT">lemmaRef: #あか.飽く</TD></TR>
     </TABLE>>]
 
     l1 -> w1 [style=dashed color="#7aaad0"]
@@ -103,9 +114,10 @@ digraph search_aki {
   }
 
   /* ── search path (highlighted) ── */
-  query -> ri_e  [style=bold penwidth=2 color="#cc6600"]
-  hom1  -> e_aki [xlabel="ref" style=bold penwidth=2 color="#cc6600"]
-  hom2  -> e_aku [xlabel="ref" style=bold penwidth=2 color="#cc6600"]
-  w1    -> hom1  [xlabel="lemmaRef" style=bold penwidth=2 color="#4477bb" dir=back]
-  w2    -> hom2  [xlabel="lemmaRef" style=bold penwidth=2 color="#4477bb" dir=back]
+  query       -> ri_aki      [style=bold penwidth=2 color="#cc6600"]
+  hom_aki_aki -> e_aki       [xlabel="ref" style=bold penwidth=2 color="#cc6600"]
+  hom_aki_aku -> e_aku       [xlabel="ref" style=bold penwidth=2 color="#cc6600"]
+  hom_aka_aku -> e_aku       [xlabel="ref" penwidth=1.2 color="#999999"]
+  w1          -> hom_aki_aki [xlabel="lemmaRef" style=bold penwidth=2 color="#4477bb" dir=back]
+  w2          -> hom_aka_aku [xlabel="lemmaRef" style=bold penwidth=2 color="#4477bb" dir=back]
 }
